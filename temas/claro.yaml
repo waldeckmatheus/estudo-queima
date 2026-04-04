@@ -1,0 +1,11 @@
+# Tema: Claro — Leitura diurna / impressão colorida
+bgcolor: "FAFAFA"
+fgcolor: "1C1C1E"
+headingcolor: "1A3A5C"
+accentcolor: "1A6FA8"
+linkcolor: "1A6FA8"
+codeblockbg: "EEF2F7"
+tableheadbg: "D0E4F5"
+fontsize: "11pt"
+mainfont: "Latin Modern Roman"
+monofont: "Courier New"

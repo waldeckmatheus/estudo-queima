@@ -1,0 +1,230 @@
+% =============================================================
+% Pandoc LaTeX Template — Queima Protocol
+% Motor: XeLaTeX  |  Variáveis de cor injetadas via YAML de tema
+%
+% Variáveis obrigatórias (definidas nos arquivos temas/*.yaml):
+%   bgcolor, fgcolor, headingcolor, accentcolor,
+%   linkcolor, codeblockbg, tableheadbg
+% Variáveis opcionais: fontsize, mainfont, monofont
+% =============================================================
+
+\documentclass[$if(fontsize)$$fontsize$,$endif$a4paper]{article}
+
+% --- Codificação e Idioma ---
+\usepackage{fontspec}
+\usepackage{polyglossia}
+\setmainlanguage{portuguese}
+
+% --- Cores ---
+\usepackage{xcolor}
+\definecolor{PageBg}{HTML}{$bgcolor$}
+\definecolor{BodyFg}{HTML}{$fgcolor$}
+\definecolor{HeadingFg}{HTML}{$headingcolor$}
+\definecolor{AccentFg}{HTML}{$accentcolor$}
+\definecolor{LinkFg}{HTML}{$linkcolor$}
+\definecolor{CodeBg}{HTML}{$codeblockbg$}
+\definecolor{TableHeadBg}{HTML}{$tableheadbg$}
+
+\pagecolor{PageBg}
+\color{BodyFg}
+
+% --- Geometria da Página ---
+\usepackage[a4paper, top=2.5cm, bottom=2.5cm, left=3cm, right=2.5cm]{geometry}
+
+% --- Microtipia e Espaçamento ---
+\usepackage{microtype}
+\usepackage{setspace}
+\setstretch{1.3}
+\setlength{\parskip}{0.6em}
+\setlength{\parindent}{0pt}
+
+% --- Fontes ---
+\setmainfont{$if(mainfont)$$mainfont$$else$Latin Modern Roman$endif$}
+\setmonofont{$if(monofont)$$monofont$$else$Courier New$endif$}[Scale=0.88]
+
+% --- Títulos de Seção ---
+\usepackage{titlesec}
+\titleformat{\section}
+  {\Large\bfseries\color{HeadingFg}}
+  {\textcolor{AccentFg}{\thesection}}{1em}{}
+  [\vspace{-0.2em}\textcolor{AccentFg}{\rule{\linewidth}{0.8pt}}\vspace{0.2em}]
+\titleformat{\subsection}
+  {\large\bfseries\color{HeadingFg}}
+  {\textcolor{AccentFg}{\thesubsection}}{1em}{}
+\titleformat{\subsubsection}
+  {\normalsize\bfseries\color{AccentFg}}
+  {\thesubsubsection}{1em}{}
+
+\titlespacing{\section}{0pt}{1.6em}{0.8em}
+\titlespacing{\subsection}{0pt}{1.2em}{0.5em}
+\titlespacing{\subsubsection}{0pt}{1em}{0.4em}
+
+% --- Hiperlinks ---
+\usepackage[colorlinks=true, breaklinks=true]{hyperref}
+\hypersetup{
+  linkcolor=LinkFg,
+  urlcolor=LinkFg,
+  citecolor=LinkFg,
+  filecolor=LinkFg,
+  pdftitle={$title$},
+  pdfauthor={$author$}
+}
+
+% --- Tabelas ---
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{colortbl}
+\arrayrulecolor{AccentFg}
+\renewcommand{\arraystretch}{1.35}
+\setlength{\LTpre}{1em}
+\setlength{\LTpost}{1em}
+
+% Cabeçalho de tabela colorido:
+% Pandoc gera \toprule / \midrule / \bottomrule — usamos colortbl para pintar o header
+% Aplique \rowcolor{TableHeadBg} manualmente em tabelas customizadas se necessário
+
+% --- Citações (Blockquotes) ---
+\usepackage[framemethod=TikZ]{mdframed}
+\renewenvironment{quote}{%
+  \begin{mdframed}[
+    topline=false, bottomline=false, rightline=false,
+    linecolor=AccentFg, linewidth=3pt,
+    backgroundcolor=CodeBg,
+    fontcolor=BodyFg,
+    innerleftmargin=14pt, innerrightmargin=10pt,
+    innertopmargin=8pt, innerbottommargin=8pt,
+    skipabove=0.8em, skipbelow=0.8em
+  ]
+  \small\itshape
+}{%
+  \end{mdframed}
+}
+
+% --- Blocos de Código ---
+\usepackage{fancyvrb}
+\usepackage{fvextra}
+
+% Ambiente Shaded (gerado por Pandoc com syntax highlighting)
+\newenvironment{Shaded}{%
+  \begin{mdframed}[
+    linecolor=AccentFg, linewidth=0.5pt,
+    backgroundcolor=CodeBg,
+    innerleftmargin=10pt, innerrightmargin=10pt,
+    innertopmargin=6pt, innerbottommargin=6pt,
+    skipabove=0.5em, skipbelow=0.5em
+  ]
+}{%
+  \end{mdframed}
+}
+
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{
+  breaklines, breakanywhere,
+  commandchars=\\\{\},
+  fontsize=\small
+}
+
+% Verbatim simples (sem highlighting)
+\RecustomVerbatimEnvironment{verbatim}{Verbatim}{
+  fontsize=\small, breaklines, breakanywhere
+}
+
+% --- Listas ---
+\usepackage{enumitem}
+\setlist[itemize,1]{label=\textcolor{AccentFg}{\textbullet}, leftmargin=*, itemsep=3pt, topsep=4pt}
+\setlist[itemize,2]{label=\textcolor{AccentFg}{--}, leftmargin=*, itemsep=2pt}
+\setlist[enumerate,1]{label=\textcolor{AccentFg}{\arabic*.}, leftmargin=*, itemsep=3pt, topsep=4pt}
+
+% --- Regra Horizontal ---
+\let\oldhorizontalrule\horizontalrule
+\renewcommand{\rule}[2]{\textcolor{AccentFg}{\oldhorizontalrule{#1}{#2}}}
+
+% --- Imagens ---
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\makeatother
+\setkeys{Gin}{width=\maxwidth, keepaspectratio}
+
+% --- Notas de Rodapé ---
+\usepackage[hang, flushmargin]{footmisc}
+
+% --- Comandos Pandoc Obrigatórios ---
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% Syntax highlighting token colors (fallback neutro se highlighting ativo)
+\newcommand{\AlertTok}[1]{\textcolor{AccentFg}{\textbf{#1}}}
+\newcommand{\AnnotationTok}[1]{\textcolor{HeadingFg}{\textit{#1}}}
+\newcommand{\AttributeTok}[1]{\textcolor{LinkFg}{#1}}
+\newcommand{\BaseNTok}[1]{#1}
+\newcommand{\BuiltInTok}[1]{\textcolor{HeadingFg}{#1}}
+\newcommand{\CharTok}[1]{\textcolor{AccentFg}{#1}}
+\newcommand{\CommentTok}[1]{\textcolor{AccentFg}{\textit{#1}}}
+\newcommand{\CommentVarTok}[1]{\textcolor{AccentFg}{\textit{#1}}}
+\newcommand{\ConstantTok}[1]{\textcolor{AccentFg}{#1}}
+\newcommand{\ControlFlowTok}[1]{\textcolor{HeadingFg}{\textbf{#1}}}
+\newcommand{\DataTypeTok}[1]{\textcolor{HeadingFg}{#1}}
+\newcommand{\DecValTok}[1]{\textcolor{AccentFg}{#1}}
+\newcommand{\DocumentationTok}[1]{\textit{#1}}
+\newcommand{\ErrorTok}[1]{\textcolor{AccentFg}{\textbf{#1}}}
+\newcommand{\ExtensionTok}[1]{#1}
+\newcommand{\FloatTok}[1]{\textcolor{AccentFg}{#1}}
+\newcommand{\FunctionTok}[1]{\textcolor{LinkFg}{#1}}
+\newcommand{\ImportTok}[1]{#1}
+\newcommand{\InformationTok}[1]{\textcolor{HeadingFg}{\textit{#1}}}
+\newcommand{\KeywordTok}[1]{\textcolor{HeadingFg}{\textbf{#1}}}
+\newcommand{\NormalTok}[1]{#1}
+\newcommand{\OperatorTok}[1]{\textcolor{AccentFg}{#1}}
+\newcommand{\OtherTok}[1]{#1}
+\newcommand{\PreprocessorTok}[1]{\textcolor{AccentFg}{\textit{#1}}}
+\newcommand{\RegionMarkerTok}[1]{#1}
+\newcommand{\SpecialCharTok}[1]{\textcolor{AccentFg}{#1}}
+\newcommand{\SpecialStringTok}[1]{\textcolor{AccentFg}{#1}}
+\newcommand{\StringTok}[1]{\textcolor{AccentFg}{#1}}
+\newcommand{\VariableTok}[1]{#1}
+\newcommand{\VerbatimStringTok}[1]{\textcolor{AccentFg}{#1}}
+\newcommand{\WarningTok}[1]{\textcolor{AccentFg}{\textbf{\textit{#1}}}}
+
+% =============================================================
+\begin{document}
+
+% ---- Página de Título ----
+$if(title)$
+\begin{titlepage}
+  \centering
+  \vspace*{3cm}
+  {\textcolor{AccentFg}{\rule{\linewidth}{2pt}}\par}
+  \vspace{1.8cm}
+  {\Huge\bfseries\color{HeadingFg} $title$ \par}
+  \vspace{0.8cm}
+  $if(subtitle)$
+    {\Large\color{AccentFg}\itshape $subtitle$ \par}
+    \vspace{0.5cm}
+  $endif$
+  {\textcolor{AccentFg}{\rule{\linewidth}{0.5pt}}\par}
+  \vspace{2cm}
+  $if(author)${\large\color{BodyFg} $author$ \par}$endif$
+  \vspace{0.4cm}
+  $if(date)${\normalsize\color{BodyFg} $date$ \par}$endif$
+  \vfill
+  {\small\color{AccentFg} Versão\ $if(version)$$version$$else$5.8$endif$ \par}
+  \vspace{1cm}
+  {\textcolor{AccentFg}{\rule{\linewidth}{0.5pt}}\par}
+\end{titlepage}
+\newpage
+$endif$
+
+% ---- Sumário ----
+$if(toc)$
+{
+  \hypersetup{linkcolor=BodyFg}
+  \tableofcontents
+}
+\newpage
+$endif$
+
+% ---- Conteúdo ----
+$body$
+
+\end{document}

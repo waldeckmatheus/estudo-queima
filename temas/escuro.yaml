@@ -1,0 +1,11 @@
+# Tema: Escuro — Leitura noturna / tela
+bgcolor: "1A1A2E"
+fgcolor: "DCDCDC"
+headingcolor: "A8DADC"
+accentcolor: "E94560"
+linkcolor: "E94560"
+codeblockbg: "16213E"
+tableheadbg: "0F3460"
+fontsize: "11pt"
+mainfont: "Latin Modern Roman"
+monofont: "Courier New"

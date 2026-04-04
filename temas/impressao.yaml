@@ -1,0 +1,11 @@
+# Tema: Impressão — Monocromático, tinta otimizada
+bgcolor: "FFFFFF"
+fgcolor: "000000"
+headingcolor: "000000"
+accentcolor: "333333"
+linkcolor: "000000"
+codeblockbg: "F2F2F2"
+tableheadbg: "DDDDDD"
+fontsize: "11pt"
+mainfont: "Latin Modern Roman"
+monofont: "Courier New"
