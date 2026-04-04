@@ -8,5 +8,5 @@ O objetivo na esteira é manter a **Zona 2 (111 a 129 bpm)**. Esse é o ponto de
 * **5 a 40 min:** Alternar **2 minutos de caminhada rápida** com **1 minuto de trote bem leve**. Essa gestão intervalada impede que a frequência cardíaca saia da Zona 2 e torna o exercício mentalmente mais sustentável. [web:30]
 * **40 a 45 min:** Desaceleração gradual.
 
-### 5.3. Atenção ao Equipamento (Olympikus Corre Supra 2)
-A espuma PEBA e a placa de carbono reduzem o estresse mecânico no chassi articular. Porém, o efeito de impulsão da placa pode induzir um ritmo mais acelerado do que o necessário. Monitore o painel da esteira para não ultrapassar o esforço planejado.
+### 5.3. Atenção ao Equipamento (Tênis Categoria "Max Amortecimento" com Placa)
+A presença de espumas premium (como PEBA) e a placa propulsora (seja nylon ou carbono) reduzem o estresse mecânico no chassi articular. Porém, o efeito de impulsão (bounce) pode induzir um ritmo mais acelerado do que o planejado. Monitore sempre o painel da esteira e o smartwatch para garantir que a frequência cardíaca não ultrapasse o teto da Zona 2.
