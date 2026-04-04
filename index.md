@@ -21,6 +21,7 @@ A documentação foi modularizada nos seguintes capítulos menores para facilita
 - [11. Ciclo de Vida do Projeto](capitulos/11-ciclo-vida-projeto.md)
 - [12. Referências Científicas Base](capitulos/12-referencias.md)
 - [13. Comparativo com Dietas Semelhantes](capitulos/13-comparativo-dietas.md)
+- [14. Glossário de Termos Técnicos](capitulos/14-glossario.md)
 
 <!-- 
 Nota para composição: 
