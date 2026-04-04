@@ -5,7 +5,6 @@
 | [web:5] | [Effects of warming-up on physical performance: a systematic review with meta-analysis](https://pubmed.ncbi.nlm.nih.gov/19996770/) |
 | [web:6] | [Zone 2 Cardio: What It Is and Why It Matters for Fat Loss](https://www.myjuniper.co.uk/articles/zone-2-cardio) |
 | [web:8] | [Isomaltulose (Palatinose): A Review of Its Metabolic and Glycaemic Properties](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4963866/) |
-| [web:10] | [Calorie Deficit and Metabolic Adaptation: What You Need to Know](https://www.boltpharmacy.co.uk/guide/calorie-deficit-metabolic-adaptation) |
 | [web:11] | [How a Calorie Deficit Affects the Brain: Mood, Focus and Cognition](https://www.boltpharmacy.co.uk/guide/calorie-deficit-effect-on-brain) |
 | [web:13] | [BENEO: Isomaltulose (Palatinose) Improves Sleep Quality — Study](https://nutraceuticalbusinessreview.com/beneo-isomaltulose-palatinose-improves-sleep-quality-study) |
 | [web:14] | [Hyponatremia and Fluid Intake: Risk Factors in Exercise](https://pmc.ncbi.nlm.nih.gov/articles/PMC2492017/) |
@@ -36,7 +35,7 @@
 | [web:60] | [Caloric Restriction in Humans: Metabolic Adaptation and Hormonal Changes](https://pmc.ncbi.nlm.nih.gov/articles/PMC3167663/) |
 | [web:63] | [Metabolic Adaptation to Caloric Restriction: Role of Thyroid Function and Leptin](https://pmc.ncbi.nlm.nih.gov/articles/PMC4236233/) |
 | [web:65] | [Adaptive Thermogenesis and Caloric Restriction: Long-Term Hormonal Implications](https://pmc.ncbi.nlm.nih.gov/articles/PMC11676201/) |
-| [web:69] | [Exercise Preserves Lean Mass and Performance during Severe Energy Deficit](https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2017.00483/full) |
 | [web:66] | [Heart Rate Zones and Fat Oxidation During Aerobic Exercise: A Review](https://pubmed.ncbi.nlm.nih.gov/37584843/) |
 | [web:67] | [Exercise-Associated Hyponatremia — StatPearls](https://www.ncbi.nlm.nih.gov/books/NBK572145/) |
 | [web:68] | [Medically Managed Very Low Calorie Diet — University of Washington](https://healthonline.washington.edu/sites/default/files/record_pdfs/Medically-Managed-Very-Low-Calorie-Diet.pdf) |
+| [web:69] | [Exercise Preserves Lean Mass and Performance during Severe Energy Deficit](https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2017.00483/full) |
