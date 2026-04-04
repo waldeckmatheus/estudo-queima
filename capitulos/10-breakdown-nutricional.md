@@ -6,7 +6,7 @@
 |---|---|---|
 | Pós-treino (whey) | 100 kcal | 100 kcal |
 | Café (banana + aveia 30g) | 205 kcal | 205 kcal |
-| Almoço (frango + alface) | 278 kcal | 360 kcal |
+| Almoço (frango + salada verde) | 278 kcal | 360 kcal |
 | Lanche (castanhas 2-3) | 66 kcal | 99 kcal |
 | Jantar (omelete + palatinose) | 330 kcal | 400 kcal |
 | **Total sem azeite** | **978 kcal** | **1.164 kcal** |
