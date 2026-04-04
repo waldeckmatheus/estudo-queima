@@ -10,12 +10,14 @@ A tabela alimentar atual opera em uma janela de aproximadamente 978 kcal a 1.284
 * **Taxa Metabólica Basal (TMB):** ~1.647 kcal
 * **Gasto Total Diário Estimado (TDEE):** ~2.400 kcal
 * **Janela de Consumo Sugerida:** ~1.200 kcal (Ajustável conforme feedback do corpo)
+* **Proteína Diária Recomendada:** 1,6 a 2,2 g/kg/dia (com piso operacional de 100 g/dia). [web:56][web:69]
 * **Meta de 30 dias:** Perda de gordura associada a uma queda inicial de retenção hídrica. A massa oxidada é eliminada naturalmente como CO2 (respiração) e H2O (urina/suor). [web:55][web:59]
 
 ### 1.3. Telemetria e Monitoramento de Resultados
 O progresso em um déficit extremo nunca é puramente linear devido à retenção hídrica e flutuações do cortisol.
 * **Pesagem:** A recomendação é subir na balança apenas **1 vez por semana**, sempre no mesmo dia, em jejum e após ir ao banheiro. Pesagens diárias geram ruído nos dados (falso "platô").
 * **Fotografia e Medidas:** As fotos de frente/perfil semanais costumam ser indicadores melhores que a balança na faixa de 15 a 20 dias, pois a inflamação tecidual diminui antes do peso na balança refletir grandes quedas contínuas.
+* **Métricas Secundárias:** Inclua circunferência da cintura, qualidade do sono e desempenho na esteira (RPE/ritmo) para reduzir falsos negativos de progresso.
 
 ### 1.4. Contrato da API (Especificação Técnica do Protocolo)
 O protocolo opera como uma função com entradas controladas e saídas esperadas. Se as entradas estiverem fora das faixas especificadas, as saídas são imprevisíveis.
@@ -26,9 +28,9 @@ Protocol.run(day: 1..30) {
   // -- ENTRADAS (Parametros Obrigatorios) --
   inputs:
     calories:    978..1284 kcal/dia   // margem operacional (ver Secao 1.1)
-    protein:     >= 100g/dia          // eixo anti-catabolico (ver Secao 2)
+    protein:     1.6..2.2 g/kg/dia    // piso pratico: >=100g/dia (ver Secao 2)
     water:       ad libitum           // sensor: cor da urina (amarelo claro)
-    exercise:    45 min/dia Zona 2    // 111-129 bpm (ver Secao 5)
+    exercise:    45 min/dia Zona 2    // alvo individual via FC + RPE (ver Secao 5)
     sleep:       >= 7h/noite          // janela de reparo do hardware
 
   // -- SAIDAS ESPERADAS --
