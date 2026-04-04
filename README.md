@@ -1,6 +1,6 @@
 # Mini-Protocolo de Recomposição Corporal — Sprint de Férias
 
-Documentação técnica do protocolo **Queima v5.8**, gerada em PDF a partir de arquivos Markdown via Pandoc + XeLaTeX.
+Documentação técnica do protocolo **Queima v1.0**, gerada em PDF a partir de arquivos Markdown via Pandoc + XeLaTeX.
 
 ---
 
