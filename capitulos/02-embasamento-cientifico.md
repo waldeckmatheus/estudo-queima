@@ -29,9 +29,11 @@ ERROR    (Deficit)     = ~1.200 kcal/dia -> corpo entra em modo de economia
 
 -- HARD DEADLINE --
   after(day == 30) -> OBRIGATORIO: trigger FASE_2.desmame()
-  // Prolongar o deficit causa: T3 colapso, leptina zero,
-  // catabolismo muscular, fadiga cronica. [web:60][web:63][web:65]
+  // Prolongar o deficit tende a aprofundar queda de T3 e leptina,
+  // elevar o risco de catabolismo muscular e fadiga cronica. [web:60][web:63][web:65]
 ```
+
+Nota de calibracao cientifica: em humanos, a adaptacao costuma aparecer como reducao relevante de T3 e leptina (nao como "zero absoluto"). O racional do limite de 30 dias existe para interromper a piora cumulativa e iniciar a recuperacao controlada na Fase 2. [web:60][web:63][web:65]
 
 ```mermaid
 flowchart LR
