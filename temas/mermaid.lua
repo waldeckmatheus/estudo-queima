@@ -12,6 +12,8 @@ function Meta(meta)
   local fg = pandoc.utils.stringify(meta.fgcolor or "000000")
   local accent = pandoc.utils.stringify(meta.accentcolor or "1A6FA8")
   local heading = pandoc.utils.stringify(meta.headingcolor or "1A3A5C")
+  local tableheadbg = pandoc.utils.stringify(meta.tableheadbg or "D0E4F5")
+  local codeblockbg = pandoc.utils.stringify(meta.codeblockbg or "EEF2F7")
 
   -- Determina se o tema é escuro pelo brilho do background
   local r = tonumber(bg:sub(1,2), 16) or 255
@@ -19,7 +21,14 @@ function Meta(meta)
   local b = tonumber(bg:sub(5,6), 16) or 255
   local luminance = (0.299*r + 0.587*g + 0.114*b) / 255
 
-  local base_theme = luminance < 0.5 and "dark" or "default"
+  local is_dark = luminance < 0.5
+  local base_theme = is_dark and "dark" or "default"
+
+  -- Temas claros: nós com fundo suave (tableheadbg), texto escuro
+  -- Temas escuros: nós com fundo accent, texto claro
+  local node_bg = is_dark and accent or tableheadbg
+  local node_text = is_dark and bg or fg
+  local secondary = is_dark and heading or codeblockbg
 
   -- Gera arquivo JSON de configuração do Mermaid com as cores do tema
   local cfg_path = os.tmpname() .. ".json"
@@ -40,10 +49,10 @@ function Meta(meta)
     "titleColor": "#%s",
     "edgeLabelBackground": "#%s"
   }
-}]], base_theme, accent, fg, heading, fg, bg, bg, bg, accent, heading, bg, fg, bg))
+}]], base_theme, node_bg, node_text, accent, fg, secondary, bg, bg, node_bg, accent, bg, fg, bg))
   fh:close()
 
-  mermaid_cfg = { path = cfg_path, hash_salt = bg .. fg .. accent }
+  mermaid_cfg = { path = cfg_path, hash_salt = bg .. fg .. accent .. tableheadbg }
 end
 
 function CodeBlock(block)
