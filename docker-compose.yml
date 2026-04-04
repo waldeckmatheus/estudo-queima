@@ -5,10 +5,13 @@
 #   docker compose run --rm escuro      # gera dist/queima-<commit>-escuro.pdf
 #   docker compose run --rm impressao   # gera dist/queima-<commit>-impressao.pdf
 #   docker compose up                   # gera todos os temas em paralelo
+#
+# Primeiro build (necessário uma vez para instalar Chromium + mmdc):
+#   docker compose build
 
 services:
   claro:
-    image: pandoc/extra:latest
+    build: .
     volumes:
       - .:/data
     working_dir: /data
@@ -23,13 +26,14 @@ services:
           --metadata-file=metadata.yaml \
           --metadata-file=temas/claro.yaml \
           --template=temas/template.tex \
+          --lua-filter=temas/mermaid.lua \
           --pdf-engine=lualatex \
           --toc \
           -o dist/queima-${COMMIT}-claro.pdf
         echo "Gerado: dist/queima-${COMMIT}-claro.pdf"
 
   escuro:
-    image: pandoc/extra:latest
+    build: .
     volumes:
       - .:/data
     working_dir: /data
@@ -44,13 +48,14 @@ services:
           --metadata-file=metadata.yaml \
           --metadata-file=temas/escuro.yaml \
           --template=temas/template.tex \
+          --lua-filter=temas/mermaid.lua \
           --pdf-engine=lualatex \
           --toc \
           -o dist/queima-${COMMIT}-escuro.pdf
         echo "Gerado: dist/queima-${COMMIT}-escuro.pdf"
 
   impressao:
-    image: pandoc/extra:latest
+    build: .
     volumes:
       - .:/data
     working_dir: /data
@@ -65,6 +70,7 @@ services:
           --metadata-file=metadata.yaml \
           --metadata-file=temas/impressao.yaml \
           --template=temas/template.tex \
+          --lua-filter=temas/mermaid.lua \
           --pdf-engine=lualatex \
           --toc \
           -o dist/queima-${COMMIT}-impressao.pdf

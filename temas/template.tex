@@ -161,7 +161,14 @@ $endif$
 \makeatother
 \setkeys{Gin}{width=\maxwidth, keepaspectratio}
 
-% --- Comandos Pandoc ObrigatÃ³rios ---
+% pandocbounded — exigido pelo Pandoc >=3.x para limitar imagens
+\providecommand{\pandocbounded}[1]{%
+  \begin{minipage}{\linewidth}%
+    \centering #1%
+  \end{minipage}%
+}
+
+% --- Comandos Pandoc Obrigatórios ---
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 
