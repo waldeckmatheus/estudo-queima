@@ -1,5 +1,7 @@
 ## 12. Referências Científicas Base
 
+Esta base inclui evidências de qualidade heterogênea (guidelines, revisões, estudos primários e conteúdo educacional). Para decisões do protocolo, priorize o bloco 12.1.
+
 | # | Título |
 |---|---|
 | [web:5] | [Effects of warming-up on physical performance: a systematic review with meta-analysis](https://pubmed.ncbi.nlm.nih.gov/19996770/) |
@@ -41,3 +43,28 @@
 | [web:69] | [Exercise Preserves Lean Mass and Performance during Severe Energy Deficit](https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2017.00483/full) |
 | [web:70] | [Accuracy in Wrist-Worn, Sensor-Based Measurements of Heart Rate and Energy Expenditure in a Diverse Cohort](https://pmc.ncbi.nlm.nih.gov/articles/PMC5491979/) |
 | [web:71] | [Accuracy of Commercially Available Heart Rate Monitors in Athletes: A Prospective Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC6732081/) |
+
+### 12.1. Curadoria Rápida por Nível de Evidência
+
+**Alta prioridade (guideline/revisão robusta/estudo de maior impacto):**
+* [web:52] VLCD e segurança metabólica.
+* [web:56] Proteína mais alta em déficit + exercício para preservar massa magra.
+* [web:60], [web:63], [web:65] Adaptação metabólica/hormonal em restrição calórica.
+* [web:39], [web:67] Hiponatremia associada ao exercício (riscos e conduta).
+* [web:66] Relação entre zonas de frequência cardíaca e metabolismo lipídico.
+
+**Suporte complementar (útil, mas não central para decisão crítica):**
+* [web:20] Fasted vs fed para metabolismo de gordura.
+* [web:23], [web:46], [web:47] Digestão proteica e suporte à massa magra.
+* [web:70], [web:71] Acurácia de sensores cardíacos.
+
+**Baixa prioridade para decisão clínica (fontes comerciais/blog):**
+* [web:6], [web:11], [web:13], [web:21], [web:27], [web:35], [web:38], [web:40], [web:41], [web:59]
+
+### 12.2. Artigos-Chave para Estudo da Queima de Gordura
+
+1. **[web:52]** Very Low-Calorie Diets (NIH Task Force, JAMA): eficácia e limites de segurança para déficit agressivo.
+2. **[web:56]** Higher vs Lower Protein During Energy Deficit + Intense Exercise: maior proteína melhora preservação de massa magra.
+3. **[web:60] / [web:63]** Metabolic adaptation em humanos: redução hormonal adaptativa durante déficit.
+4. **[web:39]** Guideline de hiponatremia no exercício: risco, prevenção e manejo.
+5. **[web:66]** Revisão sobre zonas de FC e oxidação lipídica: suporte para treino aeróbico em Zona 2.
