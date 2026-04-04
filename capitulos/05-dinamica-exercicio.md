@@ -1,7 +1,7 @@
 ## 5. Dinâmica do Exercício (Mecânica e Hardware)
 
 ### 5.1. Zona de Frequência Cardíaca (Gestão de Esforço)
-O objetivo na esteira é manter a **Zona 2 (111 a 129 bpm)**. Esse é o ponto de eficiência onde o corpo usa predominantemente o oxigênio para metabolizar a gordura, sem gerar pico de estresse no sistema nervoso central. [web:66][web:61]
+O objetivo na esteira é manter a **Zona 2 (111 a 129 bpm)**. Esse é o ponto de eficiência onde o corpo usa predominantemente o oxigênio para metabolizar a gordura, sem gerar pico de estresse no sistema nervoso central. [web:66][web:20]
 
 ### 5.2. O Loop de Ritmo (Caminhada/Trote)
 * **0 a 5 min:** Caminhada leve para lubrificação articular. O aquecimento eleva gradualmente a temperatura tecidual e melhora a eficiência mecânica. [web:5]
