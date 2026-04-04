@@ -43,30 +43,30 @@ flowchart TD
 ```
 
 ### Erro 01: Sensação de Língua Seca (Xerostomia)
-Frequentemente ligada ao uso de termogênicos, respiração bucal no treino e transpiração alta. [web:16]
+Frequentemente ligada ao uso de estimulantes (cafeína/termogênicos), que ativam o sistema nervoso simpático reduzindo o fluxo salivar, [web:72] à respiração bucal durante o treino e à sudorese elevada com volume hídrico restrito. [web:16]
 
 **O Patch de Correção:**
-* **Pequenos goles de água:** Beba goles curtos apenas para "molhar o hardware", espalhando a água pela cavidade oral antes de engolir.
-* **Manter a Pitada de Sal:** A oferta de sódio ajuda a reter a hidratação nos tecidos e mucosas.
-* **Goma de Mascar (Zero Açúcar):** O ato mecânico de mascar estimula as glândulas salivares sem adicionar calorias ou gerar pico de insulina.
-* **Foco na Respiração Nasal:** Priorize puxar o ar pelo nariz durante o cárdio.
+* **Pequenos goles de água:** Beba goles curtos apenas para "molhar o hardware", espalhando a água pela cavidade oral antes de engolir. Evite grandes volumes de uma vez — o risco de hiponatremia dilucional é real em contexto de déficit com sudorese. [web:39]
+* **Manter a Pitada de Sal:** A oferta de sódio ajuda a reter a hidratação nos tecidos e mucosas via gradiente osmótico, mantendo o volume extracelular. [web:26]
+* **Goma de Mascar (Zero Açúcar):** A mastigação mecânica estimula o reflexo salivar parassimpático sem adicionar calorias ou gerar pico insulínico.
+* **Foco na Respiração Nasal:** Priorize puxar o ar pelo nariz durante o cárdio. A respiração bucal crônica resseca a mucosa oral e potencializa a xerostomia induzida pelo simpático.
 
 ### Erro 02: Picos de Fome Aguda (Grelina Alta)
-O corpo dispara sinais de alerta exigindo glicose rápida. Costuma ocorrer no final do dia ou pós-treino intenso.
+Durante a restrição calórica, a grelina plasmática (hormônio orexigênico produzido pelo estômago) se eleva de forma adaptativa, gerando ondas de fome aguda que são tipicamente episódicas e autolimitadas. [web:60] Esses picos costumam ocorrer no final do dia ou pós-treino intenso, quando o déficit energético acumulado é maior.
 
 **O Patch de Correção:**
-* **Volume Hídrico com Gás:** Ingerir água com gás (300-500ml). A expansão gástrica gera saciedade mecânica temporária.
-* **Café/Chá Descafeinado Quente:** Líquidos quentes retardam o esvaziamento gástrico e suprimem levemente o apetite.
-* **Distração Cognitiva:** A fome em pico dura de 15 a 20 minutos. Mude de ambiente ou inicie uma tarefa mentalmente exigente até o "aviso do sistema" silenciar.
-* **Ajuste de Fibras:** Aumente o volume de folhas escuras na refeição anterior para maximizar a distensão estomacal.
+* **Volume Hídrico com Gás:** Ingerir água com gás (300-500ml). A distensão gástrica ativa mecanorreceptores vagais que sinalizam saciedade ao núcleo do trato solitário, gerando supressão transitória do apetite mesmo sem ingestão calórica.
+* **Café/Chá Descafeinado Quente:** Líquidos quentes retardam o esvaziamento gástrico e prolongam a sinalização de saciedade mecânica. A cafeína, quando presente, tem efeito anorexigênico adicional via ativação simpática. [web:72]
+* **Distração Cognitiva:** A onda de grelina é autolimitada — tipicamente resolve em 15 a 20 minutos mesmo sem alimentação. [web:60] Mude de ambiente ou inicie uma tarefa mentalmente exigente até o sinal hormonal dissipar.
+* **Ajuste de Fibras:** Aumente o volume de folhas escuras e vegetais fibrosos na refeição anterior para maximizar a distensão estomacal e retardar o trânsito, prolongando a saciedade pós-prandial.
 
 ### Erro 03: Letargia e "Brain Fog" Súbito
-A queda de glicose no sangue (hipoglicemia leve) pode deixar o raciocínio lento e o corpo pesado (sensação de "bateria a 5%").
+A restrição calórica severa reduz a disponibilidade de glicose cerebral e altera a neurotransmissão dopaminérgica e serotoninérgica, provocando lentidão cognitiva, redução da motivação e sensação de "bateria a 5%". [web:16][web:11] A glicemia pode estar tecnicamente normal, mas a taxa de fornecimento ao SNC fica subótima durante picos de demanda.
 
 **O Patch de Correção:**
-* **Sódio de Ação Rápida:** Colocar uma pequena pitada de sal sob a língua. A absorção sublingual de sódio eleva levemente a pressão arterial, clareando o "brain fog".
-* **Redução de Carga Cognitiva:** Evite tomar decisões complexas durante a janela de letargia.
-* **Alavanca da Palatinose (Se Prescrita):** Utilize a suplementação de carboidrato de baixo índice glicêmico antes do treino para garantir suporte basal ao cérebro (ver Seção 6.2).
+* **Sódio de Ação Rápida:** Colocar uma pequena pitada de sal sob a língua. A absorção sublingual de sódio eleva levemente a volemia e a pressão de perfusão cerebral, mitigando o brain fog de origem hemodinâmica. [web:26]
+* **Redução de Carga Cognitiva:** Evite tomar decisões complexas durante a janela de letargia. O córtex pré-frontal é particularmente sensível à restrição energética. [web:16]
+* **Alavanca da Palatinose (Se Prescrita):** Utilize a suplementação de carboidrato de baixo índice glicêmico (isomaltulose) antes do treino para garantir liberação lenta e sustentada de glicose ao cérebro (ver Seção 6.2). [web:8]
 * **Avaliação de Aborto de Missão:** Se a letargia vier acompanhada de tontura grave ou visão turva, aborte o déficit do dia e consuma um carboidrato simples (ver Seção 7 para sinais formais de interrupção). A segurança do hardware vem antes do protocolo.
 
 ### Erro 04: Sensação Intermitente de 10% de Desmaio em Esforços Cotidianos (Tontura Leve)
@@ -82,6 +82,8 @@ A tontura não é um sinal de dano — é o sistema avisando que a transição m
 
 **O Patch de Correção:**
 * **Abortar a atividade física secundária imediatamente:** Sente-se ou deite-se. O sintoma cessa rapidamente em repouso. O corpo simplesmente não tem "bateria" suficiente para suprir os músculos das pernas e o cérebro simultaneamente nestas condições adversas.
-* **Terceirização e Conveniência (Conservação de NEAT):** Substitua idas a pé ao mercado ou farmácia por aplicativos de delivery (Ifood, Rappi, etc.). Trate essas ferramentas como recursos valiosos de autopreservação energética, não como luxo desnecessário.
+* **Terceirização e Conveniência (Conservação de NEAT — Non-Exercise Activity Thermogenesis, gasto energético em atividades cotidianas não-programadas):** Substitua idas a pé ao mercado ou farmácia por aplicativos de delivery (Ifood, Rappi, etc.). Trate essas ferramentas como recursos valiosos de autopreservação energética, não como luxo desnecessário.
 * **Repouso Ativo ("Cérebro Ligado, Corpo Desligado"):** Com o corpo em repouso absoluto induzido (sentado/deitado) e sob efeito da cafeína, aproveite esse momento para "jogar a energia para a mente", dedicando-se à leitura, estudos, trabalho remoto assistido ou processamento criativo.
-* **Aporte Hídrico de Emergência (Auxílio Salino):** Opcionalmente, utilize um copo de água com uma pitada sublingual de sal para elevar levemente o volume plasmático e contornar efeitos da hipotensão ortostática provocada pelo movimento repentino.
+* **Aporte Hídrico de Emergência (Auxílio Salino):** Opcionalmente, utilize um copo de água com uma pitada sublingual de sal para elevar levemente o volume plasmático e contornar efeitos da hipotensão ortostática provocada pelo movimento repentino. [web:26]
+
+> **Critério de Escalação:** Se este evento ocorrer ≥2 vezes em 72 horas mesmo com repouso adequado e hidratação salina, o limiar de segurança foi atingido — escalone para `EVENT.TONTURA_GRAVE` e aplique o protocolo de interrupção da Seção 7.1. [web:52]
