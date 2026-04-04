@@ -4,6 +4,29 @@ Um déficit calórico severo (~900 kcal) gera alertas fisiológicos. O corpo ten
 
 *As recomendações abaixo são orientações práticas para manter a adesão; não constituem diretrizes clínicas formais.*
 
+### 9.0. Event Map (Mapa de Eventos do Sistema)
+O corpo emite "eventos" (sintomas) e o protocolo define "handlers" (respostas). A severidade determina a ação:
+
+```
+// -- SEVERITY: LOW --
+on(EVENT.XEROSTOMIA)     -> handler: Erro 01 (goles curtos, sal, goma)
+on(EVENT.SEDE_EXCESSIVA) -> handler: checar cor da urina -> ajustar volume
+
+// -- SEVERITY: MEDIUM --
+on(EVENT.GRELINA_SPIKE)  -> handler: Erro 02 (agua com gas, distracao 15min)
+on(EVENT.BRAIN_FOG)      -> handler: Erro 03 (sal sublingual, reduzir carga)
+on(EVENT.INSONIA)        -> handler: antecipar palatinose, cortar cafeina 14h+
+
+// -- SEVERITY: HIGH --
+on(EVENT.PALPITACAO)     -> handler: ABORT(estimulantes), elevar kcal ao teto
+
+// -- SEVERITY: CRITICAL -- ABORT PROTOCOL --
+on(EVENT.TONTURA_GRAVE)  -> handler: ABORT(deficit), carb simples imediato
+on(EVENT.VISAO_TURVA)    -> handler: ABORT(deficit), carb simples imediato
+on(EVENT.DOENCA)         -> handler: switch_to(MAINTENANCE ~2400 kcal)
+on(EVENT.PLATO_>14DIAS)  -> handler: NOP -- ruido esperado, nao reagir
+```
+
 ### Erro 01: Sensação de Língua Seca (Xerostomia)
 Frequentemente ligada ao uso de termogênicos, respiração bucal no treino e transpiração alta. [web:16]
 
