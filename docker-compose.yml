@@ -5,6 +5,7 @@
 #   docker compose run --rm escuro      # gera dist/queima-<commit>-escuro.pdf
 #   docker compose run --rm impressao   # gera dist/queima-<commit>-impressao.pdf
 #   docker compose run --rm terminal    # gera dist/queima-<commit>-terminal.pdf
+#   docker compose run --rm resumo      # gera dist/queima-<commit>-resumo.pdf
 #   docker compose up                   # gera todos os temas em paralelo
 #
 # Primeiro build (necessário uma vez para instalar Chromium + mmdc):
@@ -98,3 +99,26 @@ services:
           --toc \
           -o dist/queima-${COMMIT}-terminal.pdf
         echo "Gerado: dist/queima-${COMMIT}-terminal.pdf"
+
+  resumo:
+    build: .
+    volumes:
+      - .:/data
+    working_dir: /data
+    environment:
+      - COMMIT=${COMMIT:-local}
+    entrypoint:
+      - /bin/sh
+      - -c
+      - |-
+        mkdir -p dist
+        pandoc capitulos/*.md \
+          --metadata-file=metadata.yaml \
+          --metadata-file=temas/resumo.yaml \
+          --template=temas/template.tex \
+          --lua-filter=temas/mermaid.lua \
+          --lua-filter=temas/resumo.lua \
+          --pdf-engine=lualatex \
+          --toc \
+          -o dist/queima-${COMMIT}-resumo.pdf
+        echo "Gerado: dist/queima-${COMMIT}-resumo.pdf"

@@ -32,6 +32,16 @@
 \definecolor{CodeBg}{HTML}{$codeblockbg$}
 \definecolor{TableHeadBg}{HTML}{$tableheadbg$}
 
+% --- Marca-texto (highlight) ---
+\usepackage{soul}
+$if(highlightcolor)$
+\definecolor{HighlightBg}{HTML}{$highlightcolor$}
+\sethlcolor{HighlightBg}
+\newcommand{\queimahl}[1]{\hl{#1}}
+$else$
+\newcommand{\queimahl}[1]{\textbf{#1}}
+$endif$
+
 \pagecolor{PageBg}
 \color{BodyFg}
 
