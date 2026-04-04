@@ -45,6 +45,12 @@ Esta base inclui evidências de qualidade heterogênea (guidelines, revisões, e
 | [web:71] | [Accuracy of Commercially Available Heart Rate Monitors in Athletes: A Prospective Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC6732081/) |
 | [web:72] | [Caffeine: Cognitive and Physical Performance Enhancer or Psychoactive Drug? — Cappelletti et al., Curr Neuropharmacol 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC4462044/) |
 | [web:73] | [Caffeine and Exercise: Metabolism, Endurance and Performance — Graham TE, Sports Med 2001](https://pubmed.ncbi.nlm.nih.gov/11583104/) |
+| [web:74] | [Once-Weekly Semaglutide in Adults with Overweight or Obesity (STEP 1) — Wilding JP et al., NEJM 2021](https://pubmed.ncbi.nlm.nih.gov/33567185/) |
+| [web:75] | [Two-Year Effects of Semaglutide in Adults with Overweight or Obesity (STEP 5) — Garvey WT et al., Nat Med 2022](https://pubmed.ncbi.nlm.nih.gov/35132148/) |
+| [web:77] | [Tirzepatide Once Weekly for the Treatment of Obesity (SURMOUNT-1) — Jastreboff AM et al., NEJM 2022](https://pubmed.ncbi.nlm.nih.gov/35658024/) |
+| [web:78] | [Semaglutide and Cardiovascular Outcomes in Obesity without Diabetes (SELECT) — Lincoff AM et al., NEJM 2023](https://pubmed.ncbi.nlm.nih.gov/37952131/) |
+| [web:79] | [Weight Regain and Cardiometabolic Effects after Withdrawal of Semaglutide (STEP 1 Extension) — Wilding JPH et al., Diabetes Obes Metab 2022](https://pubmed.ncbi.nlm.nih.gov/35441470/) |
+| [web:80] | [Effect of GLP-1 Receptor Agonists on Body Composition: A Systematic Review and Meta-Analysis — Ida S et al., Diabetes Metab 2021](https://pubmed.ncbi.nlm.nih.gov/33127540/) |
 
 ### 12.1. Curadoria Rápida por Nível de Evidência
 
@@ -53,6 +59,10 @@ Esta base inclui evidências de qualidade heterogênea (guidelines, revisões, e
 * [web:56] Proteína mais alta em déficit + exercício para preservar massa magra.
 * [web:60], [web:63], [web:65] Adaptação metabólica/hormonal em restrição calórica.
 * [web:39], [web:67] Hiponatremia associada ao exercício (riscos e conduta).
+* [web:74], [web:75], [web:77] Ensaios clínicos pivotais de canetas emagrecedoras (STEP 1, STEP 5, SURMOUNT-1).
+* [web:78] Desfecho cardiovascular com semaglutida em obesidade (SELECT).
+* [web:79] Recuperação de peso após cessação de semaglutida.
+* [web:80] Composição corporal sob agonistas GLP-1 (revisão sistemática).
 * [web:66] Relação entre zonas de frequência cardíaca e metabolismo lipídico.
 
 **Suporte complementar (útil, mas não central para decisão crítica):**
