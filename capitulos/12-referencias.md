@@ -53,6 +53,9 @@ Esta base inclui evidências de qualidade heterogênea (guidelines, revisões, e
 | [web:80] | [Effect of GLP-1 Receptor Agonists on Body Composition: A Systematic Review and Meta-Analysis — Ida S et al., Diabetes Metab 2021](https://pubmed.ncbi.nlm.nih.gov/33127540/) |
 | [web:81] | [The Effect of Abdominal Exercise on Abdominal Fat — Vispute SS et al., J Strength Cond Res 2011](https://journals.lww.com/nsca-jscr/fulltext/2011/09000/the_effect_of_abdominal_exercise_on_abdominal_fat.27.aspx) |
 | [web:82] | [Are Blood Flow and Lipolysis in Subcutaneous Adipose Tissue Influenced by Contractions in Adjacent Muscles in Humans? — Stallknecht B et al., Am J Physiol Endocrinol Metab 2007](https://journals.physiology.org/doi/full/10.1152/ajpendo.00215.2006) |
+| [web:83] | [Insufficient Sleep Undermines Dietary Efforts to Reduce Adiposity — Nedeltcheva AV et al., Ann Intern Med 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC2951287/) |
+| [web:84] | [Body Composition Changes Associated with Fasted Versus Non-Fasted Aerobic Exercise — Schoenfeld BJ et al., J Int Soc Sports Nutr 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4242477/) |
+| [web:85] | [Biology's Response to Dieting: The Impetus for Weight Regain — MacLean PS et al., Am J Physiol Regul Integr Comp Physiol 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC3174765/) |
 
 ### 12.1. Curadoria Rápida por Nível de Evidência
 
@@ -73,6 +76,9 @@ Esta base inclui evidências de qualidade heterogênea (guidelines, revisões, e
 * [web:70], [web:71] Acurácia de sensores cardíacos.
 * [web:81] Exercício abdominal isolado não reduz gordura abdominal (RCT).
 * [web:82] Lipólise local adjacente a músculos em contração: magnitude irrisória.
+* [web:83] Sono insuficiente reduz perda de gordura em 55% durante déficit calórico (RCT crossover).
+* [web:84] Exercício em jejum vs. alimentado: sem diferença de composição corporal em dieta hipocalórica (RCT).
+* [web:85] Revisão integrativa sobre adaptações biológicas ao déficit calórico e reganho de peso.
 
 **Baixa prioridade para decisão clínica (fontes comerciais/blog):**
 * [web:6], [web:11], [web:13], [web:21], [web:27], [web:35], [web:38], [web:40], [web:41], [web:59]
