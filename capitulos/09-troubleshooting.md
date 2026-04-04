@@ -28,5 +28,5 @@ A queda de glicose no sangue (hipoglicemia leve) pode deixar o raciocínio lento
 **O Patch de Correção:**
 * **Sódio de Ação Rápida:** Colocar uma pequena pitada de sal sob a língua. A absorção sublingual de sódio eleva levemente a pressão arterial, clareando o "brain fog".
 * **Redução de Carga Cognitiva:** Evite tomar decisões complexas durante a janela de letargia.
-* **Alavanca da Palatinose (Se Prescrita):** Utilize a suplementação de carboidrato de baixo índice glicêmico antes do treino para garantir suporte basal ao cérebro.
-* **Avaliação de Aborto de Missão:** Se a letargia vier acompanhada de tontura grave ou visão turva, aborte o déficit do dia e consuma um carboidrato simples. A segurança do hardware vem antes do protocolo.
+* **Alavanca da Palatinose (Se Prescrita):** Utilize a suplementação de carboidrato de baixo índice glicêmico antes do treino para garantir suporte basal ao cérebro (ver Seção 6.2).
+* **Avaliação de Aborto de Missão:** Se a letargia vier acompanhada de tontura grave ou visão turva, aborte o déficit do dia e consuma um carboidrato simples (ver Seção 7 para sinais formais de interrupção). A segurança do hardware vem antes do protocolo.
