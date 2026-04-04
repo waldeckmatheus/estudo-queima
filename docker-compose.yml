@@ -23,8 +23,8 @@ services:
           --metadata-file=metadata.yaml \
           --metadata-file=temas/claro.yaml \
           --template=temas/template.tex \
-          --pdf-engine=xelatex \
-          --toc --number-sections \
+          --pdf-engine=lualatex \
+          --toc \
           -o dist/queima-${COMMIT}-claro.pdf
         echo "Gerado: dist/queima-${COMMIT}-claro.pdf"
 
@@ -44,8 +44,8 @@ services:
           --metadata-file=metadata.yaml \
           --metadata-file=temas/escuro.yaml \
           --template=temas/template.tex \
-          --pdf-engine=xelatex \
-          --toc --number-sections \
+          --pdf-engine=lualatex \
+          --toc \
           -o dist/queima-${COMMIT}-escuro.pdf
         echo "Gerado: dist/queima-${COMMIT}-escuro.pdf"
 
@@ -65,7 +65,7 @@ services:
           --metadata-file=metadata.yaml \
           --metadata-file=temas/impressao.yaml \
           --template=temas/template.tex \
-          --pdf-engine=xelatex \
-          --toc --number-sections \
+          --pdf-engine=lualatex \
+          --toc \
           -o dist/queima-${COMMIT}-impressao.pdf
         echo "Gerado: dist/queima-${COMMIT}-impressao.pdf"

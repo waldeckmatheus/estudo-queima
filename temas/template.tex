@@ -10,9 +10,17 @@
 
 \documentclass[$if(fontsize)$$fontsize$,$endif$a4paper]{article}
 
-% --- CodificaÃ§Ã£o e Idioma ---
-\usepackage{fontspec}
-\usepackage{lmodern}
+% --- Codificação e Idioma ---
+\usepackage{iftex}
+\ifXeTeX
+  \usepackage{fontspec}
+\else\ifLuaTeX
+  \usepackage{fontspec}
+\else
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\fi\fi
+\usepackage[portuguese]{babel}
 
 % --- Cores ---
 \usepackage{xcolor}
@@ -212,7 +220,7 @@ $if(title)$
   \vspace{0.4cm}
   $if(date)${\normalsize\color{BodyFg} $date$ \par}$endif$
   \vfill
-  {\small\color{AccentFg} VersÃ£o\ $if(version)$$version$$else$5.8$endif$ \par}
+  {\small\color{AccentFg} Vers\~ao\ $if(version)$$version$$else$1.0.0$endif$ \par}
   \vspace{1cm}
   {\textcolor{AccentFg}{\rule{\linewidth}{0.5pt}}\par}
 \end{titlepage}
