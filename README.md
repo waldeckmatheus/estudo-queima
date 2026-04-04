@@ -1,4 +1,4 @@
-# Mini-Protocolo de Recomposição Corporal — Sprint de Férias
+# Mini-Protocolo de Cutting Assistido — Sprint de Férias
 
 Documentação técnica do protocolo **Queima v1.0**, gerada em PDF a partir de arquivos Markdown via Pandoc + XeLaTeX.
 

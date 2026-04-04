@@ -1,4 +1,4 @@
-# Documentação Técnica: Mini-Protocolo de Recomposição Corporal - Sprint de Férias (Versão 5.8)
+# Documentação Técnica: Mini-Protocolo de Cutting Assistido - Sprint de Férias (Versão 5.8)
 
 > **Release Notes (Versão 5.8 - Auditoria de Referências):** > Esta versão incorpora as correções do Relatório de Auditoria Externa. As referências foram saneadas para garantir que o embasamento científico seja rigoroso, removendo *mismatches* estruturais, desambiguando URLs duplicadas e corrigindo artigos inconsistentes (como a substituição do artigo sobre vibroarthrografia pelo estudo correto sobre aquecimento pré-treino, e a remoção da literatura contraditória sobre o pinoresinol e vitaminas lipossolúveis).
 
