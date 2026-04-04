@@ -39,3 +39,5 @@
 | [web:67] | [Exercise-Associated Hyponatremia — StatPearls](https://www.ncbi.nlm.nih.gov/books/NBK572145/) |
 | [web:68] | [Medically Managed Very Low Calorie Diet — University of Washington](https://healthonline.washington.edu/sites/default/files/record_pdfs/Medically-Managed-Very-Low-Calorie-Diet.pdf) |
 | [web:69] | [Exercise Preserves Lean Mass and Performance during Severe Energy Deficit](https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2017.00483/full) |
+| [web:70] | [Accuracy in Wrist-Worn, Sensor-Based Measurements of Heart Rate and Energy Expenditure in a Diverse Cohort](https://pmc.ncbi.nlm.nih.gov/articles/PMC5491979/) |
+| [web:71] | [Accuracy of Commercially Available Heart Rate Monitors in Athletes: A Prospective Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC6732081/) |
