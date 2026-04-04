@@ -74,5 +74,7 @@ stateDiagram-v2
 | **15:30** | Lanche / Pausa | 2 a 3 unidades de Castanha-do-Brasil. |
 | **19:30** | Jantar | Omelete (3 a 4 ovos) + vegetais + 30g de Palatinose ou Waxy Maize (em água), opcionais conforme a fome e o desgaste do dia. |
 
+> **Nota de Conservação de Energia:** Durante a janela matinal de jejum, se houver ingestão de estimulantes, desencoraja-se terminantemente realizar tarefas instrumentais extenuantes (como caminhadas longas ao mercado). A combinação de déficit acentuado, pico termogênico e esforço incidental não planejado pode ativar sintomas de tontura leve (Ver Troubleshooting, Erro 04). Terceirize o esforço físico (delivery) e transfira sua energia para repouso ativo, como atividades cognitivas (estudos/leitura).
+
 ### 3.2. Regra do Azeite
 O azeite passa a ser um ingrediente rigorosamente contabilizado devido à sua alta densidade energética (~120kcal por colher de sopa). Uma colher de sopa desloca o total diário para a margem operacional de 1.098 a 1.284 kcal/dia. Além do fator de saciedade (retardo de esvaziamento gástrico), vitaminas lipossolúveis presentes no polivitamínico (A, D, E e K) são absorvidas melhor na presença de gordura alimentar, tornando o azeite do almoço **funcional para a biodisponibilidade** dos micronutrientes. [web:35][web:40][web:43]
