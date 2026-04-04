@@ -1,7 +1,22 @@
 ## 5. Dinâmica do Exercício (Mecânica e Hardware)
 
 ### 5.1. Zona de Frequência Cardíaca (Gestão de Esforço)
-O objetivo na esteira é manter a **Zona 2 (111 a 129 bpm)**. Esse é o ponto de eficiência onde o corpo usa predominantemente o oxigênio para metabolizar a gordura, sem gerar pico de estresse no sistema nervoso central. [web:66][web:20]
+O objetivo na esteira é manter a **Zona 2**. A faixa **111 a 129 bpm** pode funcionar como referência inicial para o perfil atual, mas não é universal. Esse é o ponto de eficiência onde o corpo usa predominantemente o oxigênio para metabolizar gordura, sem gerar pico de estresse no sistema nervoso central. [web:66][web:20]
+
+Para personalizar de forma simples, use uma versão prática da fórmula de Karvonen:
+
+```
+FC_alvo = (FC_max - FC_repouso) * intensidade + FC_repouso
+
+intensidade da Zona 2: 0,60 a 0,70
+FC_max estimada: 220 - idade
+```
+
+Checklist rápido de calibração:
+1. Meça FC de repouso ao acordar por 3 dias e use a média.
+2. Calcule a faixa alvo da Zona 2 pela fórmula.
+3. Use RPE como validação: fala em frases completas, sem ofegar.
+4. Se o sensor divergir >10 bpm, priorize cinta torácica ou RPE. [web:70][web:71]
 
 ### 5.2. O Loop de Ritmo (Caminhada/Trote)
 * **0 a 5 min:** Caminhada leve para lubrificação articular. O aquecimento eleva gradualmente a temperatura tecidual e melhora a eficiência mecânica. [web:5]
