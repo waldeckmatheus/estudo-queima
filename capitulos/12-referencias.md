@@ -51,6 +51,8 @@ Esta base inclui evidências de qualidade heterogênea (guidelines, revisões, e
 | [web:78] | [Semaglutide and Cardiovascular Outcomes in Obesity without Diabetes (SELECT) — Lincoff AM et al., NEJM 2023](https://pubmed.ncbi.nlm.nih.gov/37952131/) |
 | [web:79] | [Weight Regain and Cardiometabolic Effects after Withdrawal of Semaglutide (STEP 1 Extension) — Wilding JPH et al., Diabetes Obes Metab 2022](https://pubmed.ncbi.nlm.nih.gov/35441470/) |
 | [web:80] | [Effect of GLP-1 Receptor Agonists on Body Composition: A Systematic Review and Meta-Analysis — Ida S et al., Diabetes Metab 2021](https://pubmed.ncbi.nlm.nih.gov/33127540/) |
+| [web:81] | [The Effect of Abdominal Exercise on Abdominal Fat — Vispute SS et al., J Strength Cond Res 2011](https://journals.lww.com/nsca-jscr/fulltext/2011/09000/the_effect_of_abdominal_exercise_on_abdominal_fat.27.aspx) |
+| [web:82] | [Are Blood Flow and Lipolysis in Subcutaneous Adipose Tissue Influenced by Contractions in Adjacent Muscles in Humans? — Stallknecht B et al., Am J Physiol Endocrinol Metab 2007](https://journals.physiology.org/doi/full/10.1152/ajpendo.00215.2006) |
 
 ### 12.1. Curadoria Rápida por Nível de Evidência
 
@@ -69,6 +71,8 @@ Esta base inclui evidências de qualidade heterogênea (guidelines, revisões, e
 * [web:20] Fasted vs fed para metabolismo de gordura.
 * [web:23], [web:46], [web:47] Digestão proteica e suporte à massa magra.
 * [web:70], [web:71] Acurácia de sensores cardíacos.
+* [web:81] Exercício abdominal isolado não reduz gordura abdominal (RCT).
+* [web:82] Lipólise local adjacente a músculos em contração: magnitude irrisória.
 
 **Baixa prioridade para decisão clínica (fontes comerciais/blog):**
 * [web:6], [web:11], [web:13], [web:21], [web:27], [web:35], [web:38], [web:40], [web:41], [web:59]
