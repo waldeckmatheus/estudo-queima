@@ -39,6 +39,29 @@ O corpo transita entre estados discretos ao longo do dia. Cada transição dispa
   on(DOENCA)         -> [MAINTENANCE]      // Secao 1.5
 ```
 
+```mermaid
+stateDiagram-v2
+    direction TB
+    [*] --> SLEEP
+    SLEEP --> FASTED : wake + agua + sal
+    FASTED --> PRE_WORKOUT : aquecimento
+    PRE_WORKOUT --> POST_WORKOUT : 45min Zona 2
+    POST_WORKOUT --> ANABOLIC_WINDOW : whey isolado
+    ANABOLIC_WINDOW --> FED_MANHA : banana + aveia
+    FED_MANHA --> FED_TARDE : almoco + azeite
+    FED_TARDE --> FED_FIM_TARDE : castanhas
+    FED_FIM_TARDE --> RECOVERY : omelete + palatinose
+    RECOVERY --> SLEEP : sleep >= 7h
+
+    PRE_WORKOUT --> EMERGENCY_STOP : TONTURA
+    FASTED --> HUNGER_HANDLER : FOME
+    POST_WORKOUT --> DEGRADED_MODE : BRAIN_FOG
+
+    state EMERGENCY_STOP {
+        [*] --> Secao_7
+    }
+```
+
 ### 3.1. Tabela de Execução Diária (Runtime)
 
 | Horário Recomendado | Etapa | Ação / Alimento |

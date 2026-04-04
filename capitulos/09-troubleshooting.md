@@ -27,6 +27,20 @@ on(EVENT.DOENCA)         -> handler: switch_to(MAINTENANCE ~2400 kcal)
 on(EVENT.PLATO_>14DIAS)  -> handler: NOP -- ruido esperado, nao reagir
 ```
 
+```mermaid
+flowchart TD
+    S([Sintoma Detectado]) --> SEV{Severidade?}
+    SEV -->|LOW| L[Xerostomia / Sede]
+    SEV -->|MEDIUM| M[Grelina / Brain Fog / Insonia]
+    SEV -->|HIGH| H[Palpitacao]
+    SEV -->|CRITICAL| C[Tontura / Visao Turva / Doenca]
+
+    L --> L1([Goles curtos + sal + goma])
+    M --> M1([Agua c/ gas + distracao + sal sublingual])
+    H --> H1([ABORT estimulantes + elevar kcal])
+    C --> C1([ABORT deficit + carb imediato])
+```
+
 ### Erro 01: Sensação de Língua Seca (Xerostomia)
 Frequentemente ligada ao uso de termogênicos, respiração bucal no treino e transpiração alta. [web:16]
 

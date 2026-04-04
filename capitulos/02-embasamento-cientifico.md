@@ -32,3 +32,17 @@ ERROR    (Deficit)     = ~1.200 kcal/dia -> corpo entra em modo de economia
   // Prolongar o deficit causa: T3 colapso, leptina zero,
   // catabolismo muscular, fadiga cronica. [web:60][web:63][web:65]
 ```
+
+```mermaid
+flowchart LR
+    A[SETPOINT\n~2400 kcal] --> B{ERRO\nDeficit ~1200}
+    B --> C[Adaptacao\nMetabolica]
+    C --> D[T3/T4 reduz]
+    C --> E[Leptina reduz]
+    C --> F[Grelina sobe]
+    C --> G[Cortisol sobe]
+    D & E & F & G --> H{Dia <= 30?}
+    H -->|Sim| I[Manter\nprotocolo]
+    I --> B
+    H -->|Nao| J[FASE 2\nDesmame]
+```
