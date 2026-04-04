@@ -1,0 +1,71 @@
+# docker-compose.yml — Build de PDFs via pandoc/extra (XeLaTeX incluso)
+#
+# Uso:
+#   docker compose run --rm claro       # gera dist/queima-<commit>-claro.pdf
+#   docker compose run --rm escuro      # gera dist/queima-<commit>-escuro.pdf
+#   docker compose run --rm impressao   # gera dist/queima-<commit>-impressao.pdf
+#   docker compose up                   # gera todos os temas em paralelo
+
+services:
+  claro:
+    image: pandoc/extra:latest
+    volumes:
+      - .:/data
+    working_dir: /data
+    environment:
+      - COMMIT=${COMMIT:-local}
+    entrypoint:
+      - /bin/sh
+      - -c
+      - |-
+        mkdir -p dist
+        pandoc capitulos/*.md \
+          --metadata-file=metadata.yaml \
+          --metadata-file=temas/claro.yaml \
+          --template=temas/template.tex \
+          --pdf-engine=xelatex \
+          --toc --number-sections \
+          -o dist/queima-${COMMIT}-claro.pdf
+        echo "Gerado: dist/queima-${COMMIT}-claro.pdf"
+
+  escuro:
+    image: pandoc/extra:latest
+    volumes:
+      - .:/data
+    working_dir: /data
+    environment:
+      - COMMIT=${COMMIT:-local}
+    entrypoint:
+      - /bin/sh
+      - -c
+      - |-
+        mkdir -p dist
+        pandoc capitulos/*.md \
+          --metadata-file=metadata.yaml \
+          --metadata-file=temas/escuro.yaml \
+          --template=temas/template.tex \
+          --pdf-engine=xelatex \
+          --toc --number-sections \
+          -o dist/queima-${COMMIT}-escuro.pdf
+        echo "Gerado: dist/queima-${COMMIT}-escuro.pdf"
+
+  impressao:
+    image: pandoc/extra:latest
+    volumes:
+      - .:/data
+    working_dir: /data
+    environment:
+      - COMMIT=${COMMIT:-local}
+    entrypoint:
+      - /bin/sh
+      - -c
+      - |-
+        mkdir -p dist
+        pandoc capitulos/*.md \
+          --metadata-file=metadata.yaml \
+          --metadata-file=temas/impressao.yaml \
+          --template=temas/template.tex \
+          --pdf-engine=xelatex \
+          --toc --number-sections \
+          -o dist/queima-${COMMIT}-impressao.pdf
+        echo "Gerado: dist/queima-${COMMIT}-impressao.pdf"

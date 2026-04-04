@@ -1,19 +1,18 @@
-% =============================================================
-% Pandoc LaTeX Template — Queima Protocol
-% Motor: XeLaTeX  |  Variáveis de cor injetadas via YAML de tema
+﻿% =============================================================
+% Pandoc LaTeX Template â€” Queima Protocol
+% Motor: XeLaTeX  |  VariÃ¡veis de cor injetadas via YAML de tema
 %
-% Variáveis obrigatórias (definidas nos arquivos temas/*.yaml):
+% VariÃ¡veis obrigatÃ³rias (definidas nos arquivos temas/*.yaml):
 %   bgcolor, fgcolor, headingcolor, accentcolor,
 %   linkcolor, codeblockbg, tableheadbg
-% Variáveis opcionais: fontsize, mainfont, monofont
+% VariÃ¡veis opcionais: fontsize, mainfont, monofont
 % =============================================================
 
 \documentclass[$if(fontsize)$$fontsize$,$endif$a4paper]{article}
 
-% --- Codificação e Idioma ---
+% --- CodificaÃ§Ã£o e Idioma ---
 \usepackage{fontspec}
-\usepackage{polyglossia}
-\setmainlanguage{portuguese}
+\usepackage{lmodern}
 
 % --- Cores ---
 \usepackage{xcolor}
@@ -28,10 +27,10 @@
 \pagecolor{PageBg}
 \color{BodyFg}
 
-% --- Geometria da Página ---
+% --- Geometria da PÃ¡gina ---
 \usepackage[a4paper, top=2.5cm, bottom=2.5cm, left=3cm, right=2.5cm]{geometry}
 
-% --- Microtipia e Espaçamento ---
+% --- Microtipia e EspaÃ§amento ---
 \usepackage{microtype}
 \usepackage{setspace}
 \setstretch{1.3}
@@ -39,10 +38,23 @@
 \setlength{\parindent}{0pt}
 
 % --- Fontes ---
-\setmainfont{$if(mainfont)$$mainfont$$else$Latin Modern Roman$endif$}
-\setmonofont{$if(monofont)$$monofont$$else$Courier New$endif$}[Scale=0.88]
+$if(mainfont)$
+\setmainfont{$mainfont$}
+$else$
+\usepackage{lmodern}
+$endif$
+$if(monofont)$
+\setmonofont{$monofont$}[Scale=0.88]
+$endif$
 
-% --- Títulos de Seção ---
+% --- Section numbering ---
+$if(numbersections)$
+\setcounter{secnumdepth}{$if(secnumdepth)$$secnumdepth$$else$5$endif$}
+$else$
+\setcounter{secnumdepth}{-\maxdimen}
+$endif$
+
+% --- TÃ­tulos de SeÃ§Ã£o ---
 \usepackage{titlesec}
 \titleformat{\section}
   {\Large\bfseries\color{HeadingFg}}
@@ -71,20 +83,21 @@
 }
 
 % --- Tabelas ---
-\usepackage{longtable}
-\usepackage{booktabs}
-\usepackage{array}
-\usepackage{colortbl}
-\arrayrulecolor{AccentFg}
+\usepackage{longtable,booktabs,array}
+\newcounter{none} % for unnumbered tables
+\usepackage{calc} % for \real{} in column widths
+\usepackage{multirow}
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
 \renewcommand{\arraystretch}{1.35}
 \setlength{\LTpre}{1em}
 \setlength{\LTpost}{1em}
 
-% Cabeçalho de tabela colorido:
-% Pandoc gera \toprule / \midrule / \bottomrule — usamos colortbl para pintar o header
-% Aplique \rowcolor{TableHeadBg} manualmente em tabelas customizadas se necessário
-
-% --- Citações (Blockquotes) ---
+% --- CitaÃ§Ãµes (Blockquotes) ---
 \usepackage[framemethod=TikZ]{mdframed}
 \renewenvironment{quote}{%
   \begin{mdframed}[
@@ -101,11 +114,10 @@
   \end{mdframed}
 }
 
-% --- Blocos de Código ---
+% --- Blocos de CÃ³digo ---
 \usepackage{fancyvrb}
 \usepackage{fvextra}
 
-% Ambiente Shaded (gerado por Pandoc com syntax highlighting)
 \newenvironment{Shaded}{%
   \begin{mdframed}[
     linecolor=AccentFg, linewidth=0.5pt,
@@ -124,7 +136,6 @@
   fontsize=\small
 }
 
-% Verbatim simples (sem highlighting)
 \RecustomVerbatimEnvironment{verbatim}{Verbatim}{
   fontsize=\small, breaklines, breakanywhere
 }
@@ -135,10 +146,6 @@
 \setlist[itemize,2]{label=\textcolor{AccentFg}{--}, leftmargin=*, itemsep=2pt}
 \setlist[enumerate,1]{label=\textcolor{AccentFg}{\arabic*.}, leftmargin=*, itemsep=3pt, topsep=4pt}
 
-% --- Regra Horizontal ---
-\let\oldhorizontalrule\horizontalrule
-\renewcommand{\rule}[2]{\textcolor{AccentFg}{\oldhorizontalrule{#1}{#2}}}
-
 % --- Imagens ---
 \usepackage{graphicx}
 \makeatletter
@@ -146,14 +153,11 @@
 \makeatother
 \setkeys{Gin}{width=\maxwidth, keepaspectratio}
 
-% --- Notas de Rodapé ---
-\usepackage[hang, flushmargin]{footmisc}
-
-% --- Comandos Pandoc Obrigatórios ---
+% --- Comandos Pandoc ObrigatÃ³rios ---
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 
-% Syntax highlighting token colors (fallback neutro se highlighting ativo)
+% Syntax highlighting tokens
 \newcommand{\AlertTok}[1]{\textcolor{AccentFg}{\textbf{#1}}}
 \newcommand{\AnnotationTok}[1]{\textcolor{HeadingFg}{\textit{#1}}}
 \newcommand{\AttributeTok}[1]{\textcolor{LinkFg}{#1}}
@@ -189,7 +193,7 @@
 % =============================================================
 \begin{document}
 
-% ---- Página de Título ----
+% ---- PÃ¡gina de TÃ­tulo ----
 $if(title)$
 \begin{titlepage}
   \centering
@@ -208,14 +212,14 @@ $if(title)$
   \vspace{0.4cm}
   $if(date)${\normalsize\color{BodyFg} $date$ \par}$endif$
   \vfill
-  {\small\color{AccentFg} Versão\ $if(version)$$version$$else$5.8$endif$ \par}
+  {\small\color{AccentFg} VersÃ£o\ $if(version)$$version$$else$5.8$endif$ \par}
   \vspace{1cm}
   {\textcolor{AccentFg}{\rule{\linewidth}{0.5pt}}\par}
 \end{titlepage}
 \newpage
 $endif$
 
-% ---- Sumário ----
+% ---- SumÃ¡rio ----
 $if(toc)$
 {
   \hypersetup{linkcolor=BodyFg}
@@ -224,7 +228,8 @@ $if(toc)$
 \newpage
 $endif$
 
-% ---- Conteúdo ----
+% ---- ConteÃºdo ----
 $body$
 
 \end{document}
+
