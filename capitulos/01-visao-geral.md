@@ -55,3 +55,60 @@ Protocol.run(day: 1..30) {
 Se o sistema entrar em modo de falha (doença grave como gripe forte, virose estomacal ou lesão articular impeditiva):
 * **Corte Imediato do Déficit:** O corpo precisa de nutrientes para o reparo imunológico. Suba a ingestão para perto do Gasto Total (~2.400 kcal) pelo número de dias em que estiver doente.
 * **Zero Estimulantes:** Suspender termogênico, pré-treino ou cafeína durante quadros inflamatórios agudos para não mascarar a fadiga e forçar um chassi imune debilitado. A recuperação do "hardware principal" é a prioridade absoluta.
+
+### 1.6. Mapa de Capítulos
+
+O protocolo está organizado em 24 capítulos + glossário + referências, agrupados por domínio:
+
+**Núcleo do Protocolo (execução diária):**
+
+| Cap. | Tópico | Escopo |
+|:---:|---|---|
+| 1 | Visão Geral e Estratégia | Design do déficit, faixa calórica, telemetria |
+| 2 | Embasamento Científico | Fundamentos metabólicos e hormonais |
+| 3 | Roteiro Diário | Cronograma hora a hora |
+| 4 | Gestão de Hidratação | Eletrólitos, hiponatremia, monitoramento |
+| 5 | Dinâmica do Exercício | Zona 2, FC, RPE, progressaões |
+| 6 | Gestão de Suplementação | Termogênicos, palatinose, whey |
+| 10 | Breakdown Nutricional | Macros e distribuição por refeição |
+
+**Segurança e Monitoramento:**
+
+| Cap. | Tópico | Escopo |
+|:---:|---|---|
+| 7 | Protocolos de Segurança | Stop criteria, sinais de alarme |
+| 9 | Troubleshooting | Soluções para problemas comuns |
+| 11 | Ciclo de Vida do Projeto | Fases, reverse dieting, saída do déficit |
+| 15 | Medicações e Protocolo | AINEs, betabloqueadores, IBPs, interações |
+
+**Desempenho e Recuperação:**
+
+| Cap. | Tópico | Escopo |
+|:---:|---|---|
+| 12 | Música e Treino | Evidência sobre performance e motivação |
+| 14 | Exercício e Dieta | Proporção, variante sem exercício |
+| 16 | Sono e Ritmo Circadiano | Higiene do sono, melatonina, zeitgebers |
+| 17 | Gestão Psicológica | Cravings, TCC, fadiga de decisão |
+| 20 | Treinamento Resistido | Volume, RPE/RIR, tonelagem, preservação de FFM |
+| 21 | Saúde Intestinal | Microbiota, fibra, probióticos |
+
+**Contextos Especiais:**
+
+| Cap. | Tópico | Escopo |
+|:---:|---|---|
+| 8 | FAQ Técnico | Perguntas frequentes gerais |
+| 13 | Comparativo com Dietas | PSMF, Leangains, VLCD vs. este protocolo |
+| 18 | Álcool e Alimentação Social | Metabolismo do etanol, eventos sociais |
+
+**Adaptações Populacionais:**
+
+| Cap. | Tópico | Escopo |
+|:---:|---|---|
+| 19 | Adaptações para Mulheres | Ciclo menstrual, RED-S, LEA |
+| 22 | Adaptações para Idosos (≥ 65 anos) | Sarcopenia, PROT-AGE, saúde óssea |
+| 23 | Menopausa e Mini-Cut | THM, DMO, redistribuição visceral |
+| 24 | Crianças e Adolescentes | **Contraindicação absoluta** + alternativas |
+
+::: {.callout-warning}
+**Populações especiais:** Este protocolo foi desenhado para adultos saudáveis de 18–60 anos. Os capítulos 19, 22–24 descrevem adaptações ou contraindicações para mulheres, idosos, menopausa e crianças/adolescentes. **Consulte o capítulo correspondente antes de iniciar se você se enquadra em qualquer desses grupos.**
+:::
