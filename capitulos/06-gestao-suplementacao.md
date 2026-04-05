@@ -36,17 +36,11 @@ A cafeína é metabolizada primariamente pela enzima CYP1A2. Polimorfismos no ge
   - **Timing crítico:** Tomar **longe do exercício** (≥ 3 h após treino), pois a hepcidina liberada pós-exercício reduz a absorção de ferro por 3–6 h.
   - **Não tomar junto com:** café, chá ou cálcio (inibem absorção). Tomar com vitamina C (facilita conversão Fe³⁺ → Fe²⁺).
 
-### 6.3. Suplementação Adicional Recomendada
+* **Caseína ou proteína de digestão lenta pré-sono (20–40 g):** A caseína micelar tem digestão prolongada (~7 h), mantendo aminoacidemia positiva durante o jejum noturno. Em déficit calórico, o período de sono é a maior janela catabólica do dia — a suplementação pré-sono atenua a proteólise muscular. (Res et al. 2012 — Med Sci Sports Exerc; Snijders et al. 2015 — J Nutr) `[GRADE: BAIXA — ECRs pequenos]`
+  - **Timing:** 30–60 min antes de dormir.
+  - **Alternativas:** Queijo cottage 200 g (contém caseína naturalmente), iogurte grego integral, ou whey caseinate blend.
+  - **Nota:** Não substitui a dose de whey pós-treino — são janelas complementares.
 
-* **Creatina Monohidratada (3–5 g/dia):** O suplemento com maior corpo de evidência para preservação de massa magra e performance em déficit calórico (500+ estudos). Melhora a força no treinamento resistido, tem efeito neuroprotetor (relevante em restrição calórica) e é segura para rins saudáveis. [web:56]
-  - **Timing:** Qualquer horário; não requer fase de loading. Tomar diariamente, inclusive em dias sem treino.
-  - **Alerta:** Causa retenção hídrica intramuscular (~1–2 kg), que **não é gordura**. Não se assuste com aumento inicial na balança — use fotos e medidas como referência (Cap. 1.3).
-  - **Contraindicação:** DRC com TFG < 60 mL/min (ver triagem pré-protocolo, Cap. 7.0).
-
-* **Colágeno Hidrolisado (15 g) + Vitamina C (500 mg):** A combinação, tomada 30–60 min antes do exercício, aumenta a síntese de colágeno em tendões e ligamentos, que estão sob estresse adicional em déficit calórico. (Shaw et al., 2017 — Am J Clin Nutr)
-  - **Quando:** Apenas em dias de treino resistido ou exercício de maior impacto articular.
-  - **Nota:** A vitamina C do colágeno soma com a do polivitamínico — a dose total permanece dentro do UL seguro (2.000 mg/dia).
-
-* **Ferro (se indicado pela triagem):** Para praticantes com ferritina < 30 ng/mL (exame pré-protocolo, Cap. 7.0), suplementar ferro quelado ou bisglicinato conforme orientação médica.
-  - **Timing crítico:** Tomar **longe do exercício** (≥ 3 h após treino), pois a hepcidina liberada pós-exercício reduz a absorção de ferro por 3–6 h.
-  - **Não tomar junto com:** café, chá ou cálcio (inibem absorção). Tomar com vitamina C (facilita conversão Fe³⁺ → Fe²⁺).
+* **Leucina isolada no desjejum (3–5 g):** O primeiro estímulo alimentar após o jejum noturno/matinal deve atingir o limiar de leucina para ativar mTORC1 e iniciar a síntese proteica muscular (MPS). Em idosos e mulheres com MLG baixa, considerar leucina isolada adicionada ao whey matinal para garantir ≥ 2,5 g de leucina por refeição. (Katsanos et al. 2006; Phillips et al. 2016) `[GRADE: BAIXA — extrapolação de ECRs em idosos]`
+  - **Quem mais se beneficia:** Idosos (>60 anos), MLG estimada < 45 kg, protocolos com déficit > 40% do TDEE.
+  - **Timing:** Junto com a primeira refeição proteica do dia (whey matinal ou desjejum).

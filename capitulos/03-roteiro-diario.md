@@ -68,11 +68,12 @@ stateDiagram-v2
 | :--- | :--- | :--- |
 | **06:45–07:00** | Despertar | Água + 1 pitada de sal. *(Estimulante termogênico listado como opcional na Seção 6)*. |
 | **07:15** | Atividade Física | 45 min de esteira (Zona 2) - *Esforço moderado*. Playlist a 120–140 BPM opcional ([Cap. 12](12-musica-e-treino.md)). |
-| **08:00** | Suporte Protéico (Escudo Pós-treino) | 1 scoop de Whey Protein Isolado com água. |
+| **08:00** | Suporte Protéico (Escudo Pós-treino) | 1 scoop de Whey Protein Isolado com água. Em idosos ou MLG < 45 kg, considerar +3 g de leucina isolada para garantir limiar de MPS (ver Cap. 6.3). |
 | **09:00** | Primeira Refeição | 1 Banana + 30g de Aveia. |
 | **11:00** | Almoço | Salada verde livre (alface, rúcula, couve, agrião, espinafre) + 150 a 200g de Frango + Azeite medido (1 colher de chá a 1 colher de sopa), limão, sal + 1 cáps. Polivitamínico A-Z. |
 | **15:30** | Lanche / Pausa | 2 a 3 unidades de Castanha-do-Brasil. |
 | **19:30** | Jantar | Omelete (3 a 4 ovos) + vegetais + 30g de Palatinose ou Waxy Maize (em água), opcionais conforme a fome e o desgaste do dia. |
+| **21:30–22:00** | Pré-sono (opcional) | Caseína 20–40 g ou queijo cottage 200 g — mantém aminoacidemia durante jejum noturno (ver Cap. 6.3). |
 
 > **Nota de Conservação de Energia:** Durante a janela matinal de jejum, se houver ingestão de estimulantes, desencoraja-se terminantemente realizar tarefas instrumentais extenuantes (como caminhadas longas ao mercado). A combinação de déficit acentuado, pico termogênico e esforço incidental não planejado pode ativar sintomas de tontura leve (Ver Troubleshooting, Erro 04). Terceirize o esforço físico (delivery) e transfira sua energia para repouso ativo, como atividades cognitivas (estudos/leitura).
 
