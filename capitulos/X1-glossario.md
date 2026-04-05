@@ -1,4 +1,4 @@
-## 14. Glossário de Termos Técnicos
+## X1. Glossário de Termos Técnicos
 
 Este glossário reúne, em ordem alfabética, os termos técnicos e científicos utilizados ao longo do documento. O objetivo é permitir que qualquer leitor — mesmo sem formação em nutrição, fisiologia ou medicina — possa consultar rapidamente o significado de uma expressão encontrada no texto.
 
