@@ -314,35 +314,149 @@ $endif$
 % =============================================================
 \begin{document}
 
-% ---- Página de Título ----
+% ---- Capa ----
 $if(title)$
 \begin{titlepage}
   \centering
-  \vspace*{2cm}
-  {\textcolor{AccentFg}{\rule{\linewidth}{2pt}}\par}
+  \thispagestyle{empty}
+
+  \vspace*{1.5cm}
+
+  % --- Ícone e marca ---
+  {\color{AccentFg}\fontsize{64}{68}\selectfont\faFire\par}
   \vspace{1.2cm}
-  {\color{AccentFg}\fontsize{48}{52}\selectfont\faFire\par}
-  \vspace{0.8cm}
-  {\Huge\bfseries\color{HeadingFg}$if(headingfont)$\headingfontfamily$endif$ $title$ \par}
+
+  % --- Título ---
+  {\fontsize{36}{40}\selectfont\bfseries\color{HeadingFg}$if(headingfont)$\headingfontfamily$endif$ $title$ \par}
   \vspace{0.6cm}
+
+  % --- Subtítulo ---
   $if(subtitle)$
-    {\Large\color{AccentFg}\itshape $subtitle$ \par}
-    \vspace{0.3cm}
+    {\fontsize{18}{22}\selectfont\color{AccentFg}\itshape $subtitle$ \par}
+    \vspace{0.4cm}
   $endif$
-  {\textcolor{AccentFg}{\rule{\linewidth}{0.5pt}}\par}
-  \vspace{1.8cm}
-  $if(author)${\large\color{BodyFg}\faUser\ \ $author$ \par}$endif$
-  \vspace{0.3cm}
-  $if(date)${\normalsize\color{BodyFg}\faCalendar\ \ $date$ \par}$endif$
+
+  % --- Filetes ---
+  {\textcolor{AccentFg}{\rule{0.6\linewidth}{1.5pt}}\par}
+  \vspace{2cm}
+
+  % --- Metadados ---
+  $if(author)${\large\color{BodyFg}\faUser\quad $author$ \par\vspace{0.3cm}}$endif$
+  $if(date)${\normalsize\color{BodyFg}\faCalendar\quad $date$ \par\vspace{0.3cm}}$endif$
+  {\small\color{AccentFg}\faTags\quad Versão\ $if(version)$$version$$else$1.0.0$endif$\par}
+
   \vfill
-  {\small\color{AccentFg}\faTags\ \ Versão\ $if(version)$$version$$else$1.0.0$endif$ \par}
-  \vspace{0.8cm}
+
+  % --- Resumo de escopo ---
+  \begin{minipage}{0.75\linewidth}
+    \centering\small\color{BodyFg}
+    \textit{24 capítulos\enspace·\enspace 142 referências PubMed/Cochrane\enspace·\enspace 142 termos técnicos}
+  \end{minipage}
+
+  \vspace{1cm}
   {\textcolor{AccentFg}{\rule{\linewidth}{0.5pt}}\par}
 \end{titlepage}
 \newpage
 $endif$
 
-% ---- SumÃ¡rio ----
+% ---- Página de Apresentação ----
+\thispagestyle{empty}
+\vspace*{3cm}
+\begin{center}
+  {\Large\bfseries\color{HeadingFg}$if(headingfont)$\headingfontfamily$endif$ Sobre este documento\par}
+  \vspace{0.5cm}
+  {\textcolor{AccentFg}{\rule{0.3\linewidth}{0.8pt}}\par}
+\end{center}
+\vspace{1cm}
+
+\noindent Este documento descreve um protocolo de \textbf{mini-cut estruturado de 30 dias}
+para recomposição corporal, fundamentado em evidências científicas revisadas por pares.
+Não substitui aconselhamento médico ou nutricional individual.
+
+\vspace{0.8em}
+\noindent\textbf{Organização:}
+\begin{itemize}[itemsep=2pt, topsep=4pt]
+  \item \textbf{Capítulos 1–6, 10} — Núcleo do protocolo (execução diária)
+  \item \textbf{Capítulos 7, 9, 11, 15} — Segurança e monitoramento
+  \item \textbf{Capítulos 12, 14, 16–17, 20–21} — Desempenho e recuperação
+  \item \textbf{Capítulos 8, 13, 18} — Contextos especiais
+  \item \textbf{Capítulos 19, 22–24} — Adaptações populacionais
+  \item \textbf{Glossário} — 142 termos, 13 especialidades profissionais
+  \item \textbf{Referências} — 142 fontes científicas (\textit{[web:1]} a \textit{[web:142]})
+\end{itemize}
+
+\vspace{0.8em}
+\noindent\textbf{Público-alvo:} adultos saudáveis de 18–60 anos. Populações especiais
+(mulheres, idosos ≥ 65 anos, menopausa, crianças/adolescentes) devem consultar os
+capítulos específicos antes de iniciar.
+
+\vspace{0.8em}
+\noindent\textbf{Convenções tipográficas:}
+\begin{itemize}[itemsep=2pt, topsep=4pt]
+  \item Referências científicas são indicadas por \textsuperscript{\small\color{AccentFg}[web:N]}
+  \item Termos técnicos na primeira ocorrência são definidos no Glossário
+  \item Caixas de alerta (\textcolor{red!70!black}{\faExclamationTriangle}) sinalizam riscos de saúde
+  \item Caixas de dica (\textcolor{green!50!black}{\faLightbulb}) indicam otimizações opcionais
+\end{itemize}
+
+\newpage
+
+% ---- Aviso Legal / Disclaimer ----
+\thispagestyle{empty}
+\vspace*{3cm}
+\begin{center}
+  {\Large\bfseries\color{HeadingFg}$if(headingfont)$\headingfontfamily$endif$ Aviso Legal\par}
+  \vspace{0.5cm}
+  {\textcolor{AccentFg}{\rule{0.3\linewidth}{0.8pt}}\par}
+\end{center}
+\vspace{1cm}
+
+\begin{queima@alertbox}
+\noindent\textbf{\textcolor{red!70!black}{\faExclamationTriangle\ IMPORTANTE}}
+\par\smallskip
+\noindent Este documento é um \textbf{protocolo pessoal de uso educacional}. Não constitui
+prescrição médica, nutricional ou de exercício. Antes de iniciar qualquer programa de
+restrição calórica ou exercício físico:
+
+\begin{enumerate}[itemsep=3pt]
+  \item Consulte um \textbf{médico} para avaliação clínica completa
+  \item Consulte um \textbf{nutricionista} para adequação individual
+  \item Consulte um \textbf{educador físico} para prescrição de exercícios
+\end{enumerate}
+
+\noindent O autor não se responsabiliza por danos decorrentes da aplicação
+deste protocolo sem acompanhamento profissional adequado.
+\end{queima@alertbox}
+
+\vspace{1.5cm}
+
+\noindent\textbf{Contraindicações absolutas:}
+\begin{itemize}[itemsep=2pt]
+  \item Gestantes e lactantes
+  \item Crianças e adolescentes (< 18 anos) — ver Capítulo 24
+  \item Pessoas com transtornos alimentares ativos ou histórico recente
+  \item Pessoas com doenças renais, hepáticas ou cardíacas descompensadas
+  \item Pessoas em uso de insulina ou hipoglicemiantes sem supervisão médica
+\end{itemize}
+
+\vspace{1.5cm}
+
+% ---- Ficha Técnica / Colophon ----
+\begin{center}
+  {\textcolor{AccentFg}{\rule{0.3\linewidth}{0.5pt}}\par}
+  \vspace{0.8cm}
+  {\small\color{BodyFg}
+    Composto com \textit{Pandoc} + \textit{XeLaTeX}\\[3pt]
+    $if(mainfont)$Texto: \textit{$mainfont$}\\[3pt]$endif$
+    $if(monofont)$Código: \textit{$monofont$}\\[3pt]$endif$
+    $if(headingfont)$Títulos: \textit{$headingfont$}\\[3pt]$endif$
+    Versão $if(version)$$version$$else$1.0$endif$\enspace·\enspace$if(date)$$date$$endif$
+  }
+\end{center}
+
+\newpage
+
+% ---- Sumário ----
 $if(toc)$
 {
   \hypersetup{linkcolor=BodyFg}
