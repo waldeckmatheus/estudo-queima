@@ -81,6 +81,11 @@ Esta base inclui evidências de qualidade heterogênea (guidelines, revisões, e
 | [web:108] | [Extended Calorie Restriction Suppresses Overall and Specific Food Cravings: A Systematic Review and Meta-Analysis — Kahathuduwa CN et al., Obes Rev 2017](https://pubmed.ncbi.nlm.nih.gov/28557246/) |
 | [web:109] | [Mindfulness Meditation as an Intervention for Binge Eating, Emotional Eating, and Weight Loss: A Systematic Review — Katterman SN et al., Eat Behav 2014](https://pubmed.ncbi.nlm.nih.gov/24854804/) |
 | [web:110] | [Emotional Eating Interventions for Adults Living with Overweight or Obesity: A Systematic Review and Meta-Analysis — Smith J et al., Int J Environ Res Public Health 2023](https://pubmed.ncbi.nlm.nih.gov/36768088/) |
+| [web:111] | [Effects of Ethanol on Lipid Metabolism — Baraona E & Lieber CS, J Lipid Res 1979](https://pubmed.ncbi.nlm.nih.gov/87483/) |
+| [web:112] | [Alcohol Ingestion Impairs Maximal Post-Exercise Rates of Myofibrillar Protein Synthesis following a Single Bout of Concurrent Training — Parr EB et al., PLoS One 2014](https://pubmed.ncbi.nlm.nih.gov/24533082/) |
+| [web:113] | [Experimental and Observational Studies on Alcohol Use and Dietary Intake: A Systematic Review — Cummings JR et al., Obes Rev 2020](https://pubmed.ncbi.nlm.nih.gov/31691442/) |
+| [web:114] | [Alcohol Consumption and Body Weight: A Systematic Review — Sayon-Orea C et al., Nutr Rev 2011](https://pubmed.ncbi.nlm.nih.gov/21790610/) |
+| [web:115] | [The Social Facilitation of Eating. A Review — Herman CP, Appetite 2015](https://pubmed.ncbi.nlm.nih.gov/25265153/) |
 
 ### 12.1. Curadoria Rápida por Nível de Evidência
 
@@ -102,6 +107,8 @@ Esta base inclui evidências de qualidade heterogênea (guidelines, revisões, e
 * [web:105] Timing circadiano das refeições e eficácia da perda de peso (n=420, 20 semanas).
 * [web:106] Restrição calórica a 1.200 kcal aumenta cortisol salivar; monitoramento calórico aumenta estresse percebido (RCT, n=121).
 * [web:108] Meta-análise (8 estudos): restrição calórica ≥12 semanas reduz cravings por doces, fast food, amidos e gordurosos.
+* [web:112] Álcool pós-exercício reduz MPS em 24% mesmo com proteína e 37% com carboidrato (RCT crossover, n=8).
+* [web:114] Revisão sistemática: consumo pesado/binge de álcool associado a ganho de peso; consumo leve-moderado associação nula.
 
 **Suporte complementar (útil, mas não central para decisão crítica):**
 * [web:20] Fasted vs fed para metabolismo de gordura.
@@ -126,6 +133,12 @@ Esta base inclui evidências de qualidade heterogênea (guidelines, revisões, e
 * [web:102] Revisão sobre privação parcial de sono e balanço energético: ↑grelina, ↓leptina, aumento de snacks noturnos.
 * [web:103] Meta-análise de magnésio oral para insônia: redução de 17 min na latência do sono (evidência baixa, mas perfil seguro).
 * [web:104] Revisão sobre melatonina suplementar: melhora de qualidade do sono e possíveis efeitos metabólicos positivos.
+* [web:107] Revisão sobre psicologia dos cravings alimentares: privação curta ↑ cravings, restrição longa ↓ cravings (extinção condicionada).
+* [web:109] Revisão sistemática (14 estudos): mindfulness reduz binge eating e alimentação emocional; evidência mista para perda de peso.
+* [web:110] Meta-análise (34 estudos): TCC é a intervenção mais eficaz para alimentação emocional; redução de 2,37% nos escores de EE.
+* [web:111] Revisão clássica sobre metabolismo hepático de etanol: álcool substitui ácidos graxos como combustível primário, suprimindo beta-oxidação.
+* [web:113] Revisão sistemática: álcool aumenta ingestão alimentar subsequente de forma consistente em estudos experimentais e observacionais.
+* [web:115] Revisão de 3 décadas sobre facilitação social da alimentação: pessoas comem 33–96% mais em grupo.
 * [web:107] Revisão sobre psicologia dos cravings alimentares: privação curta ↑ cravings, restrição longa ↓ cravings (extinção condicionada).
 * [web:109] Revisão sistemática (14 estudos): mindfulness reduz binge eating e alimentação emocional; evidência mista para perda de peso.
 * [web:110] Meta-análise (34 estudos): TCC é a intervenção mais eficaz para alimentação emocional; redução de 2,37% nos escores de EE.

@@ -8,19 +8,19 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 
 | Profissional | Termos | % do glossário |
 |---|:---:|:---:|
-| Neurocientista | 19 | 16,7% |
-| Fisiologista do Exercício | 16 | 14,0% |
-| Nutricionista Clínico | 15 | 13,2% |
-| Endocrinologista | 13 | 11,4% |
-| Farmacologista | 12 | 10,5% |
-| Nutricionista Esportivo | 11 | 9,6% |
-| Educador Físico | 6 | 5,3% |
-| Médico do Esporte | 6 | 5,3% |
-| Nefrologista | 6 | 5,3% |
-| Cardiologista | 4 | 3,5% |
+| Neurocientista | 19 | 16,2% |
+| Fisiologista do Exercício | 16 | 13,7% |
+| Nutricionista Clínico | 15 | 12,8% |
+| Farmacologista | 14 | 12,0% |
+| Endocrinologista | 13 | 11,1% |
+| Nutricionista Esportivo | 11 | 9,4% |
+| Educador Físico | 6 | 5,1% |
+| Médico do Esporte | 6 | 5,1% |
+| Nefrologista | 6 | 5,1% |
+| Cardiologista | 4 | 3,4% |
 | Pesquisador / Metodologista Científico | 3 | 2,6% |
-| Gastroenterologista | 2 | 1,8% |
-| Psicólogo Clínico | 1 | 0,9% |
+| Psicólogo Clínico | 2 | 1,7% |
+| Gastroenterologista | 2 | 1,7% |
 
 ---
 
@@ -86,7 +86,11 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 
 **Absorção sublingual.** Absorção de substâncias pela mucosa abaixo da língua, que permite entrada rápida na corrente sanguínea sem passar pelo trato digestivo.
 
+**Acetaldeído.** Metabólito intermediário tóxico do etanol, produzido pela álcool desidrogenase hepática. Causa rubor facial, náusea e cefaleia. É convertido em acetato pela aldeído desidrogenase (ALDH2); polimorfismos nessa enzima (comuns em asiáticos) aumentam o acúmulo de acetaldeído e a intolerância ao álcool.
+
 **AINEs (anti-inflamatórios não esteroidais).** Classe farmacológica (ibuprofeno, naproxeno, diclofenaco) que inibe as enzimas COX-1 e COX-2, bloqueando a síntese de prostaglandinas. Além do efeito analgésico e anti-inflamatório, podem prejudicar a adaptação muscular ao exercício em jovens e representar risco renal significativo em contexto de desidratação relativa (ver Cap. 15).
+
+**Álcool desidrogenase (ADH).** Enzima hepática que catalisa a primeira etapa do metabolismo do etanol, convertendo-o em acetaldeído. A taxa de eliminação é fixa (~7 g/h em média), o que torna o metabolismo do álcool um processo de ordem zero — não acelerável independentemente da dose.
 
 **AMPc (adenosina monofosfato cíclico).** Molécula mensageira dentro da célula. Quando seus níveis sobem (por exemplo, pela ação da cafeína), ela ativa a enzima HSL, que inicia a quebra de gordura armazenada.
 
@@ -289,6 +293,8 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 ---
 
 ### Psicólogo Clínico
+
+**Facilitação social da alimentação.** Fenômeno documentado por três décadas de pesquisa (Herman 2015): pessoas ingerem significativamente mais comida quando comem em grupo do que sozinhas — de +33% com 1 companheiro a +96% com 7+ pessoas. Mecanismos incluem extensão temporal da refeição, modelagem social, distração atencional e norma de reciprocidade. Altamente relevante para gestão de eventos sociais durante o protocolo.
 
 **Terapia Cognitivo-Comportamental (TCC).** Abordagem psicoterapêutica estruturada que trabalha a relação entre pensamentos, emoções e comportamentos. No contexto do protocolo, a TCC é a intervenção com maior evidência para redução de alimentação emocional e compulsão alimentar. A técnica de reestruturação cognitiva (identificar e substituir pensamentos automáticos disfuncionais) é a mais aplicável ao dia a dia da restrição calórica.
 
