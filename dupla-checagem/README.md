@@ -64,7 +64,7 @@ classificação de severidade:
 | Relatórios gerados | 27 |
 | Referências únicas verificadas | 109 |
 | Integridade referencial | **100%** |
-| Termos no glossário | 142 (13 categorias) |
+| Termos no glossário | 143 (13 categorias) |
 | Erros críticos | **0** |
 | Alertas médios | 3 |
 | Alertas baixos | 9 |

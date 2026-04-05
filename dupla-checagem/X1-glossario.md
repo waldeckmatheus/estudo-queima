@@ -7,7 +7,7 @@
 
 | Métrica | Valor |
 |---------|-------|
-| Total de termos | 142 |
+| Total de termos | 143 |
 | Categorias profissionais | 13 |
 | Ordem alfabética por categoria | ✅ Verificada |
 
@@ -15,11 +15,11 @@
 
 | Categoria | Termos | % |
 |-----------|--------|---|
-| Endocrinologista | 20 | 14.1% |
-| Fisiologista do Exercício | 20 | 14.1% |
-| Neurocientista | 19 | 13.4% |
-| Nutricionista Clínico | 16 | 11.3% |
-| Farmacologista | 14 | 9.9% |
+| Endocrinologista | 22 | 15.4% |
+| Fisiologista do Exercício | 21 | 14.7% |
+| Neurocientista | 19 | 13.3% |
+| Nutricionista Clínico | 16 | 11.2% |
+| Farmacologista | 14 | 9.8% |
 | Nutricionista Esportivo | 11 | 7.7% |
 | Médico do Esporte | 10 | 7.0% |
 | Educador Físico | 9 | 6.3% |
@@ -28,7 +28,7 @@
 | Cardiologista | 4 | 2.8% |
 | Pesquisador/Metodologista | 3 | 2.1% |
 | Psicólogo Clínico | 2 | 1.4% |
-| **Total** | **142** | **100%** |
+| **Total** | **143** | **100%** |
 
 ## Verificação
 

@@ -14,7 +14,7 @@
 | Apêndices auditados | 2 (Glossário + Referências) |
 | Referências únicas usadas | 109 (de [web:5] a [web:142]) |
 | Integridade referencial | **100%** — toda ref usada está definida; toda ref definida está usada |
-| Termos no glossário | 142 (13 categorias profissionais) |
+| Termos no glossário | 143 (13 categorias profissionais) |
 | Erros críticos | 0 |
 | Alertas menores | 12 |
 
@@ -85,7 +85,7 @@ A numeração [web:N] possui lacunas intencionais (e.g., [web:1]-[web:4] nunca f
 
 ## Glossário (X1)
 
-- **Total de termos:** 142
+- **Total de termos:** 143
 - **Categorias profissionais:** 13
 - **Ordem alfabética:** ✅ Verificada dentro de cada categoria
 - **Contagem por categoria verificada:** ✅ Coincide com tabela de resumo do arquivo
