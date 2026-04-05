@@ -83,7 +83,7 @@ As intervenções abaixo são organizadas por impacto e custo, das mais universa
 
 | Fator | Janela de exclusão | Motivo |
 |---|---|---|
-| Cafeína | Após 14 h (ou 8–10 h antes de dormir) | Meia-vida de 5–6 h; mesmo que você "durma", a cafeína reduz sono de ondas lentas |
+| Cafeína | Após 14 h (ou 8–10 h antes de dormir) | Meia-vida de 5–6 h; mesmo que você "durma", a cafeína reduz sono de ondas lentas (N3) — a fase em que ocorre o pico de GH e a principal janela de recuperação muscular. Fontes ocultas frequentemente ignoradas: chá verde (~35 mg), chocolate amargo 70%+ (~25 mg/30 g), pré-treino vespertino. **O corte às 14 h é uma das intervenções de maior impacto e menor custo deste capítulo** |
 | Exercício intenso | Após 16 h | Elevação de temperatura central, cortisol e catecolaminas; o protocolo já posiciona o exercício pela manhã |
 | Álcool | Qualquer horário (ver recomendação geral do protocolo) | Fragmenta sono REM e suprime SWS, mesmo em doses "sociais" |
 | Telas com luz azul | 60–90 min antes de dormir | Supressão de melatonina endógena |

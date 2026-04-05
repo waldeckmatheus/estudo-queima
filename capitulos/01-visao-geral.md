@@ -3,6 +3,26 @@ Este documento descreve um protocolo de **mini-cut estruturado e temporário**, 
 
 O ambiente de férias é o cenário ideal pois reduz a carga de estresse cognitivo (entregas de software) e melhora a previsibilidade do ciclo circadiano (sono e rotina).
 
+::: {.callout-caution}
+**⛔ CONTRAINDICAÇÕES ABSOLUTAS — NÃO INICIE O PROTOCOLO SE:**
+
+- **Gestação** (confirmada ou suspeita) — restrição calórica severa compromete o desenvolvimento fetal.
+- **Lactação** — a demanda energética da produção de leite é incompatível com déficit agressivo.
+- **Crianças e adolescentes (<18 anos)** — ver Cap. 24 para detalhamento completo.
+
+Se alguma dessas condições se aplicar, **o protocolo é contraindicado independentemente de adaptações**. Consulte seu médico para alternativas seguras.
+:::
+
+::: {.callout-warning}
+**⚠️ ALERTA PARA MULHERES — LEA (Low Energy Availability):**
+
+Com ~1.200 kcal de ingestão e exercício diário, a disponibilidade energética (LEA) calculada fica em torno de **~17 kcal/kg de massa livre de gordura (MLG)** — severamente abaixo do limiar de **30 kcal/kg MLG** que a literatura associa a RED-S (Relative Energy Deficiency in Sport). [web:52][web:56]
+
+**Riscos específicos:** amenorreia hipotalâmica funcional (AHF), perda de densidade mineral óssea, disfunção tireoidiana. Anticoncepcionais orais combinados (ACOs) **mascaram** a AHF ao manter ciclos artificiais.
+
+**Adaptação obrigatória:** Mulheres devem calcular seu LEA individual e, se necessário, **elevar a ingestão calórica** para manter LEA ≥ 30 kcal/kg MLG. Fórmula: `LEA = (kcal ingeridas − kcal gastas no exercício) / kg de MLG`. Se o resultado for < 30, aumente calorias até atingir o limiar mínimo. Consulte o Cap. 19 para adaptações detalhadas.
+:::
+
 ### 1.1. Faixa Calórica Operacional (Design Flexível)
 A tabela alimentar atual opera em uma janela de aproximadamente 978 kcal a 1.284 kcal (dependendo do uso do azeite). Por estar abaixo da sua Taxa Metabólica Basal (TMB), esse nível de ingestão gera uma "dívida técnica" fisiológica. Por isso, a faixa mais baixa **não é uma meta diária obrigatória**. Nos dias em que o desgaste físico for maior, a margem superior (com o azeite) deve ser utilizada para garantir a sustentabilidade do sistema. [web:52][web:68]
 

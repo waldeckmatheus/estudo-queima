@@ -24,7 +24,7 @@ O paracetamol é inibidor fraco de COX-1/COX-2 periférica, com ação predomina
 
 **Efeito no exercício:** Estudos demonstram que a ingestão de paracetamol (1.500 mg, 45–60 min antes do exercício) pode ser ergogênica para performance de endurance, provavelmente por aumento da tolerância à dor. Também atenuou a queda de força em contrações máximas repetidas e aumentou a potência média em sprints intervalados. [web:96]
 
-**Risco hepático:** O paracetamol é metabolizado no fígado. Em restrição calórica severa, as reservas de glutationa hepática podem estar parcialmente depletadas, o que reduz a capacidade de conjugação do metabólito tóxico NAPQI. **Dose máxima sugerida durante o protocolo: até 1 g por dose, máximo 2 g/dia (metade da dose máxima convencional de 4 g/dia). Nunca combinar com álcool.**
+**Risco hepático:** O paracetamol é metabolizado no fígado. Em restrição calórica severa, as reservas de glutationa hepática podem estar parcialmente depletadas, o que reduz a capacidade de conjugação do metabólito tóxico NAPQI. Adicionalmente, o jejum e a cetose transitória induzem a enzima CYP2E1, que é a principal via de bioativação do paracetamol em NAPQI — gerando mais metabólito tóxico por dose ingerida. **Dose máxima sugerida durante o protocolo: até 1 g por dose, máximo 2 g/dia (metade da dose máxima convencional de 4 g/dia). Tomar sempre com alimento (nunca em jejum) para reduzir a indução de CYP2E1. Nunca combinar com álcool.**
 
 **Resumo comparativo para o praticante:**
 
@@ -94,6 +94,42 @@ Anti-histamínicos de segunda geração (loratadina, cetirizina, fexofenadina) t
 | Anti-histamínicos 1ª geração | Prometazina, hidroxizina | Aumento de apetite + sedação | Trocar por 2ª geração (loratadina, cetirizina) |
 
 \* Dorflex contém dipirona + orfenadrina + cafeína; a dipirona não é AINE clássico, mas compartilha inibição parcial de COX. Uso pontual é aceitável.
+
+### 15.7. Prolongamento do Intervalo QTc — Risco Silencioso em Déficit
+
+O intervalo QTc (QT corrigido pela frequência cardíaca) reflete a repolarização ventricular. Seu prolongamento aumenta o risco de torsades de pointes — uma arritmia potencialmente fatal.
+
+**Por que é relevante neste protocolo:**
+
+O déficit calórico agressivo pode causar depleção de magnésio (Mg²⁺) e potássio (K⁺) — ambos eletrólitos essenciais para a repolarização cardíaca. A combinação de depleção eletrolítica com fármacos que prolongam QTc cria um risco sinérgico.
+
+**Fármacos comuns que prolongam QTc:**
+
+| Classe | Exemplos | Prevalência de uso |
+|---|---|---|
+| ISRS/ISRN | Citalopram, escitalopram, venlafaxina | Alta (ansiedade/depressão) |
+| Antipsicóticos | Quetiapina, haloperidol, risperidona | Moderada |
+| Macrolídeos | Azitromicina, claritromicina | Comum (infecções intercorrentes) |
+| Antiarrítmicos | Amiodarona, sotalol | Baixa, mas alto risco |
+| Antieméticos | Ondansetrona, domperidona | Moderada |
+
+**Recomendação operacional:** Se você utiliza qualquer fármaco da tabela acima, solicite um **ECG com medição de QTc** antes de iniciar o protocolo (incluído na triagem pré-protocolo do Cap. 7.0). Durante os 30 dias, mantenha suplementação de magnésio (Cap. 6) e garanta ingestão adequada de potássio via alimentos (banana, folhas escuras). Se apresentar palpitações, síncope ou pré-síncope, aplique o critério de parada do item 4 da Seção 7.1.
+
+### 15.8. CYP450, Polifarmácia e Déficit Calórico
+
+O sistema enzimático citocromo P450 (CYP) é responsável pelo metabolismo de ~75% dos fármacos. Em déficit calórico com jejum prolongado, ocorrem duas alterações relevantes:
+
+1. **Indução de CYP2E1:** O jejum e a cetose transitória induzem a CYP2E1, acelerando a bioativação de substratos desta via (paracetamol → NAPQI, etanol → acetaldeído). Isso explica o risco aumentado de hepatotoxicidade do paracetamol neste contexto (ver 15.1.2).
+
+2. **Alteração da ligação a proteínas plasmáticas:** A hipoalbuminemia leve do déficit pode aumentar a fração livre de fármacos altamente ligados a albumina (ex: varfarina, fenitoína), potencializando seus efeitos.
+
+**Checklist para polifarmácia (≥ 3 medicamentos de uso contínuo):**
+
+- [ ] Informar ao médico prescritor sobre o protocolo de déficit calórico
+- [ ] Solicitar revisão de interações com farmacêutico clínico
+- [ ] Monitorar efeitos adversos com maior atenção durante os 30 dias
+- [ ] Se usar varfarina: INR de controle na semana 1 e semana 3 do protocolo
+- [ ] Evitar automedicação com fitoterápicos (ex: Hypericum/erva-de-são-joão induz CYP3A4)
 
 ::: {.callout-warning}
 **Regra de ouro:** Nunca suspenda uma medicação prescrita por conta própria para "não atrapalhar a dieta." O protocolo é temporário (30 dias); sua condição de saúde de base não é. Qualquer ajuste deve ser discutido com o médico prescritor.

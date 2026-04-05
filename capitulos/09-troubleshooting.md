@@ -87,3 +87,35 @@ A tontura não é um sinal de dano — é o sistema avisando que a transição m
 * **Aporte Hídrico de Emergência (Auxílio Salino):** Opcionalmente, utilize um copo de água com uma pitada sublingual de sal para elevar levemente o volume plasmático e contornar efeitos da hipotensão ortostática provocada pelo movimento repentino. [web:26]
 
 > **Critério de Escalação:** Se este evento ocorrer ≥2 vezes em 72 horas mesmo com repouso adequado e hidratação salina, o limiar de segurança foi atingido — escalone para `EVENT.TONTURA_GRAVE` e aplique o protocolo de interrupção da Seção 7.1. [web:52]
+
+### Erro 05: Hiperuricemia e Dor Articular Aguda (Gota)
+A cetose transitória induzida pelo déficit calórico severo pode elevar o ácido úrico sérico, pois corpos cetônicos competem com o urato pela excreção renal tubular. Em indivíduos predispostos, isso pode precipitar crise de gota (artrite gotosa aguda).
+
+**Sinais:**
+- Dor articular intensa, súbita, geralmente no primeiro metatarso (dedão do pé), joelho ou tornozelo
+- Articulação vermelha, quente e edemaciada
+- Início tipicamente noturno
+
+**O Patch de Correção:**
+* **Hidratação agressiva:** ≥ 2,5 L/dia para maximizar excreção renal de urato.
+* **Evitar AINEs** neste protocolo (ver Cap. 15.1.1) — colchicina é o fármaco de primeira linha para crise aguda, mas **requer prescrição médica**.
+* **Se crise aguda:** Suspender exercício até resolução. Elevação calórica temporária para reduzir cetose.
+* **Histórico de gota:** Considerado **contraindicação relativa** — discutir com reumatologista antes de iniciar.
+
+### Erro 06: Fadiga Persistente — Diagnóstico Diferencial (SAHOS)
+Se a fadiga diurna persistir apesar de sono ≥ 7 h e adesão ao Cap. 16, considere o diagnóstico diferencial de **Síndrome da Apneia Obstrutiva do Sono (SAHOS)**, que afeta 15–30% dos adultos com sobrepeso e é sub-diagnosticada em até 80% dos casos.
+
+**Triagem rápida — Questionário STOP-Bang:**
+
+| Pergunta | Sim/Não |
+|---|---|
+| **S**noring: Você ronca alto? | |
+| **T**ired: Sente-se cansado/sonolento durante o dia? | |
+| **O**bserved: Alguém já observou que você para de respirar durante o sono? | |
+| **P**ressure: Você trata ou já tratou pressão alta? | |
+| **B**MI: IMC > 35? | |
+| **A**ge: Idade > 50 anos? | |
+| **N**eck: Circunferência do pescoço > 40 cm? | |
+| **G**ender: Sexo masculino? | |
+
+**Score ≥ 3 = alto risco de SAHOS** → Encaminhar para polissonografia. Não confunda fadiga da SAHOS com fadiga do déficit — o tratamento é diferente e a SAHOS não resolve com mais calorias.

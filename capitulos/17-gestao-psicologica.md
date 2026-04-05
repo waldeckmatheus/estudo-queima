@@ -93,7 +93,15 @@ Quanto menos decisões alimentares o praticante tomar por dia, mais "bateria" pr
 
 ### 17.7. Sinais de Alerta — Quando o Psicológico Vira Clínico
 
-O protocolo é um estressor controlado. Mas em indivíduos vulneráveis, a restrição severa pode desencadear padrões disfuncionais:
+O protocolo é um estressor controlado. Mas em indivíduos vulneráveis, a restrição severa pode desencadear padrões disfuncionais. **A triagem pré-protocolo com EAT-26 (Cap. 7.0) é obrigatória** — 25–40% da população fitness apresenta risco de transtornos alimentares (TAs), e a rigidez do protocolo pode funcionar como gatilho.
+
+**Alternativa à pesagem para indivíduos com risco de TAs:** Se o EAT-26 pré-protocolo indicar score entre 10–19 (risco sub-clínico), substituir a pesagem semanal por **fotos comparativas + circunferência da cintura** como métricas exclusivas. A pesagem pode ser gatilho para indivíduos vulneráveis.
+
+**Técnicas de TCC para manejo de cravings (complementar à técnica STOP da seção 17.4.1):**
+
+1. **Descentração ("defusion"):** "Estou tendo o pensamento de que preciso de chocolate" em vez de "Preciso de chocolate." Essa reformulação cria distância entre o self e o impulso.
+2. **Exposição com prevenção de resposta (EPR):** Quando o craving surgir, permita-se sentir a urgência sem agir. Cronometre: a intensidade tipicamente cai em 15–20 min sem alimentação.
+3. **Análise funcional:** Antes de ceder ao impulso, pergunte: "Estou com fome fisiológica ou emocional?" Fome fisiológica é gradual, não-específica e cresce com o tempo. Craving emocional é súbito, específico (um alimento particular) e urgente.
 
 ::: {.callout-warning}
 **Critérios de suspensão por motivos psicológicos:**
