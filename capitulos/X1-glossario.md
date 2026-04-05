@@ -8,19 +8,21 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 
 | Profissional | Termos | % do glossário |
 |---|:---:|:---:|
-| Fisiologista do Exercício | 22 | 14,2% |
-| Endocrinologista | 21 | 13,5% |
-| Neurocientista | 19 | 12,3% |
-| Nutricionista Clínico | 16 | 10,3% |
-| Farmacologista | 14 | 9,0% |
-| Gastroenterologista | 14 | 9,0% |
-| Nutricionista Esportivo | 12 | 7,7% |
-| Médico do Esporte | 10 | 6,5% |
-| Educador Físico | 9 | 5,8% |
-| Nefrologista | 6 | 3,9% |
-| Cardiologista | 4 | 2,6% |
-| Pesquisador / Metodologista Científico | 3 | 1,9% |
-| Psicólogo Clínico | 2 | 1,3% |
+| Endocrinologista | 29 | 13,9% |
+| Fisiologista do Exercício | 25 | 12,0% |
+| Farmacologista | 21 | 10,0% |
+| Nutricionista Clínico | 19 | 9,1% |
+| Neurocientista | 19 | 9,1% |
+| Gastroenterologista | 16 | 7,7% |
+| Nutricionista Esportivo | 15 | 7,2% |
+| Educador Físico | 14 | 6,7% |
+| Médico do Esporte | 12 | 5,7% |
+| Nefrologista | 7 | 3,3% |
+| Psicólogo Clínico | 7 | 3,3% |
+| Cardiologista | 6 | 2,9% |
+| Ginecologista | 6 | 2,9% |
+| Microbiologista | 6 | 2,9% |
+| Pesquisador / Metodologista Científico | 6 | 2,9% |
 
 ---
 
@@ -34,13 +36,25 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 
 **MACE (Major Adverse Cardiovascular Events).** Termo médico que agrupa os eventos cardiovasculares graves — infarto, AVC e morte cardiovascular. Usado nos ensaios clínicos das canetas emagrecedoras para medir benefício cardíaco.
 
+**QTc (intervalo QT corrigido).** Medida eletrocardiográfica que reflete o tempo total de despolarização e repolarização ventricular, normalizada pela frequência cardíaca. Valores > 470 ms (mulheres) ou > 450 ms (homens) indicam prolongamento. No contexto deste protocolo, fármacos que prolongam QTc (alguns ISRS, antipsicóticos) somados a ↓ Mg²⁺/K⁺ do déficit calórico aumentam o risco de arritmia — motivo para solicitar ECG com QTc na triagem pré-protocolo em usuários de psicotrópicos (Cap. 7.0).
+
+**Torsades de pointes.** Taquicardia ventricular polimórfica potencialmente fatal, associada a prolongamento do intervalo QTc. Fatores de risco no contexto do mini-cut: ↓ magnésio e potássio por restrição calórica + fármacos que prolongam QTc (ver Cap. 15.7). A correção proativa de eletrólitos e a triagem eletrocardiográfica (Cap. 7.0) são as principais medidas preventivas.
+
 ---
 
 ### Educador Físico
 
+**APRE (Autoregulated Progressive Resistance Exercise).** Método de autoregulação de carga baseado no desempenho real: o número de repetições realizadas em uma série de teste determina a carga da série seguinte via tabela pré-definida. Junto com RPE e VBT, é uma das estratégias autoreguladas que produzem ganhos equivalentes ou superiores a cargas fixas (Zhang et al. 2021 — ver Cap. 20.3).
+
 **Bioimpedância.** Método que estima a composição corporal enviando uma corrente elétrica de baixa intensidade pelo corpo. No contexto do documento, refere-se às placas metálicas no corrimão da esteira que medem a frequência cardíaca por contato elétrico.
 
+**Deload.** Semana de treinamento com volume e/ou intensidade intencionalmente reduzidos (~50–60% da carga habitual) para permitir recuperação sistêmica e articular. Em déficit calórico, onde a capacidade de recuperação está comprometida, recomenda-se um deload na semana 3 ou quando sinais de overreaching funcional aparecerem (ver Cap. 20.8).
+
+**DOMS (Delayed Onset Muscle Soreness / Dor Muscular de Início Tardio).** Dolorimento muscular que surge 12–48 h após exercício, especialmente em movimentos excêntricos novos ou com cargas elevadas. Em déficit calórico, o DOMS tende a ser mais intenso e duradouro pela menor capacidade de reparo tecidual; DOMS excessivo é sinal de alerta para overreaching (Cap. 20.7).
+
 **FC / FCmáx (frequência cardíaca / frequência cardíaca máxima).** FC é o número de batimentos do coração por minuto. FCmáx é o valor teórico máximo, estimado pela fórmula 220 − idade. As zonas de treino são definidas como percentuais da FCmáx.
+
+**FMS (Functional Movement Screen).** Bateria de testes padronizados para avaliar padrões de movimento fundamentais e identificar assimetrias e limitações de mobilidade. O protocolo utiliza uma versão simplificada com 3 testes (deep squat, active straight-leg raise, shoulder mobility) na triagem pré-protocolo (Cap. 7.0) para adaptar a seleção de exercícios e incluir corretivos no aquecimento (Cap. 20.3).
 
 **Overreaching não-funcional (NFOR).** Acúmulo excessivo de fadiga de treinamento que resulta em queda de performance por semanas, sem recuperação em curto prazo. Diferencia-se do overreaching funcional (que se resolve com poucos dias de descanso) pela duração e gravidade. Em déficit agressivo, o limiar para NFOR é significativamente menor.
 
@@ -53,6 +67,8 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 **RPT (Reverse Pyramid Training).** Método de musculação no qual a série mais pesada é feita primeiro (com mais carga e menos repetições) e as séries seguintes são progressivamente mais leves. Usado no protocolo Leangains.
 
 **Tonelagem (volume-carga).** Produto de séries × repetições × carga (kg) — métrica principal para quantificar o volume total de treinamento resistido em uma sessão ou semana. Sua manutenção durante restrição calórica é o fator mais importante para preservação de massa magra.
+
+**VBT (Velocity-Based Training / Treinamento Baseado em Velocidade).** Método de autoregulação que utiliza a velocidade de execução do movimento para ajustar a carga em tempo real. Velocidade mais lenta que o esperado para uma dada carga indica fadiga acumulada. Zhang et al. 2021 demonstrou eficácia equivalente a métodos de carga fixa (Cap. 20.3).
 
 **Zona 2.** Faixa de intensidade de exercício aeróbico na qual o corpo utiliza predominantemente gordura como combustível. Neste protocolo, corresponde a 111–129 bpm (ou ~60–70% da FCmáx). É identificada pela capacidade de falar em frases completas sem ofegar.
 
@@ -67,6 +83,14 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 **Disponibilidade energética (EA).** Energia restante para funções fisiológicas após subtrair o gasto com exercício: EA = (Ingestão calórica − Gasto exercício) ÷ Massa magra (kg). Valores < 30 kcal/kgMLG/dia são considerados baixos e associados a disfunções menstruais, ósseas e metabólicas.
 
 **Eixo GH-IGF-1.** Via hormonal que conecta o hormônio do crescimento (GH), secretado pela hipófise, ao fator de crescimento semelhante à insulina tipo 1 (IGF-1), produzido principalmente pelo fígado. É o principal regulador do crescimento linear na infância e adolescência. A restrição calórica suprime a pulsatilidade de GH e reduz IGF-1, podendo comprometer a estatura final em indivíduos com placas epifisárias abertas.
+
+**Eixo HPA (Hipotálamo-Hipófise-Adrenal).** Via neuroendócrina que media a resposta ao estresse: o hipotálamo libera CRH → hipófise libera ACTH → adrenais produzem cortisol. Em restrição calórica, o eixo HPA é cronicamente ativado, elevando cortisol e contribuindo para retenção hídrica, catabolismo muscular e insônia paradoxal (ver Cap. 9, Erro 08; Cap. 16).
+
+**Estradiol (E₂).** Forma mais potente e biodisponível de estrogênio, produzida predominantemente pelos ovários. Cai progressivamente na perimenopausa até níveis consistentemente baixos na pós-menopausa. Sua dosagem é recomendada na triagem pré-protocolo para mulheres com ciclo irregular (Cap. 7.0) e para avaliação de status hormonal em subgrupos ginecológicos (Cap. 19.8).
+
+**Estrogênio.** Grupo de hormônios esteróides (estradiol, estrona, estriol) com múltiplas funções: proteção óssea, regulação do metabolismo lipídico (↑ HDL, ↓ LDL), modulação da distribuição de gordura (subcutânea vs. visceral) e efeito neuroprotetor. A queda de estrogênio na menopausa redistribui gordura para o compartimento visceral e acelera a perda de DMO (Cap. 23).
+
+**FSH (Hormônio Folículo-Estimulante).** Gonadotrofina hipofisária que estimula o desenvolvimento folicular ovariano e a espermatogênese. Valores elevados (> 25 UI/L) em mulheres sugerem reserva ovariana reduzida ou transição menopáusica. Solicitado na triagem pré-protocolo para mulheres com ciclo irregular (Cap. 7.0).
 
 **GIP (polipeptídeo insulinotrópico dependente de glicose).** Hormônio intestinal que potencializa a ação da insulina. A tirzepatida (Mounjaro) atua em receptores de GIP e GLP-1 simultaneamente.
 
@@ -90,6 +114,8 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 
 **Pós-menopausa.** Período que se inicia após 12 meses consecutivos de amenorreia, marcando a cessação permanente da função ovariana. Caracteriza-se por estrogênio consistentemente baixo, redistribuição de gordura para compartimento visceral, perda acelerada de DMO (2–3%/ano nos primeiros 5 anos) e aumento do risco cardiovascular.
 
+**Progesterona.** Hormônio esteróide produzido pelo corpo lúteo na fase lútea do ciclo menstrual. Eleva a temperatura corporal basal em 0,3–0,5 °C e pode aumentar a TMB em 2,5–11% (Cap. 19.1). Na perimenopausa, suas flutuações são imprevisíveis e contribuem para retenção hídrica variável.
+
 **Sintomas vasomotores.** Ondas de calor e suores noturnos causados pela desregulação do centro termorregulador hipotalâmico em resposta à queda de estrogênio. Afetam ~75% das mulheres na perimenopausa e pós-menopausa. Prejudicam gravemente a qualidade do sono, amplificando os efeitos negativos da restrição calórica sobre a recuperação e a regulação do apetite.
 
 **THM (Terapia Hormonal da Menopausa).** Reposição de estrogênio (com ou sem progesterona) para tratamento de sintomas vasomotores e prevenção de perda óssea na pós-menopausa. Pode atenuar a redistribuição de gordura visceral e preservar parcialmente a massa magra, mas a decisão é médica e individualizada.
@@ -106,6 +132,8 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 
 **Tirzepatida.** Fármaco agonista duplo dos receptores GIP e GLP-1, presente no Mounjaro. Produziu perda média de ~21% do peso corporal em 72 semanas no ensaio SURMOUNT-1.
 
+**TSH (Hormônio Estimulante da Tireoide).** Hormônio hipofisário que regula a produção de T3 e T4 pela tireoide. Valores > 4,5 mUI/L sugerem hipotireoidismo subclínico, que deve ser avaliado com endocrinologista antes de iniciar o protocolo (Cap. 7.0). Em restrição calórica, o TSH pode se alterar pela ↓ conversão periférica T4 → T3.
+
 ---
 
 ### Farmacologista
@@ -120,9 +148,17 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 
 **AMPc (adenosina monofosfato cíclico).** Molécula mensageira dentro da célula. Quando seus níveis sobem (por exemplo, pela ação da cafeína), ela ativa a enzima HSL, que inicia a quebra de gordura armazenada.
 
+**AUDC (Ácido Ursodesoxicólico).** Ácido biliar hidrofílico utilizado para dissolver cálculos biliares de colesterol e prevenir colelitíase durante perda rápida de peso. Dose profilática: 500 mg/dia, sob prescrição médica, para praticantes com histórico biliar ou perda > 1,5 kg/semana persistente (Cap. 9, Erro 07).
+
 **Biodisponibilidade.** Fração de uma substância ingerida que efetivamente chega à corrente sanguínea e produz efeito. Exemplo: vitaminas lipossolúveis têm maior biodisponibilidade quando consumidas junto com gordura (azeite).
 
 **COX-1 / COX-2 (ciclo-oxigenase 1 e 2).** Enzimas responsáveis pela síntese de prostaglandinas a partir do ácido araquidônico. A COX-1 é constitutiva (protege a mucosa gástrica e mantém o fluxo renal); a COX-2 é induzível (mediadora de inflamação e reparo tecidual). AINEs inibem ambas — o que explica tanto o efeito analgésico quanto os riscos gástrico e renal.
+
+**CYP1A2.** Enzima do sistema citocromo P450 responsável pelo metabolismo hepático da cafeína. O polimorfismo rs762551 divide a população em metabolizadores rápidos (genótipo AA, meia-vida ~4–6 h) e lentos (AC/CC, meia-vida ~8–12 h). Metabolizadores lentos têm risco cardiovascular ampliado com doses > 200 mg/dia de cafeína e devem antecipar o corte para 12 h antes de dormir (Cap. 6.2, Cap. 16.4.4).
+
+**CYP2E1.** Enzima do sistema citocromo P450 induzida por jejum prolongado e cetose. Converte paracetamol no metabólito hepatotóxico NAPQI. Em déficit calórico, a indução de CYP2E1 somada à depleção de glutationa reduz a margem de segurança do paracetamol — dose máxima deve ser limitada a 2 g/dia (Cap. 15.1.2).
+
+**CYP3A4.** Enzima do sistema citocromo P450 responsável pelo metabolismo de ~50% dos fármacos utilizados clinicamente. Pode ser induzida por Hypericum perforatum (erva-de-são-joão) e inibida por grapefruit. A interação com fármacos metabolizados por CYP3A4 deve ser avaliada na polifarmácia (Cap. 15.8).
 
 **Dessensibilização de receptores.** Fenômeno pelo qual receptores celulares se tornam menos responsivos a um estímulo repetido — por exemplo, a cafeína perde efeito com uso contínuo porque os receptores de adenosina se adaptam.
 
@@ -132,11 +168,17 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 
 **HSL (lipase hormônio-sensível).** Enzima-chave que quebra triglicerídeos armazenados nas células de gordura, liberando ácidos graxos livres para serem usados como combustível. É ativada por hormônios como adrenalina e amplificada pela elevação do AMPc.
 
+**ISRS (Inibidores Seletivos da Recaptação de Serotonina).** Classe de antidepressivos (fluoxetina, sertralina, citalopram, escitalopram) que bloqueiam a recaptação de serotonina na fenda sináptica. Dependem de triptofano como substrato para síntese de serotonina. Em restrição calórica severa, a ↓ do ratio triptofano/LNAA pode reduzir a eficácia do ISRS; suspensão abrupta provoca síndrome de descontinuação (Cap. 15.9).
+
+**ISRN (Inibidores da Recaptação de Serotonina e Noradrenalina).** Classe de antidepressivos (venlafaxina, duloxetina) que bloqueiam recaptação de serotonina e noradrenalina. Compartilham com os ISRS o risco de ↓ eficácia em restrição calórica por depleção de triptofano, além de risco de prolongamento de QTc quando somados a ↓ Mg²⁺/K⁺ do déficit (Cap. 15.9).
+
 **NAPQI (N-acetil-p-benzoquinona imina).** Metabólito tóxico gerado pelo fígado durante o metabolismo do paracetamol. Em doses normais, é rapidamente neutralizado pela glutationa. Quando as reservas de glutationa estão baixas (déficit calórico, jejum prolongado, álcool), o NAPQI pode acumular-se e causar lesão hepática.
 
 **Prostaglandinas (PGs).** Moléculas lipídicas sinalizadoras produzidas pela ação das enzimas COX sobre o ácido araquidônico. No músculo esquelético, PGE₂ e PGF₂α exercem papel parácrino na regulação do turnover proteico, ativação de células satélite e resposta adaptativa ao exercício. A supressão por AINEs pode comprometer essas funções.
 
 **Receptores de adenosina.** Proteínas na superfície dos neurônios que, quando ativadas pela adenosina, produzem sonolência e vasodilatação cerebral. A cafeína bloqueia esses receptores, promovendo alerta e reduzindo o fluxo sanguíneo cerebral.
+
+**Triptofano.** Aminoácido essencial precursor de serotonina (via 5-HTP) e melatonina. A restrição calórica reduz o ratio triptofano/LNAA (aminoácidos neutros de cadeia longa), diminuindo a disponibilidade de triptofano cerebral. Essa redução pode comprometer a eficácia de ISRS/ISRN e a qualidade do sono via ↓ melatonina (Cap. 15.9, Cap. 16).
 
 ---
 
@@ -152,12 +194,14 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 
 **Atrogenes (MuRF-1, atrogina-1).** Genes que codificam ubiquitina-ligases musculares — enzimas que marcam proteínas musculares para degradação via proteassoma. São ativados por corticosteroides sistêmicos e por desuso, acelerando a perda de massa muscular. Esse efeito é sinérgico com o catabolismo induzido por déficit calórico.
 
+**Beta-oxidação.** Via metabólica mitocondrial que degrada ácidos graxos em unidades de acetil-CoA para produção de ATP. É a etapa posterior à lipólise: enquanto a lipólise libera os ácidos graxos do tecido adiposo, a beta-oxidação os “queima” efetivamente nos músculos. O álcool inibe a beta-oxidação, desviando o metabolismo hepático para o etanol (Cap. 18.1).
+
 **Células satélite.** Células-tronco musculares residentes entre a membrana basal e o sarcolema das fibras musculares. São ativadas por dano mecânico (exercício resistido) e proliferam para doar núcleos às fibras em reparo ou hipertrofia. AINEs podem inibir sua proliferação via supressão de prostaglandinas.
 
 **CO₂ (dióxido de carbono).** Subproduto da oxidação de gordura e carboidrato. A maior parte da gordura "queimada" sai do corpo na forma de CO₂ pela respiração.
 
 **Downregulation.** Redução da atividade ou quantidade de um receptor ou via metabólica. Em déficit calórico, o corpo faz *downregulation* do gasto energético para conservar reservas.
-
+**Entrainment (Sincronização Audiomotora).** Fenômeno neurofisiológico de sincronização involuntária de movimentos cíclicos (cadência de passada, pedalada) com ritmos musicais externos. Música a 120–140 BPM favorece o entrainment na Zona 2 aeróbica, reduzindo a percepção subjetiva de esforço em ~10% (Cap. 12).
 **Lipólise.** Processo de quebra dos triglicerídeos armazenados no tecido adiposo em ácidos graxos livres e glicerol. É o primeiro passo para "queimar gordura" — mas os ácidos graxos liberados só são eliminados se forem efetivamente oxidados nos músculos.
 
 **Massa livre de gordura (MLG / FFM).** Tudo no corpo que não é gordura: músculo, osso, água, órgãos. É o principal determinante da taxa metabólica de repouso (RMR). Em dietas sem exercício resistido, ~25% do peso perdido provém de MLG; com proteína elevada + treino resistido, essa fração pode ser reduzida para < 10%.
@@ -210,13 +254,35 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 
 **Complexo motor migratório (CMM).** Padrão cíclico de contrações que percorre o trato gastrointestinal durante o jejum, varrendo resíduos, bactérias e detritos celulares. Cada ciclo dura ~90–120 minutos. A Fase III é a mais potente. Mais tempo em jejum (como no mini-cut) aumenta o número de ciclos, protegendo contra SIBO.
 
+**Fator intrínseco.** Glicoproteína secretada pelas células parietais gástricas, essencial para a absorção de vitamina B₁₂ no íleo terminal. O uso crônico de IBPs e o jejum prolongado reduzem sua produção, podendo causar deficiência de B₁₂ ao longo do tempo (Cap. 15.3, Cap. 26).
+
 **Fermentação putrefativa.** Degradação de proteínas não absorvidas por bactérias proteolíticas no cólon, produzindo metabólitos potencialmente tóxicos: amônia (NH₃), sulfeto de hidrogênio (H₂S), p-cresol e aminas biogênicas. Aumenta em dietas hiperproteicas com baixa fibra. Mitigada pela co-ingestão de fibra fermentável.
 
 **Junções oclusivas (tight junctions).** Complexos proteicos (claudinas, ocludinas, ZO-1) que conectam lateralmente os enterócitos, formando uma barreira seletiva entre o lúmen intestinal e o meio interno. Sua integridade é regulada por zonulina, butirato e vitaminas A/D. A abertura excessiva permite a passagem de LPS bacterianos (endotoxemia metabólica).
 
 **PYY (peptídeo YY).** Hormônio anoréxico secretado pelas células L do cólon distal em resposta à presença de nutrientes e AGCC. Reduz a motilidade intestinal e o apetite via receptores Y2 hipotalâmicos. Sua secreção diminui durante déficit calórico com baixa produção de AGCC, contribuindo para o aumento progressivo da fome.
 
+**Reflexo gastrocolócico.** Resposta reflexa de aumento do peristaltismo colônico desencadeada pela distenção gástrica e/ou aquecimento do estômago (via café morno, por exemplo). É o mecanismo pelo qual a primeira refeição do dia estimula o trânsito intestinal — aproveitado no protocolo com o café matinal (Cap. 16, Cap. 21).
+
+**SIBO (Supercrescimento Bacteriano no Intestino Delgado).** Proliferação patológica de bactérias no intestino delgado (normalmente quase estéril). Prevenido pelo complexo motor migratório (CMM), cuja Fase III varre resíduos e bactérias durante o jejum. Mais tempo em jejum (como no mini-cut) pode ser protetor contra SIBO (Cap. 26.2).
+
 **Zonulina.** Único modulador fisiológico conhecido das junções oclusivas intercelulares. Liberada em excesso por supercrescimento bacteriano no intestino delgado e pela gliadina (proteína do glúten). Sua liberação excessiva aumenta a permeabilidade intestinal, permitindo translocação de LPS para a corrente sanguínea (endotoxemia metabólica). Bactérias produtoras de butirato (Faecalibacterium) reduzem sua liberação.
+
+---
+
+### Ginecologista
+
+**ACOs (Anticoncepcionais Orais Combinados).** Contraceptivos hormonais contendo estrogênio sintético + progestagênio. No contexto do protocolo, mascaram a amenorreia hipotalâmica funcional (AHF) — a paciente continua menstruando por sangramento de privação mesmo com LEA criticamente baixa. Essa “menstruação artificial” remove o sinal de alerta mais precoce de insuficiência energética, exigindo monitoramento por outros marcadores (Cap. 7.0, Cap. 19.8).
+
+**Ciclo anovulatório.** Ciclo menstrual que ocorre sem ovulação. Comum em mulheres com SOP e na perimenopausa. Pode ser identificado por ausência de elevação de temperatura basal na segunda metade do ciclo. A anovulação crônica compromete a produção de progesterona e contribui para irregularidade menstrual.
+
+**Climatério.** Período de transição endocrinológica que precede e sucede a menopausa, englobando perimenopausa e pós-menopausa precoce. Caracteriza-se por flutuações hormonais imprevisíveis e sintomas vasomotores. No contexto do protocolo, exige densitometria pré-protocolo e atenção à DMO (Cap. 7.0, Cap. 19.8, Cap. 23).
+
+**Hiperandrogenismo.** Elevação de andrógenos circulantes (testosterona, androstenediona, DHEA-S) — um dos critérios diagnósticos da SOP (Critérios de Rotterdam). Manifesta-se clinicamente como hirsutismo, acne e alopecia. No protocolo, é relevante porque a resistência insulínica associada à SOP pode amplificar a perda de massa magra em déficit (Cap. 19.8).
+
+**Menarca.** Primeira menstruação, marcando o início da capacidade reprodutiva. A idade média é ~12,5 anos (Brasil). A restrição calórica severa em adolescentes pode retardar a menarca por supressão do eixo GnRH → FSH/LH, comprometendo o desenvolvimento puberal e a aquisição de massa óssea — motivo pelo qual o protocolo é contraindicado para < 18 anos (Cap. 24).
+
+**SOP (Síndrome dos Ovários Policísticos).** Distúrbio endócrino-metabólico afetando ~5–10% das mulheres em idade reprodutiva, diagnosticado pelos Critérios de Rotterdam (≥ 2 de 3: hiperandrogenismo, ciclos anovulatórios, ovários policísticos à ultrassonografia). Associada a resistência insulínica. No protocolo, requer déficit calórico ≤ 30% do TDEE e monitoramento quinzenal de sinais androgênicos (Cap. 19.8).
 
 ---
 
@@ -242,6 +308,26 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 
 **Xerostomia.** Sensação de boca seca, causada por redução da produção de saliva. Pode ocorrer como efeito colateral de estimulantes termogênicos ou por desidratação.
 
+**PAR-Q+ (Physical Activity Readiness Questionnaire Plus).** Questionário padronizado de triagem pré-exercício que identifica condições médicas que requerem avaliação antes de iniciar atividade física. Se qualquer resposta for “Sim”, é obrigatória liberação médica antes de iniciar o exercício do protocolo (Cap. 7.0). Disponível em eparmedx.com.
+
+**SAHOS (Síndrome da Apneia-Hipopneia Obstrutiva do Sono).** Distúrbio respiratório do sono caracterizado por obstrução repetitiva das vias aéreas superiores durante o sono, causando microdespertares, dessaturação de O₂ e sonolência diurna. É causa comum de fadiga persistente incorretamente atribuída ao déficit calórico. Rastreamento: questionário STOP-Bang (Cap. 9, Erro 06).
+
+---
+
+### Microbiologista
+
+**Bacteroidetes.** Filo de bactérias gram-negativas abundante no cólon humano, especializado na fermentação de carboidratos complexos e polissacarídeos vegetais. A razão Firmicutes/Bacteroidetes é frequentemente utilizada como marcador grosseiro de “saúde” da microbiota, embora a complexidade da ecologia intestinal não se reduza a esse ratio (Cap. 21, Cap. 26).
+
+**Firmicutes.** Filo bacteriano que inclui as principais espécies produtoras de butirato (Faecalibacterium prausnitzii, Roseburia spp.) e outros AGCC. Sua abundância diminui em restrição calórica severa com baixa fibra, associando-se a ↓ butirato e comprometimento da barreira intestinal (Cap. 21, Cap. 26).
+
+**Prebióticos.** Substratos não-digeríveis (oligofrutose, inulina, FOS, beta-glucana) que servem como alimento seletivo para bactérias benéficas do cólon, estimulando seu crescimento e a produção de AGCC. No protocolo, as fontes principais são aveia (beta-glucana) e vegetais (FOS). A manutenção de fibra adequada é a estratégia prebiótica mais importante (Cap. 21).
+
+**Probióticos.** Microrganismos vivos que, quando administrados em quantidade adequada (≥ 10⁹ UFC/dia), conferem benefício à saúde do hospedeiro. As cepas mais estudadas são Lactobacillus, Bifidobacterium e Saccharomyces boulardii. No protocolo, posição quaternária — úteis como adjuvante se sintomas GI relevantes. Alimentos fermentados (kefir, iogurte, chucrute) podem ser superiores a cápsulas para diversidade microbiana (Cap. 21.4).
+
+**Simbióticos.** Combinação de probióticos + prebióticos em uma formulação única, com o objetivo de que o prebiótico sustente a colonização do probiótico. Podem ser considerados em casos de distenção/gases persistentes durante as semanas 1–2 do protocolo (Cap. 9, Erro 09; Cap. 21.4).
+
+**UFC (Unidade Formadora de Colônia).** Unidade de medida que quantifica microrganismos viáveis em uma amostra, utilizada para dosagem de probióticos. A recomendação mínima para efeito clínico é ≥ 10⁹ UFC/dia (1 bilhão). Formulações multi-cepa são preferidas às mono-cepa (Cap. 21.4).
+
 ---
 
 ### Nefrologista
@@ -257,6 +343,8 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 **Lesão renal aguda (LRA).** Deterioração abrupta da função renal, medida por elevação de creatinina sérica ou redução do débito urinário. No contexto deste protocolo, a combinação de AINEs + exercício + desidratação relativa é fator de risco documentado: AINEs inibem prostaglandinas renais vasoprotetoras, agravando o efeito da baixa perfusão renal.
 
 **Natremia.** Concentração de sódio no sangue. A faixa normal é 135–145 mEq/L. Valores abaixo de 135 caracterizam hiponatremia.
+
+**TFG (Taxa de Filtração Glomerular).** Volume de plasma filtrado pelos rins por unidade de tempo (mL/min/1,73 m²). Estimada pela creatinina sérica via equação CKD-EPI. Valores < 60 mL/min indicam doença renal crônica e são **contraindicação absoluta** para este protocolo, pois a alta ingestão proteica e a desidratação relativa podem agravar a nefropatia (Cap. 7.0).
 
 ---
 
@@ -314,6 +402,10 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 
 **Esvaziamento gástrico.** Velocidade com que o alimento sai do estômago para o intestino. O whey isolado com água tem esvaziamento rápido; leite e gordura retardam esse processo.
 
+**Fibra insolúvel.** Tipo de fibra dietética (celulose, lignina, hemicelulose) que não se dissolve em água e não é significativamente fermentada no cólon. Acelera o trânsito intestinal por efeito mecânico (volume fecal). Fontes no protocolo: vegetais folhosos (alface, rúcula, couve), brócolis/couve-flor. Importante para prevenir constipação em déficit (Cap. 21).
+
+**Fibra solúvel.** Tipo de fibra dietética (pectina, beta-glucana, inulina, psyllium) que forma gel viscoso em contato com água. É fermentada pela microbiota colônica, produzindo AGCC (butirato, propionato, acetato). Retarda esvaziamento gástrico e prolonga saciedade. Meta: ≥ 15 g/dia durante o mini-cut (Cap. 21).
+
 **IG (índice glicêmico).** Escala de 0 a 100 que mede a velocidade com que um alimento eleva a glicose no sangue. A palatinose tem IG baixo (~32), enquanto a glicose pura tem IG = 100.
 
 **IMC (índice de massa corporal).** Razão entre peso (kg) e altura ao quadrado (m²). Usado como triagem populacional para sobrepeso (≥ 25) e obesidade (≥ 30), mas não distingue gordura de massa muscular.
@@ -321,6 +413,8 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 **Percentil de IMC.** Classificação do IMC em crianças e adolescentes que compara o valor individual com a distribuição populacional ajustada por idade e sexo (curvas de crescimento CDC/OMS). Sobrepeso: ≥ percentil 85; obesidade: ≥ percentil 95; obesidade severa: ≥ 120% do percentil 95 ou IMC ≥ 35. É a métrica correta para avaliação nutricional pediátrica, pois o IMC absoluto varia normalmente com o crescimento.
 
 **Jejum intermitente.** Padrão alimentar que alterna janelas de alimentação com períodos de jejum. O formato 16:8 (16 h sem comer, 8 h de alimentação) é o mais comum. Este protocolo utiliza um jejum fisiológico matinal, mas não segue o modelo clássico 16:8.
+
+**LCD (Low-Calorie Diet / Dieta de Baixa Caloria).** Classificação dietética para ingestão de 11–19 kcal/kg/dia de peso corporal. Fica entre a dieta moderada (≥ 20 kcal/kg/dia) e a VLCD (< 11 kcal/kg/dia). Este protocolo opera predominantemente na faixa LCD para praticantes com peso > 65 kg (Cap. 1.1).
 
 **Micelas lipídicas.** Estruturas microscópicas formadas por gordura e bile no intestino que transportam vitaminas lipossolúveis (A, D, E, K) para absorção. Sem gordura na refeição, a absorção dessas vitaminas é drasticamente reduzida.
 
@@ -340,13 +434,19 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 
 ### Nutricionista Esportivo
 
+**Caseína.** Proteína do leite de digestão lenta (~7 h), que mantém aminoacidemia positiva durante períodos prolongados. No protocolo, recomendada como suplemento pré-sono (20–40 g) para atenuar o catabolismo muscular noturno — a maior janela catabólica do dia em déficit calórico (Cap. 6.3). Alternativas: queijo cottage, iogurte grego.
+
 **Catabolismo.** Processo metabólico de degradação — por exemplo, a quebra de proteínas musculares para fornecer energia. O protocolo busca minimizá-lo mantendo a ingestão de proteína alta.
 
 **Composição corporal.** Proporção entre massa gorda (gordura) e massa magra (músculos, ossos, água) no corpo. A balança não distingue uma da outra — por isso fotos e medidas de cintura são indicadores complementares.
 
+**Creatina monohidratada.** Suplemento com o maior corpo de evidência em ciência do exercício (500+ estudos). Dose: 3–5 g/dia, sem necessidade de fase de loading. Preserva massa magra e performance em déficit calórico, tem efeito neuroprotetor e é segura para rins saudáveis. Causa retenção hídrica intramuscular (~1–2 kg) que não é gordura. Contraindicação: DRC com TFG < 60 mL/min (Cap. 6.3).
+
 **Glicogênio.** Forma de armazenamento de glicose no fígado (glicogênio hepático) e nos músculos (glicogênio muscular). Em jejum, o corpo esgota primeiro o glicogênio hepático antes de depender mais da oxidação de gordura. A palatinose do jantar contribui para repor parcialmente esses estoques durante a noite. Quando o exercício atinge faixas de intensidade muito alta, o músculo passa a usar predominantemente glicogênio em vez de gordura.
 
 **Isomaltulose.** Ver *Palatinose*.
+
+**Leucina.** Aminoácido de cadeia ramificada (BCAA) que funciona como principal ativador da via mTORC1, iniciando a síntese proteica muscular (MPS). O limiar mínimo por refeição é de ~2,5 g para atingir estimulação máxima de MPS, sendo mais alto em idosos (resistência anabólica). Suplementação isolada (3–5 g) no desjejum é recomendada para idosos e praticantes com MLG < 45 kg (Cap. 6.3).
 
 **Massa magra.** Tudo no corpo que não é gordura: músculos, ossos, órgãos e água. A preservação de massa magra durante o déficit é um dos objetivos centrais do protocolo, alcançada via proteína alta e exercício.
 
@@ -371,7 +471,15 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 **Facilitação social da alimentação.** Fenômeno documentado por três décadas de pesquisa (Herman 2015): pessoas ingerem significativamente mais comida quando comem em grupo do que sozinhas — de +33% com 1 companheiro a +96% com 7+ pessoas. Mecanismos incluem extensão temporal da refeição, modelagem social, distração atencional e norma de reciprocidade. Altamente relevante para gestão de eventos sociais durante o protocolo.
 
 **Terapia Cognitivo-Comportamental (TCC).** Abordagem psicoterapêutica estruturada que trabalha a relação entre pensamentos, emoções e comportamentos. No contexto do protocolo, a TCC é a intervenção com maior evidência para redução de alimentação emocional e compulsão alimentar. A técnica de reestruturação cognitiva (identificar e substituir pensamentos automáticos disfuncionais) é a mais aplicável ao dia a dia da restrição calórica.
+**BDD (Body Dysmorphic Disorder / Dismorfia Corporal).** Transtorno obsessivo-compulsivo relacionado à preocupação excessiva e desproporcional com percepção de imperfeição na aparência. No contexto do protocolo, o uso de fotos de progresso pode funcionar como gatilho para indivíduos com traços de BDD — recomenda-se limitar frequência e avaliar resposta emocional (Cap. 17.8.2).
 
+**EAT-26 (Eating Attitudes Test — 26 itens).** Questionário validado para rastreamento de risco de transtornos alimentares. Score ≥ 20: encaminhar para psicólogo/psiquiatra especializado antes de iniciar o protocolo. Score 10–19: subclínico, monitorar com atenção redobrada durante os 30 dias (Cap. 7.0, Cap. 17.7).
+
+**EPR (Exposição com Prevenção de Resposta).** Técnica da TCC na qual o indivíduo se expõe ao estímulo que gera craving (ex.: ver/cheirar comida palatável) sem realizar a resposta habitual (comer). Permite habituação e extinção do craving ao longo das repetições. Aplicável ao manejo de fome aguda e eventos sociais durante o protocolo (Cap. 17.7).
+
+**GAD-7 (Generalized Anxiety Disorder — 7 itens).** Escala validada de 7 perguntas para rastreamento de transtorno de ansiedade generalizada. Score ≥ 10 (moderado) ou ≥ 15 (grave): avaliação profissional recomendada antes de iniciar o protocolo, pois a restrição calórica pode exacerbar sintomas ansiosos (Cap. 7.0).
+
+**PHQ-9 (Patient Health Questionnaire — 9 itens).** Escala validada de 9 perguntas para rastreamento e monitoramento de depressão. Score ≥ 5: flag de atenção em usuários de ISRS/ISRN (monitorar humor quinzenalmente). Score ≥ 10 (moderado): avaliação profissional. Score ≥ 15 (grave): não iniciar protocolo sem acompanhamento psiquiátrico (Cap. 7.0, Cap. 15.9).
 ---
 
 ### Pesquisador / Metodologista Científico
@@ -381,3 +489,9 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 **Ensaio controlado randomizado (RCT).** Tipo de estudo científico em que os participantes são sorteados para diferentes grupos (ex.: exercício em jejum vs. alimentado), minimizando vieses. É considerado o padrão-ouro da evidência clínica.
 
 **Meta-análise.** Estudo estatístico que combina os resultados de múltiplos estudos individuais sobre o mesmo tema para chegar a uma conclusão mais robusta.
+
+**GRADE (Grading of Recommendations, Assessment, Development, and Evaluations).** Sistema padronizado para classificar a qualidade da evidência científica em 4 níveis: Alta, Moderada, Baixa e Muito Baixa/Opinião. Neste documento, utilizado de forma informal para calibrar a confiança do leitor em cada recomendação — uma classificação GRADE Baixa não invalida a recomendação, apenas indica menor certeza nos dados (Cap. 2).
+
+**PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses).** Protocolo internacional para condução e relato de revisões sistemáticas. Mencionado neste documento para explicitar que as referências foram selecionadas via busca não-sistemática — sem seguir o protocolo PRISMA — havendo risco inerente de viés de seleção e confirmação (Cap. 2).
+
+**Revisão sistemática.** Método de síntese de evidência que utiliza busca exaustiva, critérios pré-definidos de inclusão/exclusão e avaliação formal de qualidade para identificar e analisar todos os estudos relevantes sobre uma questão clínica. É hierarquicamente superior ao RCT individual e à coorte observacional. Quando combinada com análise estatística quantitativa, constitui uma meta-análise.
