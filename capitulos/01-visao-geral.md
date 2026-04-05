@@ -20,7 +20,11 @@ Com ~1.200 kcal de ingestão e exercício diário, a disponibilidade energética
 
 **Riscos específicos:** amenorreia hipotalâmica funcional (AHF), perda de densidade mineral óssea, disfunção tireoidiana. Anticoncepcionais orais combinados (ACOs) **mascaram** a AHF ao manter ciclos artificiais.
 
-**Adaptação obrigatória:** Mulheres devem calcular seu LEA individual e, se necessário, **elevar a ingestão calórica** para manter LEA ≥ 30 kcal/kg MLG. Fórmula: `LEA = (kcal ingeridas − kcal gastas no exercício) / kg de MLG`. Se o resultado for < 30, aumente calorias até atingir o limiar mínimo. Consulte o Cap. 19 para adaptações detalhadas.
+**Adaptação obrigatória:** Mulheres devem calcular seu LEA individual e, se necessário, **elevar a ingestão calórica** para manter LEA ≥ 25 kcal/kg MLG (ideal ≥ 30). Fórmula: `LEA = (kcal ingeridas − kcal gastas no exercício) / kg de MLG`. Se o resultado for < 25, aumente calorias até atingir o limiar mínimo. Consulte a **tabela de ajuste calórico por MLG** no Cap. 19 (Seção 19.4) para os valores exatos de ingestão mínima por faixa de massa magra.
+
+**Variante feminina de déficit:** Em vez do déficit padrão de ~50% do TDEE, mulheres devem adotar um déficit de **30–35% do TDEE** para manter LEA em faixa segura. Isso implica ingestão calórica tipicamente entre **1.400–1.700 kcal/dia** dependendo do peso e composição corporal.
+
+**Monitoramento menstrual obrigatório:** Se o ciclo menstrual ultrapassar 45 dias (em mulheres que não usam ACO) → interromper o protocolo ou reduzir o déficit para ≤ 20% do TDEE até normalização.
 :::
 
 ### 1.1. Faixa Calórica Operacional (Design Flexível)

@@ -93,6 +93,24 @@ A posição da ISSN (Sims et al., 2023) recomenda que atletas femininas mantenha
 > - Com TMB de ~1.350 kcal e NEAT + exercício de ~600 kcal: TDEE ≈ 1.950 kcal
 > - Déficit máximo recomendado: **~300–500 kcal** (não os 700+ que um homem pode tolerar)
 
+#### Tabela de Ajuste Calórico por Massa Magra (Déficit Feminino)
+
+O protocolo padrão (~1.200 kcal) resulta em LEA ~17 kcal/kg MLG para uma mulher típica — severamente abaixo do limiar de segurança. A tabela abaixo define a **ingestão calórica mínima** para manter LEA ≥ 25 kcal/kg MLG (limiar de segurança) e o alvo ideal de ≥ 30 kcal/kg MLG:
+
+| Peso (kg) | % Gordura | MLG (kg) | Gasto exercício (kcal) | Ingestão mín. (LEA ≥ 25) | Ingestão ideal (LEA ≥ 30) | Déficit vs. TDEE |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 50 | 25% | 37,5 | 250 | **1.188 kcal** | **1.375 kcal** | ~30% |
+| 55 | 25% | 41,3 | 250 | **1.281 kcal** | **1.488 kcal** | ~30% |
+| 60 | 25% | 45,0 | 300 | **1.425 kcal** | **1.650 kcal** | ~30–35% |
+| 65 | 28% | 46,8 | 300 | **1.470 kcal** | **1.704 kcal** | ~30–35% |
+| 70 | 28% | 50,4 | 300 | **1.560 kcal** | **1.812 kcal** | ~30–35% |
+| 75 | 30% | 52,5 | 300 | **1.613 kcal** | **1.875 kcal** | ~30–35% |
+| 80 | 30% | 56,0 | 300 | **1.700 kcal** | **1.980 kcal** | ~30–35% |
+
+> **Como usar:** (1) Estime sua MLG (peso × (1 − %gordura)). (2) Estime o gasto calórico do exercício (~250–300 kcal para 45 min Zona 2). (3) Consulte a coluna de ingestão mínima. (4) **Nunca opere abaixo da coluna "Ingestão mín."** — se o protocolo padrão (1.200 kcal) ficar abaixo desse valor, eleve sua ingestão.
+>
+> A coluna "Déficit vs. TDEE" mostra que mulheres devem operar com **déficit de 30–35% do TDEE**, em vez dos ~50% do protocolo masculino.
+
 ::: {.callout-warning}
 **ALERTA CLÍNICO — Sinais de LEA no protocolo:**
 Se durante o mini-cut de 30 dias a praticante observar QUALQUER destes sinais, reduza o déficit imediatamente:
