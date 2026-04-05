@@ -24,6 +24,17 @@
 **Gordura mínima diária:** Manter ≥ 7 g de gordura em pelo menos 2 refeições/dia (almoço + lanche). A gordura estimula a contração da vesícula biliar via CCK, prevenindo estase e reduzindo o risco de colelitíase durante perda rápida de peso. O azeite do almoço (~14 g) e as castanhas do lanche (~5–7 g) **não devem ser omitidos** mesmo nos dias de menor ingestão.
 :::
 
+::: {.callout-note}
+**Distribuição peri-treino de carboidrato:**
+
+Em dias de treino resistido (Cap. 20), concentre ~40–60% do CHO diário nas janelas pré e pós-treino para otimizar performance e recuperação com glicogênio limitado (ver Cap. 14.1 para racional completo).
+
+**Exemplo prático (total ~120 g CHO/dia):**
+- Pré-treino: aveia 30 g + banana (≈25 g CHO)
+- Pós-treino: arroz 60 g cozido + batata-doce 80 g (≈30 g CHO)
+- Restante: distribuído em almoço e ceia via vegetais, fruta e arroz residual
+:::
+
 ### 10.3. Variantes para Restrições Alimentares
 
 O cardápio padrão usa frango, ovos, whey e leite como fontes proteicas. Para praticantes com restrições alimentares, as substituições abaixo mantêm macros equivalentes:

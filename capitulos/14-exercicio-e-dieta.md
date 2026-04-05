@@ -46,6 +46,18 @@ EXERCÍCIO → protege a composição (motor secundário, mas crítico)
 
 > **Nota de calibração:** Evite interpretar esses dados como "exercício é opcional". Em protocolos de déficit agressivo como este (~50% do TDEE), a remoção do exercício altera qualitativamente a intervenção — não só quantitativamente.
 
+#### Periodização de carboidrato peri-treino em déficit
+
+Em déficit calórico severo, os estoques de glicogênio muscular estão cronicamente reduzidos. A distribuição estratégica do carboidrato disponível em torno do treino resistido (Cap. 20) maximiza a performance e atenua o catabolismo proteico:
+
+| Janela | CHO sugerido | Fonte praticável | Racional |
+|---|---|---|---|
+| **Pré-treino** (60–90 min antes) | 20–30 g | Aveia, banana, Palatinose | Sustenta glicemia durante treino de força; Palatinose tem IG baixo |
+| **Pós-treino** (até 2 h após) | 20–40 g | Arroz, batata-doce, fruta | Reposição parcial de glicogênio; janela de sensibilidade insulínica |
+| **Restante do dia** | Residual | Vegetais, fibras | Priorizar fibra e saciedade |
+
+> **Nota:** O total de CHO diário (~110–130 g no protocolo) não muda — apenas a **distribuição** é ajustada para concentrar ~40–60% do CHO nas janelas peri-treino. Para dias sem treino resistido (apenas Zona 2), a distribuição uniforme é preferível. Ver Cap. 10 para recalcular a distribuição.
+
 ---
 
 ### 14.2. Variante sem Exercício (Limitações Físicas)
