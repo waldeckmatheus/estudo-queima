@@ -91,6 +91,11 @@ Esta base inclui evidências de qualidade heterogênea (guidelines, revisões, e
 | [web:118] | [International Society of Sports Nutrition Position Stand: Nutritional Concerns of the Female Athlete — Sims ST et al., J Int Soc Sports Nutr 2023](https://pubmed.ncbi.nlm.nih.gov/37221858/) |
 | [web:119] | [IOC Consensus Statement on Relative Energy Deficiency in Sport (RED-S): 2018 Update — Mountjoy M et al., Br J Sports Med 2018](https://pubmed.ncbi.nlm.nih.gov/29773536/) |
 | [web:120] | [Current Evidence Shows No Influence of Women's Menstrual Cycle Phase on Acute Strength Performance or Adaptations to Resistance Exercise Training — Colenso-Semple LM et al., Front Sports Act Living 2023](https://pubmed.ncbi.nlm.nih.gov/37033884/) |
+| [web:121] | [Energy Deficiency Impairs Resistance Training Gains in Lean Mass but Not Strength: A Meta-Analysis and Meta-Regression — Murphy C & Koehler K, Scand J Med Sci Sports 2022](https://pubmed.ncbi.nlm.nih.gov/34623696/) |
+| [web:122] | [Lean Mass Sparing in Resistance-Trained Athletes during Caloric Restriction: The Role of Resistance Training Volume — Roth C, Schoenfeld BJ, Behringer M, Eur J Appl Physiol 2022](https://pubmed.ncbi.nlm.nih.gov/35146569/) |
+| [web:123] | [Dose-Response Relationship between Weekly Resistance Training Volume and Increases in Muscle Mass: A Systematic Review and Meta-Analysis — Schoenfeld BJ, Ogborn D, Krieger JW, J Sports Sci 2017](https://pubmed.ncbi.nlm.nih.gov/27433992/) |
+| [web:124] | [How Many Times per Week Should a Muscle Be Trained to Maximize Muscle Hypertrophy? A Systematic Review and Meta-Analysis — Schoenfeld BJ, Grgic J, Krieger J, J Sports Sci 2019](https://pubmed.ncbi.nlm.nih.gov/30558493/) |
+| [web:125] | [Auto-Regulation Method vs Fixed-Loading Method in Maximum Strength Training for Athletes: A Systematic Review and Meta-Analysis — Zhang X et al., Front Physiol 2021](https://pubmed.ncbi.nlm.nih.gov/33776802/) |
 
 ### 12.1. Curadoria Rápida por Nível de Evidência
 
@@ -117,12 +122,17 @@ Esta base inclui evidências de qualidade heterogênea (guidelines, revisões, e
 * [web:116] SR/MA (78 estudos): performance pode ser trivialmente reduzida na menstruação (ES = −0,06); variabilidade inter-individual muito alta.
 * [web:118] Position stand ISSN sobre necessidades nutricionais da atleta feminina: EA ≥ 30 kcal/kgMLG/dia; proteína 1,6–2,4 g/kg em déficit.
 * [web:119] Consenso IOC sobre RED-S: espectro de consequências da baixa disponibilidade energética em múltiplos sistemas fisiológicos.
+* [web:121] Meta-análise/meta-regressão: déficit energético prejudica ganhos de massa magra com TR, mas não ganhos de força.
+* [web:122] Revisão narrativa: manutenção do volume de TR (tonelagem) é fator-chave para preservação de massa magra em atletas em restrição calórica.
+* [web:123] SR/MA dose-resposta: ≥10 séries semanais por grupo muscular superiores a <5 para hipertrofia.
 
 **Suporte complementar (útil, mas não central para decisão crítica):**
 * [web:20] Fasted vs fed para metabolismo de gordura.
 * [web:23], [web:46], [web:47] Digestão proteica e suporte à massa magra.
 * [web:70], [web:71] Acurácia de sensores cardíacos.
 * [web:81] Exercício abdominal isolado não reduz gordura abdominal (RCT).
+* [web:124] SR/MA: frequência de TR não afeta hipertrofia quando volume semanal é equalizado — flexibilidade na distribuição.
+* [web:125] SR/MA: métodos de autoregulação (RPE, APRE, VBT) produzem ganhos de força ≥ cargas fixas, com melhor ajuste à capacidade diária.
 * [web:82] Lipólise local adjacente a músculos em contração: magnitude irrisória.
 * [web:84] Exercício em jejum vs. alimentado: sem diferença de composição corporal em dieta hipocalórica (RCT).
 * [web:85] Revisão integrativa sobre adaptações biológicas ao déficit calórico e reganho de peso.

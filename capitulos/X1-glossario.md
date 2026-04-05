@@ -8,17 +8,17 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 
 | Profissional | Termos | % do glossário |
 |---|:---:|:---:|
-| Neurocientista | 19 | 15,6% |
-| Fisiologista do Exercício | 18 | 14,8% |
-| Endocrinologista | 15 | 12,3% |
-| Nutricionista Clínico | 15 | 12,3% |
-| Farmacologista | 14 | 11,5% |
-| Nutricionista Esportivo | 11 | 9,0% |
-| Médico do Esporte | 7 | 5,7% |
-| Educador Físico | 6 | 4,9% |
-| Nefrologista | 6 | 4,9% |
-| Cardiologista | 4 | 3,3% |
-| Pesquisador / Metodologista Científico | 3 | 2,5% |
+| Neurocientista | 19 | 15,2% |
+| Fisiologista do Exercício | 18 | 14,4% |
+| Endocrinologista | 15 | 12,0% |
+| Nutricionista Clínico | 15 | 12,0% |
+| Farmacologista | 14 | 11,2% |
+| Nutricionista Esportivo | 11 | 8,8% |
+| Educador Físico | 9 | 7,2% |
+| Médico do Esporte | 7 | 5,6% |
+| Nefrologista | 6 | 4,8% |
+| Cardiologista | 4 | 3,2% |
+| Pesquisador / Metodologista Científico | 3 | 2,4% |
 | Psicólogo Clínico | 2 | 1,6% |
 | Gastroenterologista | 2 | 1,6% |
 
@@ -42,11 +42,17 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 
 **FC / FCmáx (frequência cardíaca / frequência cardíaca máxima).** FC é o número de batimentos do coração por minuto. FCmáx é o valor teórico máximo, estimado pela fórmula 220 − idade. As zonas de treino são definidas como percentuais da FCmáx.
 
+**Overreaching não-funcional (NFOR).** Acúmulo excessivo de fadiga de treinamento que resulta em queda de performance por semanas, sem recuperação em curto prazo. Diferencia-se do overreaching funcional (que se resolve com poucos dias de descanso) pela duração e gravidade. Em déficit agressivo, o limiar para NFOR é significativamente menor.
+
 **PPG (fotopletismografia).** Tecnologia usada por smartwatches e pulseiras para medir a frequência cardíaca. LEDs verdes iluminam a pele e um sensor detecta variações no fluxo sanguíneo a cada batimento.
 
-**RPE / PSE (Rating of Perceived Exertion / Percepção Subjetiva de Esforço).** Escala subjetiva (Borg 6–20) que permite avaliar a intensidade do exercício sem depender da frequência cardíaca. Zona 2 corresponde a RPE 11–13 ("leve a um pouco difícil"). Alternativa fundamental para praticantes em uso de betabloqueadores.
+**RIR (Repetições em Reserva).** Número estimado de repetições que o praticante poderia realizar além das completadas em uma série. 2 RIR = parou com 2 repetições "sobrando." Ferramenta de autoregulação complementar ao RPE, especialmente útil para ajustar a carga dia a dia durante restrição calórica.
+
+**RPE / PSE (Rating of Perceived Exertion / Percepção Subjetiva de Esforço).** Escala subjetiva (Borg 6–20) que permite avaliar a intensidade do exercício sem depender da frequência cardíaca. Zona 2 corresponde a RPE 11–13 ("leve a um pouco difícil"). No treinamento resistido, a escala adaptada (1–10) é usada para autoregulação de carga. Alternativa fundamental para praticantes em uso de betabloqueadores.
 
 **RPT (Reverse Pyramid Training).** Método de musculação no qual a série mais pesada é feita primeiro (com mais carga e menos repetições) e as séries seguintes são progressivamente mais leves. Usado no protocolo Leangains.
+
+**Tonelagem (volume-carga).** Produto de séries × repetições × carga (kg) — métrica principal para quantificar o volume total de treinamento resistido em uma sessão ou semana. Sua manutenção durante restrição calórica é o fator mais importante para preservação de massa magra.
 
 **Zona 2.** Faixa de intensidade de exercício aeróbico na qual o corpo utiliza predominantemente gordura como combustível. Neste protocolo, corresponde a 111–129 bpm (ou ~60–70% da FCmáx). É identificada pela capacidade de falar em frases completas sem ofegar.
 
