@@ -8,6 +8,7 @@
 - Crianças e adolescentes (<18 anos) — ver Cap. 24
 - Uso crônico de corticosteroide sistêmico (ver Cap. 15.4)
 - DRC com TFG < 60 mL/min (ver triagem pré-protocolo abaixo)
+- Protocolo classificado como VLCD (< 11 kcal/kg/dia) sem supervisão médica (ver classificação no Cap. 1.1)
 :::
 
 ### 7.0. Triagem Pré-Protocolo (Pre-Flight Check)

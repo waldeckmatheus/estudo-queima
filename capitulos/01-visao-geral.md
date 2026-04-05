@@ -30,6 +30,18 @@ Com ~1.200 kcal de ingestão e exercício diário, a disponibilidade energética
 ### 1.1. Faixa Calórica Operacional (Design Flexível)
 A tabela alimentar atual opera em uma janela de aproximadamente 978 kcal a 1.284 kcal (dependendo do uso do azeite). Por estar abaixo da sua Taxa Metabólica Basal (TMB), esse nível de ingestão gera uma "dívida técnica" fisiológica. Por isso, a faixa mais baixa **não é uma meta diária obrigatória**. Nos dias em que o desgaste físico for maior, a margem superior (com o azeite) deve ser utilizada para garantir a sustentabilidade do sistema. [web:52][web:68]
 
+#### Classificação do Déficit por kcal/kg de Peso Corporal
+
+A classificação absoluta (LCD < 1.200 kcal, VLCD < 800 kcal) é inadequada para indivíduos de diferentes portes. A tabela abaixo classifica o déficit **por peso corporal**, que é mais precisa clinicamente:
+
+| Classificação | kcal/kg/dia | Supervisão recomendada | Exemplo (80 kg) | Exemplo (55 kg) |
+|---|:---:|---|:---:|:---:|
+| **VLCD** (Very Low Calorie Diet) | < 11 | Supervisão médica **obrigatória** | < 880 kcal | < 605 kcal |
+| **LCD** (Low Calorie Diet) | 11–19 | Monitoramento laboratorial quinzenal | 880–1.520 | 605–1.045 |
+| **Déficit moderado** | ≥ 20 | Protocolo padrão | ≥ 1.600 | ≥ 1.100 |
+
+> **Calcule o seu:** divida sua ingestão calórica diária pelo seu peso corporal. Se o resultado for < 11 kcal/kg/dia, seu protocolo opera como VLCD — discuta com médico antes de iniciar (ver Seção 7.0). O protocolo padrão (1.200 kcal) opera como LCD para indivíduos de 63–109 kg e como VLCD para indivíduos acima de 109 kg (onde o déficit relativo ao peso é menor).
+
 ### 1.2. Projeção de Execução
 * **Taxa Metabólica Basal (TMB):** ~1.647 kcal
 * **Gasto Total Diário Estimado (TDEE):** ~2.400 kcal
