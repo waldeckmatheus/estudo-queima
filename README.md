@@ -1,6 +1,6 @@
 # Mini-Protocolo de Cutting Assistido — Sprint de Férias
 
-Documentação técnica de um **protocolo de mini-cut de 30 dias** com embasamento científico, gerada em PDF a partir de Markdown via Pandoc + XeLaTeX. O projeto cobre desde a mecânica do déficit calórico até adaptações populacionais, com **125 referências científicas** (107 PubMed/Cochrane + 18 outras fontes) e um glossário de **155 termos técnicos**.
+Documentação técnica de um **protocolo de mini-cut de 30 dias** com embasamento científico, gerada em PDF a partir de Markdown via Pandoc + XeLaTeX. O projeto cobre desde a mecânica do déficit calórico até adaptações populacionais, com **125 referências científicas** (107 PubMed/Cochrane + 18 outras fontes) e um glossário de **208 termos técnicos**.
 
 > **Público-alvo:** adultos saudáveis de 18–60 anos. Capítulos específicos cobrem adaptações para mulheres (Cap. 19), idosos ≥ 65 anos (Cap. 22), menopausa (Cap. 23) e contraindicação para crianças/adolescentes (Cap. 24).
 
@@ -16,7 +16,7 @@ Documentação técnica de um **protocolo de mini-cut de 30 dias** com embasamen
 | **Contextos especiais** | 8. FAQ · 13. Comparativo com Dietas · 18. Álcool e Alimentação Social |
 | **Adaptações populacionais** | 19. Mulheres · 22. Idosos · 23. Menopausa · 24. Crianças (**contraindicação**) |
 | **Ciência aplicada** | 25. Ciência da Composição Corporal · 26. Fisiologia Gastrointestinal no Déficit |
-| **Apêndices** | Glossário (155 termos, 13 especialidades) · Referências (125 únicas, [web:5]–[web:158]) |
+| **Apêndices** | Glossário (208 termos, 15 especialidades) · Referências (125 únicas, [web:5]–[web:158]) |
 
 ---
 
