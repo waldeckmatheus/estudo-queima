@@ -134,3 +134,22 @@ Perda de peso rápida (≥ 1,5 kg/semana por ≥ 2 semanas consecutivas) é fato
 * **Monitorar velocidade de perda:** Se perda > 1,5 kg/semana por 2 semanas seguidas → reduzir déficit adicionando azeite em ambas as refeições principais.
 * **Ácido ursodesoxicólico (AUDC):** Em pacientes com histórico de colelitíase ou perda > 1,5 kg/semana persistente, AUDC 500 mg/dia pode ser considerado como profilaxia sob prescrição médica (Stokes et al., 2014).
 * **Critério de parada:** Dor em HCD pós-prandial persistente → interromper protocolo e avaliar com ultrassonografia abdominal.
+
+### Erro 08: Hipercortisolismo Funcional — Sinais Indiretos de Cortisol Elevado
+
+O déficit calórico crônico eleva o cortisol progressivamente ao longo dos 30 dias (ver Cap. 2.1, Cap. 16.2.2). O monitoramento laboratorial de cortisol não é prático para a maioria dos praticantes, mas sinais indiretos sugerem hipercortisolismo funcional:
+
+**Constelação sugestiva (2 ou mais sinais simultâneos):**
+- Retenção hídrica persistente (> 2 kg de flutuação não explicada por ciclo menstrual ou ingestão de sódio)
+- Fadiga desproporcional ao déficit ("dormi bem mas acordo exausto")
+- Insônia paradoxal (cansado mas não consegue dormir — cortisol noturno elevado impede queda de temperatura central)
+- Irritação/ansiedade crescentes sem gatilho emocional identificado
+- Perda de força muscular desproporcional (↓ performance no TR sem mudança de volume)
+
+**O Patch de Correção:**
+* **Antecipar refeed:** Inserir 1–2 dias de refeed extra (manutenção ~2.400 kcal) para sinalizar adequação energética ao eixo HPA.
+* **Diet break:** Se sinais persistirem após refeed, considerar pausa de 3–5 dias em manutenção calórica.
+* **Exercício noturno:** Evitar treino intenso < 4 h antes de dormir — eleva cortisol e catecolaminas, piorando a insônia paradoxal (ver Cap. 16.4.4).
+* **Verificação laboratorial:** Se a constelação persistir > 7 dias com refeed, considerar cortisol matinal basal com médico.
+
+> **Subgrupos de risco para hipercortisolismo:** histórico de estresse crônico, insônia prévia, uso pregresso de corticoides, transtornos de ansiedade. Considerar cortisol matinal basal nos exames pré-protocolo (Seção 7.0) para estes subgrupos.
