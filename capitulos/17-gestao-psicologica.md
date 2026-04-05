@@ -113,6 +113,8 @@ O protocolo é um estressor controlado. Mas em indivíduos vulneráveis, a restr
 - Distorção da imagem corporal que se agrava ao longo do protocolo
 
 **Se qualquer um destes ocorrer:** suspender o protocolo, iniciar reverse dieting (Cap. 3, Fase 2) e procurar avaliação profissional (psicólogo ou psiquiatra).
+
+**⚠️ Medicação psiquiátrica:** Se você utiliza ISRS, ISRN ou outro psicotrópico, **nunca altere a dose ou suspenda por decisão unilateral** durante o protocolo. A restrição calórica pode reduzir o triptofano disponível (↓ substrato para serotonina), reduzindo potencialmente a eficácia do fármaco. Se notar piora de humor, insônia ou irritabilidade nas semanas 2–3, consulte o Cap. 15.9 e procure seu médico prescritor.
 :::
 
 ### 17.8. O Paradoxo do Monitoramento

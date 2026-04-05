@@ -134,3 +134,22 @@ O sistema enzimático citocromo P450 (CYP) é responsável pelo metabolismo de ~
 ::: {.callout-warning}
 **Regra de ouro:** Nunca suspenda uma medicação prescrita por conta própria para "não atrapalhar a dieta." O protocolo é temporário (30 dias); sua condição de saúde de base não é. Qualquer ajuste deve ser discutido com o médico prescritor.
 :::
+
+### 15.9. ISRS/ISRN e Restrição Calórica — Risco de Recidíva por ↓ Triptofano
+
+Os inibidores seletivos de recaptação de serotonina (ISRS: fluoxetina, sertralina, citalopram, escitalopram) e ISRN (venlafaxina, duloxetina) dependem da disponibilidade de **triptofano** como substrato para síntese de 5-HT (serotonina). Em restrição calórica severa, a razão triptofano/LNAA (large neutral amino acids) no plasma diminui, reduzindo potencialmente a eficácia do fármaco.
+
+**Riscos específicos:**
+
+1. **↓ Eficácia do ISRS:** Menor substrato serotoninérgico → possível recidíva depressiva ou ansiosa **mesmo com medicação mantida**. Sintomas sugestívos: ↑ irritabilidade, insônia rebote, humor deprimido nas semanas 2–3 do protocolo.
+2. **Abandono de psicotrópicos:** Motivação pelo protocolo pode levar o praticante a suspender medicação por conta própria ("estou me sentindo bem com a dieta") — risco de síndrome de descontinuação e recidíva.
+
+**Recomendações operacionais:**
+
+| Ação | Detalhamento |
+|---|---|
+| **Manter medicação** | Nunca suspender ISRS/ISRN sem orientação do médico prescritor. O protocolo é temporário; o transtorno de base não |
+| **Triptofano dietético** | Garantir fonte protéica rica em triptofano no jantar (ovos, peru, leite, cottage) para manter razão trp/LNAA |
+| **Monitoramento quinzenal** | Se PHQ-9 ≥ 5 no Pre-Flight Check + uso de ISRS → acompanhar humor a cada 15 dias durante o protocolo |
+| **Ajuste de déficit** | Se ↑ irritabilidade, insônia ou ↓ humor nas semanas 2–3 → considerar reduzir déficit para 30% TDEE ou inserir diet break de 3–5 dias |
+| **Alertar sobre síndrome de descontinuação** | Sintomas: tontura, parestesias ("choques elétricos"), náusea, irritabilidade. Surgem em 2–5 dias após suspensão |
