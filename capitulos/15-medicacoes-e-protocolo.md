@@ -123,6 +123,8 @@ O sistema enzimático citocromo P450 (CYP) é responsável pelo metabolismo de ~
 
 2. **Alteração da ligação a proteínas plasmáticas:** A hipoalbuminemia leve do déficit pode aumentar a fração livre de fármacos altamente ligados a albumina (ex: varfarina, fenitoína), potencializando seus efeitos.
 
+3. **CYP1A2 e cafeína:** Além da CYP2E1, o polimorfismo *CYP1A2* (rs762551) afeta diretamente o metabolismo da cafeína. Metabolizadores lentos (*CYP1A2\*1F*, genótipos AC/CC) têm meia-vida de cafeína de 8–12 h (vs. 4–6 h em metabolizadores rápidos). No contexto deste protocolo, isso implica: (a) o corte de cafeína às 14 h pode ser insuficiente — antecipar para 12 h; (b) doses > 200 mg/dia aumentam risco cardiovascular; (c) termogênicos e pré-treinos contendo cafeína devem usar a dose mais baixa disponível. Ver nota detalhada no Cap. 6.2.
+
 **Checklist para polifarmácia (≥ 3 medicamentos de uso contínuo):**
 
 - [ ] Informar ao médico prescritor sobre o protocolo de déficit calórico

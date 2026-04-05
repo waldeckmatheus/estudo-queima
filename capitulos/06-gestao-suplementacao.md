@@ -9,6 +9,18 @@
 * **Palatinose:** Carboidrato de baixo índice glicêmico para recuperação noturna de energia.
 * **Lipo 6 Black UC (Termogênicos):** **[ATENÇÃO]** Este é um módulo externo de alto impacto. O uso de estimulantes eleva a frequência cardíaca basal e a pressão arterial, induzindo a lipólise. [web:16] Contudo, o uso contínuo leva à tolerância farmacodinâmica e dessensibilização de receptores. Ele **não é obrigatório** para o sucesso do plano. Se houver palpitações contínuas, ansiedade severa, insônia ou boca seca incapacitante, **suspenda o uso imediatamente**. *(Nota: não há estudos clínicos publicados sobre este produto específico; a referência aplica-se à classe de estimulantes adrenérgicos.)*
 
+::: {.callout-note}
+**Variabilidade genética na resposta à cafeína (CYP1A2):**
+
+A cafeína é metabolizada primariamente pela enzima CYP1A2. Polimorfismos no gene *CYP1A2* dividem a população em:
+- **Metabolizadores rápidos** (rs762551 AA): meia-vida da cafeína ~4–6 h
+- **Metabolizadores lentos** (AC/CC, *CYP1A2\*1F*): meia-vida ~8–12 h
+
+**Sinais de metabolizador lento:** insônia mesmo com corte de cafeína às 14 h, palpitações com doses moderadas (≤ 200 mg), ansiedade peri-exercício.
+
+**Adaptação:** Se 2+ desses sinais estiverem presentes, antecipar corte de cafeína para **12 h antes de dormir** (não 14 h) e limitar dose total a **≤ 200 mg/dia**. Risco cardiovascular é amplificado em metabolizadores lentos com doses > 200 mg/dia (ver Cap. 15.8).
+:::
+
 ### 6.3. Suplementação Adicional Recomendada
 
 * **Creatina Monohidratada (3–5 g/dia):** O suplemento com maior corpo de evidência para preservação de massa magra e performance em déficit calórico (500+ estudos). Melhora a força no treinamento resistido, tem efeito neuroprotetor (relevante em restrição calórica) e é segura para rins saudáveis. [web:56]
