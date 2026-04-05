@@ -11,12 +11,12 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 | Nutricionista | 26 | 30,2% |
 | Fisiologista do Exercício | 12 | 14,0% |
 | Endocrinologista | 11 | 12,8% |
+| Neurocientista | 8 | 9,3% |
 | Farmacologista | 7 | 8,1% |
-| Neurocientista | 7 | 8,1% |
-| Cardiologista | 6 | 7,0% |
+| Médico do Esporte | 6 | 7,0% |
 | Educador Físico | 5 | 5,8% |
 | Nefrologista | 5 | 5,8% |
-| Médico do Esporte | 4 | 4,7% |
+| Cardiologista | 3 | 3,5% |
 | Pesquisador / Metodologista Científico | 3 | 3,5% |
 
 ---
@@ -27,13 +27,7 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 
 **ECG (eletrocardiograma).** Exame que registra a atividade elétrica do coração com eletrodos na pele. É a referência mais precisa para medição de frequência cardíaca, contra a qual os sensores de smartwatch são comparados.
 
-**Hipoperfusão transitória.** Redução temporária do fluxo sanguíneo para um órgão (geralmente o cérebro), causando tontura ou "visão escura". Pode ocorrer durante exercício em jejum se o volume plasmático estiver reduzido.
-
 **MACE (Major Adverse Cardiovascular Events).** Termo médico que agrupa os eventos cardiovasculares graves — infarto, AVC e morte cardiovascular. Usado nos ensaios clínicos das canetas emagrecedoras para medir benefício cardíaco.
-
-**Vasoconstrição.** Estreitamento dos vasos sanguíneos, reduzindo o fluxo de sangue para determinada região. Pode ocorrer por frio, estimulantes ou redistribuição circulatória durante exercício.
-
-**Vasodilatação.** Alargamento dos vasos sanguíneos, aumentando o fluxo de sangue. A adenosina promove vasodilatação cerebral; a cafeína, ao bloqueá-la, pode reduzir o fluxo cerebral.
 
 ---
 
@@ -129,6 +123,10 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 
 **Hipoglicemia.** Nível de glicose no sangue abaixo do normal, causando tremores, suor frio, confusão e fraqueza.
 
+**Hipoperfusão transitória.** Redução temporária do fluxo sanguíneo para um órgão (geralmente o cérebro), causando tontura ou "visão escura". Pode ocorrer durante exercício em jejum se o volume plasmático estiver reduzido.
+
+**Vasoconstrição.** Estreitamento dos vasos sanguíneos, reduzindo o fluxo de sangue para determinada região. Pode ocorrer por frio, estimulantes ou redistribuição circulatória durante exercício.
+
 **Volume plasmático.** Volume de plasma (parte líquida do sangue) circulante. Em restrição calórica com suor e baixa reposição de sódio, o volume plasmático pode diminuir, contribuindo para tontura, hipotensão ortostática e "brain fog".
 
 **Xerostomia.** Sensação de boca seca, causada por redução da produção de saliva. Pode ocorrer como efeito colateral de estimulantes termogênicos ou por desidratação.
@@ -164,6 +162,8 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 **Orexigênico.** Que estimula o apetite. A grelina é o principal hormônio orexigênico do corpo.
 
 **Saliência motivacional.** Grau com que um estímulo (ex.: imagem ou cheiro de comida) captura a atenção e gera desejo. A restrição calórica eleva a saliência motivacional de estímulos alimentares, tornando mais difícil ignorá-los.
+
+**Vasodilatação.** Alargamento dos vasos sanguíneos, aumentando o fluxo de sangue. A adenosina promove vasodilatação cerebral; a cafeína, ao bloqueá-la, pode reduzir o fluxo cerebral.
 
 ---
 
