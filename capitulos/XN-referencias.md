@@ -96,6 +96,11 @@ Esta base inclui evidências de qualidade heterogênea (guidelines, revisões, e
 | [web:123] | [Dose-Response Relationship between Weekly Resistance Training Volume and Increases in Muscle Mass: A Systematic Review and Meta-Analysis — Schoenfeld BJ, Ogborn D, Krieger JW, J Sports Sci 2017](https://pubmed.ncbi.nlm.nih.gov/27433992/) |
 | [web:124] | [How Many Times per Week Should a Muscle Be Trained to Maximize Muscle Hypertrophy? A Systematic Review and Meta-Analysis — Schoenfeld BJ, Grgic J, Krieger J, J Sports Sci 2019](https://pubmed.ncbi.nlm.nih.gov/30558493/) |
 | [web:125] | [Auto-Regulation Method vs Fixed-Loading Method in Maximum Strength Training for Athletes: A Systematic Review and Meta-Analysis — Zhang X et al., Front Physiol 2021](https://pubmed.ncbi.nlm.nih.gov/33776802/) |
+| [web:126] | [Microbiota and Body Weight Control: Weight Watchers Within? — Boscaini S et al., Mol Metab 2022](https://pubmed.ncbi.nlm.nih.gov/34973469/) |
+| [web:127] | [Effects of Dietary Fibre on Metabolic Health and Obesity — Deehan EC, Mocanu V, Madsen KL, Nat Rev Gastroenterol Hepatol 2024](https://pubmed.ncbi.nlm.nih.gov/38326443/) |
+| [web:128] | [Gastrointestinal Complaints during Exercise: Prevalence, Etiology, and Nutritional Recommendations — de Oliveira EP, Burini RC, Jeukendrup A, Sports Med 2014](https://pubmed.ncbi.nlm.nih.gov/24791919/) |
+| [web:129] | [Beneficial Effects of Probiotics and Synbiotics Supplementation on Anthropometric Indices and Body Composition in Adults: A Systematic Review and Meta-Analysis — Saadati S et al., Obes Rev 2024](https://pubmed.ncbi.nlm.nih.gov/38030409/) |
+| [web:130] | [Weight-Loss Interventions and Gut Microbiota Changes in Overweight and Obese Patients: A Systematic Review — Seganfredo FB et al., Obes Rev 2017](https://pubmed.ncbi.nlm.nih.gov/28524627/) |
 
 ### 12.1. Curadoria Rápida por Nível de Evidência
 
@@ -125,6 +130,9 @@ Esta base inclui evidências de qualidade heterogênea (guidelines, revisões, e
 * [web:121] Meta-análise/meta-regressão: déficit energético prejudica ganhos de massa magra com TR, mas não ganhos de força.
 * [web:122] Revisão narrativa: manutenção do volume de TR (tonelagem) é fator-chave para preservação de massa magra em atletas em restrição calórica.
 * [web:123] SR/MA dose-resposta: ≥10 séries semanais por grupo muscular superiores a <5 para hipertrofia.
+* [web:126] Revisão abrangente sobre microbiota e controle de peso: restrição calórica reduz diversidade microbiana e bactérias produtoras de butirato; recuperação em 4–8 semanas.
+* [web:127] Revisão Nat Rev Gastroenterol Hepatol: fibra modula microbiota, AGCC, saciedade via GLP-1/PYY e sensibilidade insulínica.
+* [web:129] SR/MA: probióticos reduzem modestamente peso/IMC, mas sem efeito sobre massa magra.
 
 **Suporte complementar (útil, mas não central para decisão crítica):**
 * [web:20] Fasted vs fed para metabolismo de gordura.
@@ -133,6 +141,8 @@ Esta base inclui evidências de qualidade heterogênea (guidelines, revisões, e
 * [web:81] Exercício abdominal isolado não reduz gordura abdominal (RCT).
 * [web:124] SR/MA: frequência de TR não afeta hipertrofia quando volume semanal é equalizado — flexibilidade na distribuição.
 * [web:125] SR/MA: métodos de autoregulação (RPE, APRE, VBT) produzem ganhos de força ≥ cargas fixas, com melhor ajuste à capacidade diária.
+* [web:128] Revisão: 30–50% dos atletas experimentam queixas GI durante exercício; redistribuição esplâncnica e fatores mecânicos como mecanismos principais.
+* [web:130] SR: intervenções de perda de peso alteram microbiota (↑Proteobacteria, mudança razão Firmicutes/Bacteroidetes); significância clínica em curto prazo incerta.
 * [web:82] Lipólise local adjacente a músculos em contração: magnitude irrisória.
 * [web:84] Exercício em jejum vs. alimentado: sem diferença de composição corporal em dieta hipocalórica (RCT).
 * [web:85] Revisão integrativa sobre adaptações biológicas ao déficit calórico e reganho de peso.

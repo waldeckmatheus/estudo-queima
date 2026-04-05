@@ -8,19 +8,19 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 
 | Profissional | Termos | % do glossário |
 |---|:---:|:---:|
-| Neurocientista | 19 | 15,2% |
-| Fisiologista do Exercício | 18 | 14,4% |
-| Endocrinologista | 15 | 12,0% |
-| Nutricionista Clínico | 15 | 12,0% |
-| Farmacologista | 14 | 11,2% |
-| Nutricionista Esportivo | 11 | 8,8% |
-| Educador Físico | 9 | 7,2% |
-| Médico do Esporte | 7 | 5,6% |
-| Nefrologista | 6 | 4,8% |
-| Cardiologista | 4 | 3,2% |
-| Pesquisador / Metodologista Científico | 3 | 2,4% |
+| Neurocientista | 19 | 14,7% |
+| Fisiologista do Exercício | 18 | 14,0% |
+| Endocrinologista | 15 | 11,6% |
+| Nutricionista Clínico | 15 | 11,6% |
+| Farmacologista | 14 | 10,9% |
+| Nutricionista Esportivo | 11 | 8,5% |
+| Educador Físico | 9 | 7,0% |
+| Médico do Esporte | 7 | 5,4% |
+| Gastroenterologista | 6 | 4,7% |
+| Nefrologista | 6 | 4,7% |
+| Cardiologista | 4 | 3,1% |
+| Pesquisador / Metodologista Científico | 3 | 2,3% |
 | Psicólogo Clínico | 2 | 1,6% |
-| Gastroenterologista | 2 | 1,6% |
 
 ---
 
@@ -166,9 +166,17 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 
 ### Gastroenterologista
 
+**AGCC (ácidos graxos de cadeia curta).** Metabólitos produzidos pela fermentação de fibra dietética pelas bactérias do cólon, principalmente butirato, propionato e acetato. Nutrem os colonócitos, fortalecem a barreira intestinal e modulam inflamação e saciedade. Sua produção cai durante restrição calórica com baixa ingestão de fibra.
+
+**Disbiose.** Desequilíbrio na composição da microbiota intestinal, com redução de bactérias benéficas e/ou aumento de patogênicas. Pode ser induzida por restrição calórica severa, antibióticos ou dieta pobre em fibra. No contexto do mini-cut de 30 dias, é transitória e reversível com reintrodução de dieta variada.
+
 **IBPs (inibidores de bomba de prótons).** Classe farmacológica (omeprazol, pantoprazol, lansoprazol) que suprime a secreção de ácido clorídrico no estômago por bloqueio irreversível da bomba H⁺/K⁺-ATPase. O uso crônico (>8 semanas) reduz a absorção de B₁₂, magnésio, cálcio e ferro — micronutrientes já em risco durante restrição calórica severa.
 
+**Microbiota intestinal.** Ecossistema de ~10¹³ microrganismos (bactérias, fungos, vírus) que colonizam o trato gastrointestinal. Influencia digestão, imunidade, metabolismo e eixo intestino-cérebro. A restrição calórica reduz a diversidade microbiana, com recuperação em 4–8 semanas após normalização da dieta.
+
 **Mucosa gástrica.** Revestimento interno do estômago, protegido por uma camada de muco e bicarbonato cuja produção depende de COX-1. AINEs inibem a COX-1, reduzindo essa camada protetora. O jejum prolongado amplifica o risco de lesão, pois o ácido gástrico age sobre uma mucosa desprotegida sem tamponamento alimentar.
+
+**Psyllium.** Fibra solúvel derivada da casca das sementes de Plantago ovata. Forma gel viscoso em contato com água, facilitando o trânsito intestinal sem fermentação excessiva. Dose: 5 g/dia com ≥ 300 mL de água. Deve ser tomado com intervalo de ≥ 2 h de medicamentos para não interferir na absorção.
 
 ---
 
