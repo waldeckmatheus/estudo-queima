@@ -1,12 +1,12 @@
 # Mini-Protocolo de Cutting Assistido — Sprint de Férias
 
-Documentação técnica de um **protocolo de mini-cut de 30 dias** com embasamento científico, gerada em PDF a partir de Markdown via Pandoc + XeLaTeX. O projeto cobre desde a mecânica do déficit calórico até adaptações populacionais, com **109 referências científicas** (91 PubMed/Cochrane + 18 outras fontes) e um glossário de **143 termos técnicos**.
+Documentação técnica de um **protocolo de mini-cut de 30 dias** com embasamento científico, gerada em PDF a partir de Markdown via Pandoc + XeLaTeX. O projeto cobre desde a mecânica do déficit calórico até adaptações populacionais, com **125 referências científicas** (107 PubMed/Cochrane + 18 outras fontes) e um glossário de **155 termos técnicos**.
 
 > **Público-alvo:** adultos saudáveis de 18–60 anos. Capítulos específicos cobrem adaptações para mulheres (Cap. 19), idosos ≥ 65 anos (Cap. 22), menopausa (Cap. 23) e contraindicação para crianças/adolescentes (Cap. 24).
 
 ---
 
-## Conteúdo — 24 capítulos
+## Conteúdo — 26 capítulos
 
 | Domínio | Capítulos |
 |---|---|
@@ -15,14 +15,15 @@ Documentação técnica de um **protocolo de mini-cut de 30 dias** com embasamen
 | **Desempenho e recuperação** | 12. Música e Treino · 14. Exercício e Dieta · 16. Sono e Ritmo Circadiano · 17. Gestão Psicológica · 20. Treinamento Resistido · 21. Saúde Intestinal |
 | **Contextos especiais** | 8. FAQ · 13. Comparativo com Dietas · 18. Álcool e Alimentação Social |
 | **Adaptações populacionais** | 19. Mulheres · 22. Idosos · 23. Menopausa · 24. Crianças (**contraindicação**) |
-| **Apêndices** | Glossário (143 termos, 13 especialidades) · Referências (109 únicas, [web:5]–[web:142]) |
+| **Ciência aplicada** | 25. Ciência da Composição Corporal · 26. Fisiologia Gastrointestinal no Déficit |
+| **Apêndices** | Glossário (155 termos, 13 especialidades) · Referências (125 únicas, [web:5]–[web:158]) |
 
 ---
 
 ## Estrutura do projeto
 
 ```
-capitulos/          # 24 capítulos + glossário + referências (Markdown)
+capitulos/          # 26 capítulos + glossário + referências (Markdown)
 temas/              # Temas de cor (claro, escuro, impressao) + template LaTeX + filtros Lua
 metadata.yaml       # Título, autor, data e metadados do documento
 index.md            # Índice analítico

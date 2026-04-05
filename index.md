@@ -32,6 +32,8 @@ A documentação foi modularizada nos seguintes capítulos menores para facilita
 - [22. Adaptações para Idosos (≥ 65 Anos)](capitulos/22-adaptacoes-idosos.md)
 - [23. Menopausa e Mini-Cut](capitulos/23-menopausa-e-mini-cut.md)
 - [24. Crianças e Adolescentes — Contraindicação e Alternativas](capitulos/24-criancas-adolescentes.md)
+- [25. Ciência da Composição Corporal](capitulos/25-ciencia-composicao-corporal.md)
+- [26. Fisiologia Gastrointestinal no Déficit Calórico](capitulos/26-fisiologia-gastrica-deficit.md)
 - [Glossário de Termos Técnicos](capitulos/X1-glossario.md)
 - [Referências Científicas Base](capitulos/XN-referencias.md)
 

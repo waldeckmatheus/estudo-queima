@@ -113,6 +113,22 @@ Esta base inclui evidências de qualidade heterogênea (guidelines, revisões, e
 | [web:140] | [Diet, Physical Activity and Behavioural Interventions for the Treatment of Overweight or Obese Children from the Age of 6 to 11 Years — Mead E et al., Cochrane Database Syst Rev 2017](https://pubmed.ncbi.nlm.nih.gov/28639319/) |
 | [web:141] | [Diet, Physical Activity and Behavioural Interventions for the Treatment of Overweight or Obese Adolescents Aged 12 to 17 Years — Al-Khudairy L et al., Cochrane Database Syst Rev 2017](https://pubmed.ncbi.nlm.nih.gov/28639320/) |
 | [web:142] | [Childhood Obesity: An Updated Review — Leung AKC, Wong AHC & Hon KL, Curr Pediatr Rev 2024](https://pubmed.ncbi.nlm.nih.gov/35927921/) |
+| [web:143] | [Metabolic Adaptation to Weight Loss: Implications for the Athlete — Trexler ET, Smith-Ryan AE & Norton LE, J Int Soc Sports Nutr 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC3943438/) |
+| [web:144] | [Persistent Metabolic Adaptation 6 Years after The Biggest Loser Competition — Fothergill E et al., Obesity 2016](https://pmc.ncbi.nlm.nih.gov/articles/PMC4989512/) |
+| [web:145] | [Metabolic Slowing with Massive Weight Loss despite Preservation of Fat-Free Mass — Johannsen DL et al., J Clin Endocrinol Metab 2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC3387402/) |
+| [web:146] | [Reducing Calorie Intake May Not Help You Lose Body Weight — Benton D & Young HA, Perspect Psychol Sci 2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC5639963/) |
+| [web:147] | [Preserving Healthy Muscle during Weight Loss — Cava E, Yeat NC & Mittendorfer B, Adv Nutr 2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC5421125/) |
+| [web:148] | [Evidence-Based Recommendations for Natural Bodybuilding Contest Preparation: Nutrition and Supplementation — Helms ER, Aragon AA & Fitschen PJ, J Int Soc Sports Nutr 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4033492/) |
+| [web:149] | [Body Composition Changes in Weight Loss: Strategies and Supplementation for Maintaining Lean Body Mass — Willoughby D, Hewlings S & Kalman D, Nutrients 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC6315740/) |
+| [web:150] | [The Effects of Overfeeding on Body Composition: The Role of Macronutrient Composition — Leaf A & Antonio J, Int J Exerc Sci 2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC5786199/) |
+| [web:151] | [Adaptive Thermogenesis in Humans — Rosenbaum M & Leibel RL, Int J Obes 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC3673773/) |
+| [web:152] | [Long-Term Persistence of Hormonal Adaptations to Weight Loss — Sumithran P et al., N Engl J Med 2011](https://pubmed.ncbi.nlm.nih.gov/22029981/) |
+| [web:153] | [Changes in Fat-Free Mass during Significant Weight Loss: A Systematic Review — Chaston TB, Dixon JB & O'Brien PE, Int J Obes 2007](https://pubmed.ncbi.nlm.nih.gov/17075583/) |
+| [web:154] | [Influence of Diet on the Gut Microbiome and Implications for Human Health — Singh RK et al., J Transl Med 2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC5385025/) |
+| [web:155] | [Low FODMAP Diet: Evidence, Doubts, and Hopes — Bellini M et al., Nutrients 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC7019579/) |
+| [web:156] | [All Disease Begins in the (Leaky) Gut: Role of Zonulin-Mediated Gut Permeability in the Pathogenesis of Some Chronic Inflammatory Diseases — Fasano A, F1000Research 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC6996528/) |
+| [web:157] | [Undigested Food and Gut Microbiota May Cooperate in the Pathogenesis of Neuroinflammatory Diseases: A Matter of Barriers and a Proposal on the Origin of Organ Specificity — Riccio P & Rossano R, Nutrients 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6893834/) |
+| [web:158] | [The Short-Chain Fatty Acid Acetate in Body Weight Control and Insulin Sensitivity — González Hernández MA et al., Nutrients 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6723943/) |
 
 ### 12.1. Curadoria Rápida por Nível de Evidência
 
@@ -157,6 +173,27 @@ Esta base inclui evidências de qualidade heterogênea (guidelines, revisões, e
 * [web:140] Revisão Cochrane: intervenções multicomponente (dieta + AF + comportamental) em crianças 6–11 anos com sobrepeso/obesidade; superiores a restrição pura.
 * [web:141] Revisão Cochrane: intervenções multicomponente em adolescentes 12–17 anos; dieta de qualidade + exercício + suporte comportamental produzem melhores resultados a longo prazo.
 * [web:142] Revisão atualizada sobre obesidade infantil: abordagem crônica, multifatorial e centrada na família; encaminhamento multiprofissional quando indicado.
+* [web:143] Revisão abrangente JISSN sobre adaptação metabólica em atletas: termogênese adaptativa, eficiência mitocondrial, NEAT, TEF, EAT, refeeding e reverse dieting. Referência central para compreensão dos componentes do TDEE e estratégias para atenuar adaptações.
+* [web:144] Follow-up de 6 anos dos participantes do Biggest Loser: adaptação metabólica de −499 kcal/dia persistiu apesar de reganho substancial; quem manteve maior perda de peso teve maior adaptação concorrente.
+* [web:145] Estudo original Biggest Loser (Johannsen et al.): −38% do peso corporal em 30 semanas, adaptação metabólica de −504 kcal/dia, T3 reduzido em 44%, apesar de preservação relativa de FFM pelo exercício intenso.
+* [web:146] Revisão narrativa sobre mecanismos de compensação energética: set point vs settled point, compensação calórica pós-dieta, e por que redução calórica isolada tende a falhar sem intervenção multifatorial.
+* [web:147] Revisão Adv Nutr sobre preservação de músculo saudável durante perda de peso: proteína elevada preserva massa mas não necessariamente força; exercício resistido + aeróbico é a combinação mais eficaz.
+* [web:148] Recomendações baseadas em evidência para preparação de bodybuilding natural: proteína 2,3–3,1 g/kg MLG, gordura 15–30% kcal, perda de 0,5–1%/semana. Referência central para taxas de perda e macronutrientes em atletas.
+* [web:149] Revisão Nutrients sobre estratégias para manutenção de MLG em perda de peso: VLCD perde ~25% como MLG; dietas cetogênicas perdem 1–3,5 kg MLG; proteína ≥ 2 g/kg + exercício é a combinação ótima.
+* [web:150] Revisão sobre overfeeding e composição corporal: sedentários ganham 60–70% como FM; proteína elevada + treino resistido permite ganho de FFM com perda de FM mesmo em excedente calórico.
+* [web:151] Revisão sobre termogênese adaptativa em humanos (Rosenbaum & Leibel): persistência da adaptação por >1 ano em peso reduzido mantido; leptina exógena reverte parcialmente as adaptações.
+* [web:152] NEJM: adaptações hormonais à perda de peso (leptina ↓, grelina ↑, PYY ↓, insulina ↓) persistem por pelo menos 12 meses, independentemente de recuperação parcial do peso.
+* [web:153] Revisão sistemática: perda de FFM durante perda de peso significativa varia de 11–30% dependendo do método, velocidade, composição da dieta e presença de exercício.
+* [web:154] Revisão abrangente J Transl Med: dieta altera microbioma em 24 h; tipos de gordura modulam ratio Firmicutes/Bacteroidetes; metabolismo de AGCC e endotoxemia metabólica via TLR.
+* [web:155] Revisão Nutrients sobre dieta low-FODMAP: mecanismos osmóticos e fermentativos dos FODMAPs; impacto de dietas restritivas na microbiota (redução de Bifidobacterium); adequação nutricional.
+* [web:156] Revisão F1000Research (Fasano 2020): zonulina como modulador das tight junctions; dois gatilhos principais (supercrescimento bacteriano + glúten); via zonulina → permeabilidade → LPS → endotoxemia metabólica.
+* [web:157] Revisão Nutrients (Riccio & Rossano 2019): barreira intestinal multicamada; jejum/restrição calórica melhora integridade da barreira e diversidade microbiana; vitaminas A/D regulam proteínas de junção tight.
+* [web:158] Revisão Nutrients (González Hernández et al. 2019): acetato como AGCC mais abundante; estimula GLP-1/PYY via GPR41/GPR43 em células L; modulação central do apetite via hipotálamo; acetato colônico distal mais eficaz para secreção hormonal.
+* [web:154] Revisão abrangente J Transl Med: dieta altera microbioma em 24 h; tipos de gordura modulam ratio Firmicutes/Bacteroidetes; metabolismo de AGCC e endotoxemia metabólica via TLR.
+* [web:155] Revisão Nutrients sobre dieta low-FODMAP: mecanismos osmóticos e fermentativos dos FODMAPs; impacto de dietas restritivas na microbiota (redução de Bifidobacterium); adequação nutricional.
+* [web:156] Revisão F1000Research (Fasano 2020): zonulina como modulador das tight junctions; dois gatilhos principais (supercrescimento bacteriano + glúten); via zonulina → permeabilidade → LPS → endotoxemia metabólica.
+* [web:157] Revisão Nutrients (Riccio & Rossano 2019): barreira intestinal multicamada; jejum/restrição calórica melhora integridade da barreira e diversidade microbiana; vitaminas A/D regulam proteínas de junção tight.
+* [web:158] Revisão Nutrients (González Hernández et al. 2019): acetato como AGCC mais abundante; estimula GLP-1/PYY via GPR41/GPR43 em células L; modulação central do apetite via hipotálamo; acetato colônico distal mais eficaz para secreção hormonal.
 
 **Suporte complementar (útil, mas não central para decisão crítica):**
 * [web:20] Fasted vs fed para metabolismo de gordura.
@@ -204,3 +241,10 @@ Esta base inclui evidências de qualidade heterogênea (guidelines, revisões, e
 3. **[web:60] / [web:63]** Metabolic adaptation em humanos: redução hormonal adaptativa durante déficit.
 4. **[web:39]** Guideline de hiponatremia no exercício: risco, prevenção e manejo.
 5. **[web:66]** Revisão sobre zonas de FC e oxidação lipídica: suporte para treino aeróbico em Zona 2.
+6. **[web:143]** Metabolic adaptation to weight loss (Trexler et al.): revisão central sobre componentes do TDEE e termogênese adaptativa em atletas.
+7. **[web:145] / [web:144]** Biggest Loser original + follow-up de 6 anos: adaptação metabólica de ~500 kcal/dia, persistente mesmo com reganho de peso.
+8. **[web:148]** Evidence-based contest prep (Helms et al.): proteína 2,3–3,1 g/kg MLG, perda 0,5–1%/semana — padrão-ouro para mini-cuts.
+9. **[web:152]** Persistência hormonal pós-dieta (Sumithran et al., NEJM): leptina, grelina e PYY alterados por ≥12 meses.
+10. **[web:156]** Zonulina e permeabilidade intestinal (Fasano 2020): mecanismo central da barreira intestinal e endotoxemia metabólica.
+11. **[web:157]** Barreira intestinal e jejum (Riccio & Rossano 2019): restrição calórica melhora integridade da barreira e diversidade microbiana.
+12. **[web:158]** AGCC acetato e controle de peso (González Hernández et al. 2019): eixo AGCC → GLP-1/PYY → saciedade.

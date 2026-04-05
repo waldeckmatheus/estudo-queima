@@ -8,19 +8,19 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 
 | Profissional | Termos | % do glossário |
 |---|:---:|:---:|
-| Endocrinologista | 20 | 14,1% |
-| Fisiologista do Exercício | 20 | 14,1% |
-| Neurocientista | 19 | 13,4% |
-| Nutricionista Clínico | 16 | 11,3% |
-| Farmacologista | 14 | 9,9% |
-| Nutricionista Esportivo | 11 | 7,7% |
-| Médico do Esporte | 10 | 7,0% |
-| Educador Físico | 9 | 6,3% |
-| Gastroenterologista | 6 | 4,2% |
-| Nefrologista | 6 | 4,2% |
-| Cardiologista | 4 | 2,8% |
-| Pesquisador / Metodologista Científico | 3 | 2,1% |
-| Psicólogo Clínico | 2 | 1,4% |
+| Fisiologista do Exercício | 22 | 14,2% |
+| Endocrinologista | 21 | 13,5% |
+| Neurocientista | 19 | 12,3% |
+| Nutricionista Clínico | 16 | 10,3% |
+| Farmacologista | 14 | 9,0% |
+| Gastroenterologista | 14 | 9,0% |
+| Nutricionista Esportivo | 12 | 7,7% |
+| Médico do Esporte | 10 | 6,5% |
+| Educador Físico | 9 | 5,8% |
+| Nefrologista | 6 | 3,9% |
+| Cardiologista | 4 | 2,6% |
+| Pesquisador / Metodologista Científico | 3 | 1,9% |
+| Psicólogo Clínico | 2 | 1,3% |
 
 ---
 
@@ -98,6 +98,8 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 
 **Semaglutida.** Fármaco agonista do receptor GLP-1, presente no Ozempic (dose 0,5–1 mg, aprovado para diabetes) e no Wegovy (dose 2,4 mg, aprovado para obesidade).
 
+**Settled point (ponto de acomodação).** Teoria segundo a qual o peso corporal defendido pelo organismo não é fixo (set point genético), mas resulta da interação entre mecanismos fisiológicos e fatores ambientais (dieta, atividade, sono). Após perda de peso, o corpo defende ativamente o peso anterior via ↓ leptina, ↑ grelina e ↓ TDEE, mas manutenção prolongada (12+ meses) pode estabelecer um novo ponto de acomodação parcialmente inferior.
+
 **T3 (triiodotironina).** Hormônio tireoidiano ativo que regula a taxa metabólica basal. Durante restrição calórica, o corpo reduz a conversão de T4 em T3 para economizar energia — uma das adaptações metabólicas centrais que o protocolo busca limitar.
 
 **T4 (tiroxina).** Hormônio tireoidiano precursor, convertido em T3 (forma ativa) nos tecidos periféricos. Sua menção no documento refere-se ao eixo tireoidiano como indicador de adaptação metabólica.
@@ -158,6 +160,8 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 
 **Lipólise.** Processo de quebra dos triglicerídeos armazenados no tecido adiposo em ácidos graxos livres e glicerol. É o primeiro passo para "queimar gordura" — mas os ácidos graxos liberados só são eliminados se forem efetivamente oxidados nos músculos.
 
+**Massa livre de gordura (MLG / FFM).** Tudo no corpo que não é gordura: músculo, osso, água, órgãos. É o principal determinante da taxa metabólica de repouso (RMR). Em dietas sem exercício resistido, ~25% do peso perdido provém de MLG; com proteína elevada + treino resistido, essa fração pode ser reduzida para < 10%.
+
 **MPS (Síntese Proteica Muscular / Muscle Protein Synthesis).** Taxa na qual o músculo esquelético constrói novas proteínas. A resistência anabólica do envelhecimento reduz a MPS em 30–40% para uma mesma dose de proteína, exigindo maior ingestão proteica (≥ 30 g/refeição com leucina adequada) para atingir o limiar de estimulação em idosos.
 
 **mTORC1 (mechanistic Target Of Rapamycin Complex 1).** Complexo proteico central na regulação da síntese proteica muscular. É ativado por aminoácidos (especialmente leucina) e estímulo mecânico (exercício resistido). Corticosteroides inibem mTORC1, reduzindo a capacidade de síntese proteica — razão adicional para evitar o protocolo durante uso sistêmico de corticoide.
@@ -167,6 +171,8 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 **Oxidação de gordura.** Processo pelo qual os ácidos graxos são "queimados" nas mitocôndrias das células musculares para gerar energia (ATP), produzindo CO₂ e água como subprodutos. A taxa máxima de oxidação de gordura ocorre em exercício de intensidade moderada (45–65% do VO₂máx).
 
 **Quociente respiratório (QR).** Razão entre CO₂ produzido e O₂ consumido durante o metabolismo. Um QR próximo de 0,7 indica predominância de oxidação de gordura; próximo de 1,0 indica carboidrato. Sono insuficiente pode elevar o QR, reduzindo a proporção de gordura queimada.
+
+**Recomposição corporal.** Processo de perda simultânea de gordura e ganho (ou preservação) de massa muscular. Embora termodynamicamente desafiador, é possível em déficit calórico com proteína elevada (≥ 2 g/kg) e treino resistido, especialmente em iniciantes, pessoas com sobrepeso significativo e indivíduos destreinados retomando o treino.
 
 **Resistência anabólica.** Fenômeno pelo qual o músculo envelhecido requer maior dose de proteína e leucina para atingir a mesma magnitude de síntese proteica muscular (MPS) que um músculo jovem. É o mecanismo central que explica por que idosos perdem proporcionalmente mais massa magra durante restrição calórica e por que a recomendação PROT-AGE é de ≥ 1,0–1,2 g/kg/dia de proteína (basal) e ≥ 1,5 g/kg em déficit.
 
@@ -197,6 +203,20 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 **Mucosa gástrica.** Revestimento interno do estômago, protegido por uma camada de muco e bicarbonato cuja produção depende de COX-1. AINEs inibem a COX-1, reduzindo essa camada protetora. O jejum prolongado amplifica o risco de lesão, pois o ácido gástrico age sobre uma mucosa desprotegida sem tamponamento alimentar.
 
 **Psyllium.** Fibra solúvel derivada da casca das sementes de Plantago ovata. Forma gel viscoso em contato com água, facilitando o trânsito intestinal sem fermentação excessiva. Dose: 5 g/dia com ≥ 300 mL de água. Deve ser tomado com intervalo de ≥ 2 h de medicamentos para não interferir na absorção.
+
+**Ácidos biliares secundários.** Metabólitos produzidos pela conversão bacteriana dos ácidos biliares primários (cólico, quenodesoxicólico) no cólon, principalmente desoxicólico e litocólico. Funcionam como moléculas sinalizadoras via receptores FXR e TGR5, regulando metabolismo lipídico e glicídico. Sua produção pode ser alterada em déficit calórico com baixa gordura.
+
+**CCK (colecistoquinina).** Hormônio secretado pelas células I do duodeno em resposta à gordura e proteína. Estimula a contração da vesícula biliar, a secreção de enzimas pancreáticas e retarda o esvaziamento gástrico, promovendo saciedade. Sua secreção é reduzida no mini-cut devido ao menor volume de gordura dietética.
+
+**Complexo motor migratório (CMM).** Padrão cíclico de contrações que percorre o trato gastrointestinal durante o jejum, varrendo resíduos, bactérias e detritos celulares. Cada ciclo dura ~90–120 minutos. A Fase III é a mais potente. Mais tempo em jejum (como no mini-cut) aumenta o número de ciclos, protegendo contra SIBO.
+
+**Fermentação putrefativa.** Degradação de proteínas não absorvidas por bactérias proteolíticas no cólon, produzindo metabólitos potencialmente tóxicos: amônia (NH₃), sulfeto de hidrogênio (H₂S), p-cresol e aminas biogênicas. Aumenta em dietas hiperproteicas com baixa fibra. Mitigada pela co-ingestão de fibra fermentável.
+
+**Junções oclusivas (tight junctions).** Complexos proteicos (claudinas, ocludinas, ZO-1) que conectam lateralmente os enterócitos, formando uma barreira seletiva entre o lúmen intestinal e o meio interno. Sua integridade é regulada por zonulina, butirato e vitaminas A/D. A abertura excessiva permite a passagem de LPS bacterianos (endotoxemia metabólica).
+
+**PYY (peptídeo YY).** Hormônio anoréxico secretado pelas células L do cólon distal em resposta à presença de nutrientes e AGCC. Reduz a motilidade intestinal e o apetite via receptores Y2 hipotalâmicos. Sua secreção diminui durante déficit calórico com baixa produção de AGCC, contribuindo para o aumento progressivo da fome.
+
+**Zonulina.** Único modulador fisiológico conhecido das junções oclusivas intercelulares. Liberada em excesso por supercrescimento bacteriano no intestino delgado e pela gliadina (proteína do glúten). Sua liberação excessiva aumenta a permeabilidade intestinal, permitindo translocação de LPS para a corrente sanguínea (endotoxemia metabólica). Bactérias produtoras de butirato (Faecalibacterium) reduzem sua liberação.
 
 ---
 
@@ -331,6 +351,8 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 **Massa magra.** Tudo no corpo que não é gordura: músculos, ossos, órgãos e água. A preservação de massa magra durante o déficit é um dos objetivos centrais do protocolo, alcançada via proteína alta e exercício.
 
 **Palatinose (isomaltulose).** Carboidrato derivado da sacarose, com digestão lenta e índice glicêmico baixo (~32). Usado no jantar do protocolo para fornecer energia sustentada sem picos de insulina, favorecendo a qualidade do sono e a reposição de glicogênio.
+
+**Refeeding (realimentação planejada).** Períodos deliberados de aumento calórico (tipicamente 1–2 dias, via carboidratos) inseridos durante restrição calórica prolongada para atenuar a adaptação metabólica. O mecanismo proposto envolve a elevação transitória de leptina e T3, embora o efeito no TDEE seja modesto (~7%, ~138 kcal). No protocolo, a concentração de carboidratos pós-treino cumpre parcialmente essa função.
 
 **Reverse dieting.** Estratégia de saída do déficit calórico que consiste em aumentar gradualmente a ingestão calórica (+200–300 kcal/semana) para restaurar hormônios (leptina, T3) sem causar reganho abrupto de gordura. É a Fase 2 deste protocolo.
 
