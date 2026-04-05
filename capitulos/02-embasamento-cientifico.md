@@ -5,6 +5,8 @@ A versão atual baseia-se em três pilares para evitar o esgotamento sistêmico:
 2. **Proteína como Eixo Estrutural:** Em fases de déficit energético somado a exercício, a alta ingestão proteica é a melhor ferramenta para blindar a massa magra contra o catabolismo. [web:56][web:69]
 3. **Exercício e Mobilização Lipídica:** O exercício aeróbico na Zona 2, aliado ao jejum intermitente fisiológico da manhã, favorece a mobilização de ácidos graxos sem gerar estresse sistêmico severo. [web:20]
 
+> **Nota sobre proporção exercício/dieta:** O [Capítulo 14](14-exercicio-e-dieta.md) consolida a evidência sobre a contribuição relativa de dieta (motor primário do déficit) e exercício (protetor da composição corporal), incluindo orientações para quem não pode praticar atividade física.
+
 ### 2.1. Feedback Loop Metabólico (O Termostato do Corpo)
 O organismo opera como um sistema de controle com *feedback negativo*. Quando o déficit é detectado, o corpo ajusta variáveis internas para conservar energia. Entender esse loop é essencial para não entrar em pânico com sintomas esperados:
 

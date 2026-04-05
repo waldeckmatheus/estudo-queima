@@ -26,6 +26,8 @@ Checklist rápido de calibração:
 ### 5.3. Atenção ao Equipamento (Tênis Categoria "Max Amortecimento" com Placa)
 A presença de espumas premium (como PEBA) e a placa propulsora (seja nylon ou carbono) reduzem o estresse mecânico no chassi articular. Porém, o efeito de impulsão (bounce) pode induzir um ritmo mais acelerado do que o planejado. Monitore sempre o painel da esteira e o smartwatch para garantir que a frequência cardíaca não ultrapasse o teto da Zona 2.
 
+> **Nota:** Para pessoas com limitações físicas que impeçam a prática de exercício aeróbico (lesão articular, pós-operatório, etc.), consulte o [Capítulo 14](14-exercicio-e-dieta.md) para a variante sem exercício e alternativas de baixo impacto.
+
 ### 5.4. Discrepância entre Sensores (Relógio vs Esteira)
 
 É comum observar diferenças de 10 a 15 bpm entre o smartwatch e o painel da esteira --- por exemplo, o relógio marca 136 bpm enquanto a esteira indica 122 bpm. Essa divergência não é defeito: cada dispositivo usa uma tecnologia diferente para estimar a frequência cardíaca, e cada uma tem suas vulnerabilidades.
