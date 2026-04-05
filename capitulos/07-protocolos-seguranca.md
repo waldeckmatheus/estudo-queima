@@ -34,6 +34,7 @@ Antes de iniciar os 30 dias, complete os itens abaixo com seu médico:
 | Homens | Testosterona total | Baseline para monitorar impacto do déficit no eixo gonadal |
 | > 40 anos + ≥ 2 FR cardiovasculares | ECG de repouso + teste ergométrico | Screening CV conforme ACSM; risco de isquemia silenciosa |
 | Uso de psicotrópicos (ISRS, antipsicóticos) | ECG com QTc | ↓ Mg/K em déficit + fármacos que prolongam QTc → risco de torsades de pointes |
+| Mulheres (triagem ginecológica) | Questionar: uso de ACO, diagnóstico de SOP, climatério/perimenopausa, planejamento de gestação | ACO mascara AHF; SOP requer déficit ≤ 30%; climatério exige densitometria; TTC é contraindicação relativa (ver Cap. 19.8) |
 
 **Triagem psicológica (autoaplicável):**
 

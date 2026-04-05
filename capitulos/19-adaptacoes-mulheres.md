@@ -175,7 +175,22 @@ Mulheres usando anticoncepcionais hormonais combinados (pílula, anel, adesivo) 
 - Período de pausa/placebo pode causar leve retenção hídrica → mesma orientação: não ajustar déficit baseado nesse período
 - A preocupação com RED-S/amenorreia é menos aplicável como sinal de alerta (ciclo já é suprimido), mas os demais sinais de LEA permanecem válidos
 
-### 19.8. FAQ — Adaptações Femininas
+### 19.8. Subgrupos Ginecológicos Especiais
+
+Além da fisiologia cíclica normal, determinados subgrupos ginecológicos exigem atenção redobrada durante o mini-cut:
+
+| Subgrupo | Risco específico | Adaptação obrigatória |
+|---|---|---|
+| **ACO (anticoncepcionais orais combinados)** | Sangramento de privação mascara AHF — principal sinal clínico de LEA fica invisível | Monitorar sinais não menstruais de LEA: fadiga crônica, frio excessivo, queda de cabelo, ↓ libido. Solicitar TSH e estradiol periódico se déficit > 3 semanas |
+| **SOP (Síndrome dos Ovários Policísticos)** | Hiperandrogenismo + resistência insulínica → déficit agressivo pode desestabilizar eixo androgênico | Déficit máximo de **30% do TDEE** (não 50%). Monitorar testosterona total e SHBG. Priorizar CHO de baixo IG para controle glicêmico |
+| **Climatério / Perimenopausa** | Flutuações hormonais + ↓ DMO pré-existente → risco amplificado de fraturas por estresse e piora de sintomas vasomotores | Densitometria prévia se > 45 anos. Calcitriol/vitamina D reforçada (2.000 UI/dia). Monitorar cálcio sérico. Considerar colherácil se histológico de fraturas |
+| **TTC (tentando conceber)** | Restrição calórica severa → ↓ fertilidade via supressão de GnRH/LH | **Contraindicação relativa** — não iniciar protocolo se planejando gestação em < 3 meses. Se já em protocolo e decidir tentar, interromper déficit e iniciar reverse dieting (Cap. 11) |
+
+::: {.callout-warning}
+**Triagem obrigatória:** Antes de iniciar o protocolo, todas as mulheres devem responder às perguntas de triagem ginecológica da Seção 7.0 (Pre-Flight Check): uso de ACO, diagnóstico de SOP, fase do climatério e planejamento de gestação.
+:::
+
+### 19.9. FAQ — Adaptações Femininas
 
 **P: Devo parar o mini-cut durante a menstruação?**
 Não. A menstruação não é contraindicação. Se as cólicas forem intensas, pode reduzir volume de treino e manter a dieta. Caso ocorra menorragia (fluxo excessivo), priorize ferro e hidratação.
@@ -189,7 +204,7 @@ Se está na fase lútea, **não**. Espere completar o ciclo e repese na pós-men
 **P: Tomo anticoncepcional. Preciso me preocupar com RED-S?**
 Os sinais menstruais ficam mascarados, mas os demais sinais de LEA (fadiga crônica, frio excessivo, queda de cabelo, perda de libido) continuam válidos. Monitore-os.
 
-### 19.9. Integração com Outros Capítulos
+### 19.10. Integração com Outros Capítulos
 
 | Capítulo | Conexão feminina |
 |---|---|
