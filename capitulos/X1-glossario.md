@@ -8,8 +8,9 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 
 | Profissional | Termos | % do glossário |
 |---|:---:|:---:|
-| Nutricionista | 26 | 30,2% |
+| Nutricionista Clínico | 15 | 17,4% |
 | Fisiologista do Exercício | 12 | 14,0% |
+| Nutricionista Esportivo | 11 | 12,8% |
 | Endocrinologista | 11 | 12,8% |
 | Neurocientista | 8 | 9,3% |
 | Farmacologista | 7 | 8,1% |
@@ -167,37 +168,25 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 
 ---
 
-### Nutricionista
+### Nutricionista Clínico
 
 **Adaptação metabólica.** Conjunto de ajustes que o corpo faz quando percebe que está recebendo menos energia do que gasta: reduz hormônios tireoidianos (T3), leptina e gasto calórico, enquanto aumenta a fome. É o principal motivo pelo qual o protocolo tem limite de 30 dias.
-
-**Catabolismo.** Processo metabólico de degradação — por exemplo, a quebra de proteínas musculares para fornecer energia. O protocolo busca minimizá-lo mantendo a ingestão de proteína alta.
 
 **Cetoadaptação.** Período de transição (dias a semanas) até que o cérebro e os músculos passem a utilizar corpos cetônicos como combustível principal, em vez de glicose. Ocorre em dietas muito baixas em carboidrato.
 
 **Cetose.** Estado metabólico no qual o corpo produz corpos cetônicos (a partir de gordura) em quantidade elevada, geralmente por restrição severa de carboidratos. Este protocolo *não* induz cetose sustentada, pois inclui ~40–60 g de carboidrato/dia.
 
-**Composição corporal.** Proporção entre massa gorda (gordura) e massa magra (músculos, ossos, água) no corpo. A balança não distingue uma da outra — por isso fotos e medidas de cintura são indicadores complementares.
-
 **Déficit calórico.** Situação em que o corpo gasta mais energia do que recebe pela alimentação. É o mecanismo fundamental de perda de gordura. Neste protocolo, o déficit é de ~1.200 kcal/dia.
 
 **Esvaziamento gástrico.** Velocidade com que o alimento sai do estômago para o intestino. O whey isolado com água tem esvaziamento rápido; leite e gordura retardam esse processo.
-
-**Glicogênio.** Forma de armazenamento de glicose no fígado (glicogênio hepático) e nos músculos (glicogênio muscular). Em jejum, o corpo esgota primeiro o glicogênio hepático antes de depender mais da oxidação de gordura. A palatinose do jantar contribui para repor parcialmente esses estoques durante a noite. Quando o exercício atinge faixas de intensidade muito alta, o músculo passa a usar predominantemente glicogênio em vez de gordura.
 
 **IG (índice glicêmico).** Escala de 0 a 100 que mede a velocidade com que um alimento eleva a glicose no sangue. A palatinose tem IG baixo (~32), enquanto a glicose pura tem IG = 100.
 
 **IMC (índice de massa corporal).** Razão entre peso (kg) e altura ao quadrado (m²). Usado como triagem populacional para sobrepeso (≥ 25) e obesidade (≥ 30), mas não distingue gordura de massa muscular.
 
-**Isomaltulose.** Ver *Palatinose*.
-
 **Jejum intermitente.** Padrão alimentar que alterna janelas de alimentação com períodos de jejum. O formato 16:8 (16 h sem comer, 8 h de alimentação) é o mais comum. Este protocolo utiliza um jejum fisiológico matinal, mas não segue o modelo clássico 16:8.
 
-**Massa magra.** Tudo no corpo que não é gordura: músculos, ossos, órgãos e água. A preservação de massa magra durante o déficit é um dos objetivos centrais do protocolo, alcançada via proteína alta e exercício.
-
 **Micelas lipídicas.** Estruturas microscópicas formadas por gordura e bile no intestino que transportam vitaminas lipossolúveis (A, D, E, K) para absorção. Sem gordura na refeição, a absorção dessas vitaminas é drasticamente reduzida.
-
-**Palatinose (isomaltulose).** Carboidrato derivado da sacarose, com digestão lenta e índice glicêmico baixo (~32). Usado no jantar do protocolo para fornecer energia sustentada sem picos de insulina, favorecendo a qualidade do sono e a reposição de glicogênio.
 
 **PSMF (Protein-Sparing Modified Fast).** Dieta de altíssimo déficit calórico (~600–1.000 kcal) baseada quase exclusivamente em proteína, com o objetivo de preservar massa magra enquanto maximiza a perda de gordura. O Rapid Fat Loss (RFL) de Lyle McDonald é o protocolo PSMF mais conhecido.
 
@@ -205,17 +194,33 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 
 **Retenção hídrica.** Acúmulo temporário de água no corpo, causado por variações hormonais (cortisol, aldosterona), ingestão de sódio ou carboidrato. Pode mascarar na balança a perda real de gordura, especialmente entre os dias 8–20 do protocolo.
 
-**Reverse dieting.** Estratégia de saída do déficit calórico que consiste em aumentar gradualmente a ingestão calórica (+200–300 kcal/semana) para restaurar hormônios (leptina, T3) sem causar reganho abrupto de gordura. É a Fase 2 deste protocolo.
-
-**TDEE (Total Daily Energy Expenditure).** Gasto energético total diário, incluindo metabolismo basal (TMB), termogênese alimentar e atividade física. Neste protocolo, o TDEE estimado é ~2.400 kcal.
-
-**Termogênico (suplemento).** Composto estimulante (geralmente à base de cafeína e sinefrina) que eleva a frequência cardíaca e a pressão arterial, podendo aumentar discretamente o gasto calórico e a lipólise. Neste protocolo é módulo *opcional*.
-
 **TMB (taxa metabólica basal).** Energia mínima que o corpo gasta em repouso absoluto para manter funções vitais (respiração, circulação, temperatura). Neste protocolo, a TMB estimada é ~1.647 kcal. A ingestão calórica do protocolo fica *abaixo* da TMB, o que justifica o limite de 30 dias.
 
 **Triglicerídeo.** Molécula formada por três ácidos graxos ligados a um glicerol. É a forma principal de armazenamento de gordura no tecido adiposo. Para ser usado como energia, o triglicerídeo precisa ser primeiro quebrado (lipólise) em ácidos graxos livres.
 
 **VLCD (Very Low-Calorie Diet).** Dieta de calorias muito baixas, tipicamente entre 400–800 kcal/dia, usada sob supervisão médica. Este protocolo opera ligeiramente acima dessa faixa (~978–1.284 kcal).
+
+---
+
+### Nutricionista Esportivo
+
+**Catabolismo.** Processo metabólico de degradação — por exemplo, a quebra de proteínas musculares para fornecer energia. O protocolo busca minimizá-lo mantendo a ingestão de proteína alta.
+
+**Composição corporal.** Proporção entre massa gorda (gordura) e massa magra (músculos, ossos, água) no corpo. A balança não distingue uma da outra — por isso fotos e medidas de cintura são indicadores complementares.
+
+**Glicogênio.** Forma de armazenamento de glicose no fígado (glicogênio hepático) e nos músculos (glicogênio muscular). Em jejum, o corpo esgota primeiro o glicogênio hepático antes de depender mais da oxidação de gordura. A palatinose do jantar contribui para repor parcialmente esses estoques durante a noite. Quando o exercício atinge faixas de intensidade muito alta, o músculo passa a usar predominantemente glicogênio em vez de gordura.
+
+**Isomaltulose.** Ver *Palatinose*.
+
+**Massa magra.** Tudo no corpo que não é gordura: músculos, ossos, órgãos e água. A preservação de massa magra durante o déficit é um dos objetivos centrais do protocolo, alcançada via proteína alta e exercício.
+
+**Palatinose (isomaltulose).** Carboidrato derivado da sacarose, com digestão lenta e índice glicêmico baixo (~32). Usado no jantar do protocolo para fornecer energia sustentada sem picos de insulina, favorecendo a qualidade do sono e a reposição de glicogênio.
+
+**Reverse dieting.** Estratégia de saída do déficit calórico que consiste em aumentar gradualmente a ingestão calórica (+200–300 kcal/semana) para restaurar hormônios (leptina, T3) sem causar reganho abrupto de gordura. É a Fase 2 deste protocolo.
+
+**TDEE (Total Daily Energy Expenditure).** Gasto energético total diário, incluindo metabolismo basal (TMB), termogênese alimentar e atividade física. Neste protocolo, o TDEE estimado é ~2.400 kcal.
+
+**Termogênico (suplemento).** Composto estimulante (geralmente à base de cafeína e sinefrina) que eleva a frequência cardíaca e a pressão arterial, podendo aumentar discretamente o gasto calórico e a lipólise. Neste protocolo é módulo *opcional*.
 
 **Waxy maize.** Amido de milho ceroso, um carboidrato de alto peso molecular e digestão relativamente rápida. Listado como alternativa à palatinose no jantar do protocolo.
 
