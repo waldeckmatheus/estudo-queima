@@ -8,23 +8,26 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 
 | Profissional | Termos | % do glossário |
 |---|:---:|:---:|
-| Nutricionista Clínico | 15 | 17,4% |
-| Fisiologista do Exercício | 12 | 14,0% |
-| Nutricionista Esportivo | 11 | 12,8% |
-| Endocrinologista | 11 | 12,8% |
-| Neurocientista | 8 | 9,3% |
-| Farmacologista | 7 | 8,1% |
-| Médico do Esporte | 6 | 7,0% |
-| Educador Físico | 5 | 5,8% |
-| Nefrologista | 5 | 5,8% |
-| Cardiologista | 3 | 3,5% |
-| Pesquisador / Metodologista Científico | 3 | 3,5% |
+| Fisiologista do Exercício | 16 | 15,7% |
+| Nutricionista Clínico | 15 | 14,7% |
+| Farmacologista | 12 | 11,8% |
+| Endocrinologista | 12 | 11,8% |
+| Nutricionista Esportivo | 11 | 10,8% |
+| Neurocientista | 9 | 8,8% |
+| Médico do Esporte | 6 | 5,9% |
+| Educador Físico | 6 | 5,9% |
+| Nefrologista | 6 | 5,9% |
+| Cardiologista | 4 | 3,9% |
+| Pesquisador / Metodologista Científico | 3 | 2,9% |
+| Gastroenterologista | 2 | 2,0% |
 
 ---
 
 ### Cardiologista
 
 **Barorreflexo.** Reflexo do sistema cardiovascular que ajusta a frequência cardíaca e a pressão arterial quando você muda de posição (ex.: ao levantar da cama). Em déficit calórico com volume sanguíneo reduzido, esse reflexo pode ser mais lento, causando tontura ao levantar.
+
+**Betabloqueadores.** Classe de fármacos (atenolol, propranolol, metoprolol, bisoprolol) que reduzem a frequência cardíaca e a pressão arterial por bloqueio dos receptores β₁-adrenérgicos. No contexto deste protocolo, invalidam os cálculos de zonas de FC (Cap. 5), exigindo o uso de percepção subjetiva de esforço (RPE) como alternativa.
 
 **ECG (eletrocardiograma).** Exame que registra a atividade elétrica do coração com eletrodos na pele. É a referência mais precisa para medição de frequência cardíaca, contra a qual os sensores de smartwatch são comparados.
 
@@ -40,6 +43,8 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 
 **PPG (fotopletismografia).** Tecnologia usada por smartwatches e pulseiras para medir a frequência cardíaca. LEDs verdes iluminam a pele e um sensor detecta variações no fluxo sanguíneo a cada batimento.
 
+**RPE / PSE (Rating of Perceived Exertion / Percepção Subjetiva de Esforço).** Escala subjetiva (Borg 6–20) que permite avaliar a intensidade do exercício sem depender da frequência cardíaca. Zona 2 corresponde a RPE 11–13 ("leve a um pouco difícil"). Alternativa fundamental para praticantes em uso de betabloqueadores.
+
 **RPT (Reverse Pyramid Training).** Método de musculação no qual a série mais pesada é feita primeiro (com mais carga e menos repetições) e as séries seguintes são progressivamente mais leves. Usado no protocolo Leangains.
 
 **Zona 2.** Faixa de intensidade de exercício aeróbico na qual o corpo utiliza predominantemente gordura como combustível. Neste protocolo, corresponde a 111–129 bpm (ou ~60–70% da FCmáx). É identificada pela capacidade de falar em frases completas sem ofegar.
@@ -53,6 +58,8 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 **GIP (polipeptídeo insulinotrópico dependente de glicose).** Hormônio intestinal que potencializa a ação da insulina. A tirzepatida (Mounjaro) atua em receptores de GIP e GLP-1 simultaneamente.
 
 **GLP-1 (peptídeo semelhante ao glucagon tipo 1).** Hormônio intestinal que suprime o apetite e retarda o esvaziamento gástrico. Medicamentos como semaglutida (Ozempic, Wegovy) ativam os receptores desse hormônio.
+
+**Gliconeogênese.** Processo metabólico pelo qual o fígado produz glicose a partir de precursores não-glicídicos (aminoácidos, lactato, glicerol). Corticosteroides estimulam a gliconeogênese, contribuindo para hiperglicemia — um dos motivos para adiar o protocolo durante uso sistêmico de corticoide.
 
 **Grelina.** Hormônio produzido principalmente pelo estômago que sinaliza fome ao cérebro. Seus níveis sobem em jejum e durante restrição calórica, e são uma das principais causas da fome intensa nos primeiros dias do protocolo.
 
@@ -76,15 +83,25 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 
 **Absorção sublingual.** Absorção de substâncias pela mucosa abaixo da língua, que permite entrada rápida na corrente sanguínea sem passar pelo trato digestivo.
 
+**AINEs (anti-inflamatórios não esteroidais).** Classe farmacológica (ibuprofeno, naproxeno, diclofenaco) que inibe as enzimas COX-1 e COX-2, bloqueando a síntese de prostaglandinas. Além do efeito analgésico e anti-inflamatório, podem prejudicar a adaptação muscular ao exercício em jovens e representar risco renal significativo em contexto de desidratação relativa (ver Cap. 15).
+
 **AMPc (adenosina monofosfato cíclico).** Molécula mensageira dentro da célula. Quando seus níveis sobem (por exemplo, pela ação da cafeína), ela ativa a enzima HSL, que inicia a quebra de gordura armazenada.
 
 **Biodisponibilidade.** Fração de uma substância ingerida que efetivamente chega à corrente sanguínea e produz efeito. Exemplo: vitaminas lipossolúveis têm maior biodisponibilidade quando consumidas junto com gordura (azeite).
+
+**COX-1 / COX-2 (ciclo-oxigenase 1 e 2).** Enzimas responsáveis pela síntese de prostaglandinas a partir do ácido araquidônico. A COX-1 é constitutiva (protege a mucosa gástrica e mantém o fluxo renal); a COX-2 é induzível (mediadora de inflamação e reparo tecidual). AINEs inibem ambas — o que explica tanto o efeito analgésico quanto os riscos gástrico e renal.
 
 **Dessensibilização de receptores.** Fenômeno pelo qual receptores celulares se tornam menos responsivos a um estímulo repetido — por exemplo, a cafeína perde efeito com uso contínuo porque os receptores de adenosina se adaptam.
 
 **Fosfodiesterase.** Enzima que degrada o AMPc (ver acima). A cafeína inibe essa enzima, o que eleva o AMPc e, por cascata, estimula a quebra de gordura.
 
+**Glutationa.** Principal antioxidante intracelular do fígado, responsável por conjugar e neutralizar o NAPQI (metabólito tóxico do paracetamol). Em restrição calórica severa, as reservas hepáticas de glutationa podem estar parcialmente depletadas, reduzindo a margem de segurança para uso de paracetamol.
+
 **HSL (lipase hormônio-sensível).** Enzima-chave que quebra triglicerídeos armazenados nas células de gordura, liberando ácidos graxos livres para serem usados como combustível. É ativada por hormônios como adrenalina e amplificada pela elevação do AMPc.
+
+**NAPQI (N-acetil-p-benzoquinona imina).** Metabólito tóxico gerado pelo fígado durante o metabolismo do paracetamol. Em doses normais, é rapidamente neutralizado pela glutationa. Quando as reservas de glutationa estão baixas (déficit calórico, jejum prolongado, álcool), o NAPQI pode acumular-se e causar lesão hepática.
+
+**Prostaglandinas (PGs).** Moléculas lipídicas sinalizadoras produzidas pela ação das enzimas COX sobre o ácido araquidônico. No músculo esquelético, PGE₂ e PGF₂α exercem papel parácrino na regulação do turnover proteico, ativação de células satélite e resposta adaptativa ao exercício. A supressão por AINEs pode comprometer essas funções.
 
 **Receptores de adenosina.** Proteínas na superfície dos neurônios que, quando ativadas pela adenosina, produzem sonolência e vasodilatação cerebral. A cafeína bloqueia esses receptores, promovendo alerta e reduzindo o fluxo sanguíneo cerebral.
 
@@ -96,11 +113,17 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 
 **Anabolismo.** Processo metabólico de construção — por exemplo, a síntese de proteínas musculares a partir de aminoácidos. É o oposto do catabolismo.
 
+**Atrogenes (MuRF-1, atrogina-1).** Genes que codificam ubiquitina-ligases musculares — enzimas que marcam proteínas musculares para degradação via proteassoma. São ativados por corticosteroides sistêmicos e por desuso, acelerando a perda de massa muscular. Esse efeito é sinérgico com o catabolismo induzido por déficit calórico.
+
+**Células satélite.** Células-tronco musculares residentes entre a membrana basal e o sarcolema das fibras musculares. São ativadas por dano mecânico (exercício resistido) e proliferam para doar núcleos às fibras em reparo ou hipertrofia. AINEs podem inibir sua proliferação via supressão de prostaglandinas.
+
 **CO₂ (dióxido de carbono).** Subproduto da oxidação de gordura e carboidrato. A maior parte da gordura "queimada" sai do corpo na forma de CO₂ pela respiração.
 
 **Downregulation.** Redução da atividade ou quantidade de um receptor ou via metabólica. Em déficit calórico, o corpo faz *downregulation* do gasto energético para conservar reservas.
 
 **Lipólise.** Processo de quebra dos triglicerídeos armazenados no tecido adiposo em ácidos graxos livres e glicerol. É o primeiro passo para "queimar gordura" — mas os ácidos graxos liberados só são eliminados se forem efetivamente oxidados nos músculos.
+
+**mTORC1 (mechanistic Target Of Rapamycin Complex 1).** Complexo proteico central na regulação da síntese proteica muscular. É ativado por aminoácidos (especialmente leucina) e estímulo mecânico (exercício resistido). Corticosteroides inibem mTORC1, reduzindo a capacidade de síntese proteica — razão adicional para evitar o protocolo durante uso sistêmico de corticoide.
 
 **NEAT (Non-Exercise Activity Thermogenesis).** Gasto calórico de todas as atividades físicas que não são exercício programado: caminhar, gesticular, ficar em pé, digitar. Em déficit calórico, o corpo tende a reduzir o NEAT inconscientemente.
 
@@ -112,9 +135,19 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 
 **Termogênese.** Produção de calor pelo corpo como subproduto do metabolismo. *Termogênese adaptativa* é a redução do gasto calórico que ocorre em resposta à restrição alimentar.
 
+**Turnover proteico muscular.** Balanço dinâmico entre síntese (construção) e degradação (quebra) de proteínas no músculo esquelético. As prostaglandinas produzidas durante o exercício regulam esse turnover; AINEs, ao inibirem as COX, podem alterar esse balanço desfavoravelmente em praticantes jovens.
+
 **Upregulation.** Aumento da atividade ou quantidade de um receptor ou via metabólica. Em déficit calórico, o corpo faz *upregulation* dos sinais de fome (grelina) para estimular a ingestão alimentar.
 
 **VO₂máx (consumo máximo de oxigênio).** Volume máximo de oxigênio que o corpo consegue utilizar durante exercício intenso. É o principal indicador de aptidão cardiorrespiratória. A zona de máxima oxidação de gordura situa-se entre 45–65% do VO₂máx.
+
+---
+
+### Gastroenterologista
+
+**IBPs (inibidores de bomba de prótons).** Classe farmacológica (omeprazol, pantoprazol, lansoprazol) que suprime a secreção de ácido clorídrico no estômago por bloqueio irreversível da bomba H⁺/K⁺-ATPase. O uso crônico (>8 semanas) reduz a absorção de B₁₂, magnésio, cálcio e ferro — micronutrientes já em risco durante restrição calórica severa.
+
+**Mucosa gástrica.** Revestimento interno do estômago, protegido por uma camada de muco e bicarbonato cuja produção depende de COX-1. AINEs inibem a COX-1, reduzindo essa camada protetora. O jejum prolongado amplifica o risco de lesão, pois o ácido gástrico age sobre uma mucosa desprotegida sem tamponamento alimentar.
 
 ---
 
@@ -144,11 +177,15 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 
 **Hiponatremia.** Nível perigosamente baixo de sódio no sangue. No contexto deste protocolo, o risco principal é a *hiponatremia por diluição* — causada por beber água em excesso durante exercício sem repor eletrólitos. Sintomas: edema, cefaleia, náusea, confusão.
 
+**Lesão renal aguda (LRA).** Deterioração abrupta da função renal, medida por elevação de creatinina sérica ou redução do débito urinário. No contexto deste protocolo, a combinação de AINEs + exercício + desidratação relativa é fator de risco documentado: AINEs inibem prostaglandinas renais vasoprotetoras, agravando o efeito da baixa perfusão renal.
+
 **Natremia.** Concentração de sódio no sangue. A faixa normal é 135–145 mEq/L. Valores abaixo de 135 caracterizam hiponatremia.
 
 ---
 
 ### Neurocientista
+
+**Barreira hematoencefálica.** Estrutura formada por células endoteliais fortemente unidas nos capilares cerebrais, que restringe a passagem de substâncias do sangue para o cérebro. Anti-histamínicos de primeira geração (prometazina, hidroxizina) atravessam essa barreira, causando sedação e aumento de apetite; os de segunda geração (loratadina, cetirizina) não a atravessam em doses habituais.
 
 **Controle inibitório.** Capacidade do cérebro (especificamente o córtex pré-frontal) de resistir a impulsos — como a vontade de comer alimentos calóricos. A restrição calórica pode reduzir temporariamente essa capacidade.
 
