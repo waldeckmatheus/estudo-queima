@@ -119,3 +119,18 @@ Se a fadiga diurna persistir apesar de sono ≥ 7 h e adesão ao Cap. 16, consid
 | **G**ender: Sexo masculino? | |
 
 **Score ≥ 3 = alto risco de SAHOS** → Encaminhar para polissonografia. Não confunda fadiga da SAHOS com fadiga do déficit — o tratamento é diferente e a SAHOS não resolve com mais calorias.
+
+### Erro 07: Risco Biliar — Colelitíase por Perda Rápida (> 1,5 kg/semana)
+
+Perda de peso rápida (≥ 1,5 kg/semana por ≥ 2 semanas consecutivas) é fator de risco estabelecido para colelitíase (cálculos biliares). O mecanismo envolve supersaturação biliar de colesterol por mobilização lipídica rápida e estase vesicular por redução da ingesta de gordura (a vesícula só contrai em resposta a CCK, liberada após ingestão de gordura).
+
+**Sinais de alerta:**
+- Dor em hipocôndrio direito (HCD) pós-prandial, tipo cólica
+- Náusea associada a refeições gordurosas
+- Dor irradiada para escápula direita
+
+**O Patch de Correção:**
+* **Gordura mínima por refeição:** Manter **≥ 7 g de gordura** em pelo menos 2 refeições/dia para estimular contração vesicular (o azeite do almoço já contribui com ~14 g; não pular a gordura das castanhas no lanche).
+* **Monitorar velocidade de perda:** Se perda > 1,5 kg/semana por 2 semanas seguidas → reduzir déficit adicionando azeite em ambas as refeições principais.
+* **Ácido ursodesoxicólico (AUDC):** Em pacientes com histórico de colelitíase ou perda > 1,5 kg/semana persistente, AUDC 500 mg/dia pode ser considerado como profilaxia sob prescrição médica (Stokes et al., 2014).
+* **Critério de parada:** Dor em HCD pós-prandial persistente → interromper protocolo e avaliar com ultrassonografia abdominal.

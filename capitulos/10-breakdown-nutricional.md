@@ -20,6 +20,10 @@
 
 > **Nota:** O piso de 978 kcal está na faixa de *very low-calorie diet*. O teto de 1.284 kcal, com azeite incluído, é mais seguro fisiologicamente e deve ser preferido nos dias de maior demanda de energia e treino. [web:52][web:68]
 
+::: {.callout-warning}
+**Gordura mínima diária:** Manter ≥ 7 g de gordura em pelo menos 2 refeições/dia (almoço + lanche). A gordura estimula a contração da vesícula biliar via CCK, prevenindo estase e reduzindo o risco de colelitíase durante perda rápida de peso. O azeite do almoço (~14 g) e as castanhas do lanche (~5–7 g) **não devem ser omitidos** mesmo nos dias de menor ingestão.
+:::
+
 ### 10.3. Variantes para Restrições Alimentares
 
 O cardápio padrão usa frango, ovos, whey e leite como fontes proteicas. Para praticantes com restrições alimentares, as substituições abaixo mantêm macros equivalentes:
