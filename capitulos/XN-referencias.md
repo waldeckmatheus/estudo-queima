@@ -61,6 +61,14 @@ Esta base inclui evidências de qualidade heterogênea (guidelines, revisões, e
 | [web:88] | [Music in the Exercise Domain: A Review and Synthesis (Part II) — Karageorghis CI & Priest DL, Int Rev Sport Exerc Psychol 2012](https://doi.org/10.1080/1750984X.2011.631027) |
 | [web:89] | [Patulous Eustachian Tube Dysfunction: Patient Demographics and Comorbidities — Ward BK, Ashry Y & Poe DS, Otol Neurotol 2017](https://pubmed.ncbi.nlm.nih.gov/28796094/) |
 | [web:90] | [First Report on a Case Series of Patulous Eustachian Tube Following GLP-1 Receptor Agonist-Induced Weight Loss — Sudhoff H, Eur Arch Otorhinolaryngol 2025](https://pubmed.ncbi.nlm.nih.gov/40721956/) |
+| [web:91] | [Analgesic and Anti-inflammatory Drugs in Sports: Implications for Exercise Performance and Training Adaptations — Lundberg TR & Howatson G, Scand J Med Sci Sports 2018](https://pubmed.ncbi.nlm.nih.gov/30102811/) |
+| [web:92] | [Effects of Prostaglandins and COX-Inhibiting Drugs on Skeletal Muscle Adaptations to Exercise — Trappe TA & Liu SZ, J Appl Physiol 2013](https://pubmed.ncbi.nlm.nih.gov/23539318/) |
+| [web:93] | [Influence of Acetaminophen and Ibuprofen on Skeletal Muscle Adaptations to Resistance Exercise in Older Adults — Trappe TA et al., Am J Physiol Regul Integr Comp Physiol 2011](https://pubmed.ncbi.nlm.nih.gov/21160058/) |
+| [web:94] | [Does an NSAID a Day Keep Satellite Cells at Bay? — Mackey AL, J Appl Physiol 2013](https://pubmed.ncbi.nlm.nih.gov/23681908/) |
+| [web:95] | [Renal Stress and Kidney Injury Biomarkers in Response to Endurance Cycling in the Heat With and Without Ibuprofen — McDermott BP et al., J Sci Med Sport 2018](https://pubmed.ncbi.nlm.nih.gov/29784554/) |
+| [web:96] | [What Is the Effect of Paracetamol (Acetaminophen) Ingestion on Exercise Performance? — Grgic J, Sports Med 2022](https://pubmed.ncbi.nlm.nih.gov/35038139/) |
+| [web:97] | [Exercise Performance and Beta-Blockade — Tesch PA, Sports Med 1985](https://pubmed.ncbi.nlm.nih.gov/2866577/) |
+| [web:98] | [Common GI Problems: Volume 1 — Risks of Long-Term Proton Pump Inhibitor Therapy — Fashner J & Gitu AC, Am Fam Physician 2013](https://pubmed.ncbi.nlm.nih.gov/24364705/) |
 
 ### 12.1. Curadoria Rápida por Nível de Evidência
 
@@ -74,6 +82,9 @@ Esta base inclui evidências de qualidade heterogênea (guidelines, revisões, e
 * [web:79] Recuperação de peso após cessação de semaglutida.
 * [web:80] Composição corporal sob agonistas GLP-1 (revisão sistemática).
 * [web:66] Relação entre zonas de frequência cardíaca e metabolismo lipídico.
+* [web:91], [web:92], [web:94] Revisões sobre AINEs/paracetamol e adaptação muscular ao exercício (implicações diretas para preservação de massa magra).
+* [web:95] Ibuprofeno + exercício em calor: risco renal demonstrado (relevante para protocolo com jejum + desidratação relativa).
+* [web:97] Betabloqueadores e capacidade de exercício: redução de V̇O₂máx e termorregulação.
 
 **Suporte complementar (útil, mas não central para decisão crítica):**
 * [web:20] Fasted vs fed para metabolismo de gordura.
@@ -88,6 +99,14 @@ Esta base inclui evidências de qualidade heterogênea (guidelines, revisões, e
 * [web:87], [web:88] Revisão abrangente em duas partes sobre música no domínio do exercício.
 * [web:89] Série retrospectiva (n=190) sobre tuba auditiva patética: perda de peso em 35%, piora com exercício em 27%, plenitude auricular em 57%.
 * [web:90] Primeira série de casos de PET após perda de peso induzida por agonistas GLP-1 (semaglutida/tirzepatida): 7 pacientes, 8–19% de perda de peso.
+* [web:91] Revisão sobre analgésicos e anti-inflamatórios no esporte: interferência na hipertrofia muscular (jovens), efeito ergogênico do paracetamol.
+* [web:92] Revisão de ~40 anos sobre prostaglandinas e inibidores de COX na adaptação muscular ao exercício: sem interferência em estudos crônicos, efeito positivo em idosos.
+* [web:93] RCT duplo-cego (n=36) em idosos: paracetamol e ibuprofeno diários aumentaram hipertrofia e força durante treino resistido de 12 semanas.
+* [web:94] Revisão sobre NSAIDs e células satélite: inibição da proliferação pós-exercício pode comprometer regeneração muscular em jovens.
+* [web:95] Ensaio clínico: ibuprofeno durante ciclismo em calor elevou biomarcadores renais compatíveis com lesão renal aguda leve.
+* [web:96] Revisão sobre paracetamol e performance: efeito ergogênico em endurance (1.500 mg, 45–60 min pré-exercício), maior tolerância à dor.
+* [web:97] Revisão clássica sobre betabloqueadores e exercício: redução de V̇O₂máx em 5–15%, comprometimento da termorregulação.
+* [web:98] Revisão sobre riscos do uso crônico de IBPs: redução da absorção de B₁₂, magnésio, cálcio e ferro.
 
 **Baixa prioridade para decisão clínica (fontes comerciais/blog):**
 * [web:6], [web:11], [web:13], [web:21], [web:27], [web:35], [web:38], [web:40], [web:41], [web:59]
