@@ -101,6 +101,18 @@ Esta base inclui evidências de qualidade heterogênea (guidelines, revisões, e
 | [web:128] | [Gastrointestinal Complaints during Exercise: Prevalence, Etiology, and Nutritional Recommendations — de Oliveira EP, Burini RC, Jeukendrup A, Sports Med 2014](https://pubmed.ncbi.nlm.nih.gov/24791919/) |
 | [web:129] | [Beneficial Effects of Probiotics and Synbiotics Supplementation on Anthropometric Indices and Body Composition in Adults: A Systematic Review and Meta-Analysis — Saadati S et al., Obes Rev 2024](https://pubmed.ncbi.nlm.nih.gov/38030409/) |
 | [web:130] | [Weight-Loss Interventions and Gut Microbiota Changes in Overweight and Obese Patients: A Systematic Review — Seganfredo FB et al., Obes Rev 2017](https://pubmed.ncbi.nlm.nih.gov/28524627/) |
+| [web:131] | [The Danger of Weight Loss in the Elderly — Miller SL & Wolfe RR, J Am Coll Nutr 2008](https://pubmed.ncbi.nlm.nih.gov/18615231/) |
+| [web:132] | [Sarcopenic Obesity in Older Adults: A Clinical Overview — Prado CM et al., Nat Rev Endocrinol 2024](https://pubmed.ncbi.nlm.nih.gov/38321142/) |
+| [web:133] | [Evidence-Based Recommendations for Optimal Dietary Protein Intake in Older People: A Position Paper from the PROT-AGE Study Group — Bauer J et al., J Am Med Dir Assoc 2013](https://pubmed.ncbi.nlm.nih.gov/23867520/) |
+| [web:134] | [A Systematic Review of the Separate and Combined Effects of Energy Restriction and Exercise on Fat-Free Mass in Middle-Aged and Older Adults — Weinheimer EM, Sands LP & Campbell WW, Nutr Rev 2010](https://pubmed.ncbi.nlm.nih.gov/20591106/) |
+| [web:135] | [Impact of Lifestyle Weight-Loss Intervention on Skeletal Muscle and Bone in Older Adults with Obesity — Cortes TM et al., Front Endocrinol 2025](https://pubmed.ncbi.nlm.nih.gov/40065568/) |
+| [web:136] | [Fat Mass, Weight and Body Shape Changes at Menopause — A Narrative Review — Fenton A, Climacteric 2023](https://pubmed.ncbi.nlm.nih.gov/36891919/) |
+| [web:137] | [Menopausal Hormone Therapy in Weight Management — Younglove C et al., Curr Obes Rep 2025](https://pubmed.ncbi.nlm.nih.gov/41883510/) |
+| [web:138] | [Muscle and Bone Health in Postmenopausal Women: Role of Protein and Vitamin D Supplementation Combined with Exercise Training — Agostini D et al., Nutrients 2018](https://pubmed.ncbi.nlm.nih.gov/30115856/) |
+| [web:139] | [Pediatric Obesity — Assessment, Treatment, and Prevention: An Endocrine Society Clinical Practice Guideline — Styne DM et al., J Clin Endocrinol Metab 2017](https://pubmed.ncbi.nlm.nih.gov/28359099/) |
+| [web:140] | [Diet, Physical Activity and Behavioural Interventions for the Treatment of Overweight or Obese Children from the Age of 6 to 11 Years — Mead E et al., Cochrane Database Syst Rev 2017](https://pubmed.ncbi.nlm.nih.gov/28639319/) |
+| [web:141] | [Diet, Physical Activity and Behavioural Interventions for the Treatment of Overweight or Obese Adolescents Aged 12 to 17 Years — Al-Khudairy L et al., Cochrane Database Syst Rev 2017](https://pubmed.ncbi.nlm.nih.gov/28639320/) |
+| [web:142] | [Childhood Obesity: An Updated Review — Leung AKC, Wong AHC & Hon KL, Curr Pediatr Rev 2024](https://pubmed.ncbi.nlm.nih.gov/35927921/) |
 
 ### 12.1. Curadoria Rápida por Nível de Evidência
 
@@ -133,6 +145,18 @@ Esta base inclui evidências de qualidade heterogênea (guidelines, revisões, e
 * [web:126] Revisão abrangente sobre microbiota e controle de peso: restrição calórica reduz diversidade microbiana e bactérias produtoras de butirato; recuperação em 4–8 semanas.
 * [web:127] Revisão Nat Rev Gastroenterol Hepatol: fibra modula microbiota, AGCC, saciedade via GLP-1/PYY e sensibilidade insulínica.
 * [web:129] SR/MA: probióticos reduzem modestamente peso/IMC, mas sem efeito sobre massa magra.
+* [web:131] Revisão sobre riscos da perda de peso em idosos: perda acelerada de massa magra e óssea; restrição calórica em idosos demanda supervisão rigorosa.
+* [web:132] Revisão clínica Nat Rev Endocrinol sobre obesidade sarcopênica em idosos: definição, diagnóstico, consequências e tratamento combinado (exercício + nutrição).
+* [web:133] Position paper PROT-AGE: consenso internacional sobre necessidades proteicas em idosos ≥65 anos; recomenda ≥1,0–1,2 g/kg/dia basal e ≥1,2–1,5 g/kg/dia em doença ou perda de peso.
+* [web:134] SR sobre efeitos separados e combinados de restrição energética e exercício na FFM de adultos mais velhos: exercício resistido é indispensável para atenuar perda de massa magra.
+* [web:135] Revisão sobre impacto de intervenções de perda de peso em músculo e osso de idosos com obesidade: dieta + TR + proteína é a tríade protetora.
+* [web:136] Revisão narrativa sobre mudanças na massa gorda e forma corporal na menopausa: redistribuição de gordura subcutânea para visceral central por declínio de estrogênio.
+* [web:137] Revisão sobre THM e gestão de peso: reposição estrogênica pode atenuar redistribuição visceral e preservar parcialmente massa magra.
+* [web:138] Revisão sobre proteína + vitamina D + exercício resistido na saúde musculoesquelética pós-menopausa: tríade mais eficaz para preservar massa óssea e muscular.
+* [web:139] Guideline Endocrine Society para obesidade pediátrica: avaliação, tratamento e prevenção; objetivo é manutenção ponderal durante crescimento, não perda rápida.
+* [web:140] Revisão Cochrane: intervenções multicomponente (dieta + AF + comportamental) em crianças 6–11 anos com sobrepeso/obesidade; superiores a restrição pura.
+* [web:141] Revisão Cochrane: intervenções multicomponente em adolescentes 12–17 anos; dieta de qualidade + exercício + suporte comportamental produzem melhores resultados a longo prazo.
+* [web:142] Revisão atualizada sobre obesidade infantil: abordagem crônica, multifatorial e centrada na família; encaminhamento multiprofissional quando indicado.
 
 **Suporte complementar (útil, mas não central para decisão crítica):**
 * [web:20] Fasted vs fed para metabolismo de gordura.

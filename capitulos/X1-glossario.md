@@ -8,19 +8,19 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 
 | Profissional | Termos | % do glossário |
 |---|:---:|:---:|
-| Neurocientista | 19 | 14,7% |
-| Fisiologista do Exercício | 18 | 14,0% |
-| Endocrinologista | 15 | 11,6% |
-| Nutricionista Clínico | 15 | 11,6% |
-| Farmacologista | 14 | 10,9% |
-| Nutricionista Esportivo | 11 | 8,5% |
-| Educador Físico | 9 | 7,0% |
-| Médico do Esporte | 7 | 5,4% |
-| Gastroenterologista | 6 | 4,7% |
-| Nefrologista | 6 | 4,7% |
-| Cardiologista | 4 | 3,1% |
-| Pesquisador / Metodologista Científico | 3 | 2,3% |
-| Psicólogo Clínico | 2 | 1,6% |
+| Endocrinologista | 20 | 14,1% |
+| Fisiologista do Exercício | 20 | 14,1% |
+| Neurocientista | 19 | 13,4% |
+| Nutricionista Clínico | 16 | 11,3% |
+| Farmacologista | 14 | 9,9% |
+| Nutricionista Esportivo | 11 | 7,7% |
+| Médico do Esporte | 10 | 7,0% |
+| Educador Físico | 9 | 6,3% |
+| Gastroenterologista | 6 | 4,2% |
+| Nefrologista | 6 | 4,2% |
+| Cardiologista | 4 | 2,8% |
+| Pesquisador / Metodologista Científico | 3 | 2,1% |
+| Psicólogo Clínico | 2 | 1,4% |
 
 ---
 
@@ -66,9 +66,13 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 
 **Disponibilidade energética (EA).** Energia restante para funções fisiológicas após subtrair o gasto com exercício: EA = (Ingestão calórica − Gasto exercício) ÷ Massa magra (kg). Valores < 30 kcal/kgMLG/dia são considerados baixos e associados a disfunções menstruais, ósseas e metabólicas.
 
+**Eixo GH-IGF-1.** Via hormonal que conecta o hormônio do crescimento (GH), secretado pela hipófise, ao fator de crescimento semelhante à insulina tipo 1 (IGF-1), produzido principalmente pelo fígado. É o principal regulador do crescimento linear na infância e adolescência. A restrição calórica suprime a pulsatilidade de GH e reduz IGF-1, podendo comprometer a estatura final em indivíduos com placas epifisárias abertas.
+
 **GIP (polipeptídeo insulinotrópico dependente de glicose).** Hormônio intestinal que potencializa a ação da insulina. A tirzepatida (Mounjaro) atua em receptores de GIP e GLP-1 simultaneamente.
 
 **GLP-1 (peptídeo semelhante ao glucagon tipo 1).** Hormônio intestinal que suprime o apetite e retarda o esvaziamento gástrico. Medicamentos como semaglutida (Ozempic, Wegovy) ativam os receptores desse hormônio.
+
+**GnRH (Hormônio Liberador de Gonadotrofina).** Neuropeptídeo hipotalâmico secretado de forma pulsátil que controla o eixo reprodutivo (hipotálamo-hipófise-gônadas). Em adolescentes, a pulsatilidade de GnRH é essencial para o início e a progressão da puberdade. A baixa disponibilidade energética pode inibir essa pulsatilidade, atrasando o desenvolvimento puberal — razão pela qual restrição calórica agressiva é contraindicada em jovens.
 
 **Gliconeogênese.** Processo metabólico pelo qual o fígado produz glicose a partir de precursores não-glicídicos (aminoácidos, lactato, glicerol). Corticosteroides estimulam a gliconeogênese, contribuindo para hiperglicemia — um dos motivos para adiar o protocolo durante uso sistêmico de corticoide.
 
@@ -79,6 +83,16 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 **Insulina.** Hormônio produzido pelo pâncreas que facilita a entrada de glicose nas células e inibe a lipólise. Quando a insulina está baixa (ex.: em jejum), o corpo tem mais facilidade para mobilizar gordura.
 
 **Leptina.** Hormônio produzido pelas células de gordura que sinaliza ao cérebro o nível de reservas energéticas. Quando a leptina cai (como em restrição calórica), o cérebro interpreta que as reservas estão se esgotando e ativa mecanismos de fome e economia de energia.
+
+**Perimenopausa.** Fase de transição que precede a menopausa, caracterizada por ciclos menstruais irregulares e flutuações hormonais (estrogênio ora alto, ora baixo). Pode durar 2–8 anos. As oscilações hormonais causam retenção hídrica variável, dificultando o monitoramento de peso durante o protocolo; a média móvel de 7 dias é essencial.
+
+**Placa epifisária (placa de crescimento).** Zona de cartilagem hialina localizada nas extremidades dos ossos longos (fêmur, tíbia, úmero), responsável pelo crescimento linear durante infância e adolescência. Fecha-se progressivamente até os 18–25 anos. A restrição calórica pode comprometer a atividade dessa placa via supressão do eixo GH-IGF-1, resultando em estatura final reduzida.
+
+**Pós-menopausa.** Período que se inicia após 12 meses consecutivos de amenorreia, marcando a cessação permanente da função ovariana. Caracteriza-se por estrogênio consistentemente baixo, redistribuição de gordura para compartimento visceral, perda acelerada de DMO (2–3%/ano nos primeiros 5 anos) e aumento do risco cardiovascular.
+
+**Sintomas vasomotores.** Ondas de calor e suores noturnos causados pela desregulação do centro termorregulador hipotalâmico em resposta à queda de estrogênio. Afetam ~75% das mulheres na perimenopausa e pós-menopausa. Prejudicam gravemente a qualidade do sono, amplificando os efeitos negativos da restrição calórica sobre a recuperação e a regulação do apetite.
+
+**THM (Terapia Hormonal da Menopausa).** Reposição de estrogênio (com ou sem progesterona) para tratamento de sintomas vasomotores e prevenção de perda óssea na pós-menopausa. Pode atenuar a redistribuição de gordura visceral e preservar parcialmente a massa magra, mas a decisão é médica e individualizada.
 
 **Melatonina.** Hormônio produzido pela glândula pineal em resposta à escuridão, sinalizando ao núcleo supraquiasmático que é “hora de dormir.” Sua secreção é suprimida por luz >50 lux na retina (especialmente luz azul ~460 nm). Em déficit calórico, a produção pode ser atenuada por competição metabólica pelo triptofano. Suplementação exógena (0,5–3 mg) pode ser útil durante os 30 dias do protocolo.
 
@@ -144,6 +158,8 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 
 **Lipólise.** Processo de quebra dos triglicerídeos armazenados no tecido adiposo em ácidos graxos livres e glicerol. É o primeiro passo para "queimar gordura" — mas os ácidos graxos liberados só são eliminados se forem efetivamente oxidados nos músculos.
 
+**MPS (Síntese Proteica Muscular / Muscle Protein Synthesis).** Taxa na qual o músculo esquelético constrói novas proteínas. A resistência anabólica do envelhecimento reduz a MPS em 30–40% para uma mesma dose de proteína, exigindo maior ingestão proteica (≥ 30 g/refeição com leucina adequada) para atingir o limiar de estimulação em idosos.
+
 **mTORC1 (mechanistic Target Of Rapamycin Complex 1).** Complexo proteico central na regulação da síntese proteica muscular. É ativado por aminoácidos (especialmente leucina) e estímulo mecânico (exercício resistido). Corticosteroides inibem mTORC1, reduzindo a capacidade de síntese proteica — razão adicional para evitar o protocolo durante uso sistêmico de corticoide.
 
 **NEAT (Non-Exercise Activity Thermogenesis).** Gasto calórico de todas as atividades físicas que não são exercício programado: caminhar, gesticular, ficar em pé, digitar. Em déficit calórico, o corpo tende a reduzir o NEAT inconscientemente.
@@ -151,6 +167,10 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 **Oxidação de gordura.** Processo pelo qual os ácidos graxos são "queimados" nas mitocôndrias das células musculares para gerar energia (ATP), produzindo CO₂ e água como subprodutos. A taxa máxima de oxidação de gordura ocorre em exercício de intensidade moderada (45–65% do VO₂máx).
 
 **Quociente respiratório (QR).** Razão entre CO₂ produzido e O₂ consumido durante o metabolismo. Um QR próximo de 0,7 indica predominância de oxidação de gordura; próximo de 1,0 indica carboidrato. Sono insuficiente pode elevar o QR, reduzindo a proporção de gordura queimada.
+
+**Resistência anabólica.** Fenômeno pelo qual o músculo envelhecido requer maior dose de proteína e leucina para atingir a mesma magnitude de síntese proteica muscular (MPS) que um músculo jovem. É o mecanismo central que explica por que idosos perdem proporcionalmente mais massa magra durante restrição calórica e por que a recomendação PROT-AGE é de ≥ 1,0–1,2 g/kg/dia de proteína (basal) e ≥ 1,5 g/kg em déficit.
+
+**Sarcopenia.** Perda progressiva e generalizada de massa e força muscular esquelética associada ao envelhecimento. A taxa basal é de ~1–2%/ano após os 50 anos, acelerando após os 70. A restrição calórica amplifica essa perda, tornando a preservação muscular a prioridade absoluta em protocolos de mini-cut para idosos.
 
 **Spot lipolysis.** Fenômeno fisiológico em que a lipólise é discretamente maior no tecido adiposo adjacente a músculos em contração. A magnitude é irrisória e não se traduz em perda localizada de gordura mensurável.
 
@@ -182,6 +202,8 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 
 ### Médico do Esporte
 
+**DMO (Densidade Mineral Óssea).** Medida da quantidade de mineral (principalmente cálcio e fósforo) por unidade de área ou volume do osso, avaliada por DXA. É o principal indicador de saúde óssea e risco de fratura. A perda de DMO é acelerada em pós-menopausa (2–3%/ano nos primeiros 5 anos) e amplificada por restrição calórica. Suplementação de cálcio (≥ 1.200 mg/dia) e vitamina D (1.000–2.000 UI/dia) é obrigatória durante o protocolo em idosos e mulheres pós-menopáusicas.
+
 **DXA (Dual-Energy X-ray Absorptiometry).** Exame de imagem considerado padrão-ouro para medir a composição corporal (gordura, massa magra e osso) com alta precisão. Utiliza duas energias de raio-X para distinguir tecidos.
 
 **Hipoglicemia.** Nível de glicose no sangue abaixo do normal, causando tremores, suor frio, confusão e fraqueza.
@@ -189,6 +211,10 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 **Hipoperfusão transitória.** Redução temporária do fluxo sanguíneo para um órgão (geralmente o cérebro), causando tontura ou "visão escura". Pode ocorrer durante exercício em jejum se o volume plasmático estiver reduzido.
 
 **Vasoconstrição.** Estreitamento dos vasos sanguíneos, reduzindo o fluxo de sangue para determinada região. Pode ocorrer por frio, estimulantes ou redistribuição circulatória durante exercício.
+
+**Idade óssea.** Grau de maturação esquelética avaliado por raio-X de punho (método de Greulich-Pyle), comparando os centros de ossificação com padrões normativos. Permite estimar o potencial de crescimento remanescente. Em adolescentes com placas epifisárias abertas, restrição calórica agressiva pode comprometer a estatura final.
+
+**Obesidade sarcopênica.** Condição que combina excesso de gordura corporal (obesidade) com baixa massa/força muscular (sarcopenia). Prevalente em idosos, está associada a maior mortalidade, incapacidade funcional e síndromes geriátricas do que sarcopenia ou obesidade isoladas. O tratamento exige intervenção combinada (exercício resistido + nutrição proteica otimizada), não apenas restrição calórica.
 
 **Volume plasmático.** Volume de plasma (parte líquida do sangue) circulante. Em restrição calórica com suor e baixa reposição de sódio, o volume plasmático pode diminuir, contribuindo para tontura, hipotensão ortostática e "brain fog".
 
@@ -271,6 +297,8 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 **IG (índice glicêmico).** Escala de 0 a 100 que mede a velocidade com que um alimento eleva a glicose no sangue. A palatinose tem IG baixo (~32), enquanto a glicose pura tem IG = 100.
 
 **IMC (índice de massa corporal).** Razão entre peso (kg) e altura ao quadrado (m²). Usado como triagem populacional para sobrepeso (≥ 25) e obesidade (≥ 30), mas não distingue gordura de massa muscular.
+
+**Percentil de IMC.** Classificação do IMC em crianças e adolescentes que compara o valor individual com a distribuição populacional ajustada por idade e sexo (curvas de crescimento CDC/OMS). Sobrepeso: ≥ percentil 85; obesidade: ≥ percentil 95; obesidade severa: ≥ 120% do percentil 95 ou IMC ≥ 35. É a métrica correta para avaliação nutricional pediátrica, pois o IMC absoluto varia normalmente com o crescimento.
 
 **Jejum intermitente.** Padrão alimentar que alterna janelas de alimentação com períodos de jejum. O formato 16:8 (16 h sem comer, 8 h de alimentação) é o mais comum. Este protocolo utiliza um jejum fisiológico matinal, mas não segue o modelo clássico 16:8.
 
