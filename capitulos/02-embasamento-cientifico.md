@@ -18,6 +18,23 @@ Este protocolo é um documento de estudo pessoal, não uma diretriz clínica. Ai
 - **Opinião/Prática (⬛⬜⬜⬜):** Consenso de prática clínica sem ECR, experiência anedótica incorporada com ressalva explícita (ex.: "regra do pescoço").
 
 Onde aplicável, os capítulos indicam `[GRADE: ALTA/MODERADA/BAIXA/OPINIÃO]` para que o leitor calibre a confiança na recomendação. A ausência de classificação indica que a evidência não foi formalmente avaliada.
+
+**Classificação GRADE das recomendações-chave do protocolo:**
+
+| # | Recomendação | GRADE | Fonte principal |
+|---|---|---|---|
+| 1 | Proteína 1,6–2,2 g/kg para preservar massa magra em déficit | ⬛⬛⬛⬛ ALTA | Meta-análise: Morton et al. 2018 [web:56] |
+| 2 | Creatina 3–5 g/dia para performance e massa magra | ⬛⬛⬛⬛ ALTA | 500+ ECRs; meta-análises Cochrane [web:56] |
+| 3 | Déficit ≤ 30 dias contínuos para minimizar adaptação metabólica | ⬛⬛⬛⬜ MODERADA | ECRs e coortes: Trexler et al. 2014 [web:60][web:63] |
+| 4 | Zona 2 aeróbica em jejum para mobilização lipídica | ⬛⬛⬛⬜ MODERADA | ECRs: Aird et al. 2018 [web:20] |
+| 5 | Corte de cafeína ≥ 8 h antes de dormir | ⬛⬛⬛⬜ MODERADA | ECRs: Drake et al. 2013 |
+| 6 | Refeed semanal para restauração de leptina/T3 | ⬛⬛⬜⬜ BAIXA | Estudos mecanísticos + observacionais [web:60] |
+| 7 | Colágeno + Vit C 30–60 min pré-exercício | ⬛⬛⬜⬜ BAIXA | ECR único: Shaw et al. 2017 |
+| 8 | Timing de leucina/caseína pré-sono | ⬛⬛⬜⬜ BAIXA | ECRs pequenos: Res et al. 2012 |
+| 9 | "Regra do pescoço" para exercício em IVAS | ⬛⬜⬜⬜ OPINIÃO | Consenso clínico sem ECR |
+| 10 | Power nap 20 min para recuperação em déficit | ⬛⬜⬜⬜ OPINIÃO | Estudos observacionais; plausibilidade fisiológica |
+
+> **Leitura da tabela:** GRADE refere-se à certeza na evidência, não à importância da recomendação. Uma recomendação BAIXA pode ser clinicamente útil — apenas com menor certeza nos dados.
 :::
 
 ### 2.1. Feedback Loop Metabólico (O Termostato do Corpo)
