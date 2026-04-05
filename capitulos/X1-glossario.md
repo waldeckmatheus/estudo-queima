@@ -9,13 +9,31 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 | Profissional | Termos | % do glossário |
 |---|:---:|:---:|
 | Nutricionista | 26 | 30,2% |
-| Médico | 15 | 17,4% |
 | Fisiologista do Exercício | 12 | 14,0% |
 | Endocrinologista | 11 | 12,8% |
 | Farmacologista | 7 | 8,1% |
 | Neurocientista | 7 | 8,1% |
+| Cardiologista | 6 | 7,0% |
 | Educador Físico | 5 | 5,8% |
+| Nefrologista | 5 | 5,8% |
+| Médico do Esporte | 4 | 4,7% |
 | Pesquisador / Metodologista Científico | 3 | 3,5% |
+
+---
+
+### Cardiologista
+
+**Barorreflexo.** Reflexo do sistema cardiovascular que ajusta a frequência cardíaca e a pressão arterial quando você muda de posição (ex.: ao levantar da cama). Em déficit calórico com volume sanguíneo reduzido, esse reflexo pode ser mais lento, causando tontura ao levantar.
+
+**ECG (eletrocardiograma).** Exame que registra a atividade elétrica do coração com eletrodos na pele. É a referência mais precisa para medição de frequência cardíaca, contra a qual os sensores de smartwatch são comparados.
+
+**Hipoperfusão transitória.** Redução temporária do fluxo sanguíneo para um órgão (geralmente o cérebro), causando tontura ou "visão escura". Pode ocorrer durante exercício em jejum se o volume plasmático estiver reduzido.
+
+**MACE (Major Adverse Cardiovascular Events).** Termo médico que agrupa os eventos cardiovasculares graves — infarto, AVC e morte cardiovascular. Usado nos ensaios clínicos das canetas emagrecedoras para medir benefício cardíaco.
+
+**Vasoconstrição.** Estreitamento dos vasos sanguíneos, reduzindo o fluxo de sangue para determinada região. Pode ocorrer por frio, estimulantes ou redistribuição circulatória durante exercício.
+
+**Vasodilatação.** Alargamento dos vasos sanguíneos, aumentando o fluxo de sangue. A adenosina promove vasodilatação cerebral; a cafeína, ao bloqueá-la, pode reduzir o fluxo cerebral.
 
 ---
 
@@ -105,13 +123,19 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 
 ---
 
-### Médico
-
-**Barorreflexo.** Reflexo do sistema cardiovascular que ajusta a frequência cardíaca e a pressão arterial quando você muda de posição (ex.: ao levantar da cama). Em déficit calórico com volume sanguíneo reduzido, esse reflexo pode ser mais lento, causando tontura ao levantar.
+### Médico do Esporte
 
 **DXA (Dual-Energy X-ray Absorptiometry).** Exame de imagem considerado padrão-ouro para medir a composição corporal (gordura, massa magra e osso) com alta precisão. Utiliza duas energias de raio-X para distinguir tecidos.
 
-**ECG (eletrocardiograma).** Exame que registra a atividade elétrica do coração com eletrodos na pele. É a referência mais precisa para medição de frequência cardíaca, contra a qual os sensores de smartwatch são comparados.
+**Hipoglicemia.** Nível de glicose no sangue abaixo do normal, causando tremores, suor frio, confusão e fraqueza.
+
+**Volume plasmático.** Volume de plasma (parte líquida do sangue) circulante. Em restrição calórica com suor e baixa reposição de sódio, o volume plasmático pode diminuir, contribuindo para tontura, hipotensão ortostática e "brain fog".
+
+**Xerostomia.** Sensação de boca seca, causada por redução da produção de saliva. Pode ocorrer como efeito colateral de estimulantes termogênicos ou por desidratação.
+
+---
+
+### Nefrologista
 
 **Edema.** Acúmulo anormal de líquido nos tecidos, causando inchaço. Pode ocorrer por hiponatremia ou outros desequilíbrios eletrolíticos.
 
@@ -119,23 +143,9 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 
 **Hipercalemia.** Nível excessivo de potássio no sangue, que pode afetar o ritmo cardíaco. Motivo pelo qual não se deve substituir sal de cozinha (NaCl) por sal light (KCl) sem orientação.
 
-**Hipoglicemia.** Nível de glicose no sangue abaixo do normal, causando tremores, suor frio, confusão e fraqueza.
-
 **Hiponatremia.** Nível perigosamente baixo de sódio no sangue. No contexto deste protocolo, o risco principal é a *hiponatremia por diluição* — causada por beber água em excesso durante exercício sem repor eletrólitos. Sintomas: edema, cefaleia, náusea, confusão.
 
-**Hipoperfusão transitória.** Redução temporária do fluxo sanguíneo para um órgão (geralmente o cérebro), causando tontura ou "visão escura". Pode ocorrer durante exercício em jejum se o volume plasmático estiver reduzido.
-
-**MACE (Major Adverse Cardiovascular Events).** Termo médico que agrupa os eventos cardiovasculares graves — infarto, AVC e morte cardiovascular. Usado nos ensaios clínicos das canetas emagrecedoras para medir benefício cardíaco.
-
 **Natremia.** Concentração de sódio no sangue. A faixa normal é 135–145 mEq/L. Valores abaixo de 135 caracterizam hiponatremia.
-
-**Vasoconstrição.** Estreitamento dos vasos sanguíneos, reduzindo o fluxo de sangue para determinada região. Pode ocorrer por frio, estimulantes ou redistribuição circulatória durante exercício.
-
-**Vasodilatação.** Alargamento dos vasos sanguíneos, aumentando o fluxo de sangue. A adenosina promove vasodilatação cerebral; a cafeína, ao bloqueá-la, pode reduzir o fluxo cerebral.
-
-**Volume plasmático.** Volume de plasma (parte líquida do sangue) circulante. Em restrição calórica com suor e baixa reposição de sódio, o volume plasmático pode diminuir, contribuindo para tontura, hipotensão ortostática e "brain fog".
-
-**Xerostomia.** Sensação de boca seca, causada por redução da produção de saliva. Pode ocorrer como efeito colateral de estimulantes termogênicos ou por desidratação.
 
 ---
 
