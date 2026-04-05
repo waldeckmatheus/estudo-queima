@@ -5,6 +5,16 @@ A versão atual baseia-se em três pilares para evitar o esgotamento sistêmico:
 2. **Proteína como Eixo Estrutural:** Em fases de déficit energético somado a exercício, a alta ingestão proteica é a melhor ferramenta para blindar a massa magra contra o catabolismo. [web:56][web:69]
 3. **Exercício e Mobilização Lipídica:** O exercício aeróbico na Zona 2, aliado ao jejum intermitente fisiológico da manhã, favorece a mobilização de ácidos graxos sem gerar estresse sistêmico severo. [web:20]
 
+::: {.callout-note}
+**Declaração de Conflito de Interesses e Limitações Metodológicas**
+
+- **Autoria:** Este documento é um projeto de estudo pessoal, não uma diretriz clínica. O autor não possui formação médica ou em nutrição clínica.
+- **Conflito de interesses:** Nenhum. O autor não tem vínculo financeiro, patrocínio ou relação comercial com fabricantes de suplementos, laboratórios, clínicas ou marcas mencionadas neste protocolo (incluindo Lipo 6, Palatinose, etc.).
+- **Fontes:** As referências bibliográficas (Apêndice XN) foram selecionadas via busca não-sistemática. Não houve protocolo formal de revisão (PRISMA) — há risco de viés de seleção e confirmação.
+- **Limitações:** (1) As recomendações não substituem avaliação médica individualizada; (2) A maioria dos estudos citados usa amostras de adultos jovens saudáveis — extrapolação para idosos, adolescentes, gestantes e portadores de condições crônicas exige cautela (ver capítulos específicos); (3) A classificação GRADE (abaixo) é informal e feita pelo autor, não por painel independente.
+- **Uso responsável:** Este material é oferecido sob licença CC BY-SA 4.0 para fins educacionais. A aplicação prática deve ser supervisionada por profissionais habilitados.
+:::
+
 > **Nota sobre proporção exercício/dieta:** O [Capítulo 14](14-exercicio-e-dieta.md) consolida a evidência sobre a contribuição relativa de dieta (motor primário do déficit) e exercício (protetor da composição corporal), incluindo orientações para quem não pode praticar atividade física.
 
 ::: {.callout-note}
