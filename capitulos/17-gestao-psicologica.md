@@ -123,6 +123,31 @@ O estudo de Tomiyama et al. [web:106] mostrou que monitorar calorias aumenta o e
 
 **Solução: monitorar sem contar.** O roteiro do Cap. 3 já foi calculado — o praticante não precisa recontá-lo diariamente. A tarefa é **seguir o plano** (pesar os alimentos uma vez na preparação), não **contabilizar** (ficar somando calorias ao longo do dia em apps). Essa distinção sutil reduz a carga cognitiva e o estresse percebido enquanto mantém a precisão do protocolo.
 
+#### 17.8.1. Contagem Saudável vs. Contagem Compulsiva
+
+A contagem de calorias é ferramenta central do protocolo, mas pode tornar-se gatilho obsessivo em indivíduos com predisposição. A distinção entre uso funcional e padrão compulsivo é crítica:
+
+| Sinal | Contagem funcional | Contagem compulsiva |
+|---|---|---|
+| Frequência de verificação | 1–2× ao preparar refeição | ≥ 5× ao longo do dia |
+| Reação ao não-registro | Tranquilidade ("já sei a composição") | Ansiedade significativa |
+| Alimentos sem rótulo | Estima porção visual e segue em frente | Recusa o alimento ou fica em angústia |
+| Flexibilidade | Aceita variação de ±50 kcal sem estresse | Qualquer desvio gera culpa ou compensação |
+| Relação com alimentação social | Come com outros normalmente | Evita refeições sociais por impossibilidade de contagem exata |
+
+**Critério de migração:** Se ≥ 3 sinais da coluna "compulsiva" estiverem presentes, migrar para **método simplificado**:
+- Porções visuais (palma da mão = proteína, punho fechado = carboidrato, polegar = gordura)
+- Pratos pré-montados seguindo o roteiro do Cap. 3 sem recontagem
+- Retirar apps de contagem do celular durante o protocolo
+
+#### 17.8.2. Exercício Compulsivo e Fotos de Progresso
+
+**Exercício compensatório:** Diferenciar treino prescrito (Cap. 5, Cap. 20) de exercício como punição por desvios alimentares. Se o praticante sentir urgência de "queimar" calorias excedentes com exercício extra não prescrito, isso é comportamento compensatório — aplicar a técnica STOP (Seção 17.4.1) e registrar no diário de pensamentos.
+
+**Fotos de progresso:** São ferramenta útil de monitoramento (Cap. 1.3), mas podem ser gatilho para dismorfia corporal (BDD). Torná-las **opcionais** com o seguinte aviso:
+- Se comparar fotos gerar mais ansiedade do que motivação → suspender
+- Se verificar fotos múltiplas vezes ao dia → padrão disfuncional; migrar para circunferência de cintura como métrica exclusiva
+
 ### 17.9. Integração com Outros Capítulos
 
 | Capítulo | Conexão psicológica |
