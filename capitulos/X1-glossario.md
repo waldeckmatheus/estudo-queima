@@ -8,18 +8,18 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 
 | Profissional | Termos | % do glossário |
 |---|:---:|:---:|
-| Fisiologista do Exercício | 16 | 15,7% |
-| Nutricionista Clínico | 15 | 14,7% |
-| Farmacologista | 12 | 11,8% |
-| Endocrinologista | 12 | 11,8% |
-| Nutricionista Esportivo | 11 | 10,8% |
-| Neurocientista | 9 | 8,8% |
-| Médico do Esporte | 6 | 5,9% |
-| Educador Físico | 6 | 5,9% |
-| Nefrologista | 6 | 5,9% |
-| Cardiologista | 4 | 3,9% |
-| Pesquisador / Metodologista Científico | 3 | 2,9% |
-| Gastroenterologista | 2 | 2,0% |
+| Fisiologista do Exercício | 16 | 14,7% |
+| Nutricionista Clínico | 15 | 13,8% |
+| Neurocientista | 15 | 13,8% |
+| Endocrinologista | 13 | 11,9% |
+| Farmacologista | 12 | 11,0% |
+| Nutricionista Esportivo | 11 | 10,1% |
+| Educador Físico | 6 | 5,5% |
+| Médico do Esporte | 6 | 5,5% |
+| Nefrologista | 6 | 5,5% |
+| Cardiologista | 4 | 3,7% |
+| Pesquisador / Metodologista Científico | 3 | 2,8% |
+| Gastroenterologista | 2 | 1,8% |
 
 ---
 
@@ -68,6 +68,8 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 **Insulina.** Hormônio produzido pelo pâncreas que facilita a entrada de glicose nas células e inibe a lipólise. Quando a insulina está baixa (ex.: em jejum), o corpo tem mais facilidade para mobilizar gordura.
 
 **Leptina.** Hormônio produzido pelas células de gordura que sinaliza ao cérebro o nível de reservas energéticas. Quando a leptina cai (como em restrição calórica), o cérebro interpreta que as reservas estão se esgotando e ativa mecanismos de fome e economia de energia.
+
+**Melatonina.** Hormônio produzido pela glândula pineal em resposta à escuridão, sinalizando ao núcleo supraquiasmático que é “hora de dormir.” Sua secreção é suprimida por luz >50 lux na retina (especialmente luz azul ~460 nm). Em déficit calórico, a produção pode ser atenuada por competição metabólica pelo triptofano. Suplementação exógena (0,5–3 mg) pode ser útil durante os 30 dias do protocolo.
 
 **Semaglutida.** Fármaco agonista do receptor GLP-1, presente no Ozempic (dose 0,5–1 mg, aprovado para diabetes) e no Wegovy (dose 2,4 mg, aprovado para obesidade).
 
@@ -193,15 +195,27 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 
 **Estriado.** Região profunda do cérebro envolvida no sistema de recompensa e motivação. A restrição calórica afeta circuitos dopaminérgicos nessa região, intensificando o desejo por comida.
 
+**Inércia do sono.** Estado de redução transitória da vigílância e do desempenho cognitivo que ocorre imediatamente após o despertar, especialmente se o despertar interrompe sono de ondas lentas (SWS). Dura 15–30 minutos. É o motivo pelo qual cochilos > 30 min são contraproducentes: a pessoa entra em SWS e acorda pior do que antes.
+
+**Latência do sono.** Tempo decorrido entre deitar-se com intenção de dormir e o efetivo início do sono. Em déficit calórico, a latência pode aumentar por ativação de circuitos de vigilância mediados por orexina. Suplementação de magnésio oral pode reduzi-la em ~17 min.
+
 **Mecanorreceptores vagais.** Sensores de pressão no estômago ligados ao nervo vago. Quando o estômago se distende (mesmo com água ou fibra), eles enviam sinais de saciedade ao cérebro.
 
 **Núcleo do trato solitário.** Região do tronco cerebral que recebe sinais de saciedade vindos do estômago (via nervo vago) e integra informações sobre o estado alimentar do corpo.
+
+**Núcleo supraquiasmático (NSQ).** Pequeno agrupamento de neurônios no hipotálamo anterior que funciona como o "relógio-mestre" do ritmo circadiano. Recebe informação de luz da retina via trato retino-hipotalâmico e sincroniza os ciclos de sono-vigília, secreção hormonal (cortisol, melatonina, GH) e temperatura corporal com o ciclo claro-escuro de 24 horas.
+
+**Orexina (hipocretina).** Neuropeptídeo produzido pelo hipotálamo lateral que promove vigília e alerta. Sua atividade aumenta em jejum e restrição calórica, conectando o estado energético do corpo ao estado de alerta — um dos mecanismos pelos quais a fome dificulta o adormecimento.
 
 **Orexigênico.** Que estimula o apetite. A grelina é o principal hormônio orexigênico do corpo.
 
 **Saliência motivacional.** Grau com que um estímulo (ex.: imagem ou cheiro de comida) captura a atenção e gera desejo. A restrição calórica eleva a saliência motivacional de estímulos alimentares, tornando mais difícil ignorá-los.
 
+**Sono de ondas lentas (SWS — Slow-Wave Sleep).** Fase mais profunda do sono NREM, caracterizada por ondas delta de alta amplitude no EEG. É durante o SWS que ocorre o pico de secreção de hormônio do crescimento (GH), essencial para reparo tecidual e preservação de massa muscular. A cafeína, mesmo sem impedir o adormecimento, pode reduzir a proporção de SWS.
+
 **Vasodilatação.** Alargamento dos vasos sanguíneos, aumentando o fluxo de sangue. A adenosina promove vasodilatação cerebral; a cafeína, ao bloqueá-la, pode reduzir o fluxo cerebral.
+
+**Zeitgeber.** Termo alemão ("doador de tempo") para estímulos ambientais que sincronizam o relógio circadiano com o ciclo de 24 horas. O zeitgeber mais potente é a luz solar na retina; outros incluem exercício, alimentação e temperatura. O protocolo utiliza dois zeitgebers matinais espontâneos: horário fixo de despertar e exercício aeróbico com exposição à luz.
 
 ---
 

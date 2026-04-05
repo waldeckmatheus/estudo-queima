@@ -69,6 +69,13 @@ Esta base inclui evidências de qualidade heterogênea (guidelines, revisões, e
 | [web:96] | [What Is the Effect of Paracetamol (Acetaminophen) Ingestion on Exercise Performance? — Grgic J, Sports Med 2022](https://pubmed.ncbi.nlm.nih.gov/35038139/) |
 | [web:97] | [Exercise Performance and Beta-Blockade — Tesch PA, Sports Med 1985](https://pubmed.ncbi.nlm.nih.gov/2866577/) |
 | [web:98] | [Common GI Problems: Volume 1 — Risks of Long-Term Proton Pump Inhibitor Therapy — Fashner J & Gitu AC, Am Fam Physician 2013](https://pubmed.ncbi.nlm.nih.gov/24364705/) |
+| [web:99] | [Influence of Sleep Restriction on Weight Loss Outcomes Associated with Caloric Restriction — Wang X et al., Sleep 2018](https://pubmed.ncbi.nlm.nih.gov/29438540/) |
+| [web:100] | [Brief Communication: Sleep Curtailment in Healthy Young Men Is Associated with Decreased Leptin Levels, Elevated Ghrelin Levels, and Increased Hunger and Appetite — Spiegel K et al., Ann Intern Med 2004](https://pubmed.ncbi.nlm.nih.gov/15583226/) |
+| [web:101] | [Associations of Short Sleep Duration with Appetite-Regulating Hormones and Adipokines: A Systematic Review and Meta-Analysis — Lin J et al., Obes Rev 2020](https://pubmed.ncbi.nlm.nih.gov/32537891/) |
+| [web:102] | [Partial Sleep Deprivation and Energy Balance in Adults: An Emerging Issue for Consideration by Dietetics Practitioners — Shlisky JD et al., J Acad Nutr Diet 2012](https://pubmed.ncbi.nlm.nih.gov/23102177/) |
+| [web:103] | [Oral Magnesium Supplementation for Insomnia in Older Adults: A Systematic Review & Meta-Analysis — Mah J & Pitre T, BMC Complement Med Ther 2021](https://pubmed.ncbi.nlm.nih.gov/33865376/) |
+| [web:104] | [Melatonin Supplementation: New Insights into Health and Disease — Minari TP & Pisani LP, Sleep Breath 2025](https://pubmed.ncbi.nlm.nih.gov/40278958/) |
+| [web:105] | [Timing of Food Intake Predicts Weight Loss Effectiveness — Garaulet M et al., Int J Obes 2013](https://pubmed.ncbi.nlm.nih.gov/23357955/) |
 
 ### 12.1. Curadoria Rápida por Nível de Evidência
 
@@ -85,6 +92,9 @@ Esta base inclui evidências de qualidade heterogênea (guidelines, revisões, e
 * [web:91], [web:92], [web:94] Revisões sobre AINEs/paracetamol e adaptação muscular ao exercício (implicações diretas para preservação de massa magra).
 * [web:95] Ibuprofeno + exercício em calor: risco renal demonstrado (relevante para protocolo com jejum + desidratação relativa).
 * [web:97] Betabloqueadores e capacidade de exercício: redução de V̇O₂máx e termorregulação.
+* [web:83], [web:99] Sono insuficiente durante déficit calórico: RCTs demonstrando redução de 55% na perda de gordura e aumento de 60% na perda de massa magra.
+* [web:100], [web:101] Privação de sono e desregulação de leptina/grelina (estudo crossover + meta-análise).
+* [web:105] Timing circadiano das refeições e eficácia da perda de peso (n=420, 20 semanas).
 
 **Suporte complementar (útil, mas não central para decisão crítica):**
 * [web:20] Fasted vs fed para metabolismo de gordura.
@@ -92,7 +102,6 @@ Esta base inclui evidências de qualidade heterogênea (guidelines, revisões, e
 * [web:70], [web:71] Acurácia de sensores cardíacos.
 * [web:81] Exercício abdominal isolado não reduz gordura abdominal (RCT).
 * [web:82] Lipólise local adjacente a músculos em contração: magnitude irrisória.
-* [web:83] Sono insuficiente reduz perda de gordura em 55% durante déficit calórico (RCT crossover).
 * [web:84] Exercício em jejum vs. alimentado: sem diferença de composição corporal em dieta hipocalórica (RCT).
 * [web:85] Revisão integrativa sobre adaptações biológicas ao déficit calórico e reganho de peso.
 * [web:86] Meta-análise de 139 estudos sobre efeitos da música no exercício e esporte (valência afetiva, performance, RPE, V̇O₂).
@@ -107,6 +116,9 @@ Esta base inclui evidências de qualidade heterogênea (guidelines, revisões, e
 * [web:96] Revisão sobre paracetamol e performance: efeito ergogênico em endurance (1.500 mg, 45–60 min pré-exercício), maior tolerância à dor.
 * [web:97] Revisão clássica sobre betabloqueadores e exercício: redução de V̇O₂máx em 5–15%, comprometimento da termorregulação.
 * [web:98] Revisão sobre riscos do uso crônico de IBPs: redução da absorção de B₁₂, magnésio, cálcio e ferro.
+* [web:102] Revisão sobre privação parcial de sono e balanço energético: ↑grelina, ↓leptina, aumento de snacks noturnos.
+* [web:103] Meta-análise de magnésio oral para insônia: redução de 17 min na latência do sono (evidência baixa, mas perfil seguro).
+* [web:104] Revisão sobre melatonina suplementar: melhora de qualidade do sono e possíveis efeitos metabólicos positivos.
 
 **Baixa prioridade para decisão clínica (fontes comerciais/blog):**
 * [web:6], [web:11], [web:13], [web:21], [web:27], [web:35], [web:38], [web:40], [web:41], [web:59]
