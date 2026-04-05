@@ -117,6 +117,28 @@ Evidência emergente sugere que o horário das refeições influencia resultados
 
 **Cochilo tático:** Se dormiu < 7 h na noite anterior, um cochilo de **20 minutos** (não mais) entre 12–14 h pode restaurar parcialmente a vigilância e a disposição para o exercício sem interferir no sono noturno. Cochilos > 30 min entram em sono profundo e causam inércia do sono ao acordar; cochilos após 15 h atrasam a latência noturna.
 
+#### 16.6.1. Power Nap — Protocolo Operacional para Recuperação em Déficit
+
+O déficit calórico crônico prejudica a latência e a eficiência do sono (Seção 16.2), criando um ciclo de sono insuficiente → cortisol elevado → pior recuperação → pior sono. O power nap é uma ferramenta de baixo custo para quebrar esse ciclo: `[GRADE: OPINIÃO — estudos observacionais e plausibilidade fisiológica]`
+
+**Regras do power nap:**
+
+| Parâmetro | Recomendação | Justificativa |
+|---|---|---|
+| Duração | **15–20 min** (alarme obrigatório) | Suficiente para estágio N2 (recuperação cognitiva) sem entrar em N3 (inércia do sono) |
+| Janela horária | **12:00–14:00** | Coincide com queda fisiológica circadiana pós-prandial; não atrasa latência noturna |
+| Limite diário | 1 nap/dia | Múltiplos naps fragmentam o drive homeostático de sono noturno |
+| Ambiente | Escuro, silencioso, temperatura amena | Mesmo protocolo do sono noturno (Seção 16.4) |
+| Cafeína | Não consumir ≥ 2 h antes do nap | Cafeína bloqueia adenosina e impede adormecer |
+
+**Quem mais se beneficia:**
+- Noites com < 6 h de sono (independente da causa)
+- Treino resistido agendado para tarde/noite
+- Profissionais com turnos irregulares que não podem garantir ≥ 7 h contínuas
+- Semanas 2–3 do protocolo, quando adaptação metabólica piora qualidade do sono
+
+**Coffee nap (avançado):** Consumir 100–200 mg de cafeína imediatamente antes do nap de 20 min. A cafeína leva ~20 min para atingir pico plasmático — o praticante acorda com o efeito combinado do nap + cafeína. Válido apenas se o nap ocorrer antes das 13 h e o praticante não for metabolizador lento de CYP1A2 (ver Cap. 6.2).
+
 ### 16.7. Integração com os Outros Capítulos
 
 | Capítulo | Conexão com sono |
