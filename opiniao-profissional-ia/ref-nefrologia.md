@@ -86,7 +86,7 @@ O nefrologista avalia o impacto de proteína alta (2,0–2,4 g/kg/dia), déficit
 
 ## 6. Conclusão
 
-O protocolo é **nefrologicamente seguro para indivíduos com TFG normal** (≥ 90 mL/min): a proteína de 2,0–2,4 g/kg por 30 dias não causa dano em rins saudáveis, e a ênfase em hidratação + eletrólitos é protetora. As **lacunas críticas** são: ausência de triagem renal pré-protocolo (7–10% de adultos têm DRC assintomática), risco de rabdomiólise não abordado, hiperuricemia/gota ignorada e nefrotoxicidade de suplementos não triada. Um nefrologista real **liberaria o protocolo** após confirmar TFG ≥ 60 e ausência de proteinúria, mas **exigiria creatinina + RAC baseline como pré-requisito**.
+O protocolo é **nefrologicamente mais seguro na v2**: triagem renal agora incluída (creatinina + RAC no Pre-Flight Check da Seção 7.0), rabdomiólise documentada com sinais de alarme e conduta de emergência (Cap. 7.3), hiperuricemia/gota abordada com diagnóstico diferencial e critério de parada (Cap. 9). A proteína de 2,0–2,4 g/kg por 30 dias não causa dano em rins saudáveis, e a ênfase em hidratação + eletrólitos é protetora. As **lacunas residuais** são: creatina confundindo diagnóstico de creatinina, distúrbio ácido-base em cetose não discutido e nefrotoxicidade de suplementos não triada. Um nefrologista real **liberaria o protocolo com confiança** após confirmar TFG ≥ 60 e ausência de proteinúria.
 
 ---
 

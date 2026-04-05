@@ -85,7 +85,7 @@ O gastroenterologista avalia como o jejum prolongado (~16 h/dia), a restrição 
 
 ## 6. Conclusão
 
-O protocolo é **excepcionalmente detalhado na cobertura GI** — com dois capítulos dedicados, cascata hormonal completa e mecanismos de barreira intestinal. As **lacunas** são: ausência de triagem pré-protocolo para H. pylori/DII/SII, falta de algoritmo diagnóstico para diarreia, nenhuma menção a probióticos como estratégia de manutenção de microbiota, e gastroparesia funcional não abordada. Um gastroenterologista real provavelmente **elogiaria a profundidade do Cap. 26** e acrescentaria triagem pré-protocolo, algoritmo diarreico e probióticos.
+O protocolo é **excepcionalmente detalhado na cobertura GI** — com dois capítulos dedicados, cascata hormonal completa e mecanismos de barreira intestinal. Na v2, hiperuricemia/gota abordada (Cap. 9), variantes dietéticas para celíacos e APLV incluídas (Cap. 10.3). As **lacunas residuais** são: triagem pré-protocolo para H. pylori/DII/SII não obrigatória, algoritmo diagnóstico para diarreia ausente, probióticos não incluídos e gastroparesia funcional não abordada. Um gastroenterologista real **elogiaria a profundidade** e sugeriria triagem pré-protocolo e probióticos.
 
 ---
 

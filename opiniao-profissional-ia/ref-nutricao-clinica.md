@@ -82,7 +82,7 @@ O nutricionista clínico avalia a adequação calórica, macro e micronutriciona
 
 ## 6. Conclusão
 
-O protocolo é **nutricionalmente robusto nos macronutrientes** (proteína priorizada, gordura mínima respeitada, fibra quantificada) e demonstra sofisticação com cronobiologia nutricional e intervalo psyllium-fármacos. As **lacunas** concentram-se nos micronutrientes: ferro (especialmente mulheres), cálcio, zinco, potássio (target abaixo do AI) e complexo B possivelmente insuficientes pela restrição. Adicionalmente, faltam variantes para intolerâncias (celíacos, APLV, veganos). Um nutricionista clínico real **validaria a estratégia macro** e adicionaria painel de micronutrientes baseline, adequação de ferro/cálcio/potássio e cardápio adaptado para restrições dietéticas especiais.
+O protocolo é **nutricionalmente mais completo na v2**: variantes dietéticas para celíacos, APLV e veganos agora documentadas no Cap. 10.3 (com fontes proteicas, cálcio e B12 específicos), ferritina incluída no painel pré-protocolo (Seção 7.0) com suplementação de ferro indicada se < 30 ng/mL (Cap. 6.3), e estratégia de absorção de ferro > 6h pós-exercício incorporada. As **lacunas residuais** concentram-se nos micronutrientes: cálcio (lacticiníos limitados), zinco, potássio (target abaixo do AI) e complexo B possivelmente insuficientes pela restrição. Um nutricionista clínico real **validaria a estratégia macro e as adaptações dietéticas** e adicionaria adequação individualizada de Ca, Zn e K.
 
 ---
 

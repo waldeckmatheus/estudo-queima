@@ -89,7 +89,7 @@ O educador físico é responsável pela prescrição, supervisão e ajuste de ex
 
 ## 6. Conclusão
 
-O protocolo apresenta uma **programação de exercício de alta qualidade técnica**, com destaque para a autoregulação via RPE/RIR, volume baseado em dose-resposta, e a regra de ouro "na dúvida, faça menos". A principal lacuna é a **ausência de avaliação funcional pré-protocolo** e a falta de detalhamento em aquecimento específico para TR, cadência e respiração. O educador físico real provavelmente aprovaria a estrutura geral, mas acrescentaria triagem de mobilidade, teste submáximo de FCmáx e log de treino obrigatório com monitoramento semanal de indicadores de overreaching.
+O protocolo apresenta uma **programação de exercício de alta qualidade técnica, aprimorada na v2**: PAR-Q+ agora obrigatório como primeiro item do Pre-Flight Check (Seção 7.0), com encaminhamento médico se qualquer "Sim". A autoregulação via RPE/RIR, volume baseado em dose-resposta, e a regra de ouro "na dúvida, faça menos" são mantidos. Os **riscos residuais** são: avaliação funcional de movimento (FMS) ausente, cadência e respiração no TR não detalhados e aquecimento específico faltando. Um educador físico real **aprovaria a estrutura geral com confiança** e acrescentaria triagem de mobilidade e log de treino obrigatório.
 
 ---
 

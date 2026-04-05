@@ -27,7 +27,7 @@ O otorrinolaringologista (ORL) avalia como o protocolo afeta nariz, garganta e o
 
 | # | Aspecto | Análise técnica | Risco | Mitigação sugerida |
 |---|---|---|---|---|
-| 1 | **SAHOS não triada** | 80% dos pacientes com SAHOS moderado-grave não são diagnosticados. SAHOS → fragmentação do sono → ↓ GH → ↓ recuperação → ↓ resultado do protocolo. O protocolo aborda sono mas não menciona SAHOS/ronco como causa tratável. | Fragmentação do sono persistente apesar de higiene do sono adequada | Incluir: "Ronca? Parceiro relata apneias? Sonolência diurna?" → Epworth ≥ 10 → polissonografia; CPAP se AHI ≥ 15 |
+| 1 | ~~**SAHOS não triada**~~ | ✅ **RESOLVIDO (v2):** O Cap. 9 agora inclui triagem de SAHOS via STOP-Bang (≥ 3 pontos → polissonografia). Vincula SAHOS a fragmentação do sono e ↓ GH/testosterona noturna. Perda de peso como benefício terapêutico para SAHOS também documentado. | — | — |
 | 2 | **Refluxo laringofaríngeo (RLF)** | RLF = refluxo que alcança laringe/faringe → disfonia, pigarro crônico, tosse noturna, sensação de globus. Cafeína + cítricos + horário de exercício pós-refeição podem piorar RLF. Em déficit, estômago vazio + caffeina → ↑ acidez. | Disfonia/pigarro crônico que confunde com infecção | Se sintomas: elevar cabeceira; cafeína só com alimento; não exercitar < 2 h pós-refeição; IBP se persistente |
 | 3 | **IVAS por imunossupressão** | Déficit calórico → ↓ IgA salivar → ↓ primeira linha de defesa de mucosa oral/nasal. IVAS (rinofaringite, amigdalite, sinusite) são as infecções mais comuns em atletas em déficit. | Faringite/sinusite → pausa no protocolo → perda de aderência | Vitamina C (200–500 mg/dia); evitar mãos na face; lavar mãos pós-treino; se IVAS: "regra do pescoço" |
 | 4 | **Vertigem por hipoglicemia** | Hipoglicemia em déficit → ↓ perfusão cerebral → tontura/vertigem. Não é vertigem vestibular (rotatória) mas pode ser confundida. Em pacientes com VPPB pré-existente, hipoglicemia ↓ compensação central. | Queda durante exercício ao confundir tontura com vertigem rotatória | Protocolo já inclui: "tontura → parar + comer algo". Diferenciar: tontura = hipoglicemia; vertigem rotatória = vestibular → avaliação ORL |
@@ -75,7 +75,7 @@ O otorrinolaringologista (ORL) avalia como o protocolo afeta nariz, garganta e o
 
 ## 6. Conclusão
 
-O protocolo traz **benefícios ORL significativos**: perda de peso melhora SAHOS (↓ AHI), DRGE/RLF (↓ pressão intra-abdominal) e rinite (efeito descongestionante do exercício). A Zona 2 favorece respiração nasal, protegendo mucosa faríngea. As **lacunas**: SAHOS não é triada (80% sub-diagnosticada), RLF não é mencionada como causa de sintomas laríngeos e vertigem por hipoglicemia não é diferenciada de vertigem vestibular. Um ORL real **recomendaria**: triagem de SAHOS (Epworth + STOP-Bang) e incluir dispneia + vertigem rotatória nos alertas.
+O protocolo traz **benefícios ORL significativos e triagem de SAHOS agora incluída na v2**: STOP-Bang (Cap. 9) para rastreamento de apneia, perda de peso como redutora de AHI, melhora de DRGE/RLF e efeito descongestionante do exercício. A Zona 2 favorece respiração nasal, protegendo mucosa faríngea. As **lacunas residuais**: RLF não mencionada como causa de sintomas laríngeos e vertigem por hipoglicemia não diferenciada de vertigem vestibular. Um ORL real **liberaria com confiança** após STOP-Bang negativo.
 
 ---
 

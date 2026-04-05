@@ -78,7 +78,7 @@ O hematologista avalia como 30 dias de déficit calórico agressivo + exercício
 
 ## 6. Conclusão
 
-O protocolo é **hematologicamente seguro para indivíduos com perfil sanguíneo normal**: proteína adequada suporta eritropoiese, Zona 2 estimula EPO e a duração de 30 dias é insuficiente para anemia franca. Os **riscos** são: depleção de ferro latente (ferritina < 30), especialmente em mulheres com menorragia; hepcidina elevada pós-exercício bloqueando absorção de ferro; pseudoanemia dilucional confundida com anemia real e ausência de hemograma nos exames pré-protocolo. Um hematologista real **exigiria**: hemograma + ferritina como pré-requisito e suplementação de ferro em mulheres com ferritina < 30 ng/mL.
+O protocolo é **hematologicamente mais seguro na v2**: hemograma + ferritina agora exigidos no Pre-Flight Check (Seção 7.0) como pré-requisitos obrigatórios, suplementação de ferro indicada quando ferritina < 30 ng/mL com estratégia de absorção > 6h pós-exercício (Cap. 6.3, citando hepcidina), e contraindicação por hemoglobina < 12/13 implica em não-aprovação no checklist. Proteína adequada suporta eritropoiese, Zona 2 estimula EPO e a duração de 30 dias é insuficiente para anemia franca. Os **riscos residuais** são: pseudoanemia dilucional confundida com anemia real, hemoconcenção por desidratação mascarando depleção e VCM/reticulócitos não exigidos. Um hematologista real **liberaria o protocolo com confiança** após hemograma + ferritina normais.
 
 ---
 

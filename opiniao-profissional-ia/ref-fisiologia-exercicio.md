@@ -76,7 +76,7 @@ O fisiologista do exercício analisa os mecanismos biológicos de oxidação de 
 
 ## 6. Conclusão
 
-O protocolo é **fisiologicamente bem fundamentado** para maximizar perda de gordura e minimizar perda de massa magra: Zona 2 para oxidação lipídica, TR para estímulo mecânico via mTORC1, proteína alta distribuída em bolus. As **lacunas** são de nível avançado: resistência anabólica não quantificada, distinção lipólise/oxidação ausente, FATmax individual ignorado e proteólise via ubiquitina-proteassoma não explicada. Um fisiologista real consideraria o protocolo **acima da média dos protocolos populares** e sugeriria refinamentos como refeed estratégico de CHO pré-TR, caseína noturna e teste de FATmax para otimização individual.
+O protocolo é **fisiologicamente bem fundamentado, com melhorias na v2**: refeed semanal agora documentado com mecanismo leptina→T3→TDEE (Seção 2.2), creatina prescrita (Cap. 6.3) para suporte da via PCr, e colágeno + vitamina C peri-exercício. A base anterior permanece sólida: Zona 2 para oxidação lipídica, TR para estímulo mecânico via mTORC1, proteína alta distribuída em bolus. As **lacunas residuais** são: resistência anabólica não quantificada, distinção lipólise/oxidação ausente e FATmax individual ignorado. Um fisiologista real **aprovaria o protocolo como acima da média** e sugeriria refinamentos avançados.
 
 ---
 

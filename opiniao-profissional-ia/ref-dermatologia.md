@@ -78,7 +78,7 @@ O dermatologista avalia como déficit calórico agressivo (50% TDEE) + exercíci
 
 ## 6. Conclusão
 
-O protocolo é **dermatologicamente aceitável para pele saudável**: proteína e vitamina C adequadas suportam colágeno, zinco protege queratinócitos, e a duração de 30 dias é curta demais para eflúvio telógeno clínico (aparece 2–4 meses depois e é reversível). Os **riscos** são: barreira cutânea enfraquecida se gorduras insuficientes, fotodano em exercício outdoor sem proteção, dermatite por suor e falta de aviso sobre queda capilar tardia. Um dermatologista real **liberaria** e adicionaria: manter ferritina > 40 ng/mL, biotina na dieta, FPS ≥ 30 em exercício outdoor e aviso antecipatório de eflúvio telógeno transitório.
+O protocolo é **dermatologicamente mais protetor na v2**: ferritina agora no painel pré-protocolo (Seção 7.0), com suplementação de ferro se < 30 ng/mL (Cap. 6.3) — essencial para saúde capilar (limiar dermatológico: ferritina > 40). Proteína e vitamina C adequadas suportam colágeno, zinco protege queratinócitos, e a duração de 30 dias é curta demais para eflúvio telógeno clínico (aparece 2–4 meses depois e é reversível). Os **riscos residuais** são: barreira cutânea enfraquecida se gorduras insuficientes, fotodano em exercício outdoor sem proteção e dermatite por suor. Um dermatologista real **liberaria com confiança** e adicionaria FPS ≥ 30 em exercício outdoor.
 
 ---
 

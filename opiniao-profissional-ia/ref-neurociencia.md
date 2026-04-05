@@ -78,7 +78,7 @@ A neurociência avalia como o déficit calórico agressivo (~50% TDEE por 30 dia
 
 ## 6. Conclusão
 
-O protocolo demonstra **sofisticação neurocientífica acima da média**: discute orexina, circuitos de recompensa, BDNF e mecanismos de craving. As **lacunas** são: déficit de serotonina por ↓ triptofano/LNAA não abordado, função cognitiva transitoriamente prejudicada sem alerta, neuroplasticidade maladaptativa (base do rebote) não discutida e aprendizagem motora comprometida por ↓ REM. Um neurocientista real **validaria a base mecanística** mas recomendaria suporte serotoninérgico nutricional (triptofano + CHO na janta), limitação de decisões cognitivas complexas nos Dias 1–3 e ênfase no reverse diet como prevenção de rebote neural.
+O protocolo demonstra **sofisticação neurocientífica aprimorada na v2**: técnicas de TCC agora integradas no Cap. 17.7 (descentração, EPR, análise funcional de cravings), triagem PAR-Q+/PHQ-9/GAD-7 no Cap. 7.0 cobrindo interface neurocomportamental. A base anterior permanece: discute orexina, circuitos de recompensa, BDNF e mecanismos de craving. As **lacunas residuais** são: déficit de serotonina por ↓ triptofano/LNAA não abordado, função cognitiva transitoriamente prejudicada sem alerta, e neuroplasticidade maladaptativa (base do rebote) não discutida. Um neurocientista real **validaria a base mecanística** e recomendaria suporte serotoninérgico nutricional.
 
 ---
 
