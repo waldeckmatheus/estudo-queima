@@ -29,6 +29,9 @@ services:
           --metadata-file=temas/claro.yaml \
           --template=temas/template.tex \
           --lua-filter=temas/mermaid.lua \
+          --lua-filter=temas/callouts.lua \
+          --lua-filter=temas/refs.lua \
+          --lua-filter=temas/divider.lua \
           --pdf-engine=lualatex \
           --toc \
           -o dist/queima-${COMMIT}-claro.pdf
@@ -51,6 +54,9 @@ services:
           --metadata-file=temas/escuro.yaml \
           --template=temas/template.tex \
           --lua-filter=temas/mermaid.lua \
+          --lua-filter=temas/callouts.lua \
+          --lua-filter=temas/refs.lua \
+          --lua-filter=temas/divider.lua \
           --pdf-engine=lualatex \
           --toc \
           -o dist/queima-${COMMIT}-escuro.pdf
@@ -73,6 +79,9 @@ services:
           --metadata-file=temas/impressao.yaml \
           --template=temas/template.tex \
           --lua-filter=temas/mermaid.lua \
+          --lua-filter=temas/callouts.lua \
+          --lua-filter=temas/refs.lua \
+          --lua-filter=temas/divider.lua \
           --pdf-engine=lualatex \
           --toc \
           -o dist/queima-${COMMIT}-impressao.pdf
@@ -95,6 +104,9 @@ services:
           --metadata-file=temas/terminal.yaml \
           --template=temas/template.tex \
           --lua-filter=temas/mermaid.lua \
+          --lua-filter=temas/callouts.lua \
+          --lua-filter=temas/refs.lua \
+          --lua-filter=temas/divider.lua \
           --pdf-engine=lualatex \
           --toc \
           -o dist/queima-${COMMIT}-terminal.pdf
@@ -117,6 +129,9 @@ services:
           --metadata-file=temas/resumo.yaml \
           --template=temas/template.tex \
           --lua-filter=temas/mermaid.lua \
+          --lua-filter=temas/callouts.lua \
+          --lua-filter=temas/refs.lua \
+          --lua-filter=temas/divider.lua \
           --lua-filter=temas/resumo.lua \
           --pdf-engine=lualatex \
           --toc \

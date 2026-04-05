@@ -1,5 +1,8 @@
 FROM pandoc/extra:latest
 
+# Pacotes LaTeX adicionais não incluídos na imagem base
+RUN tlmgr install lastpage tocloft
+
 # Chromium + Node.js para mermaid-cli (mmdc)
 RUN apk add --no-cache nodejs npm chromium
 
