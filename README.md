@@ -101,6 +101,34 @@ dist/queima-a3f192c-impressao.pdf
 
 ---
 
+## Aviso Legal — Disclaimer Médico
+
+> **⚠️ Este projeto é exclusivamente educacional e de autoestudo.**
+>
+> Todo o conteúdo — incluindo textos, tabelas, protocolos e materiais no diretório `opiniao-profissional-ia/` — foi elaborado com auxílio de inteligência artificial (modelo de linguagem) e **não substitui, em nenhuma hipótese, consulta, diagnóstico ou acompanhamento por profissionais de saúde qualificados**.
+>
+> - Nenhuma informação aqui apresentada deve ser interpretada como orientação médica, nutricional ou de exercício individualizada.
+> - O uso deste material é por **conta e risco exclusivo do leitor**.
+> - O autor e os contribuidores **não assumem qualquer responsabilidade** por decisões de saúde, lesões, efeitos adversos ou quaisquer consequências decorrentes do uso, adaptação ou redistribuição deste conteúdo.
+> - **Consulte um médico ou profissional de saúde qualificado** antes de iniciar qualquer protocolo de déficit calórico, exercício ou suplementação.
+
+---
+
+## Licença
+
+[![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/deed.pt)
+
+Este projeto é licenciado sob a [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.pt).
+
+Você pode **compartilhar** (copiar e redistribuir) e **adaptar** (remixar, transformar e criar a partir do material), desde que:
+
+- **Atribuição** — dê o crédito apropriado e indique se mudanças foram feitas.
+- **CompartilhaIgual** — distribua contribuições derivadas sob a mesma licença.
+
+Consulte o arquivo [LICENSE](LICENSE) para o texto completo, incluindo a **isenção de garantias e limitação de responsabilidade** (Seção 5).
+
+---
+
 ## Temas disponíveis
 
 | Tema | Descrição |
