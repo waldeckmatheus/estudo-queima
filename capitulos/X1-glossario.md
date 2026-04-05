@@ -8,19 +8,19 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 
 | Profissional | Termos | % do glossário |
 |---|:---:|:---:|
-| Neurocientista | 19 | 16,2% |
-| Fisiologista do Exercício | 16 | 13,7% |
-| Nutricionista Clínico | 15 | 12,8% |
-| Farmacologista | 14 | 12,0% |
-| Endocrinologista | 13 | 11,1% |
-| Nutricionista Esportivo | 11 | 9,4% |
-| Educador Físico | 6 | 5,1% |
-| Médico do Esporte | 6 | 5,1% |
-| Nefrologista | 6 | 5,1% |
-| Cardiologista | 4 | 3,4% |
-| Pesquisador / Metodologista Científico | 3 | 2,6% |
-| Psicólogo Clínico | 2 | 1,7% |
-| Gastroenterologista | 2 | 1,7% |
+| Neurocientista | 19 | 15,6% |
+| Fisiologista do Exercício | 18 | 14,8% |
+| Endocrinologista | 15 | 12,3% |
+| Nutricionista Clínico | 15 | 12,3% |
+| Farmacologista | 14 | 11,5% |
+| Nutricionista Esportivo | 11 | 9,0% |
+| Médico do Esporte | 7 | 5,7% |
+| Educador Físico | 6 | 4,9% |
+| Nefrologista | 6 | 4,9% |
+| Cardiologista | 4 | 3,3% |
+| Pesquisador / Metodologista Científico | 3 | 2,5% |
+| Psicólogo Clínico | 2 | 1,6% |
+| Gastroenterologista | 2 | 1,6% |
 
 ---
 
@@ -54,7 +54,11 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 
 ### Endocrinologista
 
+**Amenorreia hipotalâmica funcional.** Cessação da menstruação por ≥ 3 meses causada por supressão do eixo hipotálamo-hipófise-gônadas em resposta a baixa disponibilidade energética, estresse ou exercício excessivo — sem causa orgânica. É o sinal mais grave de LEA no espectro RED-S para mulheres.
+
 **Cortisol.** Hormônio do estresse produzido pelas glândulas suprarrenais. Níveis cronicamente elevados (como em restrição calórica prolongada) podem favorecer retenção de líquidos e perda de massa muscular.
+
+**Disponibilidade energética (EA).** Energia restante para funções fisiológicas após subtrair o gasto com exercício: EA = (Ingestão calórica − Gasto exercício) ÷ Massa magra (kg). Valores < 30 kcal/kgMLG/dia são considerados baixos e associados a disfunções menstruais, ósseas e metabólicas.
 
 **GIP (polipeptídeo insulinotrópico dependente de glicose).** Hormônio intestinal que potencializa a ação da insulina. A tirzepatida (Mounjaro) atua em receptores de GIP e GLP-1 simultaneamente.
 
@@ -118,6 +122,10 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 
 **Ácidos graxos livres (AGLs).** Moléculas de gordura liberadas pelo tecido adiposo após a quebra de triglicerídeos. São transportados pelo sangue até os músculos, onde podem ser "queimados" (oxidados) para gerar energia.
 
+**Fase folicular.** Primeira metade do ciclo menstrual (dias 1–14 aprox.), do início da menstruação até a ovulação. Caracterizada por estrogênio crescente e maior disponibilidade de glicogênio muscular, potencialmente favorável a esforços de alta intensidade.
+
+**Fase lútea.** Segunda metade do ciclo menstrual (dias 15–28 aprox.), da ovulação ao início da menstruação seguinte. Caracterizada por progesterona elevada, maior oxidação lipídica basal e aumento de 0,3–0,5°C na temperatura corporal. A TMB pode aumentar 2,5–11%.
+
 **Anabolismo.** Processo metabólico de construção — por exemplo, a síntese de proteínas musculares a partir de aminoácidos. É o oposto do catabolismo.
 
 **Atrogenes (MuRF-1, atrogina-1).** Genes que codificam ubiquitina-ligases musculares — enzimas que marcam proteínas musculares para degradação via proteassoma. São ativados por corticosteroides sistêmicos e por desuso, acelerando a perda de massa muscular. Esse efeito é sinérgico com o catabolismo induzido por déficit calórico.
@@ -169,6 +177,8 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 **Vasoconstrição.** Estreitamento dos vasos sanguíneos, reduzindo o fluxo de sangue para determinada região. Pode ocorrer por frio, estimulantes ou redistribuição circulatória durante exercício.
 
 **Volume plasmático.** Volume de plasma (parte líquida do sangue) circulante. Em restrição calórica com suor e baixa reposição de sódio, o volume plasmático pode diminuir, contribuindo para tontura, hipotensão ortostática e "brain fog".
+
+**RED-S (Relative Energy Deficiency in Sport).** Síndrome descrita pelo consenso IOC (2018) que engloba as consequências da baixa disponibilidade energética em múltiplos sistemas: menstrual, ósseo, metabólico, cardiovascular, imunológico e psicológico. Evolução do conceito da "tríade da atleta feminina", agora aplicável a ambos os sexos.
 
 **Xerostomia.** Sensação de boca seca, causada por redução da produção de saliva. Pode ocorrer como efeito colateral de estimulantes termogênicos ou por desidratação.
 

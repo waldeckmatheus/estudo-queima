@@ -86,6 +86,11 @@ Esta base inclui evidências de qualidade heterogênea (guidelines, revisões, e
 | [web:113] | [Experimental and Observational Studies on Alcohol Use and Dietary Intake: A Systematic Review — Cummings JR et al., Obes Rev 2020](https://pubmed.ncbi.nlm.nih.gov/31691442/) |
 | [web:114] | [Alcohol Consumption and Body Weight: A Systematic Review — Sayon-Orea C et al., Nutr Rev 2011](https://pubmed.ncbi.nlm.nih.gov/21790610/) |
 | [web:115] | [The Social Facilitation of Eating. A Review — Herman CP, Appetite 2015](https://pubmed.ncbi.nlm.nih.gov/25265153/) |
+| [web:116] | [The Effects of Menstrual Cycle Phase on Exercise Performance in Eumenorrheic Women: A Systematic Review and Meta-Analysis — McNulty KL et al., Sports Med 2020](https://pubmed.ncbi.nlm.nih.gov/32661839/) |
+| [web:117] | [The Effect of the Menstrual Cycle on Exercise Metabolism: Implications for Exercise Performance in Eumenorrhoeic Women — Oosthuyse T & Bosch AN, Sports Med 2010](https://pubmed.ncbi.nlm.nih.gov/20199120/) |
+| [web:118] | [International Society of Sports Nutrition Position Stand: Nutritional Concerns of the Female Athlete — Sims ST et al., J Int Soc Sports Nutr 2023](https://pubmed.ncbi.nlm.nih.gov/37221858/) |
+| [web:119] | [IOC Consensus Statement on Relative Energy Deficiency in Sport (RED-S): 2018 Update — Mountjoy M et al., Br J Sports Med 2018](https://pubmed.ncbi.nlm.nih.gov/29773536/) |
+| [web:120] | [Current Evidence Shows No Influence of Women's Menstrual Cycle Phase on Acute Strength Performance or Adaptations to Resistance Exercise Training — Colenso-Semple LM et al., Front Sports Act Living 2023](https://pubmed.ncbi.nlm.nih.gov/37033884/) |
 
 ### 12.1. Curadoria Rápida por Nível de Evidência
 
@@ -109,6 +114,9 @@ Esta base inclui evidências de qualidade heterogênea (guidelines, revisões, e
 * [web:108] Meta-análise (8 estudos): restrição calórica ≥12 semanas reduz cravings por doces, fast food, amidos e gordurosos.
 * [web:112] Álcool pós-exercício reduz MPS em 24% mesmo com proteína e 37% com carboidrato (RCT crossover, n=8).
 * [web:114] Revisão sistemática: consumo pesado/binge de álcool associado a ganho de peso; consumo leve-moderado associação nula.
+* [web:116] SR/MA (78 estudos): performance pode ser trivialmente reduzida na menstruação (ES = −0,06); variabilidade inter-individual muito alta.
+* [web:118] Position stand ISSN sobre necessidades nutricionais da atleta feminina: EA ≥ 30 kcal/kgMLG/dia; proteína 1,6–2,4 g/kg em déficit.
+* [web:119] Consenso IOC sobre RED-S: espectro de consequências da baixa disponibilidade energética em múltiplos sistemas fisiológicos.
 
 **Suporte complementar (útil, mas não central para decisão crítica):**
 * [web:20] Fasted vs fed para metabolismo de gordura.
@@ -139,9 +147,8 @@ Esta base inclui evidências de qualidade heterogênea (guidelines, revisões, e
 * [web:111] Revisão clássica sobre metabolismo hepático de etanol: álcool substitui ácidos graxos como combustível primário, suprimindo beta-oxidação.
 * [web:113] Revisão sistemática: álcool aumenta ingestão alimentar subsequente de forma consistente em estudos experimentais e observacionais.
 * [web:115] Revisão de 3 décadas sobre facilitação social da alimentação: pessoas comem 33–96% mais em grupo.
-* [web:107] Revisão sobre psicologia dos cravings alimentares: privação curta ↑ cravings, restrição longa ↓ cravings (extinção condicionada).
-* [web:109] Revisão sistemática (14 estudos): mindfulness reduz binge eating e alimentação emocional; evidência mista para perda de peso.
-* [web:110] Meta-análise (34 estudos): TCC é a intervenção mais eficaz para alimentação emocional; redução de 2,37% nos escores de EE.
+* [web:117] Revisão ampla sobre efeitos do estrogênio e progesterona no metabolismo energético durante exercício: TMB ↑ 2,5–11% na fase lútea.
+* [web:120] Revisão sistemática: fase do ciclo menstrual não influencia performance de força aguda nem adaptações ao treinamento resistido em mulheres.
 
 **Baixa prioridade para decisão clínica (fontes comerciais/blog):**
 * [web:6], [web:11], [web:13], [web:21], [web:27], [web:35], [web:38], [web:40], [web:41], [web:59]
