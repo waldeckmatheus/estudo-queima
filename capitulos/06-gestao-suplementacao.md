@@ -1,5 +1,16 @@
 ## 6. Gestão de Suplementação e Módulos Opcionais
 
+::: {.callout-important}
+**Certificação de qualidade para suplementos:**
+
+O mercado de suplementos não é regulado com o mesmo rigor que fármacos. Contaminação com substâncias proibidas, metais pesados ou dosagens inconsistentes é documentada. Para minimizar risco:
+
+- **Preferir marcas com selo NSF Certified for Sport** ou **Informed Sport** — ambos testam lotes para substâncias proibidas e verificam dosagem.
+- **Verificar lote:** Consultar o certificado no site do programa ([nsfsport.com](https://nsfsport.com) ou [informed-sport.com](https://informed-sport.com)) antes de comprar.
+- **Mínimo aceitável:** Se NSF/Informed Sport não estiver disponível, preferir marcas com certificação de BPF (Boas Práticas de Fabricação) / GMP e registro na ANVISA (Brasil) ou equivalente local.
+- **Particular atenção:** Termogênicos (Seção 6.2) e pré-treinos são as categorias com maior taxa de contaminação e adulteração.
+:::
+
 ### 6.1. Suporte Estrutural (Recomendado)
 * **Whey Protein Isolado (com água):** Rápida digestão para fornecer aminoácidos no momento crítico pós-treino. [web:23]
 * **Polivitamínico A-Z:** Suporte micronutricional para dietas restritas. A ingestão junto ao azeite do almoço otimiza a absorção de vitaminas lipossolúveis (A, D, E, K). [web:35][web:40][web:43]
