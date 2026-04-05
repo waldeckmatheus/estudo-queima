@@ -56,6 +56,9 @@ Esta base inclui evidências de qualidade heterogênea (guidelines, revisões, e
 | [web:83] | [Insufficient Sleep Undermines Dietary Efforts to Reduce Adiposity — Nedeltcheva AV et al., Ann Intern Med 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC2951287/) |
 | [web:84] | [Body Composition Changes Associated with Fasted Versus Non-Fasted Aerobic Exercise — Schoenfeld BJ et al., J Int Soc Sports Nutr 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4242477/) |
 | [web:85] | [Biology's Response to Dieting: The Impetus for Weight Regain — MacLean PS et al., Am J Physiol Regul Integr Comp Physiol 2011](https://pmc.ncbi.nlm.nih.gov/articles/PMC3174765/) |
+| [web:86] | [Effects of Music in Exercise and Sport: A Meta-Analytic Review — Terry PC et al., Psychological Bulletin 2020](https://doi.org/10.1037/bul0000216) |
+| [web:87] | [Music in the Exercise Domain: A Review and Synthesis (Part I) — Karageorghis CI & Priest DL, Int Rev Sport Exerc Psychol 2012](https://doi.org/10.1080/1750984X.2011.631026) |
+| [web:88] | [Music in the Exercise Domain: A Review and Synthesis (Part II) — Karageorghis CI & Priest DL, Int Rev Sport Exerc Psychol 2012](https://doi.org/10.1080/1750984X.2011.631027) |
 
 ### 12.1. Curadoria Rápida por Nível de Evidência
 
@@ -79,6 +82,8 @@ Esta base inclui evidências de qualidade heterogênea (guidelines, revisões, e
 * [web:83] Sono insuficiente reduz perda de gordura em 55% durante déficit calórico (RCT crossover).
 * [web:84] Exercício em jejum vs. alimentado: sem diferença de composição corporal em dieta hipocalórica (RCT).
 * [web:85] Revisão integrativa sobre adaptações biológicas ao déficit calórico e reganho de peso.
+* [web:86] Meta-análise de 139 estudos sobre efeitos da música no exercício e esporte (valência afetiva, performance, RPE, V̇O₂).
+* [web:87], [web:88] Revisão abrangente em duas partes sobre música no domínio do exercício.
 
 **Baixa prioridade para decisão clínica (fontes comerciais/blog):**
 * [web:6], [web:11], [web:13], [web:21], [web:27], [web:35], [web:38], [web:40], [web:41], [web:59]

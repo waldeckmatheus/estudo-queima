@@ -23,6 +23,8 @@ Checklist rápido de calibração:
 * **5 a 40 min:** Alternar **2 minutos de caminhada rápida** com **1 minuto de trote bem leve**. Essa gestão intervalada impede que a frequência cardíaca saia da Zona 2 e torna o exercício mentalmente mais sustentável. [web:30]
 * **40 a 45 min:** Desaceleração gradual.
 
+> **Dica:** Usar música a 120–140 BPM durante o loop principal pode melhorar o humor e reduzir a percepção de esforço sem custo adicional. Veja os detalhes e a evidência no [Capítulo 12](12-musica-e-treino.md).
+
 ### 5.3. Atenção ao Equipamento (Tênis Categoria "Max Amortecimento" com Placa)
 A presença de espumas premium (como PEBA) e a placa propulsora (seja nylon ou carbono) reduzem o estresse mecânico no chassi articular. Porém, o efeito de impulsão (bounce) pode induzir um ritmo mais acelerado do que o planejado. Monitore sempre o painel da esteira e o smartwatch para garantir que a frequência cardíaca não ultrapasse o teto da Zona 2.
 

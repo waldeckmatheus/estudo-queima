@@ -67,7 +67,7 @@ stateDiagram-v2
 | Horário Recomendado | Etapa | Ação / Alimento |
 | :--- | :--- | :--- |
 | **06:45–07:00** | Despertar | Água + 1 pitada de sal. *(Estimulante termogênico listado como opcional na Seção 6)*. |
-| **07:15** | Atividade Física | 45 min de esteira (Zona 2) - *Esforço moderado*. |
+| **07:15** | Atividade Física | 45 min de esteira (Zona 2) - *Esforço moderado*. Playlist a 120–140 BPM opcional ([Cap. 12](12-musica-e-treino.md)). |
 | **08:00** | Suporte Protéico (Escudo Pós-treino) | 1 scoop de Whey Protein Isolado com água. |
 | **09:00** | Primeira Refeição | 1 Banana + 30g de Aveia. |
 | **11:00** | Almoço | Salada verde livre (alface, rúcula, couve, agrião, espinafre) + 150 a 200g de Frango + Azeite medido (1 colher de chá a 1 colher de sopa), limão, sal + 1 cáps. Polivitamínico A-Z. |

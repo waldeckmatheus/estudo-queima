@@ -19,6 +19,7 @@ A documentação foi modularizada nos seguintes capítulos menores para facilita
 - [9. Troubleshooting Comum](capitulos/09-troubleshooting.md)
 - [10. Breakdown Nutricional](capitulos/10-breakdown-nutricional.md)
 - [11. Ciclo de Vida do Projeto](capitulos/11-ciclo-vida-projeto.md)
+- [12. Música e Treino: O que a Evidência Diz](capitulos/12-musica-e-treino.md)
 - [13. Comparativo com Dietas Semelhantes](capitulos/13-comparativo-dietas.md)
 - [14. Exercício e Dieta: Proporção, Papel e Variante sem Exercício](capitulos/14-exercicio-e-dieta.md)
 - [Glossário de Termos Técnicos](capitulos/X1-glossario.md)
