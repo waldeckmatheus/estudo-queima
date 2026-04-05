@@ -38,6 +38,18 @@ Antes de iniciar os 30 dias, complete os itens abaixo com seu médico:
 | Uso de ISRS/ISRN + PHQ-9 ≥ 5 | Flag: monitorar humor quinzenalmente | ↓ Triptofano em déficit pode reduzir eficácia do ISRS; risco de recidíva depressiva/ansiosa (ver Cap. 15.9) |
 | Mulheres (triagem ginecológica) | Questionar: uso de ACO, diagnóstico de SOP, climatério/perimenopausa, planejamento de gestação | ACO mascara AHF; SOP requer déficit ≤ 30%; climatério exige densitometria; TTC é contraindicação relativa (ver Cap. 19.8) |
 
+**Triagem funcional simplificada (FMS reduzido):**
+
+Antes de iniciar o treinamento resistido (Cap. 20), execute os 3 testes funcionais abaixo para identificar assimetrias e limitações de mobilidade que possam causar lesão sob carga em déficit calórico:
+
+| Teste | O que avalia | Critério de alerta |
+|---|---|---|
+| Deep squat (agachamento profundo sem carga) | Mobilidade de tornozelo, quadril e torácica | Não consegue atingir paralelo com calcâneos no chão |
+| Active straight-leg raise (elevação ativa de perna em decúbito) | Flexibilidade de isquiotibiais e mobilidade de quadril | Perna ativa não atinge 70° sem compensar com lombar |
+| Shoulder mobility (mobilidade de ombro) | Mobilidade glenoumeral e torácica | Punhos não se aproximam a < 1 comprimento de mão |
+
+> **Se 1+ testes com alerta:** Incluir exercícios corretivos específicos no aquecimento do TR (ver Cap. 20.3, protocolo de aquecimento). Não é contraindicação ao protocolo, mas indica necessidade de adaptação da seleção de exercícios.
+
 **Triagem psicológica (autoaplicável):**
 
 - **EAT-26** (Eating Attitudes Test): score ≥ 20 → encaminhar para psicólogo/psiquiatra especializado em TAs antes de iniciar. O protocolo pode agravar padrões disfuncionais pré-existentes.

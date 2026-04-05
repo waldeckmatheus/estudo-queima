@@ -74,6 +74,10 @@ A revisão sistemática e meta-análise de Zhang et al. (2021) comparou métodos
 
 **Protocolo de ajuste diário:**
 
+0. **Aquecimento funcional (5–10 min):** Antes de qualquer carga, execute um aquecimento que inclua: mobilidade articular dinâmica (círculos de ombro, hip circles, agachamento corporal), ativação glútea (monster walk com banda) e 1–2 séries leves do primeiro exercício composto. Se a triagem FMS (Cap. 7.0) identificou limitações, incluir os corretivos específicos:
+   - Deep squat limitado → mobilidade de tornozelo (knee-over-toe stretch, 30s cada lado)
+   - Straight-leg raise limitado → alongamento dinâmico de isquiotibiais (leg swings, 10 reps)
+   - Shoulder mobility limitada → wall slides + dislocação com bastão (10 reps)
 1. Realize as séries de aquecimento planejadas.
 2. Na primeira série de trabalho, avalie o RPE real vs. o esperado.
 3. Se RPE estiver **1+ ponto acima** do esperado para a mesma carga → reduza 5–10% da carga nas séries seguintes.
