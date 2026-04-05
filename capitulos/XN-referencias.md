@@ -59,6 +59,8 @@ Esta base inclui evidências de qualidade heterogênea (guidelines, revisões, e
 | [web:86] | [Effects of Music in Exercise and Sport: A Meta-Analytic Review — Terry PC et al., Psychological Bulletin 2020](https://doi.org/10.1037/bul0000216) |
 | [web:87] | [Music in the Exercise Domain: A Review and Synthesis (Part I) — Karageorghis CI & Priest DL, Int Rev Sport Exerc Psychol 2012](https://doi.org/10.1080/1750984X.2011.631026) |
 | [web:88] | [Music in the Exercise Domain: A Review and Synthesis (Part II) — Karageorghis CI & Priest DL, Int Rev Sport Exerc Psychol 2012](https://doi.org/10.1080/1750984X.2011.631027) |
+| [web:89] | [Patulous Eustachian Tube Dysfunction: Patient Demographics and Comorbidities — Ward BK, Ashry Y & Poe DS, Otol Neurotol 2017](https://pubmed.ncbi.nlm.nih.gov/28796094/) |
+| [web:90] | [First Report on a Case Series of Patulous Eustachian Tube Following GLP-1 Receptor Agonist-Induced Weight Loss — Sudhoff H, Eur Arch Otorhinolaryngol 2025](https://pubmed.ncbi.nlm.nih.gov/40721956/) |
 
 ### 12.1. Curadoria Rápida por Nível de Evidência
 
@@ -84,6 +86,8 @@ Esta base inclui evidências de qualidade heterogênea (guidelines, revisões, e
 * [web:85] Revisão integrativa sobre adaptações biológicas ao déficit calórico e reganho de peso.
 * [web:86] Meta-análise de 139 estudos sobre efeitos da música no exercício e esporte (valência afetiva, performance, RPE, V̇O₂).
 * [web:87], [web:88] Revisão abrangente em duas partes sobre música no domínio do exercício.
+* [web:89] Série retrospectiva (n=190) sobre tuba auditiva patética: perda de peso em 35%, piora com exercício em 27%, plenitude auricular em 57%.
+* [web:90] Primeira série de casos de PET após perda de peso induzida por agonistas GLP-1 (semaglutida/tirzepatida): 7 pacientes, 8–19% de perda de peso.
 
 **Baixa prioridade para decisão clínica (fontes comerciais/blog):**
 * [web:6], [web:11], [web:13], [web:21], [web:27], [web:35], [web:38], [web:40], [web:41], [web:59]
