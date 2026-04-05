@@ -8,18 +8,19 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 
 | Profissional | Termos | % do glossário |
 |---|:---:|:---:|
-| Fisiologista do Exercício | 16 | 14,7% |
-| Nutricionista Clínico | 15 | 13,8% |
-| Neurocientista | 15 | 13,8% |
-| Endocrinologista | 13 | 11,9% |
-| Farmacologista | 12 | 11,0% |
-| Nutricionista Esportivo | 11 | 10,1% |
-| Educador Físico | 6 | 5,5% |
-| Médico do Esporte | 6 | 5,5% |
-| Nefrologista | 6 | 5,5% |
-| Cardiologista | 4 | 3,7% |
-| Pesquisador / Metodologista Científico | 3 | 2,8% |
+| Neurocientista | 19 | 16,7% |
+| Fisiologista do Exercício | 16 | 14,0% |
+| Nutricionista Clínico | 15 | 13,2% |
+| Endocrinologista | 13 | 11,4% |
+| Farmacologista | 12 | 10,5% |
+| Nutricionista Esportivo | 11 | 9,6% |
+| Educador Físico | 6 | 5,3% |
+| Médico do Esporte | 6 | 5,3% |
+| Nefrologista | 6 | 5,3% |
+| Cardiologista | 4 | 3,5% |
+| Pesquisador / Metodologista Científico | 3 | 2,6% |
 | Gastroenterologista | 2 | 1,8% |
+| Psicólogo Clínico | 1 | 0,9% |
 
 ---
 
@@ -187,6 +188,8 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 
 ### Neurocientista
 
+**Alimentação emocional.** Tendência a comer em resposta a emoções negativas (frustração, tédio, ansiedade) em vez de fome fisiológica. Meta-análise de 34 estudos mostrou que Terapia Cognitivo-Comportamental é a intervenção mais eficaz para reduzir esse padrão.
+
 **Barreira hematoencefálica.** Estrutura formada por células endoteliais fortemente unidas nos capilares cerebrais, que restringe a passagem de substâncias do sangue para o cérebro. Anti-histamínicos de primeira geração (prometazina, hidroxizina) atravessam essa barreira, causando sedação e aumento de apetite; os de segunda geração (loratadina, cetirizina) não a atravessam em doses habituais.
 
 **Controle inibitório.** Capacidade do cérebro (especificamente o córtex pré-frontal) de resistir a impulsos — como a vontade de comer alimentos calóricos. A restrição calórica pode reduzir temporariamente essa capacidade.
@@ -194,6 +197,10 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 **Córtex pré-frontal.** Região do cérebro responsável por planejamento, tomada de decisão e autocontrole. É particularmente sensível à restrição energética, o que explica a maior impulsividade alimentar nos primeiros dias de dieta.
 
 **Estriado.** Região profunda do cérebro envolvida no sistema de recompensa e motivação. A restrição calórica afeta circuitos dopaminérgicos nessa região, intensificando o desejo por comida.
+
+**Extinção (condicionamento).** Processo pelo qual uma resposta condicionada (ex.: craving ao ver comida) enfraquece quando o estímulo deixa de ser seguido pela recompensa (ingestão). Em restrição calórica prolongada (≥12 semanas), os cravings alimentares diminuem por extinção — o cérebro "desaprende" a associação estímulo-recompensa.
+
+**Fadiga de decisão (depleção do ego).** Fenômeno pelo qual a capacidade de autocontrole se degrada ao longo do dia após decisões repetidas. Explica por que é mais fácil resistir a tentações alimentares pela manhã do que à noite. A automatização de decisões (meal prep, roteiro fixo) é a principal contramedida.
 
 **Inércia do sono.** Estado de redução transitória da vigílância e do desempenho cognitivo que ocorre imediatamente após o despertar, especialmente se o despertar interrompe sono de ondas lentas (SWS). Dura 15–30 minutos. É o motivo pelo qual cochilos > 30 min são contraproducentes: a pessoa entra em SWS e acorda pior do que antes.
 
@@ -208,6 +215,8 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 **Orexina (hipocretina).** Neuropeptídeo produzido pelo hipotálamo lateral que promove vigília e alerta. Sua atividade aumenta em jejum e restrição calórica, conectando o estado energético do corpo ao estado de alerta — um dos mecanismos pelos quais a fome dificulta o adormecimento.
 
 **Orexigênico.** Que estimula o apetite. A grelina é o principal hormônio orexigênico do corpo.
+
+**Reestruturação cognitiva.** Técnica da Terapia Cognitivo-Comportamental que consiste em identificar pensamentos automáticos disfuncionais (ex.: “não está funcionando, vou desistir”) e substituí-los por alternativas realistas e baseadas em evidência (ex.: “retenção hídrica é esperada nos dias 8–20”).
 
 **Saliência motivacional.** Grau com que um estímulo (ex.: imagem ou cheiro de comida) captura a atenção e gera desejo. A restrição calórica eleva a saliência motivacional de estímulos alimentares, tornando mais difícil ignorá-los.
 
@@ -276,6 +285,12 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 **Waxy maize.** Amido de milho ceroso, um carboidrato de alto peso molecular e digestão relativamente rápida. Listado como alternativa à palatinose no jantar do protocolo.
 
 **Whey protein isolado.** Proteína do soro do leite com alto grau de purificação (>90% proteína), baixo teor de lactose e gordura. Tem digestão e absorção rápidas, sendo usada no pós-treino para fornecer aminoácidos e estimular a síntese proteica.
+
+---
+
+### Psicólogo Clínico
+
+**Terapia Cognitivo-Comportamental (TCC).** Abordagem psicoterapêutica estruturada que trabalha a relação entre pensamentos, emoções e comportamentos. No contexto do protocolo, a TCC é a intervenção com maior evidência para redução de alimentação emocional e compulsão alimentar. A técnica de reestruturação cognitiva (identificar e substituir pensamentos automáticos disfuncionais) é a mais aplicável ao dia a dia da restrição calórica.
 
 ---
 

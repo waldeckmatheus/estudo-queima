@@ -76,6 +76,11 @@ Esta base inclui evidências de qualidade heterogênea (guidelines, revisões, e
 | [web:103] | [Oral Magnesium Supplementation for Insomnia in Older Adults: A Systematic Review & Meta-Analysis — Mah J & Pitre T, BMC Complement Med Ther 2021](https://pubmed.ncbi.nlm.nih.gov/33865376/) |
 | [web:104] | [Melatonin Supplementation: New Insights into Health and Disease — Minari TP & Pisani LP, Sleep Breath 2025](https://pubmed.ncbi.nlm.nih.gov/40278958/) |
 | [web:105] | [Timing of Food Intake Predicts Weight Loss Effectiveness — Garaulet M et al., Int J Obes 2013](https://pubmed.ncbi.nlm.nih.gov/23357955/) |
+| [web:106] | [Low Calorie Dieting Increases Cortisol — Tomiyama AJ et al., Psychosom Med 2010](https://pubmed.ncbi.nlm.nih.gov/20368473/) |
+| [web:107] | [The Psychology of Food Cravings: the Role of Food Deprivation — Meule A, Curr Nutr Rep 2020](https://pubmed.ncbi.nlm.nih.gov/32578025/) |
+| [web:108] | [Extended Calorie Restriction Suppresses Overall and Specific Food Cravings: A Systematic Review and Meta-Analysis — Kahathuduwa CN et al., Obes Rev 2017](https://pubmed.ncbi.nlm.nih.gov/28557246/) |
+| [web:109] | [Mindfulness Meditation as an Intervention for Binge Eating, Emotional Eating, and Weight Loss: A Systematic Review — Katterman SN et al., Eat Behav 2014](https://pubmed.ncbi.nlm.nih.gov/24854804/) |
+| [web:110] | [Emotional Eating Interventions for Adults Living with Overweight or Obesity: A Systematic Review and Meta-Analysis — Smith J et al., Int J Environ Res Public Health 2023](https://pubmed.ncbi.nlm.nih.gov/36768088/) |
 
 ### 12.1. Curadoria Rápida por Nível de Evidência
 
@@ -95,6 +100,8 @@ Esta base inclui evidências de qualidade heterogênea (guidelines, revisões, e
 * [web:83], [web:99] Sono insuficiente durante déficit calórico: RCTs demonstrando redução de 55% na perda de gordura e aumento de 60% na perda de massa magra.
 * [web:100], [web:101] Privação de sono e desregulação de leptina/grelina (estudo crossover + meta-análise).
 * [web:105] Timing circadiano das refeições e eficácia da perda de peso (n=420, 20 semanas).
+* [web:106] Restrição calórica a 1.200 kcal aumenta cortisol salivar; monitoramento calórico aumenta estresse percebido (RCT, n=121).
+* [web:108] Meta-análise (8 estudos): restrição calórica ≥12 semanas reduz cravings por doces, fast food, amidos e gordurosos.
 
 **Suporte complementar (útil, mas não central para decisão crítica):**
 * [web:20] Fasted vs fed para metabolismo de gordura.
@@ -119,6 +126,9 @@ Esta base inclui evidências de qualidade heterogênea (guidelines, revisões, e
 * [web:102] Revisão sobre privação parcial de sono e balanço energético: ↑grelina, ↓leptina, aumento de snacks noturnos.
 * [web:103] Meta-análise de magnésio oral para insônia: redução de 17 min na latência do sono (evidência baixa, mas perfil seguro).
 * [web:104] Revisão sobre melatonina suplementar: melhora de qualidade do sono e possíveis efeitos metabólicos positivos.
+* [web:107] Revisão sobre psicologia dos cravings alimentares: privação curta ↑ cravings, restrição longa ↓ cravings (extinção condicionada).
+* [web:109] Revisão sistemática (14 estudos): mindfulness reduz binge eating e alimentação emocional; evidência mista para perda de peso.
+* [web:110] Meta-análise (34 estudos): TCC é a intervenção mais eficaz para alimentação emocional; redução de 2,37% nos escores de EE.
 
 **Baixa prioridade para decisão clínica (fontes comerciais/blog):**
 * [web:6], [web:11], [web:13], [web:21], [web:27], [web:35], [web:38], [web:40], [web:41], [web:59]
