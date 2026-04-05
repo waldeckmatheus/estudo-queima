@@ -153,3 +153,12 @@ O déficit calórico crônico eleva o cortisol progressivamente ao longo dos 30 
 * **Verificação laboratorial:** Se a constelação persistir > 7 dias com refeed, considerar cortisol matinal basal com médico.
 
 > **Subgrupos de risco para hipercortisolismo:** histórico de estresse crônico, insônia prévia, uso pregresso de corticoides, transtornos de ansiedade. Considerar cortisol matinal basal nos exames pré-protocolo (Seção 7.0) para estes subgrupos.
+
+### Erro 09: Disbiose e Sintomas GI Progressivos
+
+Restrição calórica severa por > 2 semanas pode causar redução da diversidade microbiana intestinal, especialmente se a ingestão de fibra cair abaixo de 15 g/dia. Sinais de alerta GI são detalhados no Cap. 21.7. Para manejo de primeira linha:
+
+* **Constipação progressiva:** Psyllium 5–10 g/dia + água ≥ 500 mL; se > 4 dias sem evacuação → lactulose 15–30 mL/dia.
+* **Distensão/gases excessivos:** Reduzir crucíferas cruas; considerar simbiótico (probiótico + prebiótico) por 7–14 dias.
+* **Preferir fermentados:** 1–2 porções/dia de kefir, iogurte natural ou chucrute oferecem diversidade microbiana superior a cápsulas de probióticos (ver Cap. 21.4).
+* **Critério de escalonamento:** Se sintomas GI persistirem > 7 dias apesar das medidas acima, consultar gastroenterologista — descartar patologia orgânica antes de atribuir ao déficit.

@@ -106,6 +106,14 @@ Uma revisão sistemática e meta-análise (Saadati et al., 2024) avaliou os efei
 **Nota:** Probióticos são um **complemento**, não um componente essencial do protocolo. A prioridade para saúde intestinal durante o mini-cut é: (1) fibra adequada, (2) hidratação, (3) exercício de baixa intensidade. Probióticos ocupam posição quaternária.
 :::
 
+::: {.callout-note}
+**Alimentos fermentados vs. probióticos em cápsula:**
+
+A evidência emergente (Wastyk et al., 2021 — Cell) sugere que alimentos fermentados (iogurte, kefir, chucrute, kimchi, kombucha) podem ser mais eficazes que suplementos em cápsula para aumentar a diversidade microbiana, pois fornecem uma comunidade microbiana viva e complexa, além de metabólitos bioativos (ácidos orgânicos, peptídeos).
+
+**Recomendação operacional:** Se tolerado e viável dentro do orçamento calórico, preferir 1–2 porções diárias de fermentados (100–200 mL de kefir ou 50–100 g de chucrute) em vez de, ou em adição a, cápsulas de probióticos. A tabela de alimentos funcionais (Seção 21.5) já inclui opções compatíveis com o déficit.
+:::
+
 ---
 
 ### 21.5. Alimentos Funcionais para Saúde Intestinal no Mini-Cut
