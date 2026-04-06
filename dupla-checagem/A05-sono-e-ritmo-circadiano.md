@@ -1,6 +1,6 @@
-# Dupla Checagem — Cap. 16: Sono e Ritmo Circadiano
+# Dupla Checagem — Ap. A5: Sono e Ritmo Circadiano
 
-**Arquivo:** `16-sono-e-ritmo-circadiano.md`
+**Arquivo:** `A05-sono-e-ritmo-circadiano.md`
 **Data:** 2025-04-05
 
 ## Estrutura

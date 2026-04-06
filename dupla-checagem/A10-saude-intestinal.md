@@ -1,6 +1,6 @@
-# Dupla Checagem — Cap. 21: Saúde Intestinal
+# Dupla Checagem — Ap. A10: Saúde Intestinal
 
-**Arquivo:** `21-saude-intestinal.md`
+**Arquivo:** `A10-saude-intestinal.md`
 **Data:** 2025-04-05
 
 ## Estrutura

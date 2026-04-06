@@ -1,6 +1,6 @@
-# Dupla Checagem — Cap. 23: Menopausa e Mini-Cut
+# Dupla Checagem — Ap. A12: Menopausa e Mini-Cut
 
-**Arquivo:** `23-menopausa-e-mini-cut.md`
+**Arquivo:** `A12-menopausa-e-mini-cut.md`
 **Data:** 2025-04-05
 
 ## Estrutura

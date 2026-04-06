@@ -26,8 +26,8 @@ Não são referências órfãs — esses números nunca foram usados em nenhum c
 ## Organização
 
 - ✅ Categorização por prioridade (Alta, Suporte complementar, Baixa)
-- ✅ Seção 12.1 com 40+ citações de alta prioridade
-- ✅ Seção 12.2 com 5 artigos fundamentais
+- ✅ Seção A1.1 com 40+ citações de alta prioridade
+- ✅ Seção A1.2 com 5 artigos fundamentais
 - ✅ Entradas de curadoria (resumo + classificação) presentes
 
 ## Alertas

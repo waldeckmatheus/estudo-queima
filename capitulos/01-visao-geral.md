@@ -8,7 +8,7 @@ O ambiente de férias é o cenário ideal pois reduz a carga de estresse cogniti
 
 - **Gestação** (confirmada ou suspeita) — restrição calórica severa compromete o desenvolvimento fetal.
 - **Lactação** — a demanda energética da produção de leite é incompatível com déficit agressivo.
-- **Crianças e adolescentes (<18 anos)** — ver Cap. 24 para detalhamento completo.
+- **Crianças e adolescentes (<18 anos)** — ver Ap. A13 para detalhamento completo.
 
 Se alguma dessas condições se aplicar, **o protocolo é contraindicado independentemente de adaptações**. Consulte seu médico para alternativas seguras.
 :::
@@ -20,7 +20,7 @@ Com ~1.200 kcal de ingestão e exercício diário, a disponibilidade energética
 
 **Riscos específicos:** amenorreia hipotalâmica funcional (AHF), perda de densidade mineral óssea, disfunção tireoidiana. Anticoncepcionais orais combinados (ACOs) **mascaram** a AHF ao manter ciclos artificiais.
 
-**Adaptação obrigatória:** Mulheres devem calcular seu LEA individual e, se necessário, **elevar a ingestão calórica** para manter LEA ≥ 25 kcal/kg MLG (ideal ≥ 30). Fórmula: `LEA = (kcal ingeridas − kcal gastas no exercício) / kg de MLG`. Se o resultado for < 25, aumente calorias até atingir o limiar mínimo. Consulte a **tabela de ajuste calórico por MLG** no Cap. 19 (Seção 19.4) para os valores exatos de ingestão mínima por faixa de massa magra.
+**Adaptação obrigatória:** Mulheres devem calcular seu LEA individual e, se necessário, **elevar a ingestão calórica** para manter LEA ≥ 25 kcal/kg MLG (ideal ≥ 30). Fórmula: `LEA = (kcal ingeridas − kcal gastas no exercício) / kg de MLG`. Se o resultado for < 25, aumente calorias até atingir o limiar mínimo. Consulte a **tabela de ajuste calórico por MLG** no Ap. A8 (Seção A8.4) para os valores exatos de ingestão mínima por faixa de massa magra.
 
 **Variante feminina de déficit:** Em vez do déficit padrão de ~50% do TDEE, mulheres devem adotar um déficit de **30–35% do TDEE** para manter LEA em faixa segura. Isso implica ingestão calórica tipicamente entre **1.400–1.700 kcal/dia** dependendo do peso e composição corporal.
 

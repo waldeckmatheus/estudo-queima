@@ -204,7 +204,7 @@ Esta base inclui evidências de qualidade heterogênea (guidelines, revisões, e
 * [web:156] Revisão F1000Research (Fasano 2020): zonulina como modulador das tight junctions; dois gatilhos principais (supercrescimento bacteriano + glúten); via zonulina → permeabilidade → LPS → endotoxemia metabólica.
 * [web:157] Revisão Nutrients (Riccio & Rossano 2019): barreira intestinal multicamada; jejum/restrição calórica melhora integridade da barreira e diversidade microbiana; vitaminas A/D regulam proteínas de junção tight.
 * [web:158] Revisão Nutrients (González Hernández et al. 2019): acetato como AGCC mais abundante; estimula GLP-1/PYY via GPR41/GPR43 em células L; modulação central do apetite via hipotálamo; acetato colônico distal mais eficaz para secreção hormonal.
-* [web:159] RCT controlado NIH (Hall et al., Cell Metab 2019): dieta ultraprocessada induziu +508 kcal/dia de consumo espontâneo vs. não-processada em 20 adultos internados; ganho de 0,9 kg em 14 dias; perda de 0,9 kg na dieta não-processada. Referência central para Cap. 27.
+* [web:159] RCT controlado NIH (Hall et al., Cell Metab 2019): dieta ultraprocessada induziu +508 kcal/dia de consumo espontâneo vs. não-processada em 20 adultos internados; ganho de 0,9 kg em 14 dias; perda de 0,9 kg na dieta não-processada. Referência central para Ap. A16.
 * [web:160] TEF de alimentos integrais vs. processados (Barr & Wright, Food Nutr Res 2010): TEF 19,9% (integral) vs. 10,7% (processado); redução de ~50% no gasto térmico digestivo com alimentos processados.
 * [web:161] Classificação NOVA (Monteiro et al., Public Health Nutr 2019): definição operacional de ultraprocessados; critérios baseados em ingredientes e métodos de processamento, não apenas composição nutricional.
 * [web:162] Dados transversais NHANES (Juul et al., Br J Nutr 2021): cada 10% de incremento em UPF associado a +1,1 kg de peso e +0,36 kg/m² de IMC em adultos americanos.
@@ -268,7 +268,7 @@ Esta base inclui evidências de qualidade heterogênea (guidelines, revisões, e
 10. **[web:156]** Zonulina e permeabilidade intestinal (Fasano 2020): mecanismo central da barreira intestinal e endotoxemia metabólica.
 11. **[web:157]** Barreira intestinal e jejum (Riccio & Rossano 2019): restrição calórica melhora integridade da barreira e diversidade microbiana.
 12. **[web:158]** AGCC acetato e controle de peso (González Hernández et al. 2019): eixo AGCC → GLP-1/PYY → saciedade.
-13. **[web:159]** Ultra-processed diets cause excess calorie intake (Hall et al., Cell Metab 2019): RCT controlado (n=20, NIH inpatient), dieta UPF induziu +508 kcal/dia vs. não-processada; ganho de 0,9 kg em 14 dias. Referência central para Cap. 27.
+13. **[web:159]** Ultra-processed diets cause excess calorie intake (Hall et al., Cell Metab 2019): RCT controlado (n=20, NIH inpatient), dieta UPF induziu +508 kcal/dia vs. não-processada; ganho de 0,9 kg em 14 dias. Referência central para Ap. A16.
 14. **[web:160]** TEF de alimentos integrais vs. processados (Barr & Wright 2010): TEF 19,9% (integral) vs. 10,7% (processado); diferença de ~50% no gasto digestivo.
 15. **[web:161]** Classificação NOVA de ultraprocessados (Monteiro et al. 2019): definição operacional e critérios de identificação.
 16. **[web:164]** Carboidratos acelulares e microbiota inflamatória (Spreadbury 2012): hipótese de que farinhas refinadas promovem disbiose e resistência à leptina.

@@ -1,8 +1,8 @@
-## 13. Comparativo com Dietas Semelhantes
+## A2. Comparativo com Dietas Semelhantes
 
 Este protocolo não existe em um vácuo. Diversas abordagens conhecidas compartilham um ou mais eixos com o Mini-Protocolo de Cutting Assistido. A tabela abaixo posiciona o protocolo no ecossistema de estratégias de perda de gordura, destacando convergências e divergências técnicas.
 
-### 13.1. Matriz Comparativa
+### A2.1. Matriz Comparativa
 
 | Eixo | **Este Protocolo** | **PSMF (Lyle McDonald RFL)** | **VLCD Clássica (Optifast/Cambridge)** | **Leangains (Berkhan)** | **MATADOR** | **5:2 (Mosley)** |
 |---|---|---|---|---|---|---|
@@ -16,7 +16,7 @@ Este protocolo não existe em um vácuo. Diversas abordagens conhecidas comparti
 | **Estratégia de saída** | Reverse dieting obrigatório (Fase 2) | Reverse dieting recomendado | Transição alimentar supervisionada | Não aplicável (contínuo) | Ciclos de manutenção embutidos | Não aplicável (contínuo) |
 | **Termogênicos** | Opcionais (módulo condicional) | Não previstos | Não previstos | Cafeína estratégica | Não previstos | Não previstos |
 
-### 13.2. Análise por Protocolo
+### A2.2. Análise por Protocolo
 
 #### PSMF — Protein-Sparing Modified Fast (Rapid Fat Loss, Lyle McDonald)
 A abordagem mais próxima deste protocolo em intensidade e filosofia. O RFL opera com ingestão quase exclusivamente proteica (~800 kcal para a maioria dos perfis) e gordura mínima, com o objetivo de maximizar lipólise enquanto preserva massa magra via aminoácidos. [web:52]
@@ -48,7 +48,7 @@ Jejum intermitente semanal: 5 dias de alimentação normal e 2 dias não consecu
 **Convergências:** Uso de restrição calórica severa em janelas controladas; ondas de grelina como fenômeno esperado e gerenciável. [web:60]
 **Divergências:** O déficit no 5:2 é intermitente e moderado na média semanal (~20% do TDEE). Este protocolo aplica déficit severo contínuo (~50% do TDEE) todos os dias por 30 dias. A 5:2 não prioriza proteína nem prescreve exercício; é desenhada para adesão de longo prazo, não para resultado rápido.
 
-### 13.3. Posicionamento Técnico
+### A2.3. Posicionamento Técnico
 
 ```
                             Intensidade do Déficit
@@ -68,11 +68,11 @@ Este protocolo ocupa um nicho entre o PSMF/RFL (mais extremo, menos exercício) 
 4. **Estratégia de saída mandatória:** Reverse dieting progressivo (+200-300 kcal/semana) na Fase 2 — ausente em protocolos contínuos como Leangains e 5:2, e mais estruturado do que a recomendação genérica do RFL.
 5. **Sistema de troubleshooting operacional:** Nenhum dos protocolos comparados oferece um mapa de eventos com severidade e handlers automáticos para sintomas fisiológicos (Seção 9).
 
-### 13.4. Comparativo com Canetas Emagrecedoras (Agonistas GLP-1 / GIP)
+### A2.4. Comparativo com Canetas Emagrecedoras (Agonistas GLP-1 / GIP)
 
 Os agonistas de receptor GLP-1 (e o dual GIP/GLP-1) surgiram como a classe farmacológica de maior impacto na obesidade desde a cirurgia bariátrica. As três "canetas" mais relevantes — **Ozempic**, **Wegovy** e **Mounjaro** — operam por mecanismos distintos deste protocolo, mas frequentemente são comparadas por compartilharem o mesmo objetivo final: redução de gordura corporal.
 
-#### 13.4.1. Matriz Comparativa — Protocolo vs. Canetas Emagrecedoras
+#### A2.4.1. Matriz Comparativa — Protocolo vs. Canetas Emagrecedoras
 
 | Eixo | **Este Protocolo** | **Ozempic (semaglutida 1 mg)** | **Wegovy (semaglutida 2,4 mg)** | **Mounjaro (tirzepatida 15 mg)** |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ Os agonistas de receptor GLP-1 (e o dual GIP/GLP-1) surgiram como a classe farma
 | **Efeito rebote pós-cessação** | Mitigado por reverse dieting (Fase 2) | ~67% do peso recuperado em 1 ano após cessação [web:79] | ~67% do peso recuperado em 1 ano após cessação [web:79] | Dados limitados; tendência similar esperada [web:77] |
 | **Benefício cardiovascular** | Indireto (exercício + perda de gordura) | Não comprovado na dose de 1 mg | Redução de 20% em MACE (trial SELECT) [web:78] | Em investigação (SURPASS-CVOT) |
 
-#### 13.4.2. Análise por Fármaco
+#### A2.4.2. Análise por Fármaco
 
 ##### Ozempic (semaglutida 0,5–1 mg) — Novo Nordisk
 Aprovado originalmente para diabetes tipo 2, o Ozempic tornou-se a porta de entrada off-label para perda de peso. A semaglutida em dose de 1 mg produz perda média de ~6% do peso corporal em 40 semanas nos ensaios SUSTAIN. [web:74] O mecanismo principal é a supressão central de apetite via receptores GLP-1 hipotalâmicos, combinada com retardo do esvaziamento gástrico.
@@ -118,7 +118,7 @@ Primeiro agonista dual GIP/GLP-1 aprovado. A tirzepatida combina a ativação do
 3. **Custo proibitivo:** Na faixa de R$ 2.000–3.500/mês no Brasil, Mounjaro é ~5–10× mais caro do que este protocolo.
 4. **Dados cardiovasculares:** O trial SURPASS-CVOT está em andamento; diferentemente de Wegovy, ainda não há evidência de redução de MACE com tirzepatida.
 
-#### 13.4.3. Posicionamento: Canetas vs. Déficit Comportamental
+#### A2.4.3. Posicionamento: Canetas vs. Déficit Comportamental
 
 ```
                       Perda de Massa Magra (risco)
@@ -137,7 +137,7 @@ A diferença fundamental entre as canetas emagrecedoras e este protocolo não é
 1. **Canetas otimizam a escala:** A prioridade é redução absoluta de peso, com perda de massa magra aceita como efeito colateral. Nenhuma das três canetas prescreve exercício ou otimiza ingestão proteica como parte do protocolo. [web:80]
 2. **Este protocolo otimiza a composição:** Aceita magnitude menor em troca de razão gordura/massa magra mais favorável, via proteína alta (1,6–2,2 g/kg), exercício aeróbico diário (Zona 2) e suplementação direcionada. [web:56][web:69]
 
-#### 13.4.4. Cenários de Complementaridade
+#### A2.4.4. Cenários de Complementaridade
 
 As canetas e este protocolo não são necessariamente mutuamente exclusivos:
 

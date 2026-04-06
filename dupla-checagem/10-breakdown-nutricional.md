@@ -22,6 +22,6 @@
 | # | Severidade | Descrição |
 |---|-----------|-----------|
 | 1 | Média | Capítulo breve (~20 linhas); falta detalhamento sobre como adaptar porções para peso individual |
-| 2 | Média | Cap. 14 referencia "ver Cap. 10 para recalcular" mas Cap. 10 não contém exemplos de recálculo |
+| 2 | Média | Ap. A3 referencia "ver Cap. 10 para recalcular" mas Cap. 10 não contém exemplos de recálculo |
 
 ## Resultado: ⚠️ APROVADO COM RESSALVAS (2 alertas médios)

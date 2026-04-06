@@ -88,19 +88,19 @@ dupla-checagem/
 ├── 09-troubleshooting.md        ✅
 ├── 10-breakdown-nutricional.md  ⚠️ (2 alertas médios)
 ├── 11-ciclo-vida-projeto.md     ⚠️ (1 baixo + 2 médios)
-├── 12-musica-e-treino.md        ✅
-├── 13-comparativo-dietas.md     ✅
-├── 14-exercicio-e-dieta.md      ⚠️ (1 alerta médio)
-├── 15-medicacoes-e-protocolo.md ✅
-├── 16-sono-e-ritmo-circadiano.md ✅
-├── 17-gestao-psicologica.md     ✅ (2 alertas baixos)
-├── 18-alcool-alimentacao-social.md ✅
-├── 19-adaptacoes-mulheres.md    ✅
-├── 20-treinamento-resistido.md  ✅ (1 alerta baixo)
-├── 21-saude-intestinal.md       ✅ (1 alerta baixo)
-├── 22-adaptacoes-idosos.md      ✅
-├── 23-menopausa-e-mini-cut.md   ✅
-├── 24-criancas-adolescentes.md  ✅
+├── A01-musica-e-treino.md        ✅
+├── A02-comparativo-dietas.md     ✅
+├── A03-exercicio-e-dieta.md      ⚠️ (1 alerta médio)
+├── A04-medicacoes-e-protocolo.md ✅
+├── A05-sono-e-ritmo-circadiano.md ✅
+├── A06-gestao-psicologica.md     ✅ (2 alertas baixos)
+├── A07-alcool-alimentacao-social.md ✅
+├── A08-adaptacoes-mulheres.md    ✅
+├── A09-treinamento-resistido.md  ✅ (1 alerta baixo)
+├── A10-saude-intestinal.md       ✅ (1 alerta baixo)
+├── A11-adaptacoes-idosos.md      ✅
+├── A12-menopausa-e-mini-cut.md   ✅
+├── A13-criancas-adolescentes.md  ✅
 ├── X1-glossario.md              ✅
 └── XN-referencias.md            ✅
 ```
@@ -114,11 +114,11 @@ dupla-checagem/
 | # | Capítulo | Refs únicas |
 |---|----------|-------------|
 | 1 | Cap. 8 — FAQ Técnico | 33 |
-| 2 | Cap. 13 — Comparativo de Dietas | 15 |
+| 2 | Ap. A2 — Comparativo de Dietas | 15 |
 | 3 | Cap. 9 — Troubleshooting | 10 |
 | 4 | Cap. 2 — Embasamento Científico | 8 |
-| 5 | Cap. 15 — Medicações | 8 |
-| 5 | Cap. 16 — Sono | 8 |
+| 5 | Ap. A4 — Medicações | 8 |
+| 5 | Ap. A5 — Sono | 8 |
 
 ---
 
@@ -128,11 +128,11 @@ Refs cruzadas a outros capítulos (bidirecional):
 
 | # | Capítulo | Caps referenciados |
 |---|----------|--------------------|
-| 1 | Cap. 16 — Sono | 9 |
-| 2 | Cap. 21 — Saúde Intestinal | 8 |
-| 3 | Cap. 18 — Álcool | 7 |
-| 3 | Cap. 19 — Mulheres | 7 |
-| 3 | Cap. 20 — Treino Resistido | 7 |
+| 1 | Ap. A5 — Sono | 9 |
+| 2 | Ap. A10 — Saúde Intestinal | 8 |
+| 3 | Ap. A7 — Álcool | 7 |
+| 3 | Ap. A8 — Mulheres | 7 |
+| 3 | Ap. A9 — Treino Resistido | 7 |
 
 ---
 

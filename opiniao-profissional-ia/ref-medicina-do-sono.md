@@ -31,7 +31,7 @@ O somnologista avalia como o déficit calórico agressivo e o exercício diário
 | 2 | **Cortisol elevado → fragmentação** | Cortisol crônico elevado (déficit + exercício diário) → ↑ despertares noturnos (microarousals). Cortisol é o antagonista fisiológico da melatonina: se cortisol não cai no início da noite, N3 e REM são encurtados. | Sono fragmentado → ↓ proporção de N3 (SWS) → ↓ GH | Ashwagandha (300–600 mg): ↓ cortisol 20% (Chandrasekhar et al. 2012); magnésio glicinate (já no protocolo) |
 | 3 | ~~**Sem avaliação de SAHOS**~~ | ✅ **RESOLVIDO (v2):** O Cap. 9 agora inclui triagem de SAHOS via questionário STOP-Bang: ≥ 3 pontos → polissonografia. Vincula SAHOS à fragmentação do sono e ↓ GH/testosterona noturna. | — | — |
 | 4 | **TR à noite → ↑ arousal** | Se o praticante treina TR à noite (20–21 h), a ativação simpática + ↑ temperatura central demora 1–2 h para normalizar. Exercício intenso < 2 h de dormir → ↓ eficiência do sono (Stutz et al. 2019). | Insônia inicial em quem treina à noite | Recomendar: TR pelo menos 3 h antes de dormir; se impossível → exercício leve + ducha fria pós-treino |
-| 5 | ~~**Cafeína sem horário de corte**~~ | ✅ **RESOLVIDO (v2):** O Cap. 16 agora reforça explícitamente: cafeína zero após 14 h. Lista fontes ocultas de cafeína (chá preto ~40 mg, chá verde ~25 mg, refrigerante cola ~35 mg, chocolate amargo ~25 mg/30 g). Vincula à meia-vida de 5–6 h e ao impacto em N3. | — | — |
+| 5 | ~~**Cafeína sem horário de corte**~~ | ✅ **RESOLVIDO (v2):** O Ap. A5 agora reforça explícitamente: cafeína zero após 14 h. Lista fontes ocultas de cafeína (chá preto ~40 mg, chá verde ~25 mg, refrigerante cola ~35 mg, chocolate amargo ~25 mg/30 g). Vincula à meia-vida de 5–6 h e ao impacto em N3. | — | — |
 | 6 | **Falta de protocolo de nap (cochilo)** | Em déficit agressivo, sonolência diurna é comum (↓ orexina). Um cochilo de 20–30 min (Power Nap) restaura atenção e ↓ cortisol sem afetar sono noturno. Cochilo > 30 min → inércia + atrapalha sono noturno. | Sonolência diurna → ↓ aderência → abandono | Incluir: se sonolência diurna → Power Nap 20 min antes das 15 h |
 
 ---
@@ -78,7 +78,7 @@ O somnologista avalia como o déficit calórico agressivo e o exercício diário
 
 ## 6. Conclusão
 
-O protocolo é **excepcionalmente forte em higiene do sono, agora ainda mais completo na v2**: corte de cafeína às 14 h com fontes ocultas listadas (Cap. 16), triagem de SAHOS via STOP-Bang (Cap. 9), e as prescrições anteriores mantidas (7–8 h, quarto escuro/fresco, magnésio, melatonina). As **lacunas residuais** são: protocolo para fome noturna que atrapalha latência, timing de TR em relação ao sono e Power Nap como estratégia de recuperação. Um somnologista real **aprovaria como protocolo de sono modelo** em contexto de dieta.
+O protocolo é **excepcionalmente forte em higiene do sono, agora ainda mais completo na v2**: corte de cafeína às 14 h com fontes ocultas listadas (Ap. A5), triagem de SAHOS via STOP-Bang (Cap. 9), e as prescrições anteriores mantidas (7–8 h, quarto escuro/fresco, magnésio, melatonina). As **lacunas residuais** são: protocolo para fome noturna que atrapalha latência, timing de TR em relação ao sono e Power Nap como estratégia de recuperação. Um somnologista real **aprovaria como protocolo de sono modelo** em contexto de dieta.
 
 ---
 

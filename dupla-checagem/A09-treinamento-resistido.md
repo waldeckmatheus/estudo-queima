@@ -1,6 +1,6 @@
-# Dupla Checagem — Cap. 20: Treinamento Resistido
+# Dupla Checagem — Ap. A9: Treinamento Resistido
 
-**Arquivo:** `20-treinamento-resistido.md`
+**Arquivo:** `A09-treinamento-resistido.md`
 **Data:** 2025-04-05
 
 ## Estrutura

@@ -6,7 +6,11 @@
 
 ## Índice Analítico
 
-A documentação foi modularizada nos seguintes capítulos menores para facilitar a leitura e a composição do documento final:
+A documentação é organizada em três partes: o **Protocolo** (execução prática dos 30 dias), os **Apêndices** (deep-dives temáticos e populações específicas) e o **Back Matter** (glossário e referências).
+
+---
+
+### Parte I — Protocolo
 
 - [1. Visão Geral e Estratégia Adotada](capitulos/01-visao-geral.md)
 - [2. Embasamento Científico](capitulos/02-embasamento-cientifico.md)
@@ -19,22 +23,28 @@ A documentação foi modularizada nos seguintes capítulos menores para facilita
 - [9. Troubleshooting Comum](capitulos/09-troubleshooting.md)
 - [10. Breakdown Nutricional](capitulos/10-breakdown-nutricional.md)
 - [11. Ciclo de Vida do Projeto](capitulos/11-ciclo-vida-projeto.md)
-- [12. Música e Treino: O que a Evidência Diz](capitulos/12-musica-e-treino.md)
-- [13. Comparativo com Dietas Semelhantes](capitulos/13-comparativo-dietas.md)
-- [14. Exercício e Dieta: Proporção, Papel e Variante sem Exercício](capitulos/14-exercicio-e-dieta.md)
-- [15. Medicações e Protocolo](capitulos/15-medicacoes-e-protocolo.md)
-- [16. Sono e Ritmo Circadiano](capitulos/16-sono-e-ritmo-circadiano.md)
-- [17. Gestão Psicológica](capitulos/17-gestao-psicologica.md)
-- [18. Álcool e Alimentação Social](capitulos/18-alcool-alimentacao-social.md)
-- [19. Adaptações para Mulheres](capitulos/19-adaptacoes-mulheres.md)
-- [20. Treinamento Resistido](capitulos/20-treinamento-resistido.md)
-- [21. Saúde Intestinal](capitulos/21-saude-intestinal.md)
-- [22. Adaptações para Idosos (≥ 65 Anos)](capitulos/22-adaptacoes-idosos.md)
-- [23. Menopausa e Mini-Cut](capitulos/23-menopausa-e-mini-cut.md)
-- [24. Crianças e Adolescentes — Contraindicação e Alternativas](capitulos/24-criancas-adolescentes.md)
-- [25. Ciência da Composição Corporal](capitulos/25-ciencia-composicao-corporal.md)
-- [26. Fisiologia Gastrointestinal no Déficit Calórico](capitulos/26-fisiologia-gastrica-deficit.md)
-- [27. Fast Food e Déficit Calórico: Por que a Qualidade Calórica Importa](capitulos/27-fast-food-e-deficit-calorico.md)
+
+### Parte II — Apêndices
+
+- [A1. Música e Treino: O que a Evidência Diz](capitulos/A01-musica-e-treino.md)
+- [A2. Comparativo com Dietas Semelhantes](capitulos/A02-comparativo-dietas.md)
+- [A3. Exercício e Dieta: Proporção, Papel e Variante sem Exercício](capitulos/A03-exercicio-e-dieta.md)
+- [A4. Medicações e Protocolo](capitulos/A04-medicacoes-e-protocolo.md)
+- [A5. Sono e Ritmo Circadiano](capitulos/A05-sono-e-ritmo-circadiano.md)
+- [A6. Gestão Psicológica](capitulos/A06-gestao-psicologica.md)
+- [A7. Álcool e Alimentação Social](capitulos/A07-alcool-alimentacao-social.md)
+- [A8. Adaptações para Mulheres](capitulos/A08-adaptacoes-mulheres.md)
+- [A9. Treinamento Resistido](capitulos/A09-treinamento-resistido.md)
+- [A10. Saúde Intestinal](capitulos/A10-saude-intestinal.md)
+- [A11. Adaptações para Idosos (≥ 65 Anos)](capitulos/A11-adaptacoes-idosos.md)
+- [A12. Menopausa e Mini-Cut](capitulos/A12-menopausa-e-mini-cut.md)
+- [A13. Crianças e Adolescentes — Contraindicação e Alternativas](capitulos/A13-criancas-adolescentes.md)
+- [A14. Ciência da Composição Corporal](capitulos/A14-ciencia-composicao-corporal.md)
+- [A15. Fisiologia Gastrointestinal no Déficit Calórico](capitulos/A15-fisiologia-gastrica-deficit.md)
+- [A16. Fast Food e Déficit Calórico: Por que a Qualidade Calórica Importa](capitulos/A16-fast-food-e-deficit-calorico.md)
+
+### Back Matter
+
 - [Glossário de Termos Técnicos](capitulos/X1-glossario.md)
 - [Referências Científicas Base](capitulos/XN-referencias.md)
 

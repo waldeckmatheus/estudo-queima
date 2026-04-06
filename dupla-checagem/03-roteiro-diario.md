@@ -10,7 +10,7 @@
 | Seções (###) | 3 (3.0 Máquina de Estados, 3.1 Tabela de Execução, 3.2 Regra do Azeite) |
 | Refs únicas | 3 ([web:35, 40, 43]) |
 | Callouts | 0 |
-| Refs cruzadas | Cap. 12 (Música e Treino) |
+| Refs cruzadas | Ap. A1 (Música e Treino) |
 
 ## Verificação de Conteúdo
 

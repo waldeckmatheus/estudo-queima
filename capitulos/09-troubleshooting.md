@@ -98,13 +98,13 @@ A cetose transitória induzida pelo déficit calórico severo pode elevar o áci
 
 **O Patch de Correção:**
 * **Hidratação agressiva:** ≥ 2,5 L/dia para maximizar excreção renal de urato.
-* **Evitar AINEs** neste protocolo (ver Cap. 15.1.1) — colchicina é o fármaco de primeira linha para crise aguda, mas **requer prescrição médica**.
+* **Evitar AINEs** neste protocolo (ver Ap. A4.1.1) — colchicina é o fármaco de primeira linha para crise aguda, mas **requer prescrição médica**.
 * **Se crise aguda:** Suspender exercício até resolução. Elevação calórica temporária para reduzir cetose.
 * **Histórico de gota:** Considerado **contraindicação relativa** — discutir com reumatologista antes de iniciar.
 * **CHO mínimo para prevenção:** Se histórico de gota ou hiperuricemia, manter ingestão de CHO ≥ 100 g/dia para preservar a excreção renal tubular de urato. A cetose profunda compromete a excreção de ácido úrico por competição com corpos cetônicos no túbulo proximal.
 
 ### Erro 06: Fadiga Persistente — Diagnóstico Diferencial (SAHOS)
-Se a fadiga diurna persistir apesar de sono ≥ 7 h e adesão ao Cap. 16, considere o diagnóstico diferencial de **Síndrome da Apneia Obstrutiva do Sono (SAHOS)**, que afeta 15–30% dos adultos com sobrepeso e é sub-diagnosticada em até 80% dos casos.
+Se a fadiga diurna persistir apesar de sono ≥ 7 h e adesão ao Ap. A5, considere o diagnóstico diferencial de **Síndrome da Apneia Obstrutiva do Sono (SAHOS)**, que afeta 15–30% dos adultos com sobrepeso e é sub-diagnosticada em até 80% dos casos.
 
 **Triagem rápida — Questionário STOP-Bang:**
 
@@ -138,7 +138,7 @@ Perda de peso rápida (≥ 1,5 kg/semana por ≥ 2 semanas consecutivas) é fato
 
 ### Erro 08: Hipercortisolismo Funcional — Sinais Indiretos de Cortisol Elevado
 
-O déficit calórico crônico eleva o cortisol progressivamente ao longo dos 30 dias (ver Cap. 2.1, Cap. 16.2.2). O monitoramento laboratorial de cortisol não é prático para a maioria dos praticantes, mas sinais indiretos sugerem hipercortisolismo funcional:
+O déficit calórico crônico eleva o cortisol progressivamente ao longo dos 30 dias (ver Cap. 2.1, Ap. A5.2.2). O monitoramento laboratorial de cortisol não é prático para a maioria dos praticantes, mas sinais indiretos sugerem hipercortisolismo funcional:
 
 **Constelação sugestiva (2 ou mais sinais simultâneos):**
 - Retenção hídrica persistente (> 2 kg de flutuação não explicada por ciclo menstrual ou ingestão de sódio)
@@ -150,18 +150,18 @@ O déficit calórico crônico eleva o cortisol progressivamente ao longo dos 30 
 **O Patch de Correção:**
 * **Antecipar refeed:** Inserir 1–2 dias de refeed extra (manutenção ~2.400 kcal) para sinalizar adequação energética ao eixo HPA.
 * **Diet break:** Se sinais persistirem após refeed, considerar pausa de 3–5 dias em manutenção calórica.
-* **Exercício noturno:** Evitar treino intenso < 4 h antes de dormir — eleva cortisol e catecolaminas, piorando a insônia paradoxal (ver Cap. 16.4.4).
+* **Exercício noturno:** Evitar treino intenso < 4 h antes de dormir — eleva cortisol e catecolaminas, piorando a insônia paradoxal (ver Ap. A5.4.4).
 * **Verificação laboratorial:** Se a constelação persistir > 7 dias com refeed, considerar cortisol matinal basal com médico.
 
 > **Subgrupos de risco para hipercortisolismo:** histórico de estresse crônico, insônia prévia, uso pregresso de corticoides, transtornos de ansiedade. Considerar cortisol matinal basal nos exames pré-protocolo (Seção 7.0) para estes subgrupos.
 
 ### Erro 09: Disbiose e Sintomas GI Progressivos
 
-Restrição calórica severa por > 2 semanas pode causar redução da diversidade microbiana intestinal, especialmente se a ingestão de fibra cair abaixo de 15 g/dia. Sinais de alerta GI são detalhados no Cap. 21.7. Para manejo de primeira linha:
+Restrição calórica severa por > 2 semanas pode causar redução da diversidade microbiana intestinal, especialmente se a ingestão de fibra cair abaixo de 15 g/dia. Sinais de alerta GI são detalhados no Ap. A10.7. Para manejo de primeira linha:
 
 * **Constipação progressiva:** Psyllium 5–10 g/dia + água ≥ 500 mL; se > 4 dias sem evacuação → lactulose 15–30 mL/dia.
 * **Distensão/gases excessivos:** Reduzir crucíferas cruas; considerar simbiótico (probiótico + prebiótico) por 7–14 dias.
-* **Preferir fermentados:** 1–2 porções/dia de kefir, iogurte natural ou chucrute oferecem diversidade microbiana superior a cápsulas de probióticos (ver Cap. 21.4).
+* **Preferir fermentados:** 1–2 porções/dia de kefir, iogurte natural ou chucrute oferecem diversidade microbiana superior a cápsulas de probióticos (ver Ap. A10.4).
 * **Critério de escalonamento:** Se sintomas GI persistirem > 7 dias apesar das medidas acima, consultar gastroenterologista — descartar patologia orgânica antes de atribuir ao déficit.
 
 ### Erro 10: Diarreia Persistente — Algoritmo de Redução

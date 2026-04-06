@@ -2,28 +2,24 @@
 
 Documentação técnica de um **protocolo de mini-cut de 30 dias** com embasamento científico, gerada em PDF a partir de Markdown via Pandoc + XeLaTeX. O projeto cobre desde a mecânica do déficit calórico até adaptações populacionais, com **125 referências científicas** (107 PubMed/Cochrane + 18 outras fontes) e um glossário de **208 termos técnicos**.
 
-> **Público-alvo:** adultos saudáveis de 18–60 anos. Capítulos específicos cobrem adaptações para mulheres (Cap. 19), idosos ≥ 65 anos (Cap. 22), menopausa (Cap. 23) e contraindicação para crianças/adolescentes (Cap. 24).
+> **Público-alvo:** adultos saudáveis de 18–60 anos. Capítulos específicos cobrem adaptações para mulheres (Ap. A8), idosos ≥ 65 anos (Ap. A11), menopausa (Ap. A12) e contraindicação para crianças/adolescentes (Ap. A13).
 
 ---
 
-## Conteúdo — 26 capítulos
+## Conteúdo — 11 capítulos + 16 apêndices
 
-| Domínio | Capítulos |
+| Parte | Conteúdo |
 |---|---|
-| **Núcleo do protocolo** | 1. Visão Geral · 2. Embasamento Científico · 3. Roteiro Diário · 4. Hidratação · 5. Exercício Aeróbico · 6. Suplementação · 10. Breakdown Nutricional |
-| **Segurança e monitoramento** | 7. Protocolos de Segurança · 9. Troubleshooting · 11. Ciclo de Vida · 15. Medicações e Protocolo |
-| **Desempenho e recuperação** | 12. Música e Treino · 14. Exercício e Dieta · 16. Sono e Ritmo Circadiano · 17. Gestão Psicológica · 20. Treinamento Resistido · 21. Saúde Intestinal |
-| **Contextos especiais** | 8. FAQ · 13. Comparativo com Dietas · 18. Álcool e Alimentação Social |
-| **Adaptações populacionais** | 19. Mulheres · 22. Idosos · 23. Menopausa · 24. Crianças (**contraindicação**) |
-| **Ciência aplicada** | 25. Ciência da Composição Corporal · 26. Fisiologia Gastrointestinal no Déficit |
-| **Apêndices** | Glossário (208 termos, 15 especialidades) · Referências (125 únicas, [web:5]–[web:158]) |
+| **Parte I — Protocolo** | 1. Visão Geral · 2. Embasamento Científico · 3. Roteiro Diário · 4. Hidratação · 5. Exercício Aeróbico · 6. Suplementação · 7. Protocolos de Segurança · 8. FAQ · 9. Troubleshooting · 10. Breakdown Nutricional · 11. Ciclo de Vida |
+| **Parte II — Apêndices** | A1. Música e Treino · A2. Comparativo de Dietas · A3. Exercício e Dieta · A4. Medicações · A5. Sono · A6. Gestão Psicológica · A7. Álcool e Alimentação Social · A8. Mulheres · A9. Treinamento Resistido · A10. Saúde Intestinal · A11. Idosos · A12. Menopausa · A13. Crianças (**contraindicação**) · A14. Ciência da Composição Corporal · A15. Fisiologia GI · A16. Fast Food e Déficit |
+| **Back Matter** | Glossário (208 termos, 15 especialidades) · Referências (125 únicas, [web:5]–[web:158]) |
 
 ---
 
 ## Estrutura do projeto
 
 ```
-capitulos/          # 26 capítulos + glossário + referências (Markdown)
+capitulos/          # Cap 01-11 (protocolo) + A01-A16 (apêndices) + X1 (glossário) + XN (referências)
 temas/              # Temas de cor (claro, escuro, impressao) + template LaTeX + filtros Lua
 metadata.yaml       # Título, autor, data e metadados do documento
 index.md            # Índice analítico

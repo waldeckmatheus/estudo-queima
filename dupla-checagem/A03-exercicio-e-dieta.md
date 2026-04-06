@@ -1,6 +1,6 @@
-# Dupla Checagem — Cap. 14: Exercício e Dieta
+# Dupla Checagem — Ap. A3: Exercício e Dieta
 
-**Arquivo:** `14-exercicio-e-dieta.md`
+**Arquivo:** `A03-exercicio-e-dieta.md`
 **Data:** 2025-04-05
 
 ## Estrutura
@@ -10,7 +10,7 @@
 | Seções (###/####) | 11+ (14.1–14.3 + subseções e tabelas) |
 | Refs únicas | 7 ([web:52, 56, 60, 63, 65, 68, 69, 80]) |
 | Callouts | 1 (.callout-warning — supervisão médica) |
-| Refs cruzadas | Cap. 10, Cap. 13 (Seção 13.4.1, Seção 13.2) |
+| Refs cruzadas | Cap. 10, Ap. A2 (Seção A2.4.1, Seção A2.2) |
 
 ## Verificação de Conteúdo
 

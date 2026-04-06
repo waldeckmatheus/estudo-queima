@@ -10,7 +10,7 @@
 | Seções (###) | 4 (5.1–5.4) |
 | Refs únicas | 6 ([web:5, 20, 30, 66, 70, 71]) |
 | Callouts | 0 |
-| Refs cruzadas | Cap. 12 (Música), Cap. 14 (Exercício e Dieta) |
+| Refs cruzadas | Ap. A1 (Música), Ap. A3 (Exercício e Dieta) |
 
 ## Verificação de Conteúdo
 

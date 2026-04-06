@@ -1,6 +1,6 @@
-# Dupla Checagem — Cap. 22: Adaptações para Idosos (≥ 65 Anos)
+# Dupla Checagem — Ap. A11: Adaptações para Idosos (≥ 65 Anos)
 
-**Arquivo:** `22-adaptacoes-idosos.md`
+**Arquivo:** `A11-adaptacoes-idosos.md`
 **Data:** 2025-04-05
 
 ## Estrutura
@@ -29,7 +29,7 @@
 - ✅ TR adaptado (RPE ≤7, sem falha concêntrica) — prudente para população
 - ✅ Saúde óssea com DXA pré/pós e suplementação Ca²⁺ + vitamina D
 - ✅ Stop criteria específicos (>1 kg/semana, TUG >12 s)
-- ✅ Integração bidirecional com Cap. 23 (menopausa)
+- ✅ Integração bidirecional com Ap. A12 (menopausa)
 
 ## Alertas
 

@@ -1,4 +1,4 @@
-## 22. Adaptações para Idosos (≥ 65 Anos)
+## A11. Adaptações para Idosos (≥ 65 Anos)
 
 Este capítulo aborda os riscos específicos e as modificações obrigatórias para a aplicação do protocolo de mini-cut em adultos mais velhos. A mensagem central é inequívoca: **a restrição calórica agressiva em idosos exige supervisão médica rigorosa**, e a maioria das pessoas nessa faixa etária não deve executar o protocolo padrão sem adaptações substanciais.
 
@@ -8,7 +8,7 @@ Este capítulo aborda os riscos específicos e as modificações obrigatórias p
 
 ---
 
-### 22.1. O Paradoxo da Perda de Peso em Idosos
+### A11.1. O Paradoxo da Perda de Peso em Idosos
 
 Uma revisão clássica (Miller & Wolfe, 2008) alertou para os perigos da perda de peso intencional em idosos: o envelhecimento já é acompanhado por perda progressiva de massa muscular (sarcopenia) e óssea, e **a restrição calórica acelera ambas as perdas**. [web:131]
 
@@ -26,7 +26,7 @@ O conceito de "obesidade sarcopênica" — coexistência de excesso de gordura e
 
 ---
 
-### 22.2. Requisitos Proteicos — PROT-AGE
+### A11.2. Requisitos Proteicos — PROT-AGE
 
 O position paper PROT-AGE (Bauer et al., 2013) — consenso internacional de 12 especialistas — recomenda para adultos > 65 anos:
 
@@ -42,7 +42,7 @@ A resistência anabólica é o conceito-chave: o músculo envelhecido requer **m
 
 ---
 
-### 22.3. Exercício — A Ferramenta Mais Crítica
+### A11.3. Exercício — A Ferramenta Mais Crítica
 
 Uma revisão sistemática (Weinheimer, Sands & Campbell, 2010) avaliou os efeitos separados e combinados de restrição energética e exercício sobre FFM em adultos de meia-idade e idosos com sobrepeso/obesidade. O achado central: **o exercício — especialmente o treinamento resistido — é indispensável para atenuar a perda de massa magra durante a restrição calórica em idosos**. [web:134]
 
@@ -50,7 +50,7 @@ A revisão de Cortes et al. (2025) confirmou que a perda de peso em idosos com o
 
 **Protocolo de TR adaptado para idosos:**
 
-| Variável | Protocolo padrão (Cap. 20) | Adaptação para idosos |
+| Variável | Protocolo padrão (Ap. A9) | Adaptação para idosos |
 |---|---|---|
 | **Frequência** | 4×/semana | 3×/semana (mais tempo de recuperação) |
 | **Volume** | 8–14 séries/grupo/semana | 6–10 séries/grupo/semana |
@@ -66,9 +66,9 @@ A revisão de Cortes et al. (2025) confirmou que a perda de peso em idosos com o
 
 ---
 
-### 22.4. Saúde Óssea — Risco Amplificado
+### A11.4. Saúde Óssea — Risco Amplificado
 
-A perda de peso em idosos está associada a **perda acelerada de densidade mineral óssea (DMO)**, aumentando o risco de fraturas. Esse efeito é agravado em mulheres pós-menopausa (ver Cap. 23). [web:135]
+A perda de peso em idosos está associada a **perda acelerada de densidade mineral óssea (DMO)**, aumentando o risco de fraturas. Esse efeito é agravado em mulheres pós-menopausa (ver Ap. A12). [web:135]
 
 **Estratégias de mitigação:**
 
@@ -79,7 +79,7 @@ A perda de peso em idosos está associada a **perda acelerada de densidade miner
 
 ---
 
-### 22.5. Modificações ao Protocolo Padrão
+### A11.5. Modificações ao Protocolo Padrão
 
 | Componente | Protocolo padrão | Adaptação para ≥ 65 anos |
 |---|---|---|
@@ -95,7 +95,7 @@ A perda de peso em idosos está associada a **perda acelerada de densidade miner
 
 ---
 
-### 22.6. Stop Criteria Adicionais para Idosos
+### A11.6. Stop Criteria Adicionais para Idosos
 
 Além dos critérios do Capítulo 7, interromper o protocolo imediatamente se:
 
@@ -108,7 +108,7 @@ Além dos critérios do Capítulo 7, interromper o protocolo imediatamente se:
 
 ---
 
-### 22.7. FAQ — Idosos
+### A11.7. FAQ — Idosos
 
 **"Com 70 anos, posso fazer o protocolo de 30 dias?"**
 Com supervisão médica e as adaptações descritas, é possível — mas o déficit deve ser significativamente menor (~25–30% do TDEE), a proteína deve ser elevada (≥ 1,5 g/kg), e o monitoramento clínico deve ser semanal. A relação risco-benefício é pior que em adultos jovens.
@@ -121,13 +121,13 @@ Não. A resistência anabólica e a fragilidade óssea são processos fisiológi
 
 ---
 
-### 22.8. Integração com Outros Capítulos
+### A11.8. Integração com Outros Capítulos
 
 | Capítulo | Integração |
 |---|---|
 | [Cap. 7 — Segurança](07-protocolos-seguranca.md) | Stop criteria ampliados para idosos |
 | [Cap. 10 — Breakdown Nutricional](10-breakdown-nutricional.md) | Recalcular para 3–4 refeições com ≥ 30 g proteína/refeição |
-| [Cap. 14 — Exercício e Dieta](14-exercicio-e-dieta.md) | Variante sem exercício **não recomendada** para idosos |
-| [Cap. 15 — Medicações](15-medicacoes-e-protocolo.md) | Polifarmácia é comum; revisar todas as interações com médico |
-| [Cap. 20 — Treinamento Resistido](20-treinamento-resistido.md) | Adaptações de volume, RPE e exercícios |
-| [Cap. 23 — Menopausa](23-menopausa-e-mini-cut.md) | Mulheres idosas pós-menopausa: riscos sobrepostos |
+| [Ap. A3 — Exercício e Dieta](A03-exercicio-e-dieta.md) | Variante sem exercício **não recomendada** para idosos |
+| [Ap. A4 — Medicações](A04-medicacoes-e-protocolo.md) | Polifarmácia é comum; revisar todas as interações com médico |
+| [Ap. A9 — Treinamento Resistido](A09-treinamento-resistido.md) | Adaptações de volume, RPE e exercícios |
+| [Ap. A12 — Menopausa](A12-menopausa-e-mini-cut.md) | Mulheres idosas pós-menopausa: riscos sobrepostos |

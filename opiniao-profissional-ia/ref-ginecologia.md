@@ -15,7 +15,7 @@ O ginecologista avalia o impacto de um déficit calórico de ~50% TDEE por 30 di
 
 | # | Aspecto | Análise técnica | Referência |
 |---|---|---|---|
-| 1 | **RED-S e amenorreia documentados** | O protocolo menciona RED-S como síndrome e identifica amenorreia como consequência de LEA < 30 kcal/kg MLG/dia. Essa é a complicação ginecológica mais importante de dietas restritivas e está corretamente identificada. | [web:143]; Cap. 25 |
+| 1 | **RED-S e amenorreia documentados** | O protocolo menciona RED-S como síndrome e identifica amenorreia como consequência de LEA < 30 kcal/kg MLG/dia. Essa é a complicação ginecológica mais importante de dietas restritivas e está corretamente identificada. | [web:143]; Ap. A14 |
 | 2 | **Limite de 30 dias protege eixo HPO** | AHF (amenorreia hipotalâmica funcional) tipicamente instala-se após 3–6 meses de LEA crônico (Loucks et al. 2003). Em 30 dias, o eixo HPO pode apresentar supressão parcial (fase lútea curta, anovulação isolada), mas reversível com retomada calórica. A limitação temporal é protetora. | Loucks AB, J Sports Sci, 2003 |
 | 3 | **Gordura mínima de 0,8–1,0 g/kg** | Gordura dietética é precursora de hormônios esteroidais (estradiol, progesterona). O limiar de 0,8 g/kg mantém substrato para esteroidogênese ovariana. Abaixo de 0,5 g/kg → ↓ estradiol → anovulação → amenorreia. | Dorgan JF et al. Am J Clin Nutr, 1996 |
 | 4 | **Proteína alta protege MLG e função hormonal** | ↓ MLG → ↓ aromatização periférica → ↓ estrona (principal estrogênio pós-menopausa). Preservar MLG com proteína alta mantém esse mecanismo funcional, particularmente relevante em mulheres perimenopáusicas. | Helms et al. 2014; [web:148] |

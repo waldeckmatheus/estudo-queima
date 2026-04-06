@@ -31,12 +31,12 @@ Checklist rápido de calibração:
 * **5 a 40 min:** Alternar **2 minutos de caminhada rápida** com **1 minuto de trote bem leve**. Essa gestão intervalada impede que a frequência cardíaca saia da Zona 2 e torna o exercício mentalmente mais sustentável. [web:30]
 * **40 a 45 min:** Desaceleração gradual.
 
-> **Dica:** Usar música a 120–140 BPM durante o loop principal pode melhorar o humor e reduzir a percepção de esforço sem custo adicional. Veja os detalhes e a evidência no [Capítulo 12](12-musica-e-treino.md).
+> **Dica:** Usar música a 120–140 BPM durante o loop principal pode melhorar o humor e reduzir a percepção de esforço sem custo adicional. Veja os detalhes e a evidência no [Ap. A1](A01-musica-e-treino.md).
 
 ### 5.3. Atenção ao Equipamento (Tênis Categoria "Max Amortecimento" com Placa)
 A presença de espumas premium (como PEBA) e a placa propulsora (seja nylon ou carbono) reduzem o estresse mecânico no chassi articular. Porém, o efeito de impulsão (bounce) pode induzir um ritmo mais acelerado do que o planejado. Monitore sempre o painel da esteira e o smartwatch para garantir que a frequência cardíaca não ultrapasse o teto da Zona 2.
 
-> **Nota:** Para pessoas com limitações físicas que impeçam a prática de exercício aeróbico (lesão articular, pós-operatório, etc.), consulte o [Capítulo 14](14-exercicio-e-dieta.md) para a variante sem exercício e alternativas de baixo impacto.
+> **Nota:** Para pessoas com limitações físicas que impeçam a prática de exercício aeróbico (lesão articular, pós-operatório, etc.), consulte o [Ap. A3](A03-exercicio-e-dieta.md) para a variante sem exercício e alternativas de baixo impacto.
 
 ### 5.4. Discrepância entre Sensores (Relógio vs Esteira)
 
@@ -72,7 +72,7 @@ O déficit calórico reduz a capacidade termorregulatória: menor reserva de gli
 
 **Retorno pós-interrupção por evento térmico:** Após episódio de hipertermia, aguardar **48 h assintomático** antes de retomar exercício. Retornar com 50% da intensidade e duração habituais no primeiro dia, progredindo 25% por sessão até normalização.
 
-> **Nota para usuários de betabloqueadores:** Betabloqueadores comprometem a termorregulação ao limitar a redistribuição cardíaca de calor (ver Cap. 15.2). Nesses casos, aplicar o ajuste da faixa imediatamente acima — ex.: com beta em temperatura > 25 °C, tratar como > 28 °C.
+> **Nota para usuários de betabloqueadores:** Betabloqueadores comprometem a termorregulação ao limitar a redistribuição cardíaca de calor (ver Ap. A4.2). Nesses casos, aplicar o ajuste da faixa imediatamente acima — ex.: com beta em temperatura > 25 °C, tratar como > 28 °C.
 
 ### 5.6. Dia de Descanso — Quando Parar É Progredir
 
@@ -82,6 +82,6 @@ O protocolo prescreve exercício diário (LISS + TR opcional), mas **descanso n�
 - RPE percebido ≥ 2 pontos acima do habitual para a mesma carga/velocidade
 - HRV (se monitorada) ↓ > 10% da baseline pessoal por 2+ dias consecutivos
 - Dor muscular que não melhora após aquecimento (DOMS ≥ 72 h)
-- Sinais psicológicos: exercitar-se doente, culpa por descansar, priorizar treino sobre compromissos sociais → padrão compensatório (ver Cap. 17.8.2)
+- Sinais psicológicos: exercitar-se doente, culpa por descansar, priorizar treino sobre compromissos sociais → padrão compensatório (ver Ap. A6.8.2)
 
 **Conduta:** Substituir a sessão por caminhada leve de 15–20 min ou repouso completo. Um dia de descanso estratégico preserva mais massa magra do que um dia de treino em overreaching.

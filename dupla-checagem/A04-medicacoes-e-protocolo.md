@@ -1,6 +1,6 @@
-# Dupla Checagem — Cap. 15: Medicações e Protocolo
+# Dupla Checagem — Ap. A4: Medicações e Protocolo
 
-**Arquivo:** `15-medicacoes-e-protocolo.md`
+**Arquivo:** `A04-medicacoes-e-protocolo.md`
 **Data:** 2025-04-05
 
 ## Estrutura

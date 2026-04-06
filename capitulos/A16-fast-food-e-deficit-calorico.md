@@ -1,4 +1,4 @@
-## 27. Fast Food e Déficit Calórico: Por que a Qualidade Calórica Importa
+## A16. Fast Food e Déficit Calórico: Por que a Qualidade Calórica Importa
 
 A pergunta é intuitiva: se o déficit calórico é o motor da perda de gordura, por que comer fast food "engorda" mesmo dentro do limite calórico? A resposta curta é que a primeira lei da termodinâmica se aplica — mas a biologia humana não é um calorímetro. Este capítulo examina os mecanismos científicos pelos quais a qualidade dos alimentos altera a equação energética real, a composição corporal resultante e a sustentabilidade do déficit.
 
@@ -8,7 +8,7 @@ A pergunta é intuitiva: se o déficit calórico é o motor da perda de gordura,
 
 ---
 
-### 27.1. O que São Alimentos Ultraprocessados: A Classificação NOVA
+### A16.1. O que São Alimentos Ultraprocessados: A Classificação NOVA
 
 A classificação NOVA, desenvolvida por Monteiro et al., categoriza alimentos pelo grau e propósito do processamento industrial, não pela composição nutricional isolada [web:161]:
 
@@ -23,7 +23,7 @@ Os ultraprocessados são caracterizados por conter ingredientes como xarope de m
 
 ---
 
-### 27.2. O Estudo Hall (2019): A Evidência Mais Direta
+### A16.2. O Estudo Hall (2019): A Evidência Mais Direta
 
 O ensaio clínico randomizado de Kevin Hall et al. no NIH Clinical Center é a evidência mais robusta sobre o tema [web:159]. Delineamento:
 
@@ -47,9 +47,9 @@ O ensaio clínico randomizado de Kevin Hall et al. no NIH Clinical Center é a e
 
 ---
 
-### 27.3. Por que Fast Food Mina o Déficit: Sete Mecanismos Científicos
+### A16.3. Por que Fast Food Mina o Déficit: Sete Mecanismos Científicos
 
-#### 27.3.1. Efeito Térmico Reduzido (TEF)
+#### A16.3.1. Efeito Térmico Reduzido (TEF)
 
 O efeito térmico dos alimentos (TEF) — a energia gasta para digerir, absorver e metabolizar nutrientes — é um componente do TDEE que varia com a qualidade alimentar [web:143]. Barr & Wright (2010) demonstraram que uma refeição de alimentos integrais produziu TEF de **19,9% da energia da refeição**, enquanto uma refeição processada isocalórica produziu apenas **10,7%** — uma diferença de quase 50% [web:160].
 
@@ -66,7 +66,7 @@ Ao longo de 30 dias, essa diferença representa ~2.880 kcal — equivalente a ~3
 **Por que isso acontece?** Alimentos ultraprocessados são pré-digeridos industrialmente: grãos são moídos em farinhas finas, proteínas são hidrolisadas, fibras são removidas. O corpo gasta menos energia para processar o que a fábrica já processou [web:160].
 :::
 
-#### 27.3.2. Deslocamento Proteico
+#### A16.3.2. Deslocamento Proteico
 
 O fast food é tipicamente **hipoproteico em relação à densidade calórica**. Um Big Mac fornece ~25 g de proteína em ~550 kcal (18% das calorias), enquanto 550 kcal de frango grelhado + arroz integral + vegetais fornecem ~55 g de proteína (~40% das calorias).
 
@@ -76,13 +76,13 @@ No contexto do protocolo (déficit agressivo de ~1.200 kcal), a ingestão protei
 - **Menor saciedade** — a proteína é o macronutriente mais sacietógeno [web:148].
 - **Menor TEF** — a proteína tem TEF de 20–30%, vs. 5–10% para gordura e 5–15% para carboidrato [web:143].
 
-#### 27.3.3. Hiperpalatabilidade e Falha na Saciedade
+#### A16.3.3. Hiperpalatabilidade e Falha na Saciedade
 
 Ultraprocessados são formulados para maximizar o prazer hedônico sem maximizar a saciedade homeostática. A combinação engenheirada de sal + gordura + açúcar + textura crocante ativa circuitos de recompensa dopaminérgicos de forma análoga — embora não idêntica — a substâncias de abuso [web:167].
 
 No estudo Hall, participantes na dieta ultraprocessada comiam significativamente **mais rápido**, sugerindo que a textura macia e pré-processada dos UPF reduz o tempo de mastigação e os sinais orossensoriais de saciedade [web:159]. Menos mastigação → menos tempo para sinais de CCK, GLP-1 e PYY atingirem o hipotálamo → consumo calórico maior antes da percepção de plenitude.
 
-#### 27.3.4. Resposta Insulínica Exagerada
+#### A16.3.4. Resposta Insulínica Exagerada
 
 Fast food apresenta tipicamente alta carga glicêmica: pães brancos, batatas fritas, refrigerantes e molhos açucarados provocam picos rápidos de glicemia e hiperinsulinemia reativa. A insulina:
 
@@ -96,7 +96,7 @@ Num déficit calórico, o ambiente hormonal ideal é aquele que permite lipólis
 **Não confundir com mito:** A insulina NÃO impede a perda de peso em déficit calórico genuíno. Porém, picos insulínicos exagerados alteram a **partição energética** — ou seja, *o que* o corpo queima (mais glicogênio, menos gordura) e a **composição do peso perdido** (mais músculo, menos gordura) [web:150] [web:149].
 :::
 
-#### 27.3.5. Disbiose e Inflamação Intestinal
+#### A16.3.5. Disbiose e Inflamação Intestinal
 
 A dieta ocidental ultraprocessada altera o microbioma intestinal em 24–48 horas [web:154]:
 
@@ -112,7 +112,7 @@ Carboidratos acelulares densos (farinhas refinadas, amidos modificados) — ause
 
 Em contraste, o protocolo baseado em alimentos integrais (com ~25 g/dia de fibra, legumes e proteínas minimamente processadas) preserva a diversidade microbiana e a produção de ácidos graxos de cadeia curta — protetores da barreira e moduladores de saciedade via GLP-1/PYY [web:126] [web:127].
 
-#### 27.3.6. Retenção Hídrica por Sódio
+#### A16.3.6. Retenção Hídrica por Sódio
 
 Uma única refeição de fast food pode conter 1.500–2.500 mg de sódio (vs. 300–600 mg em refeição caseira equivalente). Sódio excessivo promove:
 
@@ -122,7 +122,7 @@ Uma única refeição de fast food pode conter 1.500–2.500 mg de sódio (vs. 3
 
 Essa retenção hídrica é temporária (resolve em 48–72 h com normalização do sódio), mas é suficiente para causar frustração psicológica significativa durante um mini-cut de 30 dias.
 
-#### 27.3.7. Lipogênese de Novo Hepática
+#### A16.3.7. Lipogênese de Novo Hepática
 
 Fast food frequentemente inclui bebidas adoçadas com frutose (refrigerantes, milk shakes) e ingredientes com xarope de milho rico em frutose. Diferente da glicose (que é metabolizada por todos os tecidos), a frutose é metabolizada quase exclusivamente pelo fígado, onde:
 
@@ -135,7 +135,7 @@ A frutose estimula DNL hepática mesmo quando o indivíduo está em déficit cal
 
 ---
 
-### 27.4. Quantificando o Impacto: Cenário Comparativo
+### A16.4. Quantificando o Impacto: Cenário Comparativo
 
 Para ilustrar a magnitude dos efeitos, considere dois indivíduos seguindo o mesmo déficit de 1.200 kcal/dia durante 30 dias:
 
@@ -158,7 +158,7 @@ Para ilustrar a magnitude dos efeitos, considere dois indivíduos seguindo o mes
 
 ---
 
-### 27.5. Mas e a Evidência Epidemiológica?
+### A16.5. Mas e a Evidência Epidemiológica?
 
 Estudos observacionais de grande escala confirmam a associação entre consumo de ultraprocessados e ganho de peso:
 
@@ -173,7 +173,7 @@ Estudos observacionais de grande escala confirmam a associação entre consumo d
 
 ---
 
-### 27.6. A Resposta à Pergunta Central
+### A16.6. A Resposta à Pergunta Central
 
 **"Se o déficit calórico favorece a queima de gordura, por que comer fast food engorda se estiver dentro do limite calórico?"**
 
@@ -195,9 +195,9 @@ A resposta é multifatorial:
 
 ---
 
-### 27.7. Implicações Práticas para o Protocolo
+### A16.7. Implicações Práticas para o Protocolo
 
-#### 27.7.1. Regra dos 80/20
+#### A16.7.1. Regra dos 80/20
 
 Para quem não pode eliminar completamente o fast food durante o mini-cut:
 
@@ -205,7 +205,7 @@ Para quem não pode eliminar completamente o fast food durante o mini-cut:
 - **≤ 20% das calorias** (~240 kcal) podem vir de processados/ultraprocessados.
 - **Priorizar a proteína** na parcela livre: preferir a proteína da carne do hambúrguer ao acompanhamento de batata frita + refrigerante.
 
-#### 27.7.2. Checklist de Compensação
+#### A16.7.2. Checklist de Compensação
 
 Se uma refeição de fast food ocorrer, mitigar os efeitos:
 
@@ -217,7 +217,7 @@ Se uma refeição de fast food ocorrer, mitigar os efeitos:
 | Baixa fibra | Psyllium (5 g) com a refeição ou na refeição seguinte |
 | Hiperfagia | Pré-planejar a refeição (decidir O QUÊ e QUANTO antes de ir) |
 
-#### 27.7.3. O Que Evitar Absolutamente
+#### A16.7.3. O Que Evitar Absolutamente
 
 - **Bebidas calóricas** adoçadas com frutose (refrigerantes, milk shakes): máximo impacto negativo por caloria.
 - **Frituras empanadas**: combinação de óleo reciclado + farinha refinada + baixa proteína + alta densidade calórica.
@@ -225,7 +225,7 @@ Se uma refeição de fast food ocorrer, mitigar os efeitos:
 
 ---
 
-### 27.8. Resumo do Capítulo
+### A16.8. Resumo do Capítulo
 
 | Mecanismo | Efeito no déficit | Referência-chave |
 |---|---|---|

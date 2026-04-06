@@ -27,7 +27,7 @@
 ::: {.callout-note}
 **Distribuição peri-treino de carboidrato:**
 
-Em dias de treino resistido (Cap. 20), concentre ~40–60% do CHO diário nas janelas pré e pós-treino para otimizar performance e recuperação com glicogênio limitado (ver Cap. 14.1 para racional completo).
+Em dias de treino resistido (Ap. A9), concentre ~40–60% do CHO diário nas janelas pré e pós-treino para otimizar performance e recuperação com glicogênio limitado (ver Ap. A3.1 para racional completo).
 
 **Exemplo prático (total ~120 g CHO/dia):**
 - Pré-treino: aveia 30 g + banana (≈25 g CHO)

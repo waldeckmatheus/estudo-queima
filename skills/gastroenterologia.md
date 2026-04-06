@@ -3,7 +3,7 @@ name: Gastroenterologista
 description: >
   Analisa o protocolo de mini-cut sob a perspectiva gastrointestinal: microbiota, barreira
   intestinal, AGCC/butirato, CMM, zonulina, permeabilidade, fermentação putrefativa, IBPs,
-  hormônios GI (grelina, CCK, GLP-1, PYY). Cap. 21 e 26 como fontes primárias.
+  hormônios GI (grelina, CCK, GLP-1, PYY). Ap. A10 e 26 como fontes primárias.
 applyTo: "opiniao-profissional-ia/ref-gastroenterologia.md"
 ---
 

@@ -32,18 +32,18 @@ O protocolo é **aprovado para adultos saudáveis de 18–59 anos** sem comorbid
 | 1 | Ginecologia | 60% | 45% | 🟡 | Gestação/lactação agora contraindicação absoluta (Cap. 1). LEA advertido com fórmula e limiar ≥ 30 (Cap. 1). **Lacunas**: LEA operacional ~17 ainda abaixo de 30, ACO mascara AHF, SOP/climatério sem adaptação, TTC não explicitamente mencionado. | LEA ~17, ACO, SOP, climatério, TTC |
 | 2 | Medicina Esportiva | 70% | 50% | 🟢 | ✅ PAR-Q+ obrigatório (Seção 7.0), rabdomiólise documentada (7.3), LEA advertido com fórmula. **Lacunas**: LEA operacional ainda baixo sem ajuste calórico, FMS ausente, termorregulação ignorada, retorno pós-interrupção inexistente. | LEA operacional, FMS, termorregulação |
 | 3 | Psiquiatria | 70% | 55% | 🟢 | ✅ Triagem PHQ-9/GAD-7/EAT-26 obrigatória (Seção 7.0) com critérios de exclusão. **Lacunas**: ISRS + ↓ triptofano não alertado, abandono de psicotrópicos, TOC alimentar, BDD não triado, cafeína em TAG. | ISRS, abandono fármacos, TOC, BDD |
-| 4 | Psicologia Clínica | 72% | 55% | 🟢 | ✅ EAT-26 obrigatório (Seção 7.0), TCC integrada (Cap. 17.7: descentração, EPR, análise funcional), alternativa à pesagem para risco sub-clínico. **Lacunas**: contagem calorias como obsessão, exercício compulsivo, fotos de progresso, suporte social. | Contagem calorias, exercício compulsivo |
-| 5 | Cardiologia | 75% | 60% | 🟢 | ✅ Screening CV no Pre-Flight Check (ECG + ergométrico para > 40), QTc documentado (Seção 15.7). **Lacunas**: PA ortostática sem protocolo, betabloqueador+termogênico, isquemia silenciosa, HRV não monitorada. | PA ortostática, betabloqueador, HRV |
+| 4 | Psicologia Clínica | 72% | 55% | 🟢 | ✅ EAT-26 obrigatório (Seção 7.0), TCC integrada (Ap. A6.7: descentração, EPR, análise funcional), alternativa à pesagem para risco sub-clínico. **Lacunas**: contagem calorias como obsessão, exercício compulsivo, fotos de progresso, suporte social. | Contagem calorias, exercício compulsivo |
+| 5 | Cardiologia | 75% | 60% | 🟢 | ✅ Screening CV no Pre-Flight Check (ECG + ergométrico para > 40), QTc documentado (Seção A4.7). **Lacunas**: PA ortostática sem protocolo, betabloqueador+termogênico, isquemia silenciosa, HRV não monitorada. | PA ortostática, betabloqueador, HRV |
 | 6 | Endocrinologia | 75% | 60% | 🟢 | ✅ TSH+T4L obrigatórios (Seção 7.0), testosterona/estradiol por subgrupo, refeed semanal documentado (Seção 2.2), polifarmácia endócrina coberta (15.8). **Lacunas**: cortisol sem monitoramento, orexina subexplorada, HOMA-IR não exigido. | Cortisol, orexina, HOMA-IR |
 | 7 | Nutrologia | 75% | 60% | 🟢 | ✅ Painel laboratorial pré-protocolo (hemograma, ferritina, creatinina, TSH, glicemia + subgrupos), hipoglicemiantes cobertos (15.8), variantes dietéticas (10.3). **Lacunas**: classificação LCD/VLCD ausente, colelitíase, esteatose transitória, pré-albumina/D/B12 não obrigatórios. | VLCD, colelitíase, esteatose |
 | 8 | Nutrição Clínica | 78% | 65% | 🟢 | ✅ Variantes dietéticas para celíacos/APLV/veganos (Cap. 10.3), ferritina pré-protocolo, ferro suplementar se < 30 (Cap. 6.3), absorção > 6h pós-exercício. **Lacunas**: Ca, Zn, K abaixo do AI, complexo B possivelmente insuficiente. | Ca, Zn, K adequação |
 | 9 | Fisiologia do Exercício | 78% | 75% | 🟢 | Refeed semanal documentado (Seção 2.2), creatina prescrita (Cap. 6.3). **Lacunas avançadas**: resistência anabólica não quantificada, distinção lipólise/oxidação, FATmax individual. | FATmax, resistência anabólica |
 | 10 | Gastroenterologia | 78% | 75% | 🟢 | Hiperuricemia/gota abordada (Cap. 9), variantes dietéticas incluídas (Cap. 10.3). **Lacunas**: triagem H. pylori/DII/SII, algoritmo diarreico, probióticos, gastroparesia funcional. | Triagem GI, probióticos |
 | 11 | Metodologia Científica | 78% | 70% | 🟢 | ✅ GRADE mencionado no Cap. 2 para hierarquia de evidência. **Lacunas**: GRADE não aplicado individualmente a cada recomendação, viés de seleção, extrapolação atletas→geral, CoI não declarado. | GRADE individual, viés, CoI |
-| 12 | Neurociência | 78% | 75% | 🟢 | TCC integrada (Cap. 17.7), triagem neurocomportamental (PHQ-9/GAD-7). **Lacunas**: ↓ serotonina por ↓ triptofano/LNAA, função cognitiva D1–D3, neuroplasticidade maladaptativa (rebote). | Serotonina, cognição, rebote |
+| 12 | Neurociência | 78% | 75% | 🟢 | TCC integrada (Ap. A6.7), triagem neurocomportamental (PHQ-9/GAD-7). **Lacunas**: ↓ serotonina por ↓ triptofano/LNAA, função cognitiva D1–D3, neuroplasticidade maladaptativa (rebote). | Serotonina, cognição, rebote |
 | 13 | Hematologia | 80% | 70% | 🟢 | ✅ Hemograma + ferritina obrigatórios (Seção 7.0), ferro suplementar + estratégia hepcidina (Cap. 6.3). **Lacunas**: pseudoanemia dilucional, hemoconcentração, VCM/reticulócitos não exigidos. | Pseudoanemia, hemoconcentração |
 | 14 | Nefrologia | 82% | 70% | 🟢 | ✅ Creatinina + RAC no Pre-Flight Check, rabdomiólise documentada (7.3), gota coberta (Cap. 9). **Lacunas**: creatina confundindo creatinina, ácido-base em cetose, nefrotoxicidade suplementos. | Creatina/creatinina, ácido-base |
-| 15 | Hepatologia | 82% | 75% | 🟢 | ✅ CYP2E1 documentado (Seção 15.8), paracetamol "nunca em jejum", dose máx 2 g/dia. **Lacunas**: esteatose transitória não explicada, hepatotoxicidade suplementos, hepatite crônica (TGO/TGP por subgrupo, não obrigatório para todos). | Esteatose transitória, hepatite crônica |
+| 15 | Hepatologia | 82% | 75% | 🟢 | ✅ CYP2E1 documentado (Seção A4.8), paracetamol "nunca em jejum", dose máx 2 g/dia. **Lacunas**: esteatose transitória não explicada, hepatotoxicidade suplementos, hepatite crônica (TGO/TGP por subgrupo, não obrigatório para todos). | Esteatose transitória, hepatite crônica |
 | 16 | Imunologia | 82% | 75% | 🟢 | ✅ Regra do pescoço incluída (Seção 7.2), colágeno+VitC peri-exercício (Cap. 6.3). **Lacunas**: open window ampliada, ↓ IgA salivar, cortisol crônico, glutamina. | Open window, IgA, cortisol |
 | 17 | Ortopedia | 82% | 75% | 🟢 | ✅ Colágeno 15g + VitC 500mg peri-exercício prescrito (Cap. 6.3, protocolo Shaw 2017), creatina para proteção óssea. **Lacunas**: avaliação musculoesquelética pré, fratura de estresse, aquecimento. | Avaliação pré, fratura estresse |
 | 18 | Educação Física | 82% | 80% | 🟢 | ✅ PAR-Q+ obrigatório (Seção 7.0). RPE/RIR, volume dose-resposta, "na dúvida, faça menos". **Lacunas**: FMS, aquecimento específico TR, cadência/respiração. | FMS, aquecimento |
@@ -54,7 +54,7 @@ O protocolo é **aprovado para adultos saudáveis de 18–59 anos** sem comorbid
 | 23 | Pneumologia | 85% | 80% | 🟢 | ✅ SAHOS triada via STOP-Bang (Cap. 9). **Lacunas**: AIE não triada, dispneia não em sinais de parada, ar indoor. | AIE, dispneia |
 | 24 | Toxicologia | 85% | 80% | 🟢 | ✅ Paracetamol "nunca em jejum" + CYP2E1 documentado. **Lacunas**: suplementos não certificados (12–25%), VitD marginal ao UL, pre-workouts, POPs. | Certificação suplementos, VitD |
 | 25 | Oftalmologia | 85% | 85% | 🟢 | Sem alterações: neutro a benéfico. **Lacunas**: PIO em glaucoma, olho seco, UV outdoor, descolamento retina míopes. | Glaucoma, UV, miopia alta |
-| 26 | Medicina do Sono | 88% | 80% | 🟢 | ✅ Cafeína corte 14h com fontes ocultas (Cap. 16), SAHOS triada via STOP-Bang (Cap. 9). **Lacunas**: fome noturna, timing TR vs. sono, Power Nap. | Fome noturna, timing TR |
+| 26 | Medicina do Sono | 88% | 80% | 🟢 | ✅ Cafeína corte 14h com fontes ocultas (Ap. A5), SAHOS triada via STOP-Bang (Cap. 9). **Lacunas**: fome noturna, timing TR vs. sono, Power Nap. | Fome noturna, timing TR |
 | 27 | Otorrinolaringologia | 88% | 85% | 🟢 | ✅ SAHOS triada via STOP-Bang (Cap. 9). **Lacunas**: RLF não mencionada, vertigem hipoglicemia vs. vestibular. | RLF, vertigem |
 | 28 | Medicina Nuclear | 90% | 85% | 🟢 | ✅ DXA pré/pós recomendada (Seção 11.1) com padronização, BIA padronizada. **Lacunas**: refeed pré-medição BIA não sugerido. | Refeed pré-BIA |
 | 29 | Geriatria | N/A | N/A | — | Faixa etária oposta (≥ 60). Para adultos 50–59: atenção a transição. | Transição 50–59 → geriatria |
@@ -84,7 +84,7 @@ O protocolo é **aprovado para adultos saudáveis de 18–59 anos** sem comorbid
 | **Pre-Flight Check (Seção 7.0)** | Cap. 7 | Cardiologia, Endocrinologia, Hematologia, Nefrologia, Nutrologia, Psiquiatria, Psicologia, Medicina Esportiva | +10–20% em 8 especialidades |
 | **Triagem psicológica (PHQ-9/GAD-7/EAT-26)** | Cap. 7 | Psiquiatria, Psicologia, Neurociência | +15–17% em 2 especialidades |
 | **Creatina + Colágeno + Ferro (Seção 6.3)** | Cap. 6 | Nutrição Esportiva, Ortopedia, Hematologia, Dermatologia | +5–10% em 4 especialidades |
-| **CYP450/CYP2E1 (Seção 15.8)** | Cap. 15 | Farmacologia, Hepatologia, Toxicologia, Endocrinologia | +7–10% em 4 especialidades |
+| **CYP450/CYP2E1 (Seção A4.8)** | Ap. A4 | Farmacologia, Hepatologia, Toxicologia, Endocrinologia | +7–10% em 4 especialidades |
 | **STOP-Bang/SAHOS (Cap. 9)** | Cap. 9 | Medicina do Sono, Pneumologia, ORL | +5–8% em 3 especialidades |
 | **Refeed semanal (Seção 2.2)** | Cap. 2 | Endocrinologia, Nutrição Esportiva, Fisiologia | +3–5% em 3 especialidades |
 | **Rabdomiólise + Regra do Pescoço** | Cap. 7 | Medicina Esportiva, Nefrologia, Imunologia | +5–12% em 3 especialidades |
@@ -110,7 +110,7 @@ O protocolo é **aprovado para adultos saudáveis de 18–59 anos** sem comorbid
 | 2 | ISRS + ↓ triptofano; risco de abandono de psicotrópicos | Psiquiatria | Uso de psicotrópicos | Não resolvido |
 | 3 | Classificação LCD/VLCD por kcal/kg ausente | Nutrologia | Todos (especialmente > 100 kg) | Não resolvido |
 | 4 | Colelitíase por perda rápida (> 1,5 kg/semana) | Nutrologia, Gastroenterologia | Todos | Não resolvido |
-| 5 | Contagem de calorias como gatilho obsessivo | Psicologia | Subgrupo com TAs sub-clínicos | Parcialmente mitigado (TCC em Cap. 17.7) |
+| 5 | Contagem de calorias como gatilho obsessivo | Psicologia | Subgrupo com TAs sub-clínicos | Parcialmente mitigado (TCC em Ap. A6.7) |
 | 6 | Cortisol sem monitoramento durante o protocolo | Endocrinologia | Todos | Não resolvido |
 | 7 | Polimorfismos CYP1A2 (metabolizadores lentos cafeína) | Farmacologia | 15–20% da população | Não resolvido |
 
@@ -136,17 +136,17 @@ O protocolo é **aprovado para adultos saudáveis de 18–59 anos** sem comorbid
 | 1 | Gestação/lactação contraindicação absoluta | Critical | Cap. 1 | ✅ Resolvido |
 | 2 | LEA/RED-S advertência explícita | Critical | Cap. 1 | ✅ Resolvido (parcial — advertido mas déficit não ajustado) |
 | 3 | Screening CV para > 40 sedentários | High | Cap. 7 (Seção 7.0) | ✅ Resolvido |
-| 4 | QTc como fator de risco | High | Cap. 15 (Seção 15.7) | ✅ Resolvido |
+| 4 | QTc como fator de risco | High | Ap. A4 (Seção A4.7) | ✅ Resolvido |
 | 5 | Triagem de TAs (EAT-26) | High | Cap. 7 (Seção 7.0) | ✅ Resolvido |
 | 6 | Painel hormonal basal | High | Cap. 7 (Seção 7.0) | ✅ Resolvido |
 | 7 | Creatinina + RAC pré-protocolo | High | Cap. 7 (Seção 7.0) | ✅ Resolvido |
 | 8 | Hemograma + ferritina pré-exame | High | Cap. 7 (Seção 7.0) | ✅ Resolvido |
 | 9 | PAR-Q+ triagem pré-participação | High | Cap. 7 (Seção 7.0) | ✅ Resolvido |
-| 10 | CYP450 e polifarmácia | Medium | Cap. 15 (Seção 15.8) | ✅ Resolvido |
-| 11 | Paracetamol em jejum | Medium | Cap. 15 (Seção 15.8) | ✅ Resolvido |
+| 10 | CYP450 e polifarmácia | Medium | Ap. A4 (Seção A4.8) | ✅ Resolvido |
+| 11 | Paracetamol em jejum | Medium | Ap. A4 (Seção A4.8) | ✅ Resolvido |
 | 12 | Variantes dietéticas (celíacos, APLV, veganos) | Medium | Cap. 10 (Seção 10.3) | ✅ Resolvido |
 | 13 | STOP-Bang para SAHOS | Medium | Cap. 9 | ✅ Resolvido |
-| 14 | Corte de cafeína 14h + fontes ocultas | Medium | Cap. 16 | ✅ Resolvido |
+| 14 | Corte de cafeína 14h + fontes ocultas | Medium | Ap. A5 | ✅ Resolvido |
 | 15 | Creatina 3–5 g/dia | Low | Cap. 6 (Seção 6.3) | ✅ Resolvido |
 | 16 | Refeed semanal (leptina→T3) | Low | Cap. 2 (Seção 2.2) | ✅ Resolvido |
 | 17 | Colágeno + VitC peri-exercício | Low | Cap. 6 (Seção 6.3) | ✅ Resolvido |

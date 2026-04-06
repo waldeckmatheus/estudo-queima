@@ -1,6 +1,6 @@
-# Dupla Checagem — Cap. 19: Adaptações para Mulheres
+# Dupla Checagem — Ap. A8: Adaptações para Mulheres
 
-**Arquivo:** `19-adaptacoes-mulheres.md`
+**Arquivo:** `A08-adaptacoes-mulheres.md`
 **Data:** 2025-04-05
 
 ## Estrutura

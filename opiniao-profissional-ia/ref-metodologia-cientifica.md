@@ -15,7 +15,7 @@ O metodologista científico avalia a qualidade das referências citadas, nível 
 
 | # | Aspecto | Análise técnica | Referência |
 |---|---|---|---|
-| 1 | **125+ referências rastreáveis** | O protocolo cita [web:5]–[web:158] com 125 referências únicas, incluindo RCTs, meta-análises, revisões sistemáticas e consensos (IOC, ACSM, ISSN). A rastreabilidade permite verificação independente — raro em protocolos populares. | Cap. 12, Referências |
+| 1 | **125+ referências rastreáveis** | O protocolo cita [web:5]–[web:158] com 125 referências únicas, incluindo RCTs, meta-análises, revisões sistemáticas e consensos (IOC, ACSM, ISSN). A rastreabilidade permite verificação independente — raro em protocolos populares. | Ap. A1, Referências |
 | 2 | **Hierarquia de evidência implícita** | As recomendações centrais (proteína alta, TR, Zona 2) são baseadas em meta-análises (Helms 2014, Morton 2018, Sardeli 2018) — nível de evidência 1a (Oxford). Recomendações secundárias (melatonina, ômega-3) são baseadas em RCTs — nível 1b–2b. Essa hierarquia, embora não explícita, é respeitada na prática. | Sistema Oxford CEBM |
 | 3 | **Transparência sobre incertezas** | O protocolo explicita quando "não há consenso" (ex: fasted cardio vs. fed — "sem diferença significativa"), quando dados são preliminares (GLP-1 em mini-cut) e quando extrapola de populações diferentes (atletas → população geral). Essa honestidade epistêmica é rara. | Caps. 2, 5, 25 |
 | 4 | **Uso de meta-análises como base** | As afirmações mais fortes são suportadas por meta-análises: proteína ↑ preserva MLG (Helms et al. 2014), exercício resistido em déficit (Sardeli et al. 2018), creatina + TR (Kreider et al. 2017). Meta-análises reduzem viés de publicação e variabilidade amostral. | Vários capítulos |

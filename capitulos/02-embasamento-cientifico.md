@@ -15,7 +15,7 @@ A versão atual baseia-se em três pilares para evitar o esgotamento sistêmico:
 - **Uso responsável:** Este material é oferecido sob licença CC BY-SA 4.0 para fins educacionais. A aplicação prática deve ser supervisionada por profissionais habilitados.
 :::
 
-> **Nota sobre proporção exercício/dieta:** O [Capítulo 14](14-exercicio-e-dieta.md) consolida a evidência sobre a contribuição relativa de dieta (motor primário do déficit) e exercício (protetor da composição corporal), incluindo orientações para quem não pode praticar atividade física.
+> **Nota sobre proporção exercício/dieta:** O [Ap. A3](A03-exercicio-e-dieta.md) consolida a evidência sobre a contribuição relativa de dieta (motor primário do déficit) e exercício (protetor da composição corporal), incluindo orientações para quem não pode praticar atividade física.
 
 ::: {.callout-note}
 **Nota Metodológica — Nível de Evidência (GRADE)**

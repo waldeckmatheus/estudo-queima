@@ -1,12 +1,12 @@
-## 15. Medicações Comuns e o Protocolo — Interações, Riscos e Adaptações
+## A4. Medicações Comuns e o Protocolo — Interações, Riscos e Adaptações
 
 Este capítulo analisa como medicações de uso frequente podem interferir nos mecanismos centrais do protocolo: déficit calórico, exercício em jejum, hidratação e preservação de massa magra. O objetivo não é substituir orientação médica, mas fornecer ao praticante uma base científica para discutir com seu médico quais ajustes são necessários caso esteja utilizando alguma dessas classes farmacológicas durante os 30 dias.
 
-### 15.1. Analgésicos e Anti-inflamatórios
+### A4.1. Analgésicos e Anti-inflamatórios
 
 A pergunta mais direta é: "posso tomar um analgésico para dor muscular ou de cabeça durante o protocolo?" A resposta depende da classe do fármaco e da duração do uso.
 
-#### 15.1.1. AINEs (ibuprofeno, naproxeno, diclofenaco)
+#### A4.1.1. AINEs (ibuprofeno, naproxeno, diclofenaco)
 
 Os anti-inflamatórios não esteroidais (AINEs) atuam inibindo as enzimas ciclo-oxigenase 1 e 2 (COX-1 e COX-2), bloqueando a síntese de prostaglandinas (PGs). Essas prostaglandinas — especialmente PGE₂ e PGF₂α — não são apenas mediadores inflamatórios: elas exercem papel parácrino e autócrino na regulação do turnover proteico muscular, na ativação de células satélite e na sinalização anabólica pós-exercício. [web:92]
 
@@ -18,7 +18,7 @@ Os anti-inflamatórios não esteroidais (AINEs) atuam inibindo as enzimas ciclo-
 
 **Risco gastrointestinal:** AINEs em jejum prolongado irritam a mucosa gástrica, podendo causar gastrite, úlcera ou sangramento. Como o protocolo inclui ~16 h de jejum diário com estômago vazio, esse risco é amplificado.
 
-#### 15.1.2. Paracetamol (acetaminofeno)
+#### A4.1.2. Paracetamol (acetaminofeno)
 
 O paracetamol é inibidor fraco de COX-1/COX-2 periférica, com ação predominantemente central. Isso significa que ele interfere menos na sinalização de prostaglandinas no músculo esquelético do que os AINEs, preservando melhor a resposta adaptativa ao exercício.
 
@@ -37,7 +37,7 @@ O paracetamol é inibidor fraco de COX-1/COX-2 periférica, com ação predomina
 | Efeito na performance | Neutro | Possivelmente ergogênico |
 | **Recomendação** | **Evitar** | **Usar com cautela e dose reduzida** |
 
-### 15.2. Betabloqueadores
+### A4.2. Betabloqueadores
 
 Betabloqueadores (atenolol, propranolol, metoprolol, bisoprolol) reduzem a frequência cardíaca (FC) máxima por bloqueio dos receptores β₁-adrenérgicos no nó sinusal. Isso tem implicações diretas para este protocolo:
 
@@ -53,7 +53,7 @@ Betabloqueadores (atenolol, propranolol, metoprolol, bisoprolol) reduzem a frequ
 **Betabloqueador + cafeína/termogênico:** Limitar cafeína a **≤ 200 mg/dia** e **não combinar com termogênico** (Cap. 6.2). A combinação pode causar bradicardia paradoxal, hipotensão ou arritmia em indivíduos susceptíveis. Betabloqueadores também comprometem a termorregulação — aplicar protocolo de calor do Cap. 5.5 com limiar 3 °C mais baixo.
 :::
 
-### 15.3. Inibidores de Bomba de Prótons (IBPs)
+### A4.3. Inibidores de Bomba de Prótons (IBPs)
 
 Omeprazol, pantoprazol, lansoprazol e similares suprimem a secreção ácida gástrica. Embora eficazes para refluxo e úlcera, seu uso crônico (>8 semanas) reduz a absorção de micronutrientes críticos para este protocolo: [web:98]
 
@@ -66,7 +66,7 @@ Omeprazol, pantoprazol, lansoprazol e similares suprimem a secreção ácida gá
 
 **Recomendação operacional:** Se você utiliza IBP cronicamente, (1) informe ao médico sobre o protocolo e a restrição alimentar; (2) considere suplementação de magnésio e B₁₂ além do que já consta no Cap. 6; (3) se possível, discuta com o médico a viabilidade de suspender o IBP durante os 30 dias — a restrição alimentar por si tende a reduzir sintomas de refluxo (menor volume gástrico).
 
-### 15.4. Corticosteroides
+### A4.4. Corticosteroides
 
 Prednisona, dexametasona e similares, quando usados em doses sistêmicas (orais ou injetáveis) por mais de 5–7 dias, ativam vias catabólicas via regulação positiva de atrogenes (MuRF-1, atrogina-1) e inibição de mTORC1, acelerando a degradação proteica muscular. Esse efeito é sinérgico com o catabolismo induzido pelo próprio déficit calórico, criando uma "dupla agressão" ao tecido muscular.
 
@@ -78,7 +78,7 @@ Além do catabolismo, corticosteroides causam:
 
 **Recomendação operacional:** Uso crônico de corticosteroide sistêmico é **critério de adiamento do protocolo**. Não inicie os 30 dias enquanto estiver em curso de corticoide oral — a preservação de massa magra será severamente comprometida. Corticosteroides tópicos (cremes, inaladores para asma) em doses habituais não têm impacto sistêmico relevante e não contraindicam o protocolo.
 
-### 15.5. Anti-histamínicos
+### A4.5. Anti-histamínicos
 
 Anti-histamínicos de primeira geração (dexclorfeniramina, prometazina, hidroxizina) atravessam a barreira hematoencefálica e bloqueiam receptores H₁ centrais, causando sonolência e aumento de apetite — dois efeitos indesejáveis em um protocolo de restrição calórica com fome já elevada. Além disso, a sedação residual pode comprometer a aderência ao exercício matinal.
 
@@ -86,7 +86,7 @@ Anti-histamínicos de segunda geração (loratadina, cetirizina, fexofenadina) t
 
 **Recomendação operacional:** Se precisar de anti-histamínico durante o protocolo, prefira os de segunda geração. Se já usa prometazina ou hidroxizina para sono, discuta com o médico alternativas que não aumentem apetite.
 
-### 15.6. Quadro Resumo — Medicações e o Protocolo
+### A4.6. Quadro Resumo — Medicações e o Protocolo
 
 | Classe | Exemplos comuns | Risco principal neste protocolo | Ação sugerida |
 |---|---|---|---|
@@ -99,7 +99,7 @@ Anti-histamínicos de segunda geração (loratadina, cetirizina, fexofenadina) t
 
 \* Dorflex contém dipirona + orfenadrina + cafeína; a dipirona não é AINE clássico, mas compartilha inibição parcial de COX. Uso pontual é aceitável.
 
-### 15.7. Prolongamento do Intervalo QTc — Risco Silencioso em Déficit
+### A4.7. Prolongamento do Intervalo QTc — Risco Silencioso em Déficit
 
 O intervalo QTc (QT corrigido pela frequência cardíaca) reflete a repolarização ventricular. Seu prolongamento aumenta o risco de torsades de pointes — uma arritmia potencialmente fatal.
 
@@ -119,7 +119,7 @@ O déficit calórico agressivo pode causar depleção de magnésio (Mg²⁺) e p
 
 **Recomendação operacional:** Se você utiliza qualquer fármaco da tabela acima, solicite um **ECG com medição de QTc** antes de iniciar o protocolo (incluído na triagem pré-protocolo do Cap. 7.0). Durante os 30 dias, mantenha suplementação de magnésio (Cap. 6) e garanta ingestão adequada de potássio via alimentos (banana, folhas escuras). Se apresentar palpitações, síncope ou pré-síncope, aplique o critério de parada do item 4 da Seção 7.1.
 
-### 15.8. CYP450, Polifarmácia e Déficit Calórico
+### A4.8. CYP450, Polifarmácia e Déficit Calórico
 
 O sistema enzimático citocromo P450 (CYP) é responsável pelo metabolismo de ~75% dos fármacos. Em déficit calórico com jejum prolongado, ocorrem duas alterações relevantes:
 
@@ -141,7 +141,7 @@ O sistema enzimático citocromo P450 (CYP) é responsável pelo metabolismo de ~
 **Regra de ouro:** Nunca suspenda uma medicação prescrita por conta própria para "não atrapalhar a dieta." O protocolo é temporário (30 dias); sua condição de saúde de base não é. Qualquer ajuste deve ser discutido com o médico prescritor.
 :::
 
-### 15.9. ISRS/ISRN e Restrição Calórica — Risco de Recidíva por ↓ Triptofano
+### A4.9. ISRS/ISRN e Restrição Calórica — Risco de Recidíva por ↓ Triptofano
 
 Os inibidores seletivos de recaptação de serotonina (ISRS: fluoxetina, sertralina, citalopram, escitalopram) e ISRN (venlafaxina, duloxetina) dependem da disponibilidade de **triptofano** como substrato para síntese de 5-HT (serotonina). Em restrição calórica severa, a razão triptofano/LNAA (large neutral amino acids) no plasma diminui, reduzindo potencialmente a eficácia do fármaco.
 

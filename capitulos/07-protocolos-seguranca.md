@@ -5,8 +5,8 @@
 
 - Gestantes ou mulheres com suspeita de gestação
 - Lactantes
-- Crianças e adolescentes (<18 anos) — ver Cap. 24
-- Uso crônico de corticosteroide sistêmico (ver Cap. 15.4)
+- Crianças e adolescentes (<18 anos) — ver Ap. A13
+- Uso crônico de corticosteroide sistêmico (ver Ap. A4.4)
 - DRC com TFG < 60 mL/min (ver triagem pré-protocolo abaixo)
 - Protocolo classificado como VLCD (< 11 kcal/kg/dia) sem supervisão médica (ver classificação no Cap. 1.1)
 :::
@@ -36,18 +36,18 @@ Antes de iniciar os 30 dias, complete os itens abaixo com seu médico:
 
 | Subgrupo | Exame adicional | Justificativa |
 |---|---|---|
-| Mulheres com ciclo irregular | Estradiol, FSH | Avaliar status hormonal e risco de RED-S (ver Cap. 19) |
+| Mulheres com ciclo irregular | Estradiol, FSH | Avaliar status hormonal e risco de RED-S (ver Ap. A8) |
 | Homens | Testosterona total | Baseline para monitorar impacto do déficit no eixo gonadal |
 | > 40 anos + ≥ 2 FR cardiovasculares | ECG de repouso + teste ergométrico | Screening CV conforme ACSM; risco de isquemia silenciosa |
 | Uso de psicotrópicos (ISRS, antipsicóticos) | ECG com QTc | ↓ Mg/K em déficit + fármacos que prolongam QTc → risco de torsades de pointes |
-| Uso de ISRS/ISRN + PHQ-9 ≥ 5 | Flag: monitorar humor quinzenalmente | ↓ Triptofano em déficit pode reduzir eficácia do ISRS; risco de recidíva depressiva/ansiosa (ver Cap. 15.9) |
-| Mulheres (triagem ginecológica) | Questionar: uso de ACO, diagnóstico de SOP, climatério/perimenopausa, planejamento de gestação | ACO mascara AHF; SOP requer déficit ≤ 30%; climatério exige densitometria; TTC é contraindicação relativa (ver Cap. 19.8) |
+| Uso de ISRS/ISRN + PHQ-9 ≥ 5 | Flag: monitorar humor quinzenalmente | ↓ Triptofano em déficit pode reduzir eficácia do ISRS; risco de recidíva depressiva/ansiosa (ver Ap. A4.9) |
+| Mulheres (triagem ginecológica) | Questionar: uso de ACO, diagnóstico de SOP, climatério/perimenopausa, planejamento de gestação | ACO mascara AHF; SOP requer déficit ≤ 30%; climatério exige densitometria; TTC é contraindicação relativa (ver Ap. A8.8) |
 | IMC ≥ 30 ou HF de DM2 | Insulina de jejum (+ glicemia → HOMA-IR) | HOMA-IR = (glicemia mg/dL × insulina µUI/mL) / 405. Valor > 2,5 → resistência insulínica; ajustar expectativas de partição energética e considerar acompanhamento endocrinológico |
 | Veganos ou uso crônico de IBP | Vitamina B₁₂ sérica | Deficiência comum nesses subgrupos; B₁₂ é cofator de metilação e eritropoiese. < 300 pg/mL → suplementar |
 
 **Triagem funcional simplificada (FMS reduzido):**
 
-Antes de iniciar o treinamento resistido (Cap. 20), execute os 3 testes funcionais abaixo para identificar assimetrias e limitações de mobilidade que possam causar lesão sob carga em déficit calórico:
+Antes de iniciar o treinamento resistido (Ap. A9), execute os 3 testes funcionais abaixo para identificar assimetrias e limitações de mobilidade que possam causar lesão sob carga em déficit calórico:
 
 | Teste | O que avalia | Critério de alerta |
 |---|---|---|
@@ -55,7 +55,7 @@ Antes de iniciar o treinamento resistido (Cap. 20), execute os 3 testes funciona
 | Active straight-leg raise (elevação ativa de perna em decúbito) | Flexibilidade de isquiotibiais e mobilidade de quadril | Perna ativa não atinge 70° sem compensar com lombar |
 | Shoulder mobility (mobilidade de ombro) | Mobilidade glenoumeral e torácica | Punhos não se aproximam a < 1 comprimento de mão |
 
-> **Se 1+ testes com alerta:** Incluir exercícios corretivos específicos no aquecimento do TR (ver Cap. 20.3, protocolo de aquecimento). Não é contraindicação ao protocolo, mas indica necessidade de adaptação da seleção de exercícios.
+> **Se 1+ testes com alerta:** Incluir exercícios corretivos específicos no aquecimento do TR (ver Ap. A9.3, protocolo de aquecimento). Não é contraindicação ao protocolo, mas indica necessidade de adaptação da seleção de exercícios.
 
 **Triagem psicológica (autoaplicável):**
 
@@ -138,7 +138,7 @@ O déficit calórico severo + exercício diário amplia a "janela aberta" de imu
 
 A combinação de creatina 3–5 g/dia + proteína alta (~150 g) + cafeína (200–400 mg) + déficit calórico cria estresse renal aditivo — especialmente em contexto de desidratação ou exercício em calor.
 
-**Recomendação:** Manter hidratação ≥ 2,5 L/dia durante os 30 dias. Evitar ibuprofeno e outros AINEs peri-exercício (ver Cap. 15.1.1) — a tríade AINE + desidratação + exercício é causa documentada de lesão renal aguda.
+**Recomendação:** Manter hidratação ≥ 2,5 L/dia durante os 30 dias. Evitar ibuprofeno e outros AINEs peri-exercício (ver Ap. A4.1.1) — a tríade AINE + desidratação + exercício é causa documentada de lesão renal aguda.
 
 ### 7.6. HRV — Ferramenta Opcional de Monitoramento
 
@@ -147,5 +147,5 @@ A Variabilidade da Frequência Cardíaca (HRV) é um indicador sensível de estr
 **Como usar:**
 - Registre a HRV basal nos 3 dias anteriores ao protocolo (média pessoal)
 - Durante os 30 dias, monitore a tendência matinal
-- **Se HRV ↓ > 10% da baseline por 2+ dias consecutivos:** Considerar dia de descanso (Cap. 5.6) ou redução de volume de TR (Cap. 20)
+- **Se HRV ↓ > 10% da baseline por 2+ dias consecutivos:** Considerar dia de descanso (Cap. 5.6) ou redução de volume de TR (Ap. A9)
 - HRV não substitui percepção subjetiva — use como ferramenta complementar, não como critério único

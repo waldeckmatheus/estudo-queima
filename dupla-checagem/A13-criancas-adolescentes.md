@@ -1,6 +1,6 @@
-# Dupla Checagem — Cap. 24: Crianças e Adolescentes
+# Dupla Checagem — Ap. A13: Crianças e Adolescentes
 
-**Arquivo:** `24-criancas-adolescentes.md`
+**Arquivo:** `A13-criancas-adolescentes.md`
 **Data:** 2025-04-05
 
 ## Estrutura

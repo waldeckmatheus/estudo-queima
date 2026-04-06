@@ -1,6 +1,6 @@
-# Dupla Checagem — Cap. 13: Comparativo com Dietas Semelhantes
+# Dupla Checagem — Ap. A2: Comparativo com Dietas Semelhantes
 
-**Arquivo:** `13-comparativo-dietas.md`
+**Arquivo:** `A02-comparativo-dietas.md`
 **Data:** 2025-04-05
 
 ## Estrutura
@@ -10,7 +10,7 @@
 | Seções (###/####) | 12+ (13.1–13.4 + subseções detalhadas) |
 | Refs únicas | 15 ([web:8, 20, 52, 56, 60, 63, 66, 68, 69, 74, 75, 77–80]) |
 | Callouts | 0 |
-| Refs cruzadas | Cap. 7, Seção 13.4 |
+| Refs cruzadas | Cap. 7, Seção A2.4 |
 
 ## Verificação de Conteúdo
 

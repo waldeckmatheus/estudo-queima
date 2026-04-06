@@ -1,6 +1,6 @@
-# Dupla Checagem — Cap. 12: Música e Treino
+# Dupla Checagem — Ap. A1: Música e Treino
 
-**Arquivo:** `12-musica-e-treino.md`
+**Arquivo:** `A01-musica-e-treino.md`
 **Data:** 2025-04-05
 
 ## Estrutura

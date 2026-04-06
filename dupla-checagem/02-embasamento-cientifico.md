@@ -10,7 +10,7 @@
 | Seções (###) | 1 (2.1 Feedback Loop Metabólico) |
 | Refs únicas | 8 ([web:20, 52, 56, 60, 63, 65, 68, 69]) |
 | Callouts | 0 |
-| Refs cruzadas | Cap. 14 (Exercício e Dieta) |
+| Refs cruzadas | Ap. A3 (Exercício e Dieta) |
 
 ## Verificação de Conteúdo
 

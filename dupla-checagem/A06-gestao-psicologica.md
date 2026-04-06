@@ -1,6 +1,6 @@
-# Dupla Checagem — Cap. 17: Gestão Psicológica
+# Dupla Checagem — Ap. A6: Gestão Psicológica
 
-**Arquivo:** `17-gestao-psicologica.md`
+**Arquivo:** `A06-gestao-psicologica.md`
 **Data:** 2025-04-05
 
 ## Estrutura

@@ -1,8 +1,8 @@
-## 19. Adaptações para Mulheres — Fisiologia Feminina e o Mini-Cut
+## A8. Adaptações para Mulheres — Fisiologia Feminina e o Mini-Cut
 
 O protocolo Queima foi desenhado para ser aplicável a ambos os sexos, mas a fisiologia feminina apresenta particularidades que exigem atenção específica. Flutuações hormonais cíclicas, diferenças no metabolismo de substratos, maior risco de deficiência de ferro e o espectro da tríade da atleta feminina / RED-S transformam um déficit agressivo em um cenário com nuances adicionais. Este capítulo traduz a evidência científica em ajustes práticos.
 
-### 19.1. O Ciclo Menstrual: Motor Fisiológico Central
+### A8.1. O Ciclo Menstrual: Motor Fisiológico Central
 
 O ciclo menstrual normal (26–35 dias) divide-se em duas fases principais, cada uma com perfil hormonal e metabólico distinto:
 
@@ -17,7 +17,7 @@ Oosthuyse & Bosch (2010) descreveram extensivamente como o estrogênio promove a
 
 > **Implicação prática:** A taxa metabólica basal (TMB) pode aumentar **2,5–11%** na fase lútea devido ao efeito termogênico da progesterona. Isso significa que um déficit de 700 kcal pode, na prática, ser de ~750–775 kcal na fase lútea — o que reforça a necessidade de monitorar sinais de fadiga excessiva nesse período.
 
-### 19.2. Ciclo Menstrual e Performance: O Que a Evidência Diz
+### A8.2. Ciclo Menstrual e Performance: O Que a Evidência Diz
 
 A meta-análise de McNulty et al. (2020) — o estudo mais robusto disponível — analisou 78 estudos e concluiu: [web:116]
 
@@ -40,7 +40,7 @@ Colenso-Semple et al. (2023) reforçaram especificamente para treinamento resist
 
 > **Tradução para o protocolo:** Não é necessário periodizar o treino conforme o ciclo menstrual. Porém, é prudente reconhecer que a **percepção de esforço** pode ser maior na menstruação e fase lútea tardia. A orientação é: mantenha o treino planejado, mas ajuste intensidade **se necessário** — não por obrigação, mas por resposta subjetiva.
 
-### 19.3. Retenção Hídrica e Flutuações de Peso
+### A8.3. Retenção Hídrica e Flutuações de Peso
 
 Uma das maiores fontes de frustração para mulheres em protocolo de perda de gordura é a flutuação de peso associada ao ciclo menstrual. Isso ocorre por:
 
@@ -64,7 +64,7 @@ Peso balança  ╱╲__╱╲____╱╲__╱╲____╱╲__╱╲____ (zigue-zag
 > - Considere circunferência de cintura como métrica complementar
 > - **Nunca ajuste calorias baseado em uma pesagem pré-menstrual**
 
-### 19.4. Disponibilidade Energética: O Espectro RED-S
+### A8.4. Disponibilidade Energética: O Espectro RED-S
 
 O conceito de **Relative Energy Deficiency in Sport (RED-S)** — evolução da tríade da atleta feminina — é especialmente relevante para o mini-cut. O consenso IOC 2018 (Mountjoy et al.) expandiu o modelo original da tríade para incluir múltiplos sistemas afetados pela baixa disponibilidade energética (LEA): [web:119]
 
@@ -121,7 +121,7 @@ Se durante o mini-cut de 30 dias a praticante observar QUALQUER destes sinais, r
 5. Frequência cardíaca de repouso < 50 bpm (sem histórico de bradicardia atlética)
 :::
 
-### 19.5. Necessidades Nutricionais Específicas
+### A8.5. Necessidades Nutricionais Específicas
 
 O mini-cut impõe restrição calórica, o que amplifica carências já comuns no público feminino:
 
@@ -153,7 +153,7 @@ A revisão da ISSN (Sims et al., 2023) enfatiza que necessidades proteicas de mu
 - Distribuição em 4–5 refeições de 0,3–0,4 g/kg cada
 - Priorizar leucina (≥ 2,5 g) em cada dose para maximizar MPS
 
-### 19.6. Protocolo Adaptado: Ajustes Práticos por Fase
+### A8.6. Protocolo Adaptado: Ajustes Práticos por Fase
 
 | Fase | Ajuste alimentar | Ajuste de treino | Monitoramento |
 |---|---|---|---|
@@ -163,7 +163,7 @@ A revisão da ISSN (Sims et al., 2023) enfatiza que necessidades proteicas de mu
 | **Lútea tardia** (D22–28) | Manter protocolo; ↑ magnésio se cólicas | Reduzir volume em 10–15% se necessário | **Não pesar nesta fase** |
 | **Menstruação** (D1–5) | Atenção a ferro; ↑ fluidos | Treinar normalmente exceto dor intensa | Reiniciar pesagem no D5 |
 
-### 19.7. Contraceptivos Orais e o Protocolo
+### A8.7. Contraceptivos Orais e o Protocolo
 
 Mulheres usando anticoncepcionais hormonais combinados (pílula, anel, adesivo) apresentam perfil hormonal diferente:
 - **Não há ciclo menstrual verdadeiro** — o "sangramento de privação" não é menstruação
@@ -175,7 +175,7 @@ Mulheres usando anticoncepcionais hormonais combinados (pílula, anel, adesivo) 
 - Período de pausa/placebo pode causar leve retenção hídrica → mesma orientação: não ajustar déficit baseado nesse período
 - A preocupação com RED-S/amenorreia é menos aplicável como sinal de alerta (ciclo já é suprimido), mas os demais sinais de LEA permanecem válidos
 
-### 19.8. Subgrupos Ginecológicos Especiais
+### A8.8. Subgrupos Ginecológicos Especiais
 
 Além da fisiologia cíclica normal, determinados subgrupos ginecológicos exigem atenção redobrada durante o mini-cut:
 
@@ -190,7 +190,7 @@ Além da fisiologia cíclica normal, determinados subgrupos ginecológicos exige
 **Triagem obrigatória:** Antes de iniciar o protocolo, todas as mulheres devem responder às perguntas de triagem ginecológica da Seção 7.0 (Pre-Flight Check): uso de ACO, diagnóstico de SOP, fase do climatério e planejamento de gestação.
 :::
 
-### 19.9. FAQ — Adaptações Femininas
+### A8.9. FAQ — Adaptações Femininas
 
 **P: Devo parar o mini-cut durante a menstruação?**
 Não. A menstruação não é contraindicação. Se as cólicas forem intensas, pode reduzir volume de treino e manter a dieta. Caso ocorra menorragia (fluxo excessivo), priorize ferro e hidratação.
@@ -204,7 +204,7 @@ Se está na fase lútea, **não**. Espere completar o ciclo e repese na pós-men
 **P: Tomo anticoncepcional. Preciso me preocupar com RED-S?**
 Os sinais menstruais ficam mascarados, mas os demais sinais de LEA (fadiga crônica, frio excessivo, queda de cabelo, perda de libido) continuam válidos. Monitore-os.
 
-### 19.10. Integração com Outros Capítulos
+### A8.10. Integração com Outros Capítulos
 
 | Capítulo | Conexão feminina |
 |---|---|
@@ -213,5 +213,5 @@ Os sinais menstruais ficam mascarados, mas os demais sinais de LEA (fadiga crôn
 | **Cap. 6** (Suplementação) | Ferro, cálcio e vitamina D como suplementos prioritários |
 | **Cap. 7** (Segurança) | Sinais de LEA como critério de interrupção emergencial |
 | **Cap. 10** (Nutricional) | Cálculos ajustados por EA e não apenas por déficit bruto |
-| **Cap. 16** (Sono) | Fase lútea: progesterona ↑ → sonolência diurna pode ↑; qualidade do sono pode ↓ pré-menstrual |
-| **Cap. 17** (Psicologia) | Disforia pré-menstrual + restrição calórica: risco de alimentação emocional ↑ |
+| **Ap. A5** (Sono) | Fase lútea: progesterona ↑ → sonolência diurna pode ↑; qualidade do sono pode ↓ pré-menstrual |
+| **Ap. A6** (Psicologia) | Disforia pré-menstrual + restrição calórica: risco de alimentação emocional ↑ |

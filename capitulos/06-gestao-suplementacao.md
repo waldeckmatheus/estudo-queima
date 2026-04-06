@@ -29,7 +29,7 @@ A cafeína é metabolizada primariamente pela enzima CYP1A2. Polimorfismos no ge
 
 **Sinais de metabolizador lento:** insônia mesmo com corte de cafeína às 14 h, palpitações com doses moderadas (≤ 200 mg), ansiedade peri-exercício.
 
-**Adaptação:** Se 2+ desses sinais estiverem presentes, antecipar corte de cafeína para **12 h antes de dormir** (não 14 h) e limitar dose total a **≤ 200 mg/dia**. Risco cardiovascular é amplificado em metabolizadores lentos com doses > 200 mg/dia (ver Cap. 15.8).
+**Adaptação:** Se 2+ desses sinais estiverem presentes, antecipar corte de cafeína para **12 h antes de dormir** (não 14 h) e limitar dose total a **≤ 200 mg/dia**. Risco cardiovascular é amplificado em metabolizadores lentos com doses > 200 mg/dia (ver Ap. A4.8).
 :::
 
 ### 6.3. Suplementação Adicional Recomendada
@@ -72,7 +72,7 @@ Com ingestão calórica restrita, alguns micronutrientes ficam abaixo da Adequat
 | Zinco | 8–11 mg | ~6–8 mg (depende do consumo de carnes) | −0–5 mg | Polivitamínico A-Z geralmente cobre; se vegano, considerar zinco quelado 15 mg |
 | Potássio | 2.600–3.400 mg | ~1.500–2.000 mg | −600–1.400 mg | Manter ≥ 2 porções de vegetais verdes/dia; banana já inclusa; considerar sal lite (KCl 50%) se câimbras |
 | B1 (tiamina) | 1,1–1,2 mg | ~0,6–0,8 mg | −0,3–0,6 mg | Coberto pelo polivitamínico A-Z |
-| B6 (piridoxina) | 1,3–1,7 mg | ~1,0–1,3 mg | −0–0,7 mg | Cofator da conversão triptofano → serotonina (cap. 17.8.4); coberto pelo polivitamínico |
+| B6 (piridoxina) | 1,3–1,7 mg | ~1,0–1,3 mg | −0–0,7 mg | Cofator da conversão triptofano → serotonina (Ap. A6.8.4); coberto pelo polivitamínico |
 
 **Conclusão:** O polivitamínico A-Z do almoço (Cap. 6.1) é **recomendação padrão para todos** (não apenas subgrupo) em dietas < 1.500 kcal. Para potássio, priorizar fontes alimentares (folhas verdes, banana, abacate) e sal lite se sintomático.
 :::

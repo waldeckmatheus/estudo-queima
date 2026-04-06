@@ -69,7 +69,7 @@ A numeração [web:N] possui lacunas intencionais (e.g., [web:1]-[web:4] nunca f
 | # | Cap | Severidade | Descrição |
 |---|-----|-----------|-----------|
 | 1 | 5 | Baixa | Fórmula de Karvonen: esclarecer qual intensidade define Zona 2 |
-| 2 | 10 | Média | Capítulo muito breve; sem exemplos de recálculo referenciados pelo Cap. 14 |
+| 2 | 10 | Média | Capítulo muito breve; sem exemplos de recálculo referenciados pelo Ap. A3 |
 | 3 | 11 | Baixa | Typo "reducao" → "redução" |
 | 4 | 11 | Média | Fase 3 sem orientação concreta de manutenção |
 | 5 | 14 | Média | Referência circular ao Cap. 10 para recálculo inexistente |

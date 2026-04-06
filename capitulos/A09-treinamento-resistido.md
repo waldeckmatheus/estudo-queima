@@ -1,10 +1,10 @@
-## 20. Treinamento Resistido durante o Mini-Cut
+## A9. Treinamento Resistido durante o Mini-Cut
 
-O Capítulo 5 detalhou a sessão aeróbica de Zona 2 como componente principal do protocolo. O Capítulo 14 demonstrou que o exercício protege a composição corporal durante o déficit. Este capítulo aborda especificamente o **treinamento resistido (TR)** — a ferramenta mais potente para preservação de massa magra em restrição calórica — e como estruturá-lo de forma realista dentro dos 30 dias do protocolo.
+O Capítulo 5 detalhou a sessão aeróbica de Zona 2 como componente principal do protocolo. O Ap. A3 demonstrou que o exercício protege a composição corporal durante o déficit. Este capítulo aborda especificamente o **treinamento resistido (TR)** — a ferramenta mais potente para preservação de massa magra em restrição calórica — e como estruturá-lo de forma realista dentro dos 30 dias do protocolo.
 
 ---
 
-### 20.1. A Evidência: Por que o TR É Crítico em Déficit
+### A9.1. A Evidência: Por que o TR É Crítico em Déficit
 
 Uma meta-análise com meta-regressão (Murphy & Koehler, 2022) analisou os efeitos de déficits energéticos prolongados sobre os desfechos do TR. O achado central é que **o déficit prejudica os ganhos de massa magra, mas não os ganhos de força**. [web:121]
 
@@ -28,9 +28,9 @@ A resistência anabólica explica por que não se deve esperar hipertrofia signi
 
 ---
 
-### 20.2. Variáveis do Treinamento em Déficit
+### A9.2. Variáveis do Treinamento em Déficit
 
-#### 20.2.1. Volume — Dose-Resposta
+#### A9.2.1. Volume — Dose-Resposta
 
 A meta-análise de Schoenfeld, Ogborn & Krieger (2017) estabeleceu a relação dose-resposta entre volume semanal de TR e hipertrofia. Os dados mostram que **≥10 séries semanais por grupo muscular** são superiores a <5 séries para ganhos de massa, com possível benefício adicional acima de 10 séries. [web:123]
 
@@ -46,13 +46,13 @@ A meta-análise de Schoenfeld, Ogborn & Krieger (2017) estabeleceu a relação d
 **Atenção:** Em déficit agressivo (~50% do TDEE), a capacidade de recuperação é substancialmente reduzida. Volume excessivo sem recuperação adequada resultará em overreaching não-funcional (NFOR), com queda de performance e risco de lesão. [web:121]
 :::
 
-#### 20.2.2. Intensidade — Carga e Proximidade da Falha
+#### A9.2.2. Intensidade — Carga e Proximidade da Falha
 
 Para preservação de massa magra, a intensidade relativa (% de 1RM) deve permanecer na faixa de **65–85% de 1RM** (equivalente a 6–15 repetições por série até próximo da falha). [web:123]
 
 **Proximidade da falha:** Em déficit, trabalhar sistematicamente até a falha concêntrica aumenta o acúmulo de fadiga sem benefício proporcional para preservação de massa. A recomendação é manter **1–3 RIR (repetições em reserva)** na maioria das séries, reservando séries até a falha (0 RIR) apenas para a última série de exercícios principais, se o praticante tiver experiência para isso.
 
-#### 20.2.3. Frequência — Distribuição Semanal
+#### A9.2.3. Frequência — Distribuição Semanal
 
 A meta-análise de Schoenfeld, Grgic & Krieger (2019) demonstrou que, **quando o volume semanal é equalizado, a frequência de TR não afeta significativamente a hipertrofia**. Treinar cada grupo muscular 1×, 2× ou 3× por semana produz resultados equivalentes desde que o volume total seja o mesmo. [web:124]
 
@@ -66,7 +66,7 @@ A meta-análise de Schoenfeld, Grgic & Krieger (2019) demonstrou que, **quando o
 
 ---
 
-### 20.3. Autoregulação com RPE em Déficit
+### A9.3. Autoregulação com RPE em Déficit
 
 Em restrição calórica, a performance diária é imprevisível. Fatores como qualidade do sono, timing da refeição pré-treino, estresse e dia do protocolo (dias 15–25 tendem a ser os mais difíceis) fazem com que cargas absolutas fixas se tornem inadequadas.
 
@@ -96,9 +96,9 @@ A revisão sistemática e meta-análise de Zhang et al. (2021) comparou métodos
 
 ---
 
-### 20.4. Seleção de Exercícios
+### A9.4. Seleção de Exercícios
 
-#### 20.4.1. Prioridade: Compostos Multiarticulares
+#### A9.4.1. Prioridade: Compostos Multiarticulares
 
 Em déficit, o tempo e a energia são limitados. A prioridade deve ser **exercícios compostos** que recrutam grande massa muscular por unidade de tempo:
 
@@ -111,7 +111,7 @@ Em déficit, o tempo e a energia são limitados. A prioridade deve ser **exercí
 | Dominante de quadríceps | Agachamento (livre, Smith ou leg press) | Quadríceps, glúteos, adutores |
 | Dominante de posterior | Stiff / Levantamento terra romeno | Isquiotibiais, glúteos, paravertebrais |
 
-#### 20.4.2. Exercícios Isoladores — Papel Complementar
+#### A9.4.2. Exercícios Isoladores — Papel Complementar
 
 Isoladores (rosca bíceps, tríceps corda, extensão de quadríceps, etc.) têm papel **acessório**, não prioritário. Em déficit:
 
@@ -121,7 +121,7 @@ Isoladores (rosca bíceps, tríceps corda, extensão de quadríceps, etc.) têm 
 
 ---
 
-### 20.5. Programa de TR para os 30 Dias — Modelo Upper/Lower
+### A9.5. Programa de TR para os 30 Dias — Modelo Upper/Lower
 
 O modelo Upper/Lower em 4 sessões semanais é recomendado por equilibrar volume, frequência e recuperação em déficit. Combine com a sessão de Zona 2 do Capítulo 5 nos mesmos dias ou em dias alternados, conforme aderência.
 
@@ -159,9 +159,9 @@ O modelo Upper/Lower em 4 sessões semanais é recomendado por equilibrar volume
 
 ---
 
-### 20.6. Timing do TR em Relação à Nutrição
+### A9.6. Timing do TR em Relação à Nutrição
 
-#### 20.6.1. Pré-treino em Déficit
+#### A9.6.1. Pré-treino em Déficit
 
 Em protocolo de déficit agressivo, treinar em jejum absoluto com cargas pesadas é arriscado (risco de hipoglicemia, queda de performance, hipoperfusão transitória — ver Capítulo 7). Alternativas:
 
@@ -169,7 +169,7 @@ Em protocolo de déficit agressivo, treinar em jejum absoluto com cargas pesadas
 - **Opção 2:** TR pela manhã com 20–30 g de whey 30 min antes (contabilizar nas calorias do dia).
 - **Opção 3:** TR imediatamente após a Zona 2 matinal (menos ideal — fadiga acumulada reduz performance).
 
-#### 20.6.2. Pós-treino
+#### A9.6.2. Pós-treino
 
 A refeição pós-TR mais próxima deve conter **≥ 0,4 g/kg de proteína** (20–40 g para a maioria dos indivíduos). No contexto do protocolo:
 
@@ -179,7 +179,7 @@ A refeição pós-TR mais próxima deve conter **≥ 0,4 g/kg de proteína** (20
 
 ---
 
-### 20.7. Sinais de Overreaching e Ajustes
+### A9.7. Sinais de Overreaching e Ajustes
 
 Em déficit agressivo, a linha entre estímulo suficiente e overreaching é tênue. Monitore semanalmente:
 
@@ -197,7 +197,7 @@ Em déficit agressivo, a linha entre estímulo suficiente e overreaching é tên
 
 ---
 
-### 20.8. Progressão e Deload nos 30 Dias
+### A9.8. Progressão e Deload nos 30 Dias
 
 O mini-cut de 30 dias é curto demais para periodização clássica. A estratégia é simples:
 
@@ -209,7 +209,7 @@ O mini-cut de 30 dias é curto demais para periodização clássica. A estratég
 
 ---
 
-### 20.9. FAQ — Treinamento Resistido em Déficit
+### A9.9. FAQ — Treinamento Resistido em Déficit
 
 **"Posso substituir o TR por HIIT?"**
 Não como substituto equivalente. HIIT tem benefícios cardiovasculares, mas não fornece o estímulo mecânico específico para preservação de massa magra. O HIIT gera alto custo metabólico e fadiga sistêmica sem o sinal anabólico local do TR. Prefira: TR 4× + Zona 2 5× > TR 2× + HIIT 3× + Zona 2 2×.
@@ -228,7 +228,7 @@ Idealmente, separe por ≥ 6 h (ex.: Zona 2 de manhã, TR à tarde). Se for no m
 
 ---
 
-### 20.10. Integração com Outros Capítulos
+### A9.10. Integração com Outros Capítulos
 
 | Capítulo | Integração |
 |---|---|
@@ -237,5 +237,5 @@ Idealmente, separe por ≥ 6 h (ex.: Zona 2 de manhã, TR à tarde). Se for no m
 | [Cap. 6 — Suplementação](06-gestao-suplementacao.md) | Whey pré-TR (20–30 g) se treinar em jejum; creatina 3–5 g/dia |
 | [Cap. 7 — Segurança](07-protocolos-seguranca.md) | Stop criteria aplicáveis durante TR (hipoperfusão, dor aguda) |
 | [Cap. 10 — Breakdown Nutricional](10-breakdown-nutricional.md) | Distribuição proteica para janela pós-treino |
-| [Cap. 14 — Exercício e Dieta](14-exercicio-e-dieta.md) | TR como ferramenta de preservação de FFM |
-| [Cap. 19 — Adaptações para Mulheres](19-adaptacoes-mulheres.md) | Ajustes de carga por fase do ciclo menstrual |
+| [Ap. A3 — Exercício e Dieta](A03-exercicio-e-dieta.md) | TR como ferramenta de preservação de FFM |
+| [Ap. A8 — Adaptações para Mulheres](A08-adaptacoes-mulheres.md) | Ajustes de carga por fase do ciclo menstrual |

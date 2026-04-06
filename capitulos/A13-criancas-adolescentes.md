@@ -1,4 +1,4 @@
-## 24. Crianças e Adolescentes — Contraindicação e Alternativas
+## A13. Crianças e Adolescentes — Contraindicação e Alternativas
 
 ::: {.callout-danger}
 **CONTRAINDICAÇÃO ABSOLUTA:** O protocolo Queima **não é indicado para crianças (< 12 anos) e é fortemente desaconselhado para adolescentes (12–17 anos)**. A restrição calórica agressiva em indivíduos em fase de crescimento apresenta riscos graves que superam qualquer benefício estético ou de composição corporal. Este capítulo explica as razões fisiológicas e apresenta alternativas seguras baseadas em evidências.
@@ -6,7 +6,7 @@
 
 ---
 
-### 24.1. Por Que o Protocolo é Contraindicado
+### A13.1. Por Que o Protocolo é Contraindicado
 
 A diretriz da Endocrine Society para obesidade pediátrica (Styne et al., 2017) — endossada por múltiplas sociedades internacionais — é inequívoca: **o objetivo em crianças e adolescentes com sobrepeso/obesidade não é a perda de peso rápida, mas sim a manutenção ponderal ou perda gradual enquanto o crescimento linear continua**. [web:139]
 
@@ -23,7 +23,7 @@ A diretriz da Endocrine Society para obesidade pediátrica (Styne et al., 2017) 
 
 ---
 
-### 24.2. A Fisiologia do Crescimento vs. Restrição
+### A13.2. A Fisiologia do Crescimento vs. Restrição
 
 O ponto fundamental é que **crianças e adolescentes não são adultos pequenos**. As necessidades energéticas para crescimento são substanciais:
 
@@ -39,7 +39,7 @@ Embora os valores absolutos pareçam modestos, o impacto **metabólico** e **hor
 
 ---
 
-### 24.3. O Que Dizem as Evidências — Abordagem Pediátrica
+### A13.3. O Que Dizem as Evidências — Abordagem Pediátrica
 
 Uma revisão Cochrane (Mead et al., 2017) avaliou intervenções dietéticas, de atividade física e comportamentais para crianças de 6–11 anos com sobrepeso/obesidade: **as intervenções multicomponente (dieta saudável + atividade física + mudança comportamental) foram superiores a abordagens puramente restritivas**, com efeitos modestos mas mais sustentáveis no IMC-Z. [web:140]
 
@@ -55,7 +55,7 @@ Resultado equivalente foi encontrado em adolescentes (Al-Khudairy et al., 2017):
 
 ---
 
-### 24.4. Revisão de Obesidade Infantil — Quadro Completo
+### A13.4. Revisão de Obesidade Infantil — Quadro Completo
 
 Uma revisão atualizada (Leung, Wong & Hon, 2024) ofereceu uma visão completa da obesidade infantil, incluindo avaliação, tratamento e prevenção: **a abordagem deve ser crônica (longo prazo), multifatorial e centrada na família**, com encaminhamento a equipe multiprofissional (pediatra, nutricionista, psicólogo) quando indicado. [web:142]
 
@@ -69,9 +69,9 @@ Uma revisão atualizada (Leung, Wong & Hon, 2024) ofereceu uma visão completa d
 
 ---
 
-### 24.5. RED-S em Jovens Atletas
+### A13.5. RED-S em Jovens Atletas
 
-A síndrome de Deficiência Energética Relativa no Esporte (RED-S, Cap. 19) é particularmente devastadora em atletas jovens. O IOC alertou que a baixa disponibilidade energética em adolescentes atletas pode causar:
+A síndrome de Deficiência Energética Relativa no Esporte (RED-S, Ap. A8) é particularmente devastadora em atletas jovens. O IOC alertou que a baixa disponibilidade energética em adolescentes atletas pode causar:
 
 - Atraso puberal e amenorreia primária
 - Fraturas por estresse (pico de massa óssea comprometido)
@@ -83,7 +83,7 @@ Qualquer protocolo de restrição calórica em um adolescente atleta deve ser **
 
 ---
 
-### 24.6. Quando Encaminhar ao Especialista
+### A13.6. Quando Encaminhar ao Especialista
 
 | Situação | Encaminhamento |
 |---|---|
@@ -95,7 +95,7 @@ Qualquer protocolo de restrição calórica em um adolescente atleta deve ser **
 
 ---
 
-### 24.7. FAQ — Crianças e Adolescentes
+### A13.7. FAQ — Crianças e Adolescentes
 
 **"Meu filho de 14 anos está acima do peso e quer fazer o protocolo. Posso adaptar?"**
 **Não.** O protocolo Queima foi desenhado para adultos e o déficit calórico proposto é excessivo para qualquer pessoa em fase de crescimento. Procure um nutricionista pediátrico que trabalhe com abordagem comportamental. A prioridade é melhora da qualidade alimentar, aumento de atividade física e monitoramento de crescimento — sem contagem de calorias ou metas de peso.
@@ -108,11 +108,11 @@ Sim — em casos de obesidade severa (IMC ≥ 35 ou ≥ 120% do percentil 95) so
 
 ---
 
-### 24.8. Integração com Outros Capítulos
+### A13.8. Integração com Outros Capítulos
 
 | Capítulo | Integração |
 |---|---|
 | [Cap. 7 — Segurança](07-protocolos-seguranca.md) | Crianças/adolescentes são listados como contraindicação absoluta |
-| [Cap. 17 — Gestão Psicológica](17-gestao-psicologica.md) | Risco de TCA amplificado em jovens expostos a dietas restritivas |
-| [Cap. 19 — Adaptações para Mulheres](19-adaptacoes-mulheres.md) | RED-S em atletas jovens; amenorreia primária |
-| [Cap. 22 — Adaptações para Idosos](22-adaptacoes-idosos.md) | Contraste: ambos os extremos etários exigem cautela máxima |
+| [Ap. A6 — Gestão Psicológica](A06-gestao-psicologica.md) | Risco de TCA amplificado em jovens expostos a dietas restritivas |
+| [Ap. A8 — Adaptações para Mulheres](A08-adaptacoes-mulheres.md) | RED-S em atletas jovens; amenorreia primária |
+| [Ap. A11 — Adaptações para Idosos](A11-adaptacoes-idosos.md) | Contraste: ambos os extremos etários exigem cautela máxima |

@@ -1,8 +1,8 @@
-## 18. Álcool e Alimentação Social — Navegando Eventos Sem Destruir o Protocolo
+## A7. Álcool e Alimentação Social — Navegando Eventos Sem Destruir o Protocolo
 
 Em 30 dias de protocolo, é estatisticamente provável que o praticante enfrente pelo menos 2–4 situações sociais envolvendo comida e/ou álcool: jantares, aniversários, happy hours, churrascos. Este capítulo fornece a base científica para lidar com essas situações de forma racional — minimizando o dano sem recorrer ao isolamento social.
 
-### 18.1. Metabolismo do Álcool: Por Que Ele Tem Prioridade Absoluta
+### A7.1. Metabolismo do Álcool: Por Que Ele Tem Prioridade Absoluta
 
 O etanol (C₂H₅OH) fornece 7,1 kcal/g — quase o dobro de proteínas e carboidratos e próximo das gorduras. Porém, o corpo **não armazena álcool** e o trata como toxina prioritária. A via metabólica é:
 
@@ -21,7 +21,7 @@ Enquanto o fígado processa etanol, **a oxidação de gorduras é suprimida quas
 
 > **Nota técnica:** O efeito térmico elevado do álcool (~20%) significa que as calorias líquidas são menores que as brutas. Um copo de vinho (150 mL, ~12% álcool = ~14 g etanol) fornece ~80 kcal líquidas do etanol — mas o problema **não é calórico**, é metabólico.
 
-### 18.2. O Triplo Golpe: Por Que Álcool Sabota Recomposição Corporal
+### A7.2. O Triplo Golpe: Por Que Álcool Sabota Recomposição Corporal
 
 O álcool prejudica o protocolo por três mecanismos simultâneos:
 
@@ -39,7 +39,7 @@ O álcool prejudica o protocolo por três mecanismos simultâneos:
 
 **③ Aumento da ingestão calórica total.** Cummings et al. (2020) realizaram revisão sistemática de estudos experimentais e observacionais: álcool aumenta a ingestão alimentar subsequente de forma consistente. [web:113] As calorias do álcool **se somam** às calorias da comida — o corpo não compensa bebendo menos comida depois.
 
-### 18.3. Álcool e Peso Corporal: A Evidência Epidemiológica
+### A7.3. Álcool e Peso Corporal: A Evidência Epidemiológica
 
 Sayon-Orea et al. (2011) conduziram revisão sistemática sobre álcool e peso corporal. O padrão encontrado: [web:114]
 
@@ -52,7 +52,7 @@ Sayon-Orea et al. (2011) conduziram revisão sistemática sobre álcool e peso c
 
 > **Interpretação para o protocolo:** O problema não é "uma taça de vinho no jantar" — é o padrão de consumo social brasileiro típico (3–6 cervejas em um churrasco), que facilmente adiciona 600–1.200 kcal sem saciedade, bloqueia a lipólise por horas e reduz a MPS do treino do dia.
 
-### 18.4. Facilitação Social da Alimentação: O Efeito de Comer em Grupo
+### A7.4. Facilitação Social da Alimentação: O Efeito de Comer em Grupo
 
 Herman (2015) revisou três décadas de pesquisa sobre a *social facilitation of eating*: pessoas comem significativamente mais quando estão em grupo do que quando estão sozinhas. [web:115]
 
@@ -71,7 +71,7 @@ Os mecanismos incluem:
 
 > **Implicação prática:** O praticante que "só vai ao churrasco" sem estratégia pré-definida está exposto ao efeito de facilitação social — que pode dobrar a ingestão calórica habitual. Não é fraqueza de caráter; é neurociência social.
 
-### 18.5. Protocolo de Contenção de Danos: Eventos Sociais Previstos
+### A7.5. Protocolo de Contenção de Danos: Eventos Sociais Previstos
 
 A abstinência total de álcool por 30 dias é a recomendação ideal. Mas para eventos inevitáveis, a seguinte hierarquia de decisões minimiza o impacto:
 
@@ -82,7 +82,7 @@ A abstinência total de álcool por 30 dias é a recomendação ideal. Mas para 
 | Manter o treino do dia (preferencialmente pela manhã) | Maximizar a janela anabólica antes do álcool |
 | Priorizar proteína nas refeições anteriores (≥40 g) | Garantir estímulo de MPS antes da supressão |
 | Ingerir 500 mL de água + fibra antes de sair | Saciedade mecânica (mecanorreceptores vagais — Cap. 4) |
-| Definir limite calórico do evento **antes** de chegar | Decisão racional (pré-compromisso, Cap. 17) |
+| Definir limite calórico do evento **antes** de chegar | Decisão racional (pré-compromisso, Ap. A6) |
 
 **Durante o evento:**
 
@@ -99,11 +99,11 @@ A abstinência total de álcool por 30 dias é a recomendação ideal. Mas para 
 
 | Ação | Justificativa |
 |---|---|
-| NÃO compensar com jejum punitivo no dia seguinte | Jejum pós-binge aumenta cortisol e ciclo de restrição-compulsão (Cap. 17) |
+| NÃO compensar com jejum punitivo no dia seguinte | Jejum pós-binge aumenta cortisol e ciclo de restrição-compulsão (Ap. A6) |
 | Retornar ao roteiro normal no dia seguinte | Consistência > perfeição |
 | Registrar a ingestão estimada sem autocrítica | Monitoramento sem julgamento |
 
-### 18.6. Escala de Impacto: Quantificando o Dano por Cenário
+### A7.6. Escala de Impacto: Quantificando o Dano por Cenário
 
 | Cenário | Impacto calórico estimado | Impacto na lipólise | Impacto na MPS | Gravidade |
 |---|:---:|:---:|:---:|:---:|
@@ -114,7 +114,7 @@ A abstinência total de álcool por 30 dias é a recomendação ideal. Mas para 
 
 > **Regra prática:** Um evento 🟢 por semana não compromete o resultado de 30 dias. Um evento 🟠 ou 🔴 elimina o déficit calórico de 2–3 dias e reduz a eficácia anabólica do treino.
 
-### 18.7. Perguntas Frequentes sobre Álcool no Protocolo
+### A7.7. Perguntas Frequentes sobre Álcool no Protocolo
 
 **"Posso beber álcool zero?"**
 Sim. Cerveja e vinho sem álcool não afetam a lipólise nem a MPS. Cuidado apenas com as calorias de carboidrato (cerveja 0% tem ~15–20 kcal/100 mL vs. ~40 kcal/100 mL da cerveja regular).
@@ -125,7 +125,7 @@ O treino ainda gera benefício — a MPS ainda sobe 29–57% acima do repouso me
 **"E se eu tiver evento social 2× por semana?"**
 Dois eventos 🟡+ comprometem significativamente o resultado. Avalie se o momento ideal para o protocolo é este mês. Não há demérito em adiar 30 dias (Cap. 11 — Ciclo de Vida do Projeto).
 
-### 18.8. Integração com Outros Capítulos
+### A7.8. Integração com Outros Capítulos
 
 | Capítulo | Conexão com álcool/alimentação social |
 |---|---|
@@ -134,5 +134,5 @@ Dois eventos 🟡+ comprometem significativamente o resultado. Avalie se o momen
 | Cap. 4 — Gestão de Hidratação | Álcool é diurético; requer compensação hídrica proporcional |
 | Cap. 5 — Dinâmica do Exercício | Treinar antes do evento maximiza a janela anabólica pré-álcool |
 | Cap. 10 — Breakdown Nutricional | Calorias do álcool devem ser contabilizadas no balanço diário |
-| Cap. 16 — Sono | Álcool fragmenta o sono e reduz SWS (suprime GH noturno) |
-| Cap. 17 — Gestão Psicológica | Pré-compromisso, técnica STOP e reestruturação cognitiva são ferramentas de contenção |
+| Ap. A5 — Sono | Álcool fragmenta o sono e reduz SWS (suprime GH noturno) |
+| Ap. A6 — Gestão Psicológica | Pré-compromisso, técnica STOP e reestruturação cognitiva são ferramentas de contenção |
