@@ -101,6 +101,7 @@ A cetose transitória induzida pelo déficit calórico severo pode elevar o áci
 * **Evitar AINEs** neste protocolo (ver Cap. 15.1.1) — colchicina é o fármaco de primeira linha para crise aguda, mas **requer prescrição médica**.
 * **Se crise aguda:** Suspender exercício até resolução. Elevação calórica temporária para reduzir cetose.
 * **Histórico de gota:** Considerado **contraindicação relativa** — discutir com reumatologista antes de iniciar.
+* **CHO mínimo para prevenção:** Se histórico de gota ou hiperuricemia, manter ingestão de CHO ≥ 100 g/dia para preservar a excreção renal tubular de urato. A cetose profunda compromete a excreção de ácido úrico por competição com corpos cetônicos no túbulo proximal.
 
 ### Erro 06: Fadiga Persistente — Diagnóstico Diferencial (SAHOS)
 Se a fadiga diurna persistir apesar de sono ≥ 7 h e adesão ao Cap. 16, considere o diagnóstico diferencial de **Síndrome da Apneia Obstrutiva do Sono (SAHOS)**, que afeta 15–30% dos adultos com sobrepeso e é sub-diagnosticada em até 80% dos casos.
@@ -162,3 +163,51 @@ Restrição calórica severa por > 2 semanas pode causar redução da diversidad
 * **Distensão/gases excessivos:** Reduzir crucíferas cruas; considerar simbiótico (probiótico + prebiótico) por 7–14 dias.
 * **Preferir fermentados:** 1–2 porções/dia de kefir, iogurte natural ou chucrute oferecem diversidade microbiana superior a cápsulas de probióticos (ver Cap. 21.4).
 * **Critério de escalonamento:** Se sintomas GI persistirem > 7 dias apesar das medidas acima, consultar gastroenterologista — descartar patologia orgânica antes de atribuir ao déficit.
+
+### Erro 10: Diarreia Persistente — Algoritmo de Redução
+
+O protocolo inclui substâncias potencialmente laxativas (cafeína, psyllium, magnésio). Se diarreia (Bristol 6–7) persistir por ≥ 2 dias:
+
+1. **Passo 1:** Reduzir magnésio (trocar óxido por bisglicinato, ou suspender temporariamente)
+2. **Passo 2:** Reduzir psyllium para 3 g/dia
+3. **Passo 3:** Cortar cafeína por 48 h
+4. **Passo 4:** Se ≥ 3 dias sem melhora → buscar atendimento médico (descartar infecção, DII)
+
+**Gastroparesia funcional:** Déficit + refeições ricas em proteína + suplementos podem causar retardo no esvaziamento gástrico → náusea, plenitude precoce, abandono de refeições. Mitigar: fracionar suplementos ao longo do dia; evitar > 40 g de proteína em refeição única; caminhar 10 min após refeições.
+
+### Erro 11: Esteatose Hepática Transitória — TGO/TGP Elevadas
+
+Durante perda de peso rápida, a mobilização intensa de ácidos graxos do tecido adiposo pode sobrecarregar o fígado, causando **esteatose transitória paradoxal**. TGO/TGP podem subir discretamente (até ~1,5–2× o limite superior) nas primeiras 2–3 semanas.
+
+**Diferenciação:** Elevação leve, assintomática e transitória é esperada. Porém, se TGO/TGP > 3× o limite superior, ou acompanhada de icterícia, dor em hipocôndrio direito ou colúria → **investigação hepática urgente** (descartar hepatite, colelitíase obstrutiva).
+
+### Erro 12: Pseudoanemia Dilucional — Hb Aparentemente Baixa
+
+Durante restrição calórica com hidratação adequada, a expansão plasmática relativa pode **diluir hemoglobina e hematócrito** → Hb aparentemente baixa sem anemia real.
+
+**Diagnóstico diferencial:**
+- Comparar Hb com hematócrito: se ambos caem proporcionalmente, pode ser diluição
+- Avaliar estado de hidratação no momento da coleta (ver nota de padronização, Cap. 7.0)
+- Inversamente, **desidratação** (primeiros dias) pode elevar Hb artificialmente → mascarar anemia real
+
+**Conduta:** Não interromper protocolo por Hb levemente ↓ isolada. Repetir exame em 7 dias com coleta padronizada. Se Hb ↓ > 1 g/dL vs. pré-protocolo → solicitar reticulócitos e ferro sérico.
+
+### Erro 13: Cetose Leve — Diferenciação de Cetoacidose
+
+O déficit severo (~1.200 kcal) com CHO limitado pode induzir **cetose nutricional leve** (cetonas 0,5–3,0 mmol/L). Isso é clinicamente benigno em não-diabéticos e é um sinal de que o corpo está oxidando gordura eficientemente.
+
+**Quando alarmar:**
+- Cetonas > 5 mmol/L + glicemia > 250 mg/dL = **suspeita de cetoacidose diabética (CAD)** → emergência médica
+- Cetonas > 3 mmol/L + náusea + vômito + dor abdominal → buscar avaliação médica
+
+**Sinais de cetose benigna (esperados):** Hálito de "fruta" ou acetona, urina com odor mais forte, leve redução de apetite (efeito anorexígeno das cetonas).
+
+### Erro 14: Eflúvio Telógeno — Queda de Cabelo Pós-Restrição
+
+Perda de peso rápida pode desencadear **eflúvio telógeno** — queda difusa de cabelos — 2–4 meses após o início da restrição. Mecanismo: estresse metabólico acelera a transição de folículos da fase anágena (crescimento) para telógena (queda).
+
+**Características:** Queda difusa (não localizada), sem falhas, aumento perceptível no ralo do chuveiro ou escova. **Não é alopecia androgênica.**
+
+**Prognóstico:** Reversível espontaneamente em 6–12 meses após retorno à normocaloria. Garantir ferro, zinco e biotina adequados (Cap. 6) acelera a recuperação. Não há tratamento específico necessário — o cabelo volta.
+
+> **Nota:** Se exercício ao ar livre (LISS caminhada), recomendar FPS ≥ 30 para proteger o couro cabeludo exposto em áreas de rarefação.

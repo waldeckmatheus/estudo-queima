@@ -40,8 +40,8 @@ Sono ruim reduz o NEAT inconscientemente (o corpo se move menos, gesticula menos
 
 A restrição calórica por si mesma pode alterar a arquitetura do sono:
 
-- **Latência aumentada:** A fome ativa circuitos de vigilância no hipotálamo lateral (via orexina/hipocretina), tornando mais difícil iniciar o sono.
-- **Fragmentação:** Despertares noturnos são mais frequentes, possivelmente mediados por grelina acilada, que tem pico noturno amplificado em déficit calórico.
+- **Latência aumentada:** A fome ativa circuitos de vigilância no hipotálamo lateral (via orexina/hipocretina), tornando mais difícil iniciar o sono. **Sistema orexinérgico:** A restrição calórica ↓ orexina → ↑ sonolência diurna paradoxal, apesar da insônia noturna. Mitigar com: exposição à luz solar matinal (≥ 15 min), manter timing de refeições consistente (Cap. 3) e exercício matinal (reforça ciclo vigília-ativo).
+- **Fragmentação:** Despertares noturnos são mais frequentes, possivelmente mediados por grelina acilada, que tem pico noturno amplificado em déficit calórico. **Fome noturna:** Se despertares por fome forem recorrentes (≥ 3 noites/semana), reforçar: caseína pré-sono 20–40 g (Cap. 6.3) + manter CHO no jantar (palatinose/waxy maize). A combinação garante aminoacidemia + glicemia estável durante o jejum noturno.
 - **Redução do sono de ondas lentas (SWS):** O SWS é a fase em que ocorre o pico de secreção de GH (hormônio do crescimento), essencial para preservação muscular e reparo tecidual. Sua redução em déficit calórico pode contribuir para a maior perda de massa magra.
 
 Essas alterações tendem a ser mais intensas nos **primeiros 7–10 dias** (período de adaptação) e a atenuar gradualmente conforme o corpo se acomoda ao novo padrão energético.

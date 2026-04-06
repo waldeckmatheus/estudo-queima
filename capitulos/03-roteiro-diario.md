@@ -64,6 +64,10 @@ stateDiagram-v2
 
 ### 3.1. Tabela de Execução Diária (Runtime)
 
+::: {.callout-warning}
+**D1–D3: Redução cognitiva esperada.** Os primeiros 3 dias de déficit severo reduzem glicemia basal e glicogênio hepático, causando ↓ atenção, ↑ tempo de reação e "brain fog" leve. Isso é transitório e melhora conforme o corpo inicia a cetoadaptação. **Nestes dias, evite:** decisões financeiras/profissionais importantes, direção prolongada, operação de máquinas ou atividades que exijam reflexos rápidos. Planeje os primeiros 3 dias para tarefas de baixa demanda cognitiva.
+:::
+
 | Horário Recomendado | Etapa | Ação / Alimento |
 | :--- | :--- | :--- |
 | **06:45–07:00** | Despertar | Água + 1 pitada de sal. *(Estimulante termogênico listado como opcional na Seção 6)*. |
