@@ -1,6 +1,6 @@
 # Dupla Checagem — Cap. 4: Gestão de Hidratação
 
-**Arquivo:** `04-gestao-hidratacao.md`
+**Arquivo:** `04-hidratacao.md`
 **Data:** 2025-04-05
 
 ## Estrutura

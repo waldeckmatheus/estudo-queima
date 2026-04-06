@@ -125,8 +125,8 @@ Não. A resistência anabólica e a fragilidade óssea são processos fisiológi
 
 | Capítulo | Integração |
 |---|---|
-| [Cap. 7 — Segurança](07-protocolos-seguranca.md) | Stop criteria ampliados para idosos |
-| [Cap. 10 — Breakdown Nutricional](10-breakdown-nutricional.md) | Recalcular para 3–4 refeições com ≥ 30 g proteína/refeição |
+| [Cap. 7 — Segurança](07-seguranca.md) | Stop criteria ampliados para idosos |
+| [Cap. 10 — Breakdown Nutricional](10-nutricao.md) | Recalcular para 3–4 refeições com ≥ 30 g proteína/refeição |
 | [Ap. A3 — Exercício e Dieta](A03-exercicio-e-dieta.md) | Variante sem exercício **não recomendada** para idosos |
 | [Ap. A4 — Medicações](A04-medicacoes-e-protocolo.md) | Polifarmácia é comum; revisar todas as interações com médico |
 | [Ap. A9 — Treinamento Resistido](A09-treinamento-resistido.md) | Adaptações de volume, RPE e exercícios |

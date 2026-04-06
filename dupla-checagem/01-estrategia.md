@@ -1,6 +1,6 @@
 # Dupla Checagem — Cap. 1: Visão Geral e Estratégia Adotada
 
-**Arquivo:** `01-visao-geral.md`
+**Arquivo:** `01-estrategia.md`
 **Data:** 2025-04-05
 
 ## Estrutura

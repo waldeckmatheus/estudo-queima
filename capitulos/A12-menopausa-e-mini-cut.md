@@ -122,7 +122,7 @@ O mini-cut pode ser uma ferramenta, mas **a abordagem sustentável para a compos
 
 | Capítulo | Integração |
 |---|---|
-| [Cap. 7 — Segurança](07-protocolos-seguranca.md) | Stop criteria ampliados para menopausa |
+| [Cap. 7 — Segurança](07-seguranca.md) | Stop criteria ampliados para menopausa |
 | [Ap. A6 — Gestão Psicológica](A06-gestao-psicologica.md) | Ondas de humor perimenopausa + restrição calórica |
 | [Ap. A8 — Adaptações para Mulheres](A08-adaptacoes-mulheres.md) | Base; este capítulo estende para perimenopausa/pós-menopausa |
 | [Ap. A9 — Treinamento Resistido](A09-treinamento-resistido.md) | Adaptações de exercício para preservação óssea |

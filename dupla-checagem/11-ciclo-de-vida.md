@@ -1,6 +1,6 @@
 # Dupla Checagem — Cap. 11: Ciclo de Vida do Projeto
 
-**Arquivo:** `11-ciclo-vida-projeto.md`
+**Arquivo:** `11-ciclo-de-vida.md`
 **Data:** 2025-04-05
 
 ## Estrutura

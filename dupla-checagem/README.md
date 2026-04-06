@@ -77,17 +77,17 @@ classificação de severidade:
 dupla-checagem/
 ├── README.md                    ← este arquivo
 ├── 00-resumo-geral.md           ← consolidado com métricas globais
-├── 01-visao-geral.md            ✅
-├── 02-embasamento-cientifico.md ✅
-├── 03-roteiro-diario.md         ✅ (1 alerta baixo)
-├── 04-gestao-hidratacao.md      ✅
-├── 05-dinamica-exercicio.md     ✅ (1 alerta baixo)
-├── 06-gestao-suplementacao.md   ✅ (1 alerta baixo)
-├── 07-protocolos-seguranca.md   ✅ (1 alerta baixo)
+├── 01-estrategia.md            ✅
+├── 02-ciencia.md ✅
+├── 03-roteiro-alimentar.md         ✅ (1 alerta baixo)
+├── 04-hidratacao.md      ✅
+├── 05-exercicio-aerobico.md     ✅ (1 alerta baixo)
+├── 06-suplementacao.md   ✅ (1 alerta baixo)
+├── 07-seguranca.md   ✅ (1 alerta baixo)
 ├── 08-faq.md                    ✅
 ├── 09-troubleshooting.md        ✅
-├── 10-breakdown-nutricional.md  ⚠️ (2 alertas médios)
-├── 11-ciclo-vida-projeto.md     ⚠️ (1 baixo + 2 médios)
+├── 10-nutricao.md  ⚠️ (2 alertas médios)
+├── 11-ciclo-de-vida.md     ⚠️ (1 baixo + 2 médios)
 ├── A01-musica-e-treino.md        ✅
 ├── A02-comparativo-dietas.md     ✅
 ├── A03-exercicio-e-dieta.md      ⚠️ (1 alerta médio)

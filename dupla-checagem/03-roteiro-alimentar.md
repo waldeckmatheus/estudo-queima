@@ -1,6 +1,6 @@
 # Dupla Checagem — Cap. 3: Roteiro Diário
 
-**Arquivo:** `03-roteiro-diario.md`
+**Arquivo:** `03-roteiro-alimentar.md`
 **Data:** 2025-04-05
 
 ## Estrutura

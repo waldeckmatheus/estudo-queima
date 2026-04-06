@@ -1,6 +1,6 @@
 # Dupla Checagem — Cap. 7: Protocolos de Segurança
 
-**Arquivo:** `07-protocolos-seguranca.md`
+**Arquivo:** `07-seguranca.md`
 **Data:** 2025-04-05
 
 ## Estrutura

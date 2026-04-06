@@ -232,10 +232,10 @@ Idealmente, separe por ≥ 6 h (ex.: Zona 2 de manhã, TR à tarde). Se for no m
 
 | Capítulo | Integração |
 |---|---|
-| [Cap. 3 — Roteiro Diário](03-roteiro-diario.md) | Encaixar as 4 sessões de TR na agenda semanal |
-| [Cap. 5 — Dinâmica do Exercício](05-dinamica-exercicio.md) | Combinar Zona 2 + TR; timing e sequência |
-| [Cap. 6 — Suplementação](06-gestao-suplementacao.md) | Whey pré-TR (20–30 g) se treinar em jejum; creatina 3–5 g/dia |
-| [Cap. 7 — Segurança](07-protocolos-seguranca.md) | Stop criteria aplicáveis durante TR (hipoperfusão, dor aguda) |
-| [Cap. 10 — Breakdown Nutricional](10-breakdown-nutricional.md) | Distribuição proteica para janela pós-treino |
+| [Cap. 3 — Roteiro Diário](03-roteiro-alimentar.md) | Encaixar as 4 sessões de TR na agenda semanal |
+| [Cap. 5 — Dinâmica do Exercício](05-exercicio-aerobico.md) | Combinar Zona 2 + TR; timing e sequência |
+| [Cap. 6 — Suplementação](06-suplementacao.md) | Whey pré-TR (20–30 g) se treinar em jejum; creatina 3–5 g/dia |
+| [Cap. 7 — Segurança](07-seguranca.md) | Stop criteria aplicáveis durante TR (hipoperfusão, dor aguda) |
+| [Cap. 10 — Breakdown Nutricional](10-nutricao.md) | Distribuição proteica para janela pós-treino |
 | [Ap. A3 — Exercício e Dieta](A03-exercicio-e-dieta.md) | TR como ferramenta de preservação de FFM |
 | [Ap. A8 — Adaptações para Mulheres](A08-adaptacoes-mulheres.md) | Ajustes de carga por fase do ciclo menstrual |

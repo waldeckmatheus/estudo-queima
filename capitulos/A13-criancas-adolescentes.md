@@ -112,7 +112,7 @@ Sim — em casos de obesidade severa (IMC ≥ 35 ou ≥ 120% do percentil 95) so
 
 | Capítulo | Integração |
 |---|---|
-| [Cap. 7 — Segurança](07-protocolos-seguranca.md) | Crianças/adolescentes são listados como contraindicação absoluta |
+| [Cap. 7 — Segurança](07-seguranca.md) | Crianças/adolescentes são listados como contraindicação absoluta |
 | [Ap. A6 — Gestão Psicológica](A06-gestao-psicologica.md) | Risco de TCA amplificado em jovens expostos a dietas restritivas |
 | [Ap. A8 — Adaptações para Mulheres](A08-adaptacoes-mulheres.md) | RED-S em atletas jovens; amenorreia primária |
 | [Ap. A11 — Adaptações para Idosos](A11-adaptacoes-idosos.md) | Contraste: ambos os extremos etários exigem cautela máxima |

@@ -192,11 +192,11 @@ Psyllium pode reduzir a absorção de medicamentos se tomado simultaneamente. Ma
 
 | Capítulo | Integração |
 |---|---|
-| [Cap. 3 — Roteiro Diário](03-roteiro-diario.md) | Timing do psyllium na rotina (com água, 2 h antes/depois de medicamentos) |
-| [Cap. 4 — Hidratação](04-gestao-hidratacao.md) | Meta de 2,5–3,5 L/dia; fibra sem água piora constipação |
-| [Cap. 5 — Exercício](05-dinamica-exercicio.md) | Zona 2 matinal estimula motilidade colônica |
-| [Cap. 6 — Suplementação](06-gestao-suplementacao.md) | Whey como fonte proteica e potencial gatilho GI; psyllium como fibra funcional |
-| [Cap. 7 — Segurança](07-protocolos-seguranca.md) | Sinais de alerta GI como stop criteria |
-| [Cap. 10 — Breakdown Nutricional](10-breakdown-nutricional.md) | Fontes de fibra dentro do orçamento calórico |
-| [Cap. 11 — Ciclo de Vida](11-ciclo-vida-projeto.md) | Reintrodução de fibras na Fase 2 (reverse dieting) |
+| [Cap. 3 — Roteiro Diário](03-roteiro-alimentar.md) | Timing do psyllium na rotina (com água, 2 h antes/depois de medicamentos) |
+| [Cap. 4 — Hidratação](04-hidratacao.md) | Meta de 2,5–3,5 L/dia; fibra sem água piora constipação |
+| [Cap. 5 — Exercício](05-exercicio-aerobico.md) | Zona 2 matinal estimula motilidade colônica |
+| [Cap. 6 — Suplementação](06-suplementacao.md) | Whey como fonte proteica e potencial gatilho GI; psyllium como fibra funcional |
+| [Cap. 7 — Segurança](07-seguranca.md) | Sinais de alerta GI como stop criteria |
+| [Cap. 10 — Breakdown Nutricional](10-nutricao.md) | Fontes de fibra dentro do orçamento calórico |
+| [Cap. 11 — Ciclo de Vida](11-ciclo-de-vida.md) | Reintrodução de fibras na Fase 2 (reverse dieting) |
 | [Ap. A4 — Medicações](A04-medicacoes-e-protocolo.md) | Interação psyllium-medicamentos; IBPs e absorção de nutrientes |

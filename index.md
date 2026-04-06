@@ -12,17 +12,17 @@ A documentação é organizada em três partes: o **Protocolo** (execução prá
 
 ### Parte I — Protocolo
 
-- [1. Visão Geral e Estratégia Adotada](capitulos/01-visao-geral.md)
-- [2. Embasamento Científico](capitulos/02-embasamento-cientifico.md)
-- [3. Roteiro Diário](capitulos/03-roteiro-diario.md)
-- [4. Gestão de Hidratação](capitulos/04-gestao-hidratacao.md)
-- [5. Dinâmica do Exercício](capitulos/05-dinamica-exercicio.md)
-- [6. Gestão de Suplementação](capitulos/06-gestao-suplementacao.md)
-- [7. Protocolos de Segurança](capitulos/07-protocolos-seguranca.md)
+- [1. Visão Geral e Estratégia Adotada](capitulos/01-estrategia.md)
+- [2. Embasamento Científico](capitulos/02-ciencia.md)
+- [3. Roteiro Diário](capitulos/03-roteiro-alimentar.md)
+- [4. Gestão de Hidratação](capitulos/04-hidratacao.md)
+- [5. Dinâmica do Exercício](capitulos/05-exercicio-aerobico.md)
+- [6. Gestão de Suplementação](capitulos/06-suplementacao.md)
+- [7. Protocolos de Segurança](capitulos/07-seguranca.md)
 - [8. FAQ Técnico](capitulos/08-faq.md)
 - [9. Troubleshooting Comum](capitulos/09-troubleshooting.md)
-- [10. Breakdown Nutricional](capitulos/10-breakdown-nutricional.md)
-- [11. Ciclo de Vida do Projeto](capitulos/11-ciclo-vida-projeto.md)
+- [10. Breakdown Nutricional](capitulos/10-nutricao.md)
+- [11. Ciclo de Vida do Projeto](capitulos/11-ciclo-de-vida.md)
 
 ### Parte II — Apêndices
 
@@ -51,7 +51,7 @@ A documentação é organizada em três partes: o **Protocolo** (execução prá
 <!-- 
 Nota para composição: 
 Se utilizar ferramentas como "Markdown Preview Enhanced" ou "Pandoc", você pode compor o arquivo final incluindo as tags:
-@import "capitulos/01-visao-geral.md"
-@import "capitulos/02-embasamento-cientifico.md"
+@import "capitulos/01-estrategia.md"
+@import "capitulos/02-ciencia.md"
 etc.
 -->

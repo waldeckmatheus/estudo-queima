@@ -1,6 +1,6 @@
 # Dupla Checagem — Cap. 5: Dinâmica do Exercício
 
-**Arquivo:** `05-dinamica-exercicio.md`
+**Arquivo:** `05-exercicio-aerobico.md`
 **Data:** 2025-04-05
 
 ## Estrutura

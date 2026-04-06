@@ -1,6 +1,6 @@
 # Dupla Checagem — Cap. 10: Breakdown Nutricional
 
-**Arquivo:** `10-breakdown-nutricional.md`
+**Arquivo:** `10-nutricao.md`
 **Data:** 2025-04-05
 
 ## Estrutura

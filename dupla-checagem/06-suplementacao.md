@@ -1,6 +1,6 @@
 # Dupla Checagem — Cap. 6: Gestão de Suplementação
 
-**Arquivo:** `06-gestao-suplementacao.md`
+**Arquivo:** `06-suplementacao.md`
 **Data:** 2025-04-05
 
 ## Estrutura

@@ -1,6 +1,6 @@
 # Dupla Checagem — Cap. 2: Embasamento Científico
 
-**Arquivo:** `02-embasamento-cientifico.md`
+**Arquivo:** `02-ciencia.md`
 **Data:** 2025-04-05
 
 ## Estrutura
