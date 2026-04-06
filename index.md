@@ -34,6 +34,7 @@ A documentação foi modularizada nos seguintes capítulos menores para facilita
 - [24. Crianças e Adolescentes — Contraindicação e Alternativas](capitulos/24-criancas-adolescentes.md)
 - [25. Ciência da Composição Corporal](capitulos/25-ciencia-composicao-corporal.md)
 - [26. Fisiologia Gastrointestinal no Déficit Calórico](capitulos/26-fisiologia-gastrica-deficit.md)
+- [27. Fast Food e Déficit Calórico: Por que a Qualidade Calórica Importa](capitulos/27-fast-food-e-deficit-calorico.md)
 - [Glossário de Termos Técnicos](capitulos/X1-glossario.md)
 - [Referências Científicas Base](capitulos/XN-referencias.md)
 

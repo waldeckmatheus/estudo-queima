@@ -129,6 +129,16 @@ Esta base inclui evidências de qualidade heterogênea (guidelines, revisões, e
 | [web:156] | [All Disease Begins in the (Leaky) Gut: Role of Zonulin-Mediated Gut Permeability in the Pathogenesis of Some Chronic Inflammatory Diseases — Fasano A, F1000Research 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC6996528/) |
 | [web:157] | [Undigested Food and Gut Microbiota May Cooperate in the Pathogenesis of Neuroinflammatory Diseases: A Matter of Barriers and a Proposal on the Origin of Organ Specificity — Riccio P & Rossano R, Nutrients 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6893834/) |
 | [web:158] | [The Short-Chain Fatty Acid Acetate in Body Weight Control and Insulin Sensitivity — González Hernández MA et al., Nutrients 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC6723943/) |
+| [web:159] | [Ultra-Processed Diets Cause Excess Calorie Intake and Weight Gain: An Inpatient Randomized Controlled Trial of Ad Libitum Food Intake — Hall KD et al., Cell Metab 2019](https://pubmed.ncbi.nlm.nih.gov/31105044/) |
+| [web:160] | [Postprandial Energy Expenditure in Whole-Food and Processed-Food Meals: Implications for Daily Energy Expenditure — Barr SB & Wright JC, Food Nutr Res 2010](https://pubmed.ncbi.nlm.nih.gov/20613890/) |
+| [web:161] | [Ultra-Processed Foods: What They Are and How to Identify Them — Monteiro CA et al., Public Health Nutr 2019](https://pubmed.ncbi.nlm.nih.gov/30744710/) |
+| [web:162] | [Ultra-Processed Food Consumption and Excess Weight among US Adults — Juul F et al., Br J Nutr 2021](https://pubmed.ncbi.nlm.nih.gov/33023681/) |
+| [web:163] | [The Western Diet–Microbiome-Host Interaction and Its Role in Metabolic Disease — Zinöcker MK & Lindseth IA, Nutrients 2018](https://pubmed.ncbi.nlm.nih.gov/29882765/) |
+| [web:164] | [Comparison with Ancestral Diets Suggests Dense Acellular Carbohydrates Promote an Inflammatory Microbiota, and May Be the Primary Dietary Cause of Leptin Resistance and Obesity — Spreadbury I, Diabetes Metab Syndr Obes 2012](https://pubmed.ncbi.nlm.nih.gov/22826636/) |
+| [web:165] | [Ultra-Processed Food Intake and Risk of Cardiovascular Disease: Prospective Cohort Study (NutriNet-Santé) — Srour B et al., BMJ 2019](https://pubmed.ncbi.nlm.nih.gov/31142457/) |
+| [web:166] | [Ultraprocessed Food Consumption and Risk of Overweight and Obesity: The University of Navarra Follow-Up (SUN) Cohort Study — Mendonça RD et al., Am J Clin Nutr 2016](https://pubmed.ncbi.nlm.nih.gov/28087569/) |
+| [web:167] | [Ultra-Processed Food Intake and Obesity: What Really Matters for Health — Processing or Nutrient Content? — Poti JM et al., Curr Obes Rep 2017](https://pubmed.ncbi.nlm.nih.gov/28639251/) |
+| [web:168] | [Ultra-Processed Foods and Health Outcomes: A Narrative Review — Elizabeth L et al., Nutrients 2020](https://pubmed.ncbi.nlm.nih.gov/32630022/) |
 
 ### 12.1. Curadoria Rápida por Nível de Evidência
 
@@ -194,6 +204,16 @@ Esta base inclui evidências de qualidade heterogênea (guidelines, revisões, e
 * [web:156] Revisão F1000Research (Fasano 2020): zonulina como modulador das tight junctions; dois gatilhos principais (supercrescimento bacteriano + glúten); via zonulina → permeabilidade → LPS → endotoxemia metabólica.
 * [web:157] Revisão Nutrients (Riccio & Rossano 2019): barreira intestinal multicamada; jejum/restrição calórica melhora integridade da barreira e diversidade microbiana; vitaminas A/D regulam proteínas de junção tight.
 * [web:158] Revisão Nutrients (González Hernández et al. 2019): acetato como AGCC mais abundante; estimula GLP-1/PYY via GPR41/GPR43 em células L; modulação central do apetite via hipotálamo; acetato colônico distal mais eficaz para secreção hormonal.
+* [web:159] RCT controlado NIH (Hall et al., Cell Metab 2019): dieta ultraprocessada induziu +508 kcal/dia de consumo espontâneo vs. não-processada em 20 adultos internados; ganho de 0,9 kg em 14 dias; perda de 0,9 kg na dieta não-processada. Referência central para Cap. 27.
+* [web:160] TEF de alimentos integrais vs. processados (Barr & Wright, Food Nutr Res 2010): TEF 19,9% (integral) vs. 10,7% (processado); redução de ~50% no gasto térmico digestivo com alimentos processados.
+* [web:161] Classificação NOVA (Monteiro et al., Public Health Nutr 2019): definição operacional de ultraprocessados; critérios baseados em ingredientes e métodos de processamento, não apenas composição nutricional.
+* [web:162] Dados transversais NHANES (Juul et al., Br J Nutr 2021): cada 10% de incremento em UPF associado a +1,1 kg de peso e +0,36 kg/m² de IMC em adultos americanos.
+* [web:163] Revisão sobre dieta ocidental e microbioma (Zinöcker & Lindseth, Nutrients 2018): UPF alteram relação Firmicutes/Bacteroidetes, promovem endotoxemia via LPS e resistência insulínica.
+* [web:164] Hipótese dos carboidratos acelulares (Spreadbury, Diabetes Metab Syndr Obes 2012): farinhas refinadas produzem concentrações luminais de carboidrato sem precedente evolutivo → disbiose → resistência à leptina → obesidade.
+* [web:165] Coorte NutriNet-Santé prospectiva (Srour et al., BMJ 2019): cada 10% de incremento em UPF associado a +12% risco de doença cardiovascular em 105.159 participantes.
+* [web:166] Coorte SUN prospectiva (Mendonça et al., Am J Clin Nutr 2016): cada porção adicional diária de UPF associada a +26% risco de sobrepeso/obesidade (n=8.451, 8,9 anos).
+* [web:167] Revisão narrativa (Poti et al., Curr Obes Rep 2017): UPF associados a maior ingestão calórica, maior adiposidade e piores desfechos metabólicos em todas as faixas etárias.
+* [web:168] Revisão narrativa abrangente (Elizabeth et al., Nutrients 2020): síntese de evidências sobre UPF e desfechos de saúde; mecanismos propostos incluem TEF reduzido, deslocamento proteico, aditivos e disbiose.
 
 **Suporte complementar (útil, mas não central para decisão crítica):**
 * [web:20] Fasted vs fed para metabolismo de gordura.
@@ -248,3 +268,7 @@ Esta base inclui evidências de qualidade heterogênea (guidelines, revisões, e
 10. **[web:156]** Zonulina e permeabilidade intestinal (Fasano 2020): mecanismo central da barreira intestinal e endotoxemia metabólica.
 11. **[web:157]** Barreira intestinal e jejum (Riccio & Rossano 2019): restrição calórica melhora integridade da barreira e diversidade microbiana.
 12. **[web:158]** AGCC acetato e controle de peso (González Hernández et al. 2019): eixo AGCC → GLP-1/PYY → saciedade.
+13. **[web:159]** Ultra-processed diets cause excess calorie intake (Hall et al., Cell Metab 2019): RCT controlado (n=20, NIH inpatient), dieta UPF induziu +508 kcal/dia vs. não-processada; ganho de 0,9 kg em 14 dias. Referência central para Cap. 27.
+14. **[web:160]** TEF de alimentos integrais vs. processados (Barr & Wright 2010): TEF 19,9% (integral) vs. 10,7% (processado); diferença de ~50% no gasto digestivo.
+15. **[web:161]** Classificação NOVA de ultraprocessados (Monteiro et al. 2019): definição operacional e critérios de identificação.
+16. **[web:164]** Carboidratos acelulares e microbiota inflamatória (Spreadbury 2012): hipótese de que farinhas refinadas promovem disbiose e resistência à leptina.
