@@ -26,6 +26,11 @@ Antes de iniciar os 30 dias, complete os itens abaixo com seu médico:
 | Creatinina sérica + RAC | DRC assintomática em 7–10% dos adultos | TFG < 60 mL/min → **não iniciar**; encaminhar nefrologista |
 | TSH + T4 livre | Hipotireoidismo subclínico não detectado | TSH > 4,5 mUI/L → avaliar com endocrinologista antes de iniciar |
 | Glicemia de jejum | DM2 descompensado é contraindicação relativa | > 126 mg/dL → ajustar protocolo com médico |
+| 25-OH Vitamina D | Deficiência prevalente (40–60% dos adultos); afeta imunidade, humor e osso | < 20 ng/mL → suplementar 2.000–4.000 UI/dia por 8 semanas antes de iniciar; 20–30 → suplementar 1.000–2.000 UI/dia durante o protocolo |
+
+::: {.callout-note}
+**Padronização da coleta laboratorial:** Para comparabilidade pré e pós-protocolo, realizar hemograma e bioquímica sempre no **mesmo estado de hidratação**: manhã, jejum de ≥ 8 h, mesma ingesta hídrica prévia (~500 mL de água 1 h antes). Desidratação (hemoconcentração) ou hiper-hidratação (hemodiluição) alteram Hb, Ht e eletrólitos, podendo gerar falsos alarmes.
+:::
 
 **Exames adicionais por subgrupo:**
 
@@ -37,6 +42,8 @@ Antes de iniciar os 30 dias, complete os itens abaixo com seu médico:
 | Uso de psicotrópicos (ISRS, antipsicóticos) | ECG com QTc | ↓ Mg/K em déficit + fármacos que prolongam QTc → risco de torsades de pointes |
 | Uso de ISRS/ISRN + PHQ-9 ≥ 5 | Flag: monitorar humor quinzenalmente | ↓ Triptofano em déficit pode reduzir eficácia do ISRS; risco de recidíva depressiva/ansiosa (ver Cap. 15.9) |
 | Mulheres (triagem ginecológica) | Questionar: uso de ACO, diagnóstico de SOP, climatério/perimenopausa, planejamento de gestação | ACO mascara AHF; SOP requer déficit ≤ 30%; climatério exige densitometria; TTC é contraindicação relativa (ver Cap. 19.8) |
+| IMC ≥ 30 ou HF de DM2 | Insulina de jejum (+ glicemia → HOMA-IR) | HOMA-IR = (glicemia mg/dL × insulina µUI/mL) / 405. Valor > 2,5 → resistência insulínica; ajustar expectativas de partição energética e considerar acompanhamento endocrinológico |
+| Veganos ou uso crônico de IBP | Vitamina B₁₂ sérica | Deficiência comum nesses subgrupos; B₁₂ é cofator de metilação e eritropoiese. < 300 pg/mL → suplementar |
 
 **Triagem funcional simplificada (FMS reduzido):**
 
@@ -53,7 +60,29 @@ Antes de iniciar o treinamento resistido (Cap. 20), execute os 3 testes funciona
 **Triagem psicológica (autoaplicável):**
 
 - **EAT-26** (Eating Attitudes Test): score ≥ 20 → encaminhar para psicólogo/psiquiatra especializado em TAs antes de iniciar. O protocolo pode agravar padrões disfuncionais pré-existentes.
-- **PHQ-9** (depressão) e **GAD-7** (ansiedade): scores moderados-a-graves → avaliação profissional antes de iniciar.
+- **PHQ-9** (depressão) e **GAD-7** (ansiedade): scores moderados-a-graves → avaliação profissional antes de iniciar. **Se GAD-7 ≥ 10** (ansiedade moderada-severa): restringir cafeína a ≤ 100 mg/dia ou eliminar — cafeína é ansiogênica e pode exacerbar TAG.
+- **BDDQ (Body Dysmorphic Disorder Questionnaire)** — 3 perguntas de triagem: (1) Você se preocupa excessivamente com defeitos na aparência que outros não percebem? (2) Essa preocupação causa sofrimento significativo? (3) Interfere em atividades sociais ou profissionais? **Se 2+ respostas "Sim":** fotos de progresso são **contraindicadas** — usar apenas circunferência de cintura como métrica. Encaminhar para avaliação psiquiátrica.
+- **TOC alimentar (contraindicação relativa):** Se há diagnóstico prévio de TOC ou rituais obsessivos com alimentos (pesagem compulsiva, contagem repetida, rigidez extrema com horários), a contagem calórica rígida do protocolo pode ser gatilho. Score YBOCS ≥ 16 → avaliar com psiquiatra antes de iniciar; considerar método simplificado (porções visuais, sem app de contagem).
+
+**Triagem gastrointestinal:**
+
+- Questionar: "Você tem diagnóstico de gastrite, H. pylori, doença inflamatória intestinal (Crohn/RCU) ou síndrome do intestino irritável (SII)?"
+- **Se positivo:** Consultar gastroenterologista antes de iniciar. O déficit calórico + cafeína + suplementos podem exacerbar sintomas GI.
+
+**Triagem respiratória (AIE):**
+
+- Questionar: "Você tem chiado, tosse ou aperto no peito durante ou após exercício?"
+- **Se positivo:** Avaliar com pneumologista. Asma Induzida por Exercício (AIE) pode ser agravada em déficit calórico com exercício diário — necessita manejo farmacológico prévio (broncodilatador de curta ação pré-exercício).
+
+**Teste ortostático simples:**
+
+O déficit calórico + desidratação relativa + ↓ volume plasmático aumentam o risco de hipotensão ortostática. Realizar teste simples antes de iniciar e semanalmente durante o protocolo:
+
+1. Medir PA sentado (repouso 5 min).
+2. Levantar e medir PA em pé após 1 min.
+3. **Se queda da PAS > 20 mmHg ou PAD > 10 mmHg:** Hipotensão ortostática confirmada → reforçar hidratação e sal; levantar devagar (sentado → em pé em 2 tempos); se persistir, considerar ↑ calorias.
+
+> **Nota:** Orienta-se especialmente a "levantar devagar" em todas as transições posturais (cama, sofá, agachamento) durante os 30 dias do protocolo.
 
 O corpo possui logs de erro muito claros. O planejamento de 30 dias deve ser pausado ou as calorias devem ser elevadas para os níveis de manutenção caso você experiencie:
 1. Tonturas recorrentes ou fraqueza extrema. [web:52][web:68]
@@ -95,3 +124,28 @@ A combinação de exercício intenso + desidratação + déficit calórico pode,
 - Edema muscular localizado
 
 **Ação:** Se qualquer um destes sinais aparecer, **interrompa o protocolo imediatamente** e procure emergência médica. Rabdomiólise requer hidratação IV e monitoramento de função renal.
+
+### 7.4. Imunidade — Open Window Ampliada em Déficit
+
+O déficit calórico severo + exercício diário amplia a "janela aberta" de imunossupressão pós-exercício para até 72 h (vs. 3–24 h em normocaloria). Nesse período, ↓ função linfocitária, ↓ células NK e ↓ IgA salivar deixam o organismo mais vulnerável a infecções respiratórias (IVAS).
+
+**Medidas preventivas:**
+- Evitar aglomerações, contato com pessoas doentes e privação de sono (< 7 h) nas 24 h pós-exercício intenso
+- Manter higiene de mãos rigorosa durante os 30 dias
+- Se ≥ 2 IVAS em 30 dias → **sinal de STOP**: interromper protocolo e investigar imunossupressão com médico
+
+### 7.5. Hidratação Reforçada com Suplementos Nefrotóxicos
+
+A combinação de creatina 3–5 g/dia + proteína alta (~150 g) + cafeína (200–400 mg) + déficit calórico cria estresse renal aditivo — especialmente em contexto de desidratação ou exercício em calor.
+
+**Recomendação:** Manter hidratação ≥ 2,5 L/dia durante os 30 dias. Evitar ibuprofeno e outros AINEs peri-exercício (ver Cap. 15.1.1) — a tríade AINE + desidratação + exercício é causa documentada de lesão renal aguda.
+
+### 7.6. HRV — Ferramenta Opcional de Monitoramento
+
+A Variabilidade da Frequência Cardíaca (HRV) é um indicador sensível de estresse autonômico e overreaching. Smartwatches modernos (Apple Watch, Garmin, Oura Ring) medem HRV automaticamente durante o sono.
+
+**Como usar:**
+- Registre a HRV basal nos 3 dias anteriores ao protocolo (média pessoal)
+- Durante os 30 dias, monitore a tendência matinal
+- **Se HRV ↓ > 10% da baseline por 2+ dias consecutivos:** Considerar dia de descanso (Cap. 5.6) ou redução de volume de TR (Cap. 20)
+- HRV não substitui percepção subjetiva — use como ferramenta complementar, não como critério único

@@ -147,6 +147,23 @@ A contagem de calorias é ferramenta central do protocolo, mas pode tornar-se ga
 **Fotos de progresso:** São ferramenta útil de monitoramento (Cap. 1.3), mas podem ser gatilho para dismorfia corporal (BDD). Torná-las **opcionais** com o seguinte aviso:
 - Se comparar fotos gerar mais ansiedade do que motivação → suspender
 - Se verificar fotos múltiplas vezes ao dia → padrão disfuncional; migrar para circunferência de cintura como métrica exclusiva
+- **Se BDDQ positivo (Cap. 7.0):** Fotos de progresso são contraindicadas — usar exclusivamente medidas antropométricas (circunferência de cintura, quadril, braço)
+
+### 17.8.3. Suporte Social — Rede de Proteção
+
+O protocolo é autoaplicável, mas isolamento durante restrição calórica severa amplifica risco psicológico (ruminação, alimentação emocional, abandono silencioso). Recomenda-se:
+
+- **Check-in semanal** com pessoa de confiança (parceiro, amigo, familiar ou profissional de saúde): relatar como está o humor, sono e adesão
+- **Comunicar o protocolo** ao círculo social próximo: reduz pressão em contextos alimentares sociais (ver Cap. 18)
+- **Se isolamento social deliberado para evitar comida** → sinal de alerta (ver critérios de suspensão acima)
+
+### 17.8.4. Serotonina e Dieta Hiperproteica — Impacto no Humor
+
+A síntese de serotonina no SNC depende de triptofano livre cruzando a barreira hematoencefálica (BHE). Em dieta hiperproteica (~150 g/dia), os Large Neutral Amino Acids (LNAA — leucina, isoleucina, valina) competem pelo mesmo transportador LAT1, **reduzindo a captação cerebral de triptofano** e, consequentemente, a síntese de 5-HT.
+
+**Implicação:** O protocolo prescreve proteína alta para preservar massa magra, mas esse mesmo perfil pode ↓ serotonina → ↑ irritabilidade, ↓ humor e ↓ eficácia de ISRS (ver Cap. 15.9).
+
+**Mitigação:** Incluir **carboidrato no jantar** (palatinose ou aveia): a resposta insulínica ao CHO ↑ captação de LNAA pelo músculo, elevando a razão triptofano/LNAA no plasma e facilitando o transporte de triptofano ao cérebro (Wurtman & Wurtman). O jantar do protocolo (Cap. 3) já inclui palatinose — **não omiti-la**.
 
 ### 17.9. Integração com Outros Capítulos
 

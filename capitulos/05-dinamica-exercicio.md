@@ -18,6 +18,14 @@ Checklist rápido de calibração:
 3. Use RPE como validação: fala em frases completas, sem ofegar.
 4. Se o sensor divergir >10 bpm, priorize cinta torácica ou RPE. [web:70][web:71]
 
+::: {.callout-note}
+**FATmax — Individualização da oxidação de gordura:** O FATmax (intensidade de máxima oxidação de gordura) varia individualmente de 45% a 75% do V̇O₂máx. A prescrição genérica de Zona 2 (60–70% FCmáx) é um bom ponto de partida, mas pode sub ou super-estimar a intensidade ótima. **Proxies práticos para individualização:**
+
+- **Teste de fala:** Se você consegue manter conversa com frases completas = Zona 2 adequada. Se ofega entre palavras = acima do FATmax.
+- **RPE 3–4 (escala 0–10):** Em déficit calórico, o drift cardíaco (FC sobe mesmo com intensidade constante) torna o RPE mais confiável que FC para guiar a intensidade.
+- **Ergoespirometria:** Se disponível, é o padrão-ouro para determinar FATmax individual — considera-se investimento justificado para praticantes frequentes.
+:::
+
 ### 5.2. O Loop de Ritmo (Caminhada/Trote)
 * **0 a 5 min:** Caminhada leve para lubrificação articular. O aquecimento eleva gradualmente a temperatura tecidual e melhora a eficiência mecânica. [web:5]
 * **5 a 40 min:** Alternar **2 minutos de caminhada rápida** com **1 minuto de trote bem leve**. Essa gestão intervalada impede que a frequência cardíaca saia da Zona 2 e torna o exercício mentalmente mais sustentável. [web:30]
@@ -46,3 +54,34 @@ A presença de espumas premium (como PEBA) e a placa propulsora (seja nylon ou c
 4. **Sensores de contato da esteira:** Sem calibração padronizada; dependem do contato manual e são os menos confiáveis em regime de exercício contínuo.
 
 **Regra prática para o protocolo:** quando a diferença entre relógio e esteira ultrapassar 10 bpm, use a **percepção subjetiva de esforço (RPE)** como desempate. Na Zona 2, você deve conseguir manter uma conversa com frases completas, embora com leve esforço. Se estiver ofegante e consegue falar apenas palavras soltas, provavelmente está acima da Zona 2 independentemente do que qualquer sensor indique. Para quem treina com frequência e quer eliminar a dúvida, investir em uma cinta torácica (custo acessível) encerra a discussão com precisão clínica.
+
+### 5.5. Termorregulação — Exercício em Ambiente Quente
+
+O déficit calórico reduz a capacidade termorregulatória: menor reserva de glicogênio (que carrega ~3 g de água por grama), desidratação relativa e ↓ volume plasmático comprometem a taxa de sudorese e a dissipação de calor. Para exercício ao ar livre ou academias sem climatização adequada:
+
+| Condição ambiental | Ajuste de intensidade | Ação adicional |
+|---|---|---|
+| Temperatura ≤ 28 °C e umidade ≤ 65% | Protocolo normal (Zona 2) | Hidratação padrão (Cap. 4) |
+| Temperatura > 28 °C **ou** umidade > 65% | Reduzir intensidade em 10–15% (descer para RPE 2–3) | ↑ hidratação: +250 mL antes e goles a cada 10 min |
+| Temperatura > 32 °C **ou** umidade > 80% | Reduzir intensidade em 20% ou transferir para horário mais fresco | Considerar exercício indoor com ar-condicionado |
+| Sensação térmica > 35 °C (WBGT ou índice de calor) | **Suspender exercício ao ar livre** | Substituir por sessão indoor ou dia de descanso |
+
+**Aclimatação ao calor:** Se o protocolo for realizado em clima quente, os primeiros 5–7 dias devem incluir exposição gradual: iniciar com 60% da duração planejada e aumentar 10% por dia. A aclimatação melhora a taxa de sudorese e reduz a temperatura central em ~0,3 °C.
+
+**Sinais de alerta de hipertermia:** Cefaleia intensa, náusea, confusão mental, cessação abrupta do suor (pele seca e quente) ou FC que não desce com a redução de intensidade → **interromper imediatamente**, buscar sombra/ventilação e aplicar resfriamento ativo (água fria na nuca e punhos).
+
+**Retorno pós-interrupção por evento térmico:** Após episódio de hipertermia, aguardar **48 h assintomático** antes de retomar exercício. Retornar com 50% da intensidade e duração habituais no primeiro dia, progredindo 25% por sessão até normalização.
+
+> **Nota para usuários de betabloqueadores:** Betabloqueadores comprometem a termorregulação ao limitar a redistribuição cardíaca de calor (ver Cap. 15.2). Nesses casos, aplicar o ajuste da faixa imediatamente acima — ex.: com beta em temperatura > 25 °C, tratar como > 28 °C.
+
+### 5.6. Dia de Descanso — Quando Parar É Progredir
+
+O protocolo prescreve exercício diário (LISS + TR opcional), mas **descanso não é fraqueza**. Em déficit calórico severo, a capacidade de recuperação é limitada e sinais de overreaching devem ser respeitados.
+
+**Indicações para dia de descanso não programado:**
+- RPE percebido ≥ 2 pontos acima do habitual para a mesma carga/velocidade
+- HRV (se monitorada) ↓ > 10% da baseline pessoal por 2+ dias consecutivos
+- Dor muscular que não melhora após aquecimento (DOMS ≥ 72 h)
+- Sinais psicológicos: exercitar-se doente, culpa por descansar, priorizar treino sobre compromissos sociais → padrão compensatório (ver Cap. 17.8.2)
+
+**Conduta:** Substituir a sessão por caminhada leve de 15–20 min ou repouso completo. Um dia de descanso estratégico preserva mais massa magra do que um dia de treino em overreaching.

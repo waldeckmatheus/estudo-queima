@@ -7,3 +7,7 @@ A hidratação não deve ser guiada por uma meta cega. O excesso de água (super
 * **Durante a esteira** – Goles conforme a sede.
 * **Manhã / Tarde** – Manter garrafas visíveis para fluxo constante.
 * **15:30 / 19:30** – Ingestão junto às refeições para auxiliar a saciedade e digestão.
+
+::: {.callout-warning}
+**Hipotensão ortostática em déficit:** O volume plasmático reduzido (déficit + exercício + sudorese) aumenta o risco de tontura ao levantar. Medidas preventivas: (1) levantar devagar — primeiro sentar na borda da cama, depois ficar em pé; (2) manter a pitada de sal matinal (expande volume plasmático); (3) se tontura ortostática recorrente, ↑ hidratação em +500 mL/dia e considerar sal lite (KCl + NaCl) para reposição simultânea de sódio e potássio. Ver teste ortostático no Cap. 7.0.
+:::

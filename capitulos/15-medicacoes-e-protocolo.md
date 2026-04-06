@@ -49,6 +49,10 @@ Betabloqueadores (atenolol, propranolol, metoprolol, bisoprolol) reduzem a frequ
 
 **Recomendação operacional:** Se você utiliza betabloqueador, **não siga as faixas de FC do Cap. 5 sem recalibração**. Método alternativo: use a Escala de Percepção Subjetiva de Esforço (PSE/RPE) de Borg — Zona 2 corresponde a RPE 11–13 ("leve a um pouco difícil"), independentemente da FC absoluta. Comunique ao médico que está em protocolo de déficit calórico com exercício aeróbico diário.
 
+::: {.callout-warning}
+**Betabloqueador + cafeína/termogênico:** Limitar cafeína a **≤ 200 mg/dia** e **não combinar com termogênico** (Cap. 6.2). A combinação pode causar bradicardia paradoxal, hipotensão ou arritmia em indivíduos susceptíveis. Betabloqueadores também comprometem a termorregulação — aplicar protocolo de calor do Cap. 5.5 com limiar 3 °C mais baixo.
+:::
+
 ### 15.3. Inibidores de Bomba de Prótons (IBPs)
 
 Omeprazol, pantoprazol, lansoprazol e similares suprimem a secreção ácida gástrica. Embora eficazes para refluxo e úlcera, seu uso crônico (>8 semanas) reduz a absorção de micronutrientes críticos para este protocolo: [web:98]
