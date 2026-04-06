@@ -64,3 +64,39 @@ O cardápio padrão usa frango, ovos, whey e leite como fontes proteicas. Para p
 ::: {.callout-warning}
 **Alerta de micronutrientes em dietas restritivas:** Veganos e APLV em déficit calórico severo devem monitorar ferro, zinco, cálcio, B₁₂ e ômega-3 (DHA/EPA de algas) com atenção redobrada. Considere painel de micronutrientes no exame pré-protocolo (Cap. 7.0) e suplementação adicional conforme necessidade.
 :::
+
+### 10.4. Análise de Micronutrientes — Gaps em ~1.200 kcal
+
+Com a estrutura calórica do protocolo (~978–1.284 kcal/dia), a ingestão de alguns micronutrientes fica abaixo da Adequate Intake (AI). A tabela abaixo consolida os gaps e as fontes alimentares prioritárias:
+
+| Micronutriente | AI/RDA | Fontes no protocolo-base | Cobertura estimada | Ação corretiva |
+|---|---|---|---|---|
+| **Proteína** | 1,6–2,4 g/kg | Whey + frango + ovos + caseína | ~150 g (✅ adequado) | — |
+| **Cálcio** | 1.000 mg | Ovos (56 mg), folhas verdes (80 mg), queijo cottage (120 mg) | ~400–600 mg (❌ gap) | Polivitamínico + citrato de Ca se APLV/intolerante |
+| **Zinco** | 8–11 mg | Frango (1,5 mg/100 g), ovos (1,1 mg/unid), castanhas (4 mg/30 g) | ~7–9 mg (⚠️ borderline) | Polivitamínico cobre o gap; vegano → 15 mg quelado |
+| **Potássio** | 2.600–3.400 mg | Banana (422 mg), folhas verdes (~250 mg), omelete (~200 mg) | ~1.500–2.000 mg (❌ gap) | ≥ 2 porções de vegetais; sal lite (KCl) se câimbras |
+| **Ferro** | 8–18 mg | Frango (1 mg/100 g), ovos (1,8 mg/unid), folhas (2,5 mg) | ~8–12 mg (⚠️ mulheres vulneráveis) | Suplementar se ferritina < 30 (Cap. 6.3) |
+| **B1 (tiamina)** | 1,1–1,2 mg | Aveia (0,2 mg), frango (0,1 mg), ovos (0,04 mg) | ~0,6–0,8 mg (❌ gap) | Polivitamínico A-Z |
+| **B6** | 1,3–1,7 mg | Frango (0,5 mg), banana (0,4 mg), ovos (0,1 mg) | ~1,0–1,3 mg (⚠️ borderline) | Polivitamínico A-Z (cofator para serotonina) |
+| **B12** | 2,4 µg | Frango (0,3 µg), ovos (1,1 µg) | ~2–3 µg (✅ onívoros; ❌ veganos) | Veganos + IBP → suplementar obrigatório |
+| **Vitamina D** | 600–1.000 UI | Ovos (82 UI), azeite (traços) | ~100–200 UI (❌ gap severo) | Suplementar 1.000–2.000 UI/dia (Cap. 6.1 + Cap. 7.0) |
+
+> **Takeaway:** O polivitamínico A-Z é **essencial** (não opcional) em dietas < 1.500 kcal para cobrir B1, B6, zinco e vitamina D. Potássio e cálcio exigem atenção alimentar adicional. Detalhes de suplementação no Cap. 6.
+
+### 10.4. Análise de Micronutrientes — Gaps em ~1.200 kcal
+
+Com a estrutura calórica do protocolo (~978–1.284 kcal/dia), a ingestão de alguns micronutrientes fica abaixo da Adequate Intake (AI). A tabela abaixo consolida os gaps e as fontes alimentares prioritárias:
+
+| Micronutriente | AI/RDA | Fontes no protocolo-base | Cobertura estimada | Ação corretiva |
+|---|---|---|---|---|
+| **Proteína** | 1,6–2,4 g/kg | Whey + frango + ovos + caseína | ~150 g (✅ adequado) | — |
+| **Cálcio** | 1.000 mg | Ovos (56 mg), folhas verdes (80 mg), queijo cottage (120 mg) | ~400–600 mg (❌ gap) | Polivitamínico + citrato de Ca se APLV/intolerante |
+| **Zinco** | 8–11 mg | Frango (1,5 mg/100 g), ovos (1,1 mg/unid), castanhas (4 mg/30 g) | ~7–9 mg (⚠️ borderline) | Polivitamínico cobre o gap; vegano → 15 mg quelado |
+| **Potássio** | 2.600–3.400 mg | Banana (422 mg), folhas verdes (~250 mg), omelete (~200 mg) | ~1.500–2.000 mg (❌ gap) | ≥ 2 porções de vegetais; sal lite (KCl) se câimbras |
+| **Ferro** | 8–18 mg | Frango (1 mg/100 g), ovos (1,8 mg/unid), folhas (2,5 mg) | ~8–12 mg (⚠️ mulheres vulneráveis) | Suplementar se ferritina < 30 (Cap. 6.3) |
+| **B1 (tiamina)** | 1,1–1,2 mg | Aveia (0,2 mg), frango (0,1 mg), ovos (0,04 mg) | ~0,6–0,8 mg (❌ gap) | Polivitamínico A-Z |
+| **B6** | 1,3–1,7 mg | Frango (0,5 mg), banana (0,4 mg), ovos (0,1 mg) | ~1,0–1,3 mg (⚠️ borderline) | Polivitamínico A-Z (cofator para serotonina) |
+| **B12** | 2,4 µg | Frango (0,3 µg), ovos (1,1 µg) | ~2–3 µg (✅ onívoros; ❌ veganos) | Veganos + IBP → suplementar obrigatório |
+| **Vitamina D** | 600–1.000 UI | Ovos (82 UI), azeite (traços) | ~100–200 UI (❌ gap severo) | Suplementar 1.000–2.000 UI/dia (Cap. 6.1 + Cap. 7.0) |
+
+> **Takeaway:** O polivitamínico A-Z é **essencial** (não opcional) em dietas < 1.500 kcal para cobrir B1, B6, zinco e vitamina D. Potássio e cálcio exigem atenção alimentar adicional. Detalhes de suplementação no Cap. 6.

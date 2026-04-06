@@ -38,6 +38,7 @@ A cafeína é metabolizada primariamente pela enzima CYP1A2. Polimorfismos no ge
   - **Timing:** Qualquer horário; não requer fase de loading. Tomar diariamente, inclusive em dias sem treino.
   - **Alerta:** Causa retenção hídrica intramuscular (~1–2 kg), que **não é gordura**. Não se assuste com aumento inicial na balança — use fotos e medidas como referência (Cap. 1.3).
   - **Contraindicação:** DRC com TFG < 60 mL/min (ver triagem pré-protocolo, Cap. 7.0).
+  - **Nota laboratorial:** Creatina 3–5 g/dia eleva creatinina sérica em ~0,1–0,3 mg/dL. Se TFGe (CKD-EPI) for calculada durante suplementação, **informar o laboratório/médico** que você suplementa creatina — caso contrário, a TFGe será falsamente reduzida, podendo sugerir insuficiência renal inexistente.
 
 * **Colágeno Hidrolisado (15 g) + Vitamina C (500 mg):** A combinação, tomada 30–60 min antes do exercício, aumenta a síntese de colágeno em tendões e ligamentos, que estão sob estresse adicional em déficit calórico. (Shaw et al., 2017 — Am J Clin Nutr)
   - **Quando:** Apenas em dias de treino resistido ou exercício de maior impacto articular.
@@ -55,3 +56,23 @@ A cafeína é metabolizada primariamente pela enzima CYP1A2. Polimorfismos no ge
 * **Leucina isolada no desjejum (3–5 g):** O primeiro estímulo alimentar após o jejum noturno/matinal deve atingir o limiar de leucina para ativar mTORC1 e iniciar a síntese proteica muscular (MPS). Em idosos e mulheres com MLG baixa, considerar leucina isolada adicionada ao whey matinal para garantir ≥ 2,5 g de leucina por refeição. (Katsanos et al. 2006; Phillips et al. 2016) `[GRADE: BAIXA — extrapolação de ECRs em idosos]`
   - **Quem mais se beneficia:** Idosos (>60 anos), MLG estimada < 45 kg, protocolos com déficit > 40% do TDEE.
   - **Timing:** Junto com a primeira refeição proteica do dia (whey matinal ou desjejum).
+
+* **Glutamina (5–10 g/dia, opcional):** Aminoácido condicionalmente essencial em estresse metabólico. Déficit calórico + exercício diário ↓ glutamina plasmática → ↓ função de neutrófilos e linfócitos → "open window" ampliada (Cap. 7.4). Suplementação de 5–10 g/dia pode atenuar a imunossupressão (evidência moderada). Perfil de segurança excelente; custo baixo.
+  - **Timing:** Fracionada em 2 doses (manhã + noite) ou dose única pós-treino.
+  - **Quem mais se beneficia:** Praticantes com IVAS recorrentes, treino intenso diário, ou déficit > 35% do TDEE.
+
+::: {.callout-note}
+**Adequação de micronutrientes em ~1.200 kcal/dia:**
+
+Com ingestão calórica restrita, alguns micronutrientes ficam abaixo da Adequate Intake (AI) mesmo com alimentação variada:
+
+| Micronutriente | AI/RDA | Estimativa no protocolo-base | Gap | Ação |
+|---|---|---|---|---|
+| Cálcio | 1.000 mg | ~400–600 mg (sem laticínios abundantes) | −400–600 mg | Polivitamínico A-Z cobre parcialmente; se intolerante a laticínios, considerar citrato de cálcio 500 mg |
+| Zinco | 8–11 mg | ~6–8 mg (depende do consumo de carnes) | −0–5 mg | Polivitamínico A-Z geralmente cobre; se vegano, considerar zinco quelado 15 mg |
+| Potássio | 2.600–3.400 mg | ~1.500–2.000 mg | −600–1.400 mg | Manter ≥ 2 porções de vegetais verdes/dia; banana já inclusa; considerar sal lite (KCl 50%) se câimbras |
+| B1 (tiamina) | 1,1–1,2 mg | ~0,6–0,8 mg | −0,3–0,6 mg | Coberto pelo polivitamínico A-Z |
+| B6 (piridoxina) | 1,3–1,7 mg | ~1,0–1,3 mg | −0–0,7 mg | Cofator da conversão triptofano → serotonina (cap. 17.8.4); coberto pelo polivitamínico |
+
+**Conclusão:** O polivitamínico A-Z do almoço (Cap. 6.1) é **recomendação padrão para todos** (não apenas subgrupo) em dietas < 1.500 kcal. Para potássio, priorizar fontes alimentares (folhas verdes, banana, abacate) e sal lite se sintomático.
+:::

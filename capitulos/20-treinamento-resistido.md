@@ -16,6 +16,16 @@ Uma revisão narrativa ampla (Roth, Schoenfeld & Behringer, 2022) examinou espec
 **Regra operacional:** Durante o mini-cut, NÃO reduza o volume de TR (séries × repetições × carga). Se precisar ajustar algo, reduza a carga mantendo séries e repetições — nunca o contrário. A tonelagem preservada é o sinal anti-catabólico primário para o músculo.
 :::
 
+::: {.callout-note}
+**Resistência anabólica em déficit calórico:** Em restrição energética, a resposta de síntese proteica muscular (MPS) ao estímulo do TR é **atenuada** — fenômeno chamado "resistência anabólica." Para superar esse limiar elevado:
+
+- **Proteína ≥ 2,0 g/kg/dia** (o protocolo já atinge ~2,0–2,4 g/kg)
+- **Leucina ≥ 3 g por refeição** (garantida pelo whey matinal; considerar leucina isolada em idosos ou MLG baixa — Cap. 6.3)
+- **Distribuição proteica uniforme:** 4–5 refeições com ≥ 25 g de proteína cada, em vez de concentrar em 1–2 grandes refeições
+
+A resistência anabólica explica por que não se deve esperar hipertrofia significativa durante o mini-cut. O objetivo realista é **manutenção** da massa magra — ganhos são possíveis apenas em iniciantes ou com sobrepeso significativo.
+:::
+
 ---
 
 ### 20.2. Variáveis do Treinamento em Déficit
@@ -78,7 +88,7 @@ A revisão sistemática e meta-análise de Zhang et al. (2021) comparou métodos
    - Deep squat limitado → mobilidade de tornozelo (knee-over-toe stretch, 30s cada lado)
    - Straight-leg raise limitado → alongamento dinâmico de isquiotibiais (leg swings, 10 reps)
    - Shoulder mobility limitada → wall slides + dislocação com bastão (10 reps)
-1. Realize as séries de aquecimento planejadas.
+1. Realize as **séries progressivas de aquecimento** antes de cada exercício composto: 1 série a 40% da carga de trabalho (12 reps), 1 série a 60% (8 reps), 1 série a 80% (4 reps). Essas séries progressivas preparam o sistema neuromuscular e articular para a carga efetiva — **não as pule**, especialmente em déficit calórico onde a temperatura tecidual de repouso pode estar mais baixa.
 2. Na primeira série de trabalho, avalie o RPE real vs. o esperado.
 3. Se RPE estiver **1+ ponto acima** do esperado para a mesma carga → reduza 5–10% da carga nas séries seguintes.
 4. Se RPE estiver **1+ ponto abaixo** → mantenha ou aumente 2,5–5%.
