@@ -42,6 +42,7 @@ A documentação é organizada em três partes: o **Protocolo** (execução prá
 - [A14. Ciência da Composição Corporal](capitulos/A14-ciencia-composicao-corporal.md)
 - [A15. Fisiologia Gastrointestinal no Déficit Calórico](capitulos/A15-fisiologia-gastrica-deficit.md)
 - [A16. Fast Food e Déficit Calórico: Por que a Qualidade Calórica Importa](capitulos/A16-fast-food-e-deficit-calorico.md)
+- [A17. Pico de Insulina e Gordura: O que a Ciência Realmente Diz](capitulos/A17-insulina-e-gordura.md)
 
 ### Back Matter
 

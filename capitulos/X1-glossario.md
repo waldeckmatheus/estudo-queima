@@ -8,10 +8,10 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 
 | Profissional | Termos | % do glossário |
 |---|:---:|:---:|
-| Endocrinologista | 29 | 13,9% |
+| Endocrinologista | 31 | 13,9% |
 | Fisiologista do Exercício | 25 | 12,0% |
 | Farmacologista | 21 | 10,0% |
-| Nutricionista Clínico | 19 | 9,1% |
+| Nutricionista Clínico | 23 | 10,3% |
 | Neurocientista | 19 | 9,1% |
 | Gastroenterologista | 16 | 7,7% |
 | Nutricionista Esportivo | 15 | 7,2% |
@@ -96,6 +96,8 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 
 **GLP-1 (peptídeo semelhante ao glucagon tipo 1).** Hormônio intestinal que suprime o apetite e retarda o esvaziamento gástrico. Medicamentos como semaglutida (Ozempic, Wegovy) ativam os receptores desse hormônio.
 
+**GLUT4.** Transportador de glicose dependente de insulina, presente em músculo esquelético e tecido adiposo. A insulina promove a translocação de GLUT4 para a membrana celular, permitindo a entrada de glicose. O exercício físico ativa GLUT4 por via independente da insulina (via AMPK), melhorando a captação de glicose sem necessidade de picos insulínicos (Ap. A17.6).
+
 **GnRH (Hormônio Liberador de Gonadotrofina).** Neuropeptídeo hipotalâmico secretado de forma pulsátil que controla o eixo reprodutivo (hipotálamo-hipófise-gônadas). Em adolescentes, a pulsatilidade de GnRH é essencial para o início e a progressão da puberdade. A baixa disponibilidade energética pode inibir essa pulsatilidade, atrasando o desenvolvimento puberal — razão pela qual restrição calórica agressiva é contraindicada em jovens.
 
 **Gliconeogênese.** Processo metabólico pelo qual o fígado produz glicose a partir de precursores não-glicídicos (aminoácidos, lactato, glicerol). Corticosteroides estimulam a gliconeogênese, contribuindo para hiperglicemia — um dos motivos para adiar o protocolo durante uso sistêmico de corticoide.
@@ -105,6 +107,8 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 **Grelina acilada.** Forma ativada da grelina. É a versão que efetivamente estimula o apetite ao se ligar aos receptores no hipotálamo.
 
 **Insulina.** Hormônio produzido pelo pâncreas que facilita a entrada de glicose nas células e inibe a lipólise. Quando a insulina está baixa (ex.: em jejum), o corpo tem mais facilidade para mobilizar gordura.
+
+**Hiperinsulinemia reativa.** Secreção excessiva de insulina em resposta a um pico rápido de glicemia, seguida de hipoglicemia transitória (2–4 h pós-prandial). Provoca fome intensa, tremor e elevação de cortisol. Mais pronunciada com alimentos de alto IG consumidos isoladamente. Mitigada no protocolo pelo uso de palatinose e pela combinação sistemática de macronutrientes (Ap. A17.5).
 
 **Leptina.** Hormônio produzido pelas células de gordura que sinaliza ao cérebro o nível de reservas energéticas. Quando a leptina cai (como em restrição calórica), o cérebro interpreta que as reservas estão se esgotando e ativa mecanismos de fome e economia de energia.
 
@@ -408,6 +412,10 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 
 **IG (índice glicêmico).** Escala de 0 a 100 que mede a velocidade com que um alimento eleva a glicose no sangue. A palatinose tem IG baixo (~32), enquanto a glicose pura tem IG = 100.
 
+**CG (carga glicêmica).** Métrica que combina o índice glicêmico de um alimento com a quantidade de carboidrato na porção: CG = IG × g de carboidrato ÷ 100. É mais preditiva do impacto insulínico real do que o IG isolado. Exemplo: melancia tem IG alto (~76) mas CG baixa (~4) por fatia (Ap. A17.2).
+
+**Índice insulínico (II).** Escala que mede a resposta insulínica pós-prandial a porções isoenergéticas de alimentos (1.000 kJ), usando pão branco como referência (II = 100). Difere do IG porque captura a estimulação de insulina por proteína e outros fatores além da glicemia. Exemplo: carne bovina tem IG 21 mas II 51 (Holt et al. 1997) [web:172] (Ap. A17.2).
+
 **IMC (índice de massa corporal).** Razão entre peso (kg) e altura ao quadrado (m²). Usado como triagem populacional para sobrepeso (≥ 25) e obesidade (≥ 30), mas não distingue gordura de massa muscular.
 
 **Percentil de IMC.** Classificação do IMC em crianças e adolescentes que compara o valor individual com a distribuição populacional ajustada por idade e sexo (curvas de crescimento CDC/OMS). Sobrepeso: ≥ percentil 85; obesidade: ≥ percentil 95; obesidade severa: ≥ 120% do percentil 95 ou IMC ≥ 35. É a métrica correta para avaliação nutricional pediátrica, pois o IMC absoluto varia normalmente com o crescimento.
@@ -417,6 +425,10 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 **LCD (Low-Calorie Diet / Dieta de Baixa Caloria).** Classificação dietética para ingestão de 11–19 kcal/kg/dia de peso corporal. Fica entre a dieta moderada (≥ 20 kcal/kg/dia) e a VLCD (< 11 kcal/kg/dia). Este protocolo opera predominantemente na faixa LCD para praticantes com peso > 65 kg (Cap. 1.1).
 
 **Micelas lipídicas.** Estruturas microscópicas formadas por gordura e bile no intestino que transportam vitaminas lipossolúveis (A, D, E, K) para absorção. Sem gordura na refeição, a absorção dessas vitaminas é drasticamente reduzida.
+
+**Modelo carboidrato-insulina (CIM).** Modelo teórico da obesidade proposto por Ludwig et al. (2021) que inverte a causalidade convencional: carboidrato refinado → hiperinsulinemia → desvio de nutrientes para armazenamento → ↓ disponível no sangue → fome → excesso calórico. A evidência de estudos metabólicos controlados suporta parcialmente o modelo (efeito na partição energética), mas demonstra que o balanço calórico total continua sendo o determinante primário da perda de gordura [web:169] [web:170] (Ap. A17.3).
+
+**Lipase de lipoproteína (LPL).** Enzima localizada na superfície do endotélio capilar que hidrolisa triglicerídeos de lipoproteínas circulantes (VLDL, quilomícrons), liberando ácidos graxos para captação pelo tecido adjacente. A insulina ativa a LPL no tecido adiposo (favorecendo armazenamento de gordura) e a suprime no músculo, modulando a partição de ácidos graxos entre armazenamento e oxidação (Ap. A17.1).
 
 **PSMF (Protein-Sparing Modified Fast).** Dieta de altíssimo déficit calórico (~600–1.000 kcal) baseada quase exclusivamente em proteína, com o objetivo de preservar massa magra enquanto maximiza a perda de gordura. O Rapid Fat Loss (RFL) de Lyle McDonald é o protocolo PSMF mais conhecido.
 
