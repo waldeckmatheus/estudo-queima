@@ -147,6 +147,10 @@ Esta base inclui evidências de qualidade heterogênea (guidelines, revisões, e
 | [web:174] | [Calorie for Calorie, Dietary Fat Restriction Results in More Body Fat Loss than Carbohydrate Restriction in People with Obesity — Hall KD et al., Cell Metab 2015](https://pubmed.ncbi.nlm.nih.gov/26278052/) |
 | [web:175] | [Lipid Metabolism During Endurance Exercise — Horowitz JF & Klein S, Am J Clin Nutr 2000](https://pubmed.ncbi.nlm.nih.gov/10919930/) |
 | [web:176] | [Effect of Low-Fat vs Low-Carbohydrate Diet on 12-Month Weight Loss in Overweight Adults and the Association With Genotype Pattern or Insulin Secretion: The DIETFITS Randomized Clinical Trial — Gardner CD et al., JAMA 2018](https://pubmed.ncbi.nlm.nih.gov/29466592/) |
+| [web:177] | [A New Predictive Equation for Resting Energy Expenditure in Healthy Individuals — Mifflin MD, St Jeor ST et al., Am J Clin Nutr 1990](https://pubmed.ncbi.nlm.nih.gov/2305711/) |
+| [web:178] | [A Limit on the Energy Transfer Rate from the Human Fat Store in Hypophagia — Alpert SS, J Theor Biol 2005](https://pubmed.ncbi.nlm.nih.gov/15615615/) |
+| [web:179] | [Variability in Energy Expenditure and Its Components — Donahoo WT, Levine JA & Melanson EL, Curr Opin Clin Nutr Metab Care 2004](https://pubmed.ncbi.nlm.nih.gov/15534426/) |
+| [web:180] | [Quantification of the Effect of Energy Imbalance on Bodyweight — Hall KD et al., Lancet 2011](https://pubmed.ncbi.nlm.nih.gov/21872751/) |
 
 ### 12.1. Curadoria Rápida por Nível de Evidência
 
@@ -230,6 +234,10 @@ Esta base inclui evidências de qualidade heterogênea (guidelines, revisões, e
 * [web:174] RCT metabólico NIH (Hall et al., Cell Metab 2015): restrição de gordura produziu 67% mais perda de gordura corporal que restrição de carboidrato isocalórica em 19 adultos internados por 2 semanas.
 * [web:175] Revisão sobre metabolismo lipídico durante exercício (Horowitz & Klein, Am J Clin Nutr 2000): insulina elevada suprime lipólise e oxidação de gordura durante exercício; exercício em jejum maximiza oxidação lipídica durante a sessão.
 * [web:176] RCT DIETFITS (Gardner et al., JAMA 2018): 609 adultos, 12 meses; low-fat e low-carb indistinguíveis na perda de peso (~5,3 vs. ~6,0 kg); sem interação com genótipo ou secreção de insulina.
+* [web:177] Equação de Mifflin-St Jeor (Mifflin et al., Am J Clin Nutr 1990): equação preditiva de RMR mais acurada para adultos saudáveis; incorpora peso, altura, idade e sexo; validada como superior a Harris-Benedict.
+* [web:178] Limite de mobilização de gordura (Alpert, J Theor Biol 2005): taxa máxima de transferência energética do tecido adiposo é ~69 kcal/kg MG/dia (290 kJ/kg MG/dia); excedê-la causa perda de FFM.
+* [web:179] Variabilidade no gasto energético (Donahoo et al., Curr Opin Clin Nutr Metab Care 2004): CV do RMR é 5–8%; NEAT é o principal determinante da variação interindividual no TDEE.
+* [web:180] Modelagem matemática do balanço energético (Hall et al., Lancet 2011): meia-vida do ajuste de peso ~1 ano; indivíduos com maior adiposidade perdem mais peso para o mesmo déficit; modelo validado para simulação de intervenções populacionais.
 
 **Suporte complementar (útil, mas não central para decisão crítica):**
 * [web:20] Fasted vs fed para metabolismo de gordura.
@@ -292,3 +300,6 @@ Esta base inclui evidências de qualidade heterogênea (guidelines, revisões, e
 18. **[web:170] / [web:171]** Revisões críticas do CIM (Hall 2017; Hall & Guo 2017): evidência de estudos metabólicos controlados mostra que composição de macros tem efeito modesto quando calorias são controladas.
 19. **[web:174]** Restrição de gordura vs. carboidrato isocalórica (Hall et al., Cell Metab 2015): RCT metabólico demonstrando que ↓ insulina por low-carb não se traduz em maior perda de gordura.
 20. **[web:176]** DIETFITS (Gardner et al., JAMA 2018): maior RCT de longo prazo (n=609, 12 meses) comparando low-fat e low-carb — resultados equivalentes.
+21. **[web:177]** Mifflin-St Jeor (Mifflin et al., Am J Clin Nutr 1990): equação preditiva de RMR mais acurada e amplamente utilizada para adultos saudáveis eutróficos e com sobrepeso.
+22. **[web:178]** Limite de Alpert (Alpert, J Theor Biol 2005): derivação experimental do teto de ~69 kcal/kg MG/dia para mobilização de ácidos graxos — fundamento para individualização do déficit calórico por composição corporal.
+23. **[web:180]** Modelo Hall (Hall et al., Lancet 2011): modelo dinâmico validado que quantifica como adiposidade inicial modula a resposta ao déficit energético.

@@ -9,9 +9,9 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 | Profissional | Termos | % do glossário |
 |---|:---:|:---:|
 | Endocrinologista | 31 | 13,9% |
-| Fisiologista do Exercício | 25 | 12,0% |
+| Fisiologista do Exercício | 26 | 11,7% |
 | Farmacologista | 21 | 10,0% |
-| Nutricionista Clínico | 23 | 10,3% |
+| Nutricionista Clínico | 24 | 10,8% |
 | Neurocientista | 19 | 9,1% |
 | Gastroenterologista | 16 | 7,7% |
 | Nutricionista Esportivo | 15 | 7,2% |
@@ -208,6 +208,8 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 **Entrainment (Sincronização Audiomotora).** Fenômeno neurofisiológico de sincronização involuntária de movimentos cíclicos (cadência de passada, pedalada) com ritmos musicais externos. Música a 120–140 BPM favorece o entrainment na Zona 2 aeróbica, reduzindo a percepção subjetiva de esforço em ~10% (Ap. A1).
 **Lipólise.** Processo de quebra dos triglicerídeos armazenados no tecido adiposo em ácidos graxos livres e glicerol. É o primeiro passo para "queimar gordura" — mas os ácidos graxos liberados só são eliminados se forem efetivamente oxidados nos músculos.
 
+**Limite de Alpert.** Taxa máxima de transferência de energia a partir do tecido adiposo humano, experimentalmente determinada em ~69 kcal/kg de massa gorda/dia (290 ± 25 kJ/kg MG/dia). Quando o déficit calórico excede essa capacidade, a diferença é coberta pela degradação de massa livre de gordura. É o principal limitador fisiológico do déficit calórico seguro em indivíduos com baixo percentual de gordura (Alpert, J Theor Biol 2005) [web:178] (Ap. A18.3).
+
 **Massa livre de gordura (MLG / FFM).** Tudo no corpo que não é gordura: músculo, osso, água, órgãos. É o principal determinante da taxa metabólica de repouso (RMR). Em dietas sem exercício resistido, ~25% do peso perdido provém de MLG; com proteína elevada + treino resistido, essa fração pode ser reduzida para < 10%.
 
 **MPS (Síntese Proteica Muscular / Muscle Protein Synthesis).** Taxa na qual o músculo esquelético constrói novas proteínas. A resistência anabólica do envelhecimento reduz a MPS em 30–40% para uma mesma dose de proteína, exigindo maior ingestão proteica (≥ 30 g/refeição com leucina adequada) para atingir o limiar de estimulação em idosos.
@@ -403,6 +405,8 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 **Cetose.** Estado metabólico no qual o corpo produz corpos cetônicos (a partir de gordura) em quantidade elevada, geralmente por restrição severa de carboidratos. Este protocolo *não* induz cetose sustentada, pois inclui ~40–60 g de carboidrato/dia.
 
 **Déficit calórico.** Situação em que o corpo gasta mais energia do que recebe pela alimentação. É o mecanismo fundamental de perda de gordura. Neste protocolo, o déficit é de ~1.200 kcal/dia.
+
+**Equação de Mifflin-St Jeor.** Equação preditiva do gasto metabólico de repouso (RMR) considerada a mais acurada para adultos saudáveis: RMR = 10 × peso (kg) + 6,25 × altura (cm) − 5 × idade (anos) + s, onde s = +5 (homens) ou −161 (mulheres). O coeficiente de 6,25 para altura reflete que indivíduos mais altos possuem maior massa de órgãos metabolicamente ativos e maior área de superfície corporal (Mifflin et al., Am J Clin Nutr 1990) [web:177] (Ap. A18.1).
 
 **Esvaziamento gástrico.** Velocidade com que o alimento sai do estômago para o intestino. O whey isolado com água tem esvaziamento rápido; leite e gordura retardam esse processo.
 
