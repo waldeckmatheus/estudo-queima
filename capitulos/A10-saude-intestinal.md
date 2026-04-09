@@ -86,6 +86,7 @@ Uma revisão seminal (de Oliveira, Burini & Jeukendrup, 2014) reportou que **30�
 - A sessão de Zona 2 (baixa intensidade) tem risco GI muito menor que exercícios de alta intensidade.
 - **Exercício em jejum + café** é a combinação mais propensa a causar sintomas GI (especialmente diarreia de urgência). Se ocorrer: adiar o café para pós-exercício ou reduzir a dose de cafeína.
 - Evitar whey nos 30 min pré-exercício se causar desconforto gástrico.
+- Para náusea induzida por exercício no contexto do déficit calórico (mecanismos, manejo e critérios de parada), ver **Ap. A19**.
 
 ---
 
@@ -198,5 +199,7 @@ Psyllium pode reduzir a absorção de medicamentos se tomado simultaneamente. Ma
 | [Cap. 6 — Suplementação](06-suplementacao.md) | Whey como fonte proteica e potencial gatilho GI; psyllium como fibra funcional |
 | [Cap. 7 — Segurança](07-seguranca.md) | Sinais de alerta GI como stop criteria |
 | [Cap. 10 — Breakdown Nutricional](10-nutricao.md) | Fontes de fibra dentro do orçamento calórico |
+| [Ap. A15 — Fisiologia Gastrointestinal](A15-fisiologia-gastrica-deficit.md) | Mecanismos fisiológicos GI no déficit (secreção ácida, motilidade, barreira) |
+| [Ap. A19 — Náusea e Exercício](A19-enjoo-exercicio-deficit.md) | Náusea induzida por exercício no déficit: Ex-GIS, hipoperfusão esplâncnica, critérios de parada |
 | [Cap. 11 — Ciclo de Vida](11-ciclo-de-vida.md) | Reintrodução de fibras na Fase 2 (reverse dieting) |
 | [Ap. A4 — Medicações](A04-medicacoes-e-protocolo.md) | Interação psyllium-medicamentos; IBPs e absorção de nutrientes |

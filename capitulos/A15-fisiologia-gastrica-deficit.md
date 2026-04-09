@@ -255,6 +255,7 @@ O protocolo de 30 dias em ~1.200 kcal/dia produz um conjunto de alterações gas
 - **Ap. A4** — Medicações e protocolo (AINEs, IBPs).
 - **Ap. A10** — Saúde intestinal (fibra, probióticos, constipação, gestão prática).
 - **Ap. A14** — Ciência da composição corporal (adaptação metabólica, reverse dieting).
+- **Ap. A19** — Náusea induzida por exercício no déficit calórico (Ex-GIS, hipoperfusão esplâncnica, manejo e critérios de parada).
 
 ---
 

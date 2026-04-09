@@ -151,6 +151,10 @@ Esta base inclui evidências de qualidade heterogênea (guidelines, revisões, e
 | [web:178] | [A Limit on the Energy Transfer Rate from the Human Fat Store in Hypophagia — Alpert SS, J Theor Biol 2005](https://pubmed.ncbi.nlm.nih.gov/15615615/) |
 | [web:179] | [Variability in Energy Expenditure and Its Components — Donahoo WT, Levine JA & Melanson EL, Curr Opin Clin Nutr Metab Care 2004](https://pubmed.ncbi.nlm.nih.gov/15534426/) |
 | [web:180] | [Quantification of the Effect of Energy Imbalance on Bodyweight — Hall KD et al., Lancet 2011](https://pubmed.ncbi.nlm.nih.gov/21872751/) |
+| [web:181] | [Systematic Review: Exercise-Induced Gastrointestinal Syndrome — Implications for Health and Intestinal Disease — Costa RJS, Snipe RMJ, Kitic CM, Gibson PR, Aliment Pharmacol Ther 2017](https://pubmed.ncbi.nlm.nih.gov/28589631/) |
+| [web:182] | [Review Article: The Pathophysiology and Management of Gastrointestinal Symptoms during Physical Exercise, and the Role of Splanchnic Blood Flow — ter Steege RW, Kolkman JJ, Aliment Pharmacol Ther 2012](https://pubmed.ncbi.nlm.nih.gov/22229513/) |
+| [web:183] | ["I Think I'm Gonna Hurl": A Narrative Review of the Causes of Nausea and Vomiting in Sport — Wilson PB, Sports (Basel) 2019](https://doi.org/10.3390/sports7070162) |
+| [web:184] | [Exercise-Induced Nausea Is Exaggerated by Eating — Kondo T, Nakae Y, Mitsui T et al., Appetite 2001](https://doi.org/10.1006/appe.2001.0411) |
 
 ### 12.1. Curadoria Rápida por Nível de Evidência
 
@@ -247,6 +251,10 @@ Esta base inclui evidências de qualidade heterogênea (guidelines, revisões, e
 * [web:124] SR/MA: frequência de TR não afeta hipertrofia quando volume semanal é equalizado — flexibilidade na distribuição.
 * [web:125] SR/MA: métodos de autoregulação (RPE, APRE, VBT) produzem ganhos de força ≥ cargas fixas, com melhor ajuste à capacidade diária.
 * [web:128] Revisão: 30–50% dos atletas experimentam queixas GI durante exercício; redistribuição esplâncnica e fatores mecânicos como mecanismos principais.
+* [web:181] Revisão sistemática sobre síndrome gastrointestinal induzida por exercício (Ex-GIS): integridade intestinal, hipoperfusão esplâncnica, endotoxemia e manejo nutricional.
+* [web:182] Revisão sobre fisiopatologia dos sintomas GI durante exercício e papel do fluxo sanguíneo esplâncnico.
+* [web:183] Revisão narrativa sobre causas de náusea e vômito no esporte: mecanismos neuroendócrinos, circulatórios e comportamentais.
+* [web:184] Estudo demonstrando que ingestão alimentar durante exercício exacerba a náusea induzida por exercício.
 * [web:130] SR: intervenções de perda de peso alteram microbiota (↑Proteobacteria, mudança razão Firmicutes/Bacteroidetes); significância clínica em curto prazo incerta.
 * [web:82] Lipólise local adjacente a músculos em contração: magnitude irrisória.
 * [web:84] Exercício em jejum vs. alimentado: sem diferença de composição corporal em dieta hipocalórica (RCT).

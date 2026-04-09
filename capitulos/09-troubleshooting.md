@@ -173,7 +173,7 @@ O protocolo inclui substâncias potencialmente laxativas (cafeína, psyllium, ma
 3. **Passo 3:** Cortar cafeína por 48 h
 4. **Passo 4:** Se ≥ 3 dias sem melhora → buscar atendimento médico (descartar infecção, DII)
 
-**Gastroparesia funcional:** Déficit + refeições ricas em proteína + suplementos podem causar retardo no esvaziamento gástrico → náusea, plenitude precoce, abandono de refeições. Mitigar: fracionar suplementos ao longo do dia; evitar > 40 g de proteína em refeição única; caminhar 10 min após refeições.
+**Gastroparesia funcional:** Déficit + refeições ricas em proteína + suplementos podem causar retardo no esvaziamento gástrico → náusea, plenitude precoce, abandono de refeições. Mitigar: fracionar suplementos ao longo do dia; evitar > 40 g de proteína em refeição única; caminhar 10 min após refeições. Para uma abordagem integrada da náusea induzida por exercício no déficit (mecanismos, fluxograma de decisão e critérios de parada), ver **Ap. A19**.
 
 ### Erro 11: Esteatose Hepática Transitória — TGO/TGP Elevadas
 

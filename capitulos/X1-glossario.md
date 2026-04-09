@@ -274,6 +274,12 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 
 **Zonulina.** Único modulador fisiológico conhecido das junções oclusivas intercelulares. Liberada em excesso por supercrescimento bacteriano no intestino delgado e pela gliadina (proteína do glúten). Sua liberação excessiva aumenta a permeabilidade intestinal, permitindo translocação de LPS para a corrente sanguínea (endotoxemia metabólica). Bactérias produtoras de butirato (Faecalibacterium) reduzem sua liberação.
 
+**Ex-GIS (Exercise-Induced Gastrointestinal Syndrome).** Termo que designa o conjunto de distúrbios gastrointestinais (náusea, cólicas, diarreia, refluxo) induzidos por exercício físico. Os mecanismos incluem hipoperfusão esplâncnica (redução de até 80% do fluxo sanguíneo intestinal), aumento da permeabilidade intestinal, endotoxemia e alterações neuroendócrinas. ≥60% VO₂max é o limiar aproximado para perturbações GI significativas (Ap. A19).
+
+**I-FABP (Intestinal Fatty Acid-Binding Protein).** Proteína intracelular abundante nos enterócitos, liberada para o plasma quando há lesão epitelial intestinal. Marcador emergente de dano intestinal induzido por exercício — sua elevação indica comprometimento da integridade da barreira durante exercício intenso (Ap. A19).
+
+**Fluxo esplâncnico.** Volume de sangue que perfunde os órgãos abdominais (estômago, intestinos, fígado, baço). Durante exercício intenso, pode ser reduzido em até 80% pela redistribuição para músculos esqueléticos, coração e pele — mecanismo central da náusea induzida por exercício (Ap. A19).
+
 ---
 
 ### Ginecologista
