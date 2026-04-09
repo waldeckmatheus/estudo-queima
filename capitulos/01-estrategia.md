@@ -89,7 +89,7 @@ Protocol.run(day: 1..30) {
 
 ### 1.5. Tratamento de Exceções (Falhas Críticas e Contingências)
 Se o sistema entrar em modo de falha (doença grave como gripe forte, virose estomacal ou lesão articular impeditiva):
-* **Corte Imediato do Déficit:** O corpo precisa de nutrientes para o reparo imunológico. Suba a ingestão para perto do Gasto Total (~2.400 kcal) pelo número de dias em que estiver doente.
+* **Corte Imediato do Déficit:** O corpo precisa de nutrientes para o reparo imunológico. Suba a ingestão para perto do Gasto Total (~2.400 kcal) pelo número de dias em que estiver doente. Os dias de doença não contam contra os 30 dias do protocolo (ver Ap. A20 para o embasamento fisiológico e protocolo de retorno).
 * **Zero Estimulantes:** Suspender termogênico, pré-treino ou cafeína durante quadros inflamatórios agudos para não mascarar a fadiga e forçar um chassi imune debilitado. A recuperação do "hardware principal" é a prioridade absoluta.
 
 ### 1.6. Mapa de Capítulos

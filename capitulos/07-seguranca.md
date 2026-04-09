@@ -134,6 +134,10 @@ O déficit calórico severo + exercício diário amplia a "janela aberta" de imu
 - Manter higiene de mãos rigorosa durante os 30 dias
 - Se ≥ 2 IVAS em 30 dias → **sinal de STOP**: interromper protocolo e investigar imunossupressão com médico
 
+::: {.callout-tip}
+**Para o embasamento fisiológico completo** — hipermetabolismo febril, cascata de citocinas, balanço nitrogenado durante doença e protocolo de retorno gradual ao déficit — ver **Ap. A20**.
+:::
+
 ### 7.5. Hidratação Reforçada com Suplementos Nefrotóxicos
 
 A combinação de creatina 3–5 g/dia + proteína alta (~150 g) + cafeína (200–400 mg) + déficit calórico cria estresse renal aditivo — especialmente em contexto de desidratação ou exercício em calor.

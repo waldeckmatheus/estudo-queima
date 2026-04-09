@@ -8,7 +8,7 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 
 | Profissional | Termos | % do glossário |
 |---|:---:|:---:|
-| Endocrinologista | 31 | 13,9% |
+| Endocrinologista | 32 | 14,0% |
 | Fisiologista do Exercício | 26 | 11,7% |
 | Farmacologista | 21 | 10,0% |
 | Nutricionista Clínico | 24 | 10,8% |
@@ -16,7 +16,7 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 | Gastroenterologista | 16 | 7,7% |
 | Nutricionista Esportivo | 15 | 7,2% |
 | Educador Físico | 14 | 6,7% |
-| Médico do Esporte | 12 | 5,7% |
+| Médico do Esporte | 14 | 6,1% |
 | Nefrologista | 7 | 3,3% |
 | Psicólogo Clínico | 7 | 3,3% |
 | Cardiologista | 6 | 2,9% |
@@ -99,6 +99,8 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 **GLUT4.** Transportador de glicose dependente de insulina, presente em músculo esquelético e tecido adiposo. A insulina promove a translocação de GLUT4 para a membrana celular, permitindo a entrada de glicose. O exercício físico ativa GLUT4 por via independente da insulina (via AMPK), melhorando a captação de glicose sem necessidade de picos insulínicos (Ap. A17.6).
 
 **GnRH (Hormônio Liberador de Gonadotrofina).** Neuropeptídeo hipotalâmico secretado de forma pulsátil que controla o eixo reprodutivo (hipotálamo-hipófise-gônadas). Em adolescentes, a pulsatilidade de GnRH é essencial para o início e a progressão da puberdade. A baixa disponibilidade energética pode inibir essa pulsatilidade, atrasando o desenvolvimento puberal — razão pela qual restrição calórica agressiva é contraindicada em jovens.
+
+**Hipermetabolismo febril.** Aumento do gasto energético de repouso (REE) induzido pela febre, estimado em ~7–13% por °C acima da temperatura basal. Mediado por tremores musculares, efeito Q₁₀ sobre enzimas e custo energético da resposta inflamatória. Uma febre de 38,5 °C pode adicionar 176–320 kcal/dia ao REE, amplificando o déficit real durante o mini-cut (Ap. A20.1.1).
 
 **Gliconeogênese.** Processo metabólico pelo qual o fígado produz glicose a partir de precursores não-glicídicos (aminoácidos, lactato, glicerol). Corticosteroides estimulam a gliconeogênese, contribuindo para hiperglicemia — um dos motivos para adiar o protocolo durante uso sistêmico de corticoide.
 
@@ -304,6 +306,8 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 
 **DXA (Dual-Energy X-ray Absorptiometry).** Exame de imagem considerado padrão-ouro para medir a composição corporal (gordura, massa magra e osso) com alta precisão. Utiliza duas energias de raio-X para distinguir tecidos.
 
+**Convalescença anabólica.** Fase pós-resolução de uma infecção aguda (3–7 dias) durante a qual o balanço nitrogenado permanece negativo e o corpo prioriza a repleção de proteínas consumidas pela resposta imune. Retomar déficit agressivo neste período amplifica a perda de massa magra (Ap. A20.5).
+
 **Hipoglicemia.** Nível de glicose no sangue abaixo do normal, causando tremores, suor frio, confusão e fraqueza.
 
 **Hipoperfusão transitória.** Redução temporária do fluxo sanguíneo para um órgão (geralmente o cérebro), causando tontura ou "visão escura". Pode ocorrer durante exercício em jejum se o volume plasmático estiver reduzido.
@@ -313,6 +317,8 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 **Idade óssea.** Grau de maturação esquelética avaliado por raio-X de punho (método de Greulich-Pyle), comparando os centros de ossificação com padrões normativos. Permite estimar o potencial de crescimento remanescente. Em adolescentes com placas epifisárias abertas, restrição calórica agressiva pode comprometer a estatura final.
 
 **Obesidade sarcopênica.** Condição que combina excesso de gordura corporal (obesidade) com baixa massa/força muscular (sarcopenia). Prevalente em idosos, está associada a maior mortalidade, incapacidade funcional e síndromes geriátricas do que sarcopenia ou obesidade isoladas. O tratamento exige intervenção combinada (exercício resistido + nutrição proteica otimizada), não apenas restrição calórica.
+
+**Open window ampliada.** Extensão da janela de imunossupressão pós-exercício de 3–24 h (normocaloria) para até 72 h no contexto de déficit calórico + exercício diário. A sobreposição de janelas consecutivas pode criar um estado de imunossupressão relativa crônica durante os 30 dias do protocolo (Cap. 7.4; Ap. A20.2.2).
 
 **Volume plasmático.** Volume de plasma (parte líquida do sangue) circulante. Em restrição calórica com suor e baixa reposição de sódio, o volume plasmático pode diminuir, contribuindo para tontura, hipotensão ortostática e "brain fog".
 

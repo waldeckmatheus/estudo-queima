@@ -155,6 +155,9 @@ Esta base inclui evidências de qualidade heterogênea (guidelines, revisões, e
 | [web:182] | [Review Article: The Pathophysiology and Management of Gastrointestinal Symptoms during Physical Exercise, and the Role of Splanchnic Blood Flow — ter Steege RW, Kolkman JJ, Aliment Pharmacol Ther 2012](https://pubmed.ncbi.nlm.nih.gov/22229513/) |
 | [web:183] | ["I Think I'm Gonna Hurl": A Narrative Review of the Causes of Nausea and Vomiting in Sport — Wilson PB, Sports (Basel) 2019](https://doi.org/10.3390/sports7070162) |
 | [web:184] | [Exercise-Induced Nausea Is Exaggerated by Eating — Kondo T, Nakae Y, Mitsui T et al., Appetite 2001](https://doi.org/10.1006/appe.2001.0411) |
+| [web:185] | [The Compelling Link Between Physical Activity and the Body's Defense System — Nieman DC, Wentz LM, J Sport Health Sci 2019](https://pubmed.ncbi.nlm.nih.gov/31193280/) |
+| [web:186] | [Exercise, Nutrition and Immune Function — Gleeson M, Nieman DC, Pedersen BK, J Sports Sci 2004](https://pubmed.ncbi.nlm.nih.gov/14971437/) |
+| [web:187] | [Position Statement. Part One: Immune Function and Exercise — Walsh NP, Gleeson M, Shephard RJ et al., Exerc Immunol Rev 2011](https://pubmed.ncbi.nlm.nih.gov/21446352/) |
 
 ### 12.1. Curadoria Rápida por Nível de Evidência
 
