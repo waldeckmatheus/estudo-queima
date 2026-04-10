@@ -1,18 +1,18 @@
 # Mini-Protocolo de Cutting Assistido — Sprint de Férias
 
-Documentação técnica de um **protocolo de mini-cut de 30 dias** com embasamento científico, gerada em PDF a partir de Markdown via Pandoc + XeLaTeX. O projeto cobre desde a mecânica do déficit calórico até adaptações populacionais, com **125 referências científicas** (107 PubMed/Cochrane + 18 outras fontes) e um glossário de **208 termos técnicos**.
+Documentação técnica de um **protocolo de mini-cut de 30 dias** com embasamento científico, gerada em PDF a partir de Markdown via Pandoc + XeLaTeX. O projeto cobre desde a mecânica do déficit calórico até adaptações populacionais, com **159 referências científicas** ([web:5]–[web:192]) e um glossário de **220 termos técnicos**.
 
 > **Público-alvo:** adultos saudáveis de 18–60 anos. Capítulos específicos cobrem adaptações para mulheres (Ap. A8), idosos ≥ 65 anos (Ap. A11), menopausa (Ap. A12) e contraindicação para crianças/adolescentes (Ap. A13).
 
 ---
 
-## Conteúdo — 11 capítulos + 16 apêndices
+## Conteúdo — 11 capítulos + 21 apêndices
 
 | Parte | Conteúdo |
 |---|---|
 | **Parte I — Protocolo** | 1. Visão Geral · 2. Embasamento Científico · 3. Roteiro Diário · 4. Hidratação · 5. Exercício Aeróbico · 6. Suplementação · 7. Protocolos de Segurança · 8. FAQ · 9. Troubleshooting · 10. Breakdown Nutricional · 11. Ciclo de Vida |
-| **Parte II — Apêndices** | A1. Música e Treino · A2. Comparativo de Dietas · A3. Exercício e Dieta · A4. Medicações · A5. Sono · A6. Gestão Psicológica · A7. Álcool e Alimentação Social · A8. Mulheres · A9. Treinamento Resistido · A10. Saúde Intestinal · A11. Idosos · A12. Menopausa · A13. Crianças (**contraindicação**) · A14. Ciência da Composição Corporal · A15. Fisiologia GI · A16. Fast Food e Déficit |
-| **Back Matter** | Glossário (208 termos, 15 especialidades) · Referências (125 únicas, [web:5]–[web:158]) |
+| **Parte II — Apêndices** | A1. Música e Treino · A2. Comparativo de Dietas · A3. Exercício e Dieta · A4. Medicações · A5. Sono · A6. Gestão Psicológica · A7. Álcool e Alimentação Social · A8. Mulheres · A9. Treinamento Resistido · A10. Saúde Intestinal · A11. Idosos · A12. Menopausa · A13. Crianças (**contraindicação**) · A14. Ciência da Composição Corporal · A15. Fisiologia GI · A16. Fast Food e Déficit · A17. Insulina e Gordura · A18. Altura, Peso e Déficit · A19. Náusea e Exercício · A20. Doença e Gasto Energético · A21. Refrigerantes Zero e Queima de Gordura |
+| **Back Matter** | Glossário (220 termos, 15 especialidades) · Referências (159 únicas, [web:5]–[web:192]) |
 
 ---
 
