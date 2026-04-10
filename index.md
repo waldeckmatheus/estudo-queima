@@ -44,6 +44,9 @@ A documentação é organizada em três partes: o **Protocolo** (execução prá
 - [A16. Fast Food e Déficit Calórico: Por que a Qualidade Calórica Importa](capitulos/A16-fast-food-e-deficit-calorico.md)
 - [A17. Pico de Insulina e Gordura: O que a Ciência Realmente Diz](capitulos/A17-insulina-e-gordura.md)
 - [A18. Altura, Peso e Déficit Calórico Permitido](capitulos/A18-altura-peso-e-deficit.md)
+- [A19. Náusea Induzida por Exercício no Déficit Calórico](capitulos/A19-enjoo-exercicio-deficit.md)
+- [A20. Exercício e Gasto Energético Durante Doença](capitulos/A20-doenca-gasto-energetico.md)
+- [A21. Refrigerantes Zero Caloria e Queima de Gordura](capitulos/A21-refrigerante-zero-queima-gordura.md)
 
 ### Back Matter
 

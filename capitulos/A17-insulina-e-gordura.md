@@ -227,3 +227,4 @@ Embora o princípio geral (déficit calórico > manipulação de insulina) se ap
 - **Ap. A3 (Exercício e Dieta):** A proporção entre dieta e exercício para perda de gordura é determinada pelo balanço calórico, não pela manipulação de insulina.
 - **Ap. A15 (Fisiologia Gastrointestinal):** A velocidade de absorção gastrointestinal modula diretamente a amplitude do pico insulínico — fibra e gordura co-ingeridas retardam o esvaziamento gástrico.
 - **Ap. A16 (Fast Food):** A resposta insulínica exagerada a fast food (A16.3.4) é um dos sete mecanismos pelos quais ultraprocessados minam o déficit, conforme detalhado neste apêndice.
+- **Ap. A21 (Refrigerantes Zero e Queima de Gordura):** Adoçantes não nutritivos não desencadeiam resposta insulínica cefálica em ECRs cruzados. A preocupação popular de que "o doce sem caloria engorda via insulina" não é sustentada pela evidência experimental (A21.3).

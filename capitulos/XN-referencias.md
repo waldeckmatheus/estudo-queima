@@ -158,6 +158,11 @@ Esta base inclui evidências de qualidade heterogênea (guidelines, revisões, e
 | [web:185] | [The Compelling Link Between Physical Activity and the Body's Defense System — Nieman DC, Wentz LM, J Sport Health Sci 2019](https://pubmed.ncbi.nlm.nih.gov/31193280/) |
 | [web:186] | [Exercise, Nutrition and Immune Function — Gleeson M, Nieman DC, Pedersen BK, J Sports Sci 2004](https://pubmed.ncbi.nlm.nih.gov/14971437/) |
 | [web:187] | [Position Statement. Part One: Immune Function and Exercise — Walsh NP, Gleeson M, Shephard RJ et al., Exerc Immunol Rev 2011](https://pubmed.ncbi.nlm.nih.gov/21446352/) |
+| [web:188] | [The Effects of Water and Non-Nutritive Sweetened Beverages on Weight Loss and Weight Maintenance: A Randomized Clinical Trial — Peters JC, Beck J, Cardel M et al., Obesity (Silver Spring) 2016](https://pubmed.ncbi.nlm.nih.gov/26708700/) |
+| [web:189] | [Nonnutritive Sweeteners and Cardiometabolic Health: A Systematic Review and Meta-Analysis of Randomized Controlled Trials and Prospective Cohort Studies — Azad MB, Abou-Setta AM, Chauhan BF et al., CMAJ 2017](https://pubmed.ncbi.nlm.nih.gov/28716847/) |
+| [web:190] | [The Impact of Artificial Sweeteners on Body Weight Control and Glucose Homeostasis — Pang MD, Goossens GH, Blaak EE, Front Nutr 2021](https://pubmed.ncbi.nlm.nih.gov/33490098/) |
+| [web:191] | [Effects of Sweeteners on the Gut Microbiota: A Review of Experimental Studies and Clinical Trials — Ruiz-Ojeda FJ, Plaza-Díaz J, Sáez-Lara MJ, Gil A, Adv Nutr 2019](https://pubmed.ncbi.nlm.nih.gov/30721958/) |
+| [web:192] | [Effect of Artificial Sweeteners on Insulin Resistance Among Type-2 Diabetes Mellitus Patients — Mathur K, Agrawal RK, Nagpure S, Deshpande D, J Family Med Prim Care 2020](https://pubmed.ncbi.nlm.nih.gov/32110567/) |
 
 ### 12.1. Curadoria Rápida por Nível de Evidência
 

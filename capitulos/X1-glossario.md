@@ -462,6 +462,8 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 
 ### Nutricionista Esportivo
 
+**Adoçante não nutritivo (NNS).** Substância sintética ou natural com poder adoçante 30–13 000× superior ao da sacarose, mas que fornece zero ou quantidade insignificante de calorias. Exemplos: aspartame, sucralose, acessulfame-K, sacarina, estévia. ECRs não demonstram efeito negativo sobre perda de peso ou resposta insulínica em humanos (Ap. A21).
+
 **Caseína.** Proteína do leite de digestão lenta (~7 h), que mantém aminoacidemia positiva durante períodos prolongados. No protocolo, recomendada como suplemento pré-sono (20–40 g) para atenuar o catabolismo muscular noturno — a maior janela catabólica do dia em déficit calórico (Cap. 6.3). Alternativas: queijo cottage, iogurte grego.
 
 **Catabolismo.** Processo metabólico de degradação — por exemplo, a quebra de proteínas musculares para fornecer energia. O protocolo busca minimizá-lo mantendo a ingestão de proteína alta.
@@ -511,6 +513,8 @@ Este glossário reúne os termos técnicos e científicos utilizados ao longo do
 ---
 
 ### Pesquisador / Metodologista Científico
+
+**Causalidade reversa.** Viés observacional no qual a exposição e o desfecho têm sua relação temporal invertida na interpretação. Exemplo clássico: estudos de coorte associam consumo de refrigerante diet a obesidade, mas a explicação provável é que pessoas com sobrepeso migram para bebidas diet *porque* já estão acima do peso — não o contrário. ECRs eliminam esse viés por randomização (Ap. A21).
 
 **Crossover (estudo).** Desenho de pesquisa no qual os mesmos participantes passam por todas as condições do experimento (ex.: 2 semanas dormindo 8,5 h, depois 2 semanas dormindo 5,5 h), permitindo que cada pessoa seja seu próprio controle.
 
