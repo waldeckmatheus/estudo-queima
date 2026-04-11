@@ -163,6 +163,10 @@ Esta base inclui evidências de qualidade heterogênea (guidelines, revisões, e
 | [web:190] | [The Impact of Artificial Sweeteners on Body Weight Control and Glucose Homeostasis — Pang MD, Goossens GH, Blaak EE, Front Nutr 2021](https://pubmed.ncbi.nlm.nih.gov/33490098/) |
 | [web:191] | [Effects of Sweeteners on the Gut Microbiota: A Review of Experimental Studies and Clinical Trials — Ruiz-Ojeda FJ, Plaza-Díaz J, Sáez-Lara MJ, Gil A, Adv Nutr 2019](https://pubmed.ncbi.nlm.nih.gov/30721958/) |
 | [web:192] | [Effect of Artificial Sweeteners on Insulin Resistance Among Type-2 Diabetes Mellitus Patients — Mathur K, Agrawal RK, Nagpure S, Deshpande D, J Family Med Prim Care 2020](https://pubmed.ncbi.nlm.nih.gov/32110567/) |
+| [web:193] | [Much Ado About Zone 2: A Narrative Review Assessing the Efficacy of Zone 2 Training for Improving Mitochondrial Capacity and Cardiorespiratory Fitness in the General Population — Storoschuk KL, Moran-MacDonald A, Gibala MJ, Gurd BJ, Sports Med 2025;55(7):1611-1624](https://pubmed.ncbi.nlm.nih.gov/40560504/) |
+| [web:194] | [What Is "Zone 2 Training"?: Experts' Viewpoint on Definition, Training Methods, and Expected Adaptations — Sitko S, Artetxe X, Bonnevie-Svendsen M et al., Int J Sports Physiol Perform 2025;20(11):1614-1617](https://pubmed.ncbi.nlm.nih.gov/40010355/) |
+| [web:195] | [Physiological Adaptations to Interval Training and the Role of Exercise Intensity — MacInnis MJ, Gibala MJ, J Physiol 2017;595(9):2915-2930](https://pubmed.ncbi.nlm.nih.gov/27748956/) |
+| [web:196] | [Training-Induced Changes in Mitochondrial Content and Respiratory Function in Human Skeletal Muscle — Granata C, Jamnick NA, Bishop DJ, Sports Med 2018;48(8):1809-1828](https://pubmed.ncbi.nlm.nih.gov/29934848/) |
 
 ### 12.1. Curadoria Rápida por Nível de Evidência
 
@@ -176,6 +180,8 @@ Esta base inclui evidências de qualidade heterogênea (guidelines, revisões, e
 * [web:79] Recuperação de peso após cessação de semaglutida.
 * [web:80] Composição corporal sob agonistas GLP-1 (revisão sistemática).
 * [web:66] Relação entre zonas de frequência cardíaca e metabolismo lipídico.
+* [web:193] Revisão narrativa (167 refs): Zona 2 não é ótima para capacidade mitocondrial ou V̇O₂máx na população geral; intensidades maiores são superiores.
+* [web:195], [web:196] Adaptações mitocondriais ao treinamento intervalado e papel da intensidade do exercício.
 * [web:91], [web:92], [web:94] Revisões sobre AINEs/paracetamol e adaptação muscular ao exercício (implicações diretas para preservação de massa magra).
 * [web:95] Ibuprofeno + exercício em calor: risco renal demonstrado (relevante para protocolo com jejum + desidratação relativa).
 * [web:97] Betabloqueadores e capacidade de exercício: redução de V̇O₂máx e termorregulação.
